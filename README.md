@@ -16,7 +16,7 @@ Requirements:
 6. New scn files can be found in `Compiled` folder
 
 # Notes
-- Game includes English textures with game originally, so mod reuses as much English textures as possible in story, but in CG Mode they are not changed. Some of those textures include typos that you can find in `Notes.txt`
+- English textures are included with game originally, so mod reuses as much English textures as possible in story, but in CG Mode they are not changed. Some of those textures include typos that you can find in `Notes.txt`
 - Apply.py injects break lines based on font file from `font` folder, thus why it takes much more time to finish. If you plan to replace font in game, you need to compile scripts with new font to fix break lines. Script includes limitations aborting process if rendered text will take too much lines, which would result in text being unreadable.
 - Some name labels were changed to make them shorter
 - One CG was removed from Switch version, it was bringed back in this mod, though you cannot see it in CG mode. 
