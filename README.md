@@ -6,7 +6,7 @@ Requirements:
 - Windows 7+
 - Python 3.10+
 - Python library `pyvips` (to work it requires adding [vips](https://github.com/libvips/libvips/releases) bin folder to PATH)
-- psbuild (you can download it from [here](https://github.com/UlyssesWu/FreeMote/releases/tag/v3.4.0)
+- psbuild (you can download it from [here](https://github.com/UlyssesWu/FreeMote/releases/tag/v3.4.0))
 
 1. From FreeMoteToolkit copy: `PsbDecompile.exe`, `PsbDecompile.exe.config`, `PsBuild.exe`, `PsBuild.exe.config` and folder `lib` to root folder of repository
 2. From romfs of game copy folders `scn` and `font` to root folder of repository
