@@ -1,0 +1,201 @@
+{
+	"scenes": [
+		{},
+		{},
+		{
+			"texts": [
+				{
+					"name": "Yonagi",
+					"text": "Kaito... Kaito..."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Wake up... Wake. Up!"
+				},
+				{
+					"name": "Kaito",
+					"text": "Ah, Yonagi?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Wanna play?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Again?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "We only played yesterday. We haven't played today."
+				},
+				{
+					"name": "Kaito",
+					"text": "Can't argue with that. I suppose that's how it works, huh?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Mhm."
+				},
+				{
+					"name": "Kaito",
+					"text": "Aren't you hungry?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "I am."
+				},
+				{
+					"name": "Kaito",
+					"text": "Then why don't we eat before playing?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Okay."
+				}
+			]
+		},
+		{
+			"texts": [
+				{
+					"name": "Yonagi",
+					"text": "..."
+				},
+				{
+					"name": "Kaito",
+					"text": "Yonagi?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "I'm sleepy..."
+				},
+				{
+					"text": "I look around the room."
+				},
+				{
+					"text": "I scan for a clock, which reminds me..."
+				},
+				{
+					"text": "At least in the areas we can move freely through, there are no clocks."
+				},
+				{
+					"text": "But I think Yonagi has been focused on playing for a long while."
+				},
+				{
+					"name": "Kaito",
+					"text": "Wanna go to bed?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Mhm..."
+				},
+				{
+					"name": "Kaito",
+					"text": "Let's go, then. Can you walk?"
+				},
+				{
+					"text": "Yonagi nods."
+				},
+				{
+					"text": "But she can't quite seem to get to her feet."
+				},
+				{
+					"text": "I lend Yonagi a hand and help her up. Then, keeping hold of her hand, I lead her back to our room."
+				},
+				{
+					"text": "I manage to get her back to the bedroom before she passes out completely."
+				},
+				{
+					"text": "Then I have her lay down in her bed."
+				},
+				{
+					"text": "But when I try to let go of her hand, she holds on."
+				},
+				{
+					"name": "Kaito",
+					"text": "Yonagi?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Kaito..."
+				},
+				{
+					"text": "We left the still, cold bird in the hole we dug in our secret spot."
+				},
+				{
+					"text": "This is where the bird and Mommy are sleeping together."
+				},
+				{
+					"text": "Kaito and I decided..."
+				},
+				{
+					"text": "That it's not sad."
+				},
+				{
+					"text": "Mommy and the bird are only having a peaceful sleep."
+				},
+				{
+					"text": "But still..."
+				},
+				{
+					"text": "I can't stop the tears from coming out."
+				},
+				{
+					"name": "Kaito",
+					"text": "Ah!"
+				},
+				{
+					"text": "When I come to, I find myself back in the white room."
+				},
+				{
+					"name": "Kaito",
+					"text": "That was... Yonagi?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "..."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "Yonagi already seems to be sleeping peacefully."
+				},
+				{
+					"name": "Kaito",
+					"text": "What was that?"
+				},
+				{
+					"text": "I lay back down in bed, recalling what felt like a video feed being broadcast directly into my head."
+				},
+				{
+					"text": "After staring at the ceiling for a while, I turn to face Yonagi."
+				},
+				{
+					"text": "She's lying on her back, sleeping undisturbed."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "That was different from Yonagi's dream world."
+				},
+				{
+					"text": "Was it a real memory from this world?"
+				},
+				{
+					"text": "I close my eyes and think, but my focus starts to dim before long."
+				},
+				{
+					"text": "Soon, my consciousness fades away completely."
+				}
+			]
+		},
+		{}
+	]
+}

@@ -1,0 +1,1450 @@
+{
+	"scenes": [
+		{},
+		{
+			"texts": [
+				{
+					"name": "Sumomo",
+					"text": "The first time you let me cut your hair was in that garage, remember? Ah, the memories."
+				},
+				{
+					"text": "Standing in front of the mirror, I reminisce about that summer as I check out how much hair I'll be working with."
+				},
+				{
+					"name": "Azuki",
+					"text": "You still cutting hair?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Nope. I'm in charge of hair and makeup."
+				},
+				{
+					"name": "Azuki",
+					"text": "Huh, that so?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Yeah. I was flip-flopping between being a hairstylist or a beautician until the last minute, but I went with this because I really like helping people with their makeup."
+				},
+				{
+					"name": "Azuki",
+					"text": "Heh, makes sense."
+				},
+				{
+					"name": "Sumomo",
+					"text": "You're pretty used to getting your makeup done, huh? The life of a model finally agreeing with you?"
+				},
+				{
+					"name": "Azuki",
+					"text": "I'm on the wane already. Not like I had much time in the spotlight to begin with, being a late bloomer and all."
+				},
+				{
+					"name": "Sumomo",
+					"text": "But you've still done more than some do in their whole careers! You're making history! It's amazing!"
+				},
+				{
+					"name": "Azuki",
+					"text": "Thanks to a certain someone."
+				},
+				{
+					"text": "Azuki closes her eyes."
+				},
+				{
+					"text": "I softly apply the eyeliner."
+				},
+				{
+					"name": "Azuki",
+					"text": "Who would have thought the day he called me for a shoot would come?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "He's been waiting for this a long time, you know? He was the first in line to ask for you as soon as your exclusivity contract with the magazine ended."
+				},
+				{
+					"name": "Azuki",
+					"text": "This is just my side gig. My main business is still being a scrap hunter."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Why don't you buy a new car already? I bet you get paparazzi tailing you all day."
+				},
+				{
+					"name": "Azuki",
+					"text": "They don't bother with me. You think they have time to chase after a minor model sporting an exclusive contract with some dumb mag?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "You are sooo out of the loop! Do you even read the magazine you work with? It's the biggest fashion mag in the business!"
+				},
+				{
+					"name": "Azuki",
+					"text": "Well, it hasn't changed me one bit. I'm still living in that Hachimaru."
+				},
+				{
+					"name": "Sumomo",
+					"text": "You're like the main character of some American movie. Pretty cool, girl."
+				},
+				{
+					"name": "Azuki",
+					"text": "Man, I see you're as peppy as ever."
+				},
+				{
+					"text": "Azuki remarks, her eyes still closed."
+				},
+				{
+					"text": "She's really damn gorgeous."
+				},
+				{
+					"text": "I'm used to dealing with models in my line of work, but Azuki's still breathtaking compared to them."
+				},
+				{
+					"name": "Sumomo",
+					"text": "What do you want for dinner today? You cool with a nabe pot?"
+				},
+				{
+					"name": "Azuki",
+					"text": "Huh? You wanna eat a fricking hot pot in summer?!"
+				},
+				{
+					"name": "Sumomo",
+					"text": "But it's so easy to make! We have it three times a week at home."
+				},
+				{
+					"name": "Azuki",
+					"text": "I don't really care, to be honest."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Okay! Let's pick up some ingredients on the way back."
+				},
+				{
+					"name": "Azuki",
+					"text": "You guys are living together, right?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Yeah."
+				},
+				{
+					"name": "Azuki",
+					"text": "Well, I'm glad you two are happy together."
+				},
+				{
+					"name": "Sumomo",
+					"text": "I don't know about that."
+				},
+				{
+					"name": "Azuki",
+					"text": "Eh?!"
+				},
+				{
+					"name": "Sumomo",
+					"text": "He's really popular among the models. I can't hold a candle to them..."
+				},
+				{
+					"name": "Sumomo",
+					"text": "I've never experienced jealousy like this before. And he's gotten a lot cheekier since the last time you saw him."
+				},
+				{
+					"name": "Sumomo",
+					"text": "I mean, what do you make of that name?"
+				},
+				{
+					"name": "Azuki",
+					"text": "Oh, his pen name?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Yeah. I'm still really mad at you for that."
+				},
+				{
+					"name": "Azuki",
+					"text": "How is it my fault?!"
+				},
+				{
+					"name": "Sumomo",
+					"text": "You're the one who gave it to him!"
+				},
+				{
+					"name": "Azuki",
+					"text": "And he's the one that owned it. Nothing to do with me."
+				},
+				{
+					"name": "Sumomo",
+					"text": "I guess..."
+				},
+				{
+					"name": "Azuki",
+					"text": "This is, what? His third book?"
+				},
+				{
+					"name": "Azuki",
+					"text": "The third entry to the photo book series of the rising young star, Candy Amei."
+				},
+				{
+					"name": "Sumomo",
+					"text": "I'd appreciate it if you didn't say that name in front of me."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Azuki's coming onto the set!"
+				},
+				{
+					"name": "Azuki",
+					"text": "A pleasure, y'all. Looking forward to the shoot."
+				},
+				{
+					"name": "Staff",
+					"text": "Good day, Ma'am!"
+				},
+				{
+					"text": "I go up to Sumomo and Azuki as soon as I see them come in."
+				},
+				{
+					"text": "Neither of them have changed one bit."
+				},
+				{
+					"text": "They look just like they did that summer."
+				},
+				{
+					"name": "Kanna",
+					"text": "Thanks for coming, Azuki."
+				},
+				{
+					"name": "Azuki",
+					"text": "Don't even mention it. This old lady's honored to be asked for at all."
+				},
+				{
+					"name": "Kanna",
+					"text": "That's not true. A belleza like yours cannot be withered by age."
+				},
+				{
+					"name": "Azuki",
+					"text": "..."
+				},
+				{
+					"name": "Kanna",
+					"text": "I'll tell you about it in detail later, but I want my next book to be about my memorias."
+				},
+				{
+					"name": "Azuki",
+					"text": "Memorias?"
+				},
+				{
+					"text": "I nod."
+				},
+				{
+					"name": "Kanna",
+					"text": "When I dug through my memorias, looking to express my very alma..."
+				},
+				{
+					"name": "Kanna",
+					"text": "One of the first things that came to mind was el verano we spent together."
+				},
+				{
+					"name": "Azuki",
+					"text": "R-Right."
+				},
+				{
+					"name": "Kanna",
+					"text": "I'm really glad to see you. I'll bring out your belleza, just leave it all to me!"
+				},
+				{
+					"name": "Azuki",
+					"text": "Okay?"
+				},
+				{
+					"name": "Kanna",
+					"text": "I'll go get listo. Wait for me right there, my sweet damas."
+				},
+				{
+					"name": "Azuki",
+					"text": "Was that Candy? Or an alien wearing his skin?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "His teacher's mannerisms rubbed off on him."
+				},
+				{
+					"name": "Azuki",
+					"text": "I gotta have dinner with THAT today? I feel like I'm gonna lose it."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Don't worry. He only talks like that at work."
+				},
+				{
+					"name": "Sumomo",
+					"text": "He goes back to his usual self when we're at home."
+				},
+				{
+					"name": "Azuki",
+					"text": "I see. So he's playing the Candy Amei character."
+				},
+				{
+					"name": "Sumomo",
+					"text": "It's like he's not even aware he's doing it."
+				},
+				{
+					"name": "Azuki",
+					"text": "You were joking about him being popular among the models, right? I can't see anyone getting over how he talks."
+				},
+				{
+					"name": "Sumomo",
+					"text": "They eat it right up! Apparently it's cute and funny. And his photos are always on point."
+				},
+				{
+					"name": "Sumomo",
+					"text": "He's popular even when he talks like a complete clown. This industry's messed up, I tell you."
+				},
+				{
+					"name": "Azuki",
+					"text": "Well, he is selling damn well. That's probably the biggest reason."
+				},
+				{
+					"text": "Kanna's shoot goes smoothly, as they always do."
+				},
+				{
+					"text": "But since he has another shoot later that day, we part ways so that Azuki and I can go shopping."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Kanna's shoots are pretty fun, aren't they?"
+				},
+				{
+					"name": "Azuki",
+					"text": "It reminded me of working with Spencer Arashiyama. That was my first time getting photographed, so I figured all photographer types were like that."
+				},
+				{
+					"name": "Sumomo",
+					"text": "No way, Spencer and Candy are pretty damn unique in the industry."
+				},
+				{
+					"name": "Azuki",
+					"text": "But it was fun as heck. Feels like I got enough compliments from that boy to last me two lifetimes."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Right?! He's like a different person, isn't he?"
+				},
+				{
+					"name": "Azuki",
+					"text": "So that's what you fell for, eh?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Can't deny that statement."
+				},
+				{
+					"name": "Azuki",
+					"text": "But it's great you get to be with your partner both at work and at home. And you're both doing what you love too!"
+				},
+				{
+					"name": "Sumomo",
+					"text": "You're right. It's thanks to so many people. You, Kanna's daddy, and Spencer too."
+				},
+				{
+					"name": "Azuki",
+					"text": "Mhm."
+				},
+				{
+					"name": "Sumomo",
+					"text": "You gonna be my chauffeur today?"
+				},
+				{
+					"text": "Azuki nods."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Yippee! Let's get going! It's been ages since I saw Hachimaru!"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Come on in! It's kinda small, but make yourself at home."
+				},
+				{
+					"name": "Azuki",
+					"text": "Make way! Oh, this is pretty darn cozy. Bigger than Hachimaru for sure."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Ahahah! True that."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Ah, must be Kanna."
+				},
+				{
+					"text": "My phone vibrates, and I pick it up."
+				},
+				{
+					"text": "It is Kanna."
+				},
+				{
+					"name": "Sumomo",
+					"text": "He says he's on his way back."
+				},
+				{
+					"name": "Azuki",
+					"text": "He finished up pretty early, huh?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Yeah, thankfully. When his work drags on, he tends to come back pretty late."
+				},
+				{
+					"text": "He said he was helping Takuma on location at one of his shoots today."
+				},
+				{
+					"text": "Maybe they were able to wrap up quickly because they're used to working with one another."
+				},
+				{
+					"name": "Sumomo",
+					"text": "I'll go get things ready. Wait a minute."
+				},
+				{
+					"name": "Azuki",
+					"text": "Want a hand?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Nah, I'm just chopping ingredients. I can handle that much on my own. I've been the chef around here for two years now."
+				},
+				{
+					"name": "Azuki",
+					"text": "Two years, huh? Time sure flies."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Word."
+				},
+				{
+					"text": "After that summer we spent in the garage, a lot of things changed really fast."
+				},
+				{
+					"text": "I quit college and enrolled at a beauty school to become a cosmetologist."
+				},
+				{
+					"text": "The world's communication network thingies started working again, and they were so convenient that everyone started adopting the technology into their daily lives."
+				},
+				{
+					"text": "The person who got the networks back online is a famous alum of the academy Kanna attended, so when I saw the news, I was immediately tempted to get in contact with him."
+				},
+				{
+					"text": "But I reined myself in and focused on my studies."
+				},
+				{
+					"text": "At the time, I felt like I still wasn't ready to see him again."
+				},
+				{
+					"name": "Kanna",
+					"text": "I'm back."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Welcome home!"
+				},
+				{
+					"name": "Azuki",
+					"text": "Yo, Candy Amei."
+				},
+				{
+					"name": "Kanna",
+					"text": "It's nice to see you. Thanks for today."
+				},
+				{
+					"name": "Azuki",
+					"text": "The feeling's mutual."
+				},
+				{
+					"name": "Kanna",
+					"text": "Huh?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "What is it?"
+				},
+				{
+					"name": "Kanna",
+					"text": "Nabe?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Yep!"
+				},
+				{
+					"name": "Kanna",
+					"text": "Again?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "No complaining! It's easy to make!"
+				},
+				{
+					"name": "Kanna",
+					"text": "But it's the third time this week."
+				},
+				{
+					"name": "Sumomo",
+					"text": "It's tasty and also healthy! Do you want to fatten me up or something?"
+				},
+				{
+					"name": "Kanna",
+					"text": "I wouldn't really mind?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Hah! You're just saying that so you have an excuse to switch me up for one of those young models, aren't you?!"
+				},
+				{
+					"name": "Kanna",
+					"text": "What? They're pretty, yeah, but my job is to take pictures of them. I wouldn't want to live with any of them."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Ngh! Are you saying I'm not pretty like them?!"
+				},
+				{
+					"name": "Kanna",
+					"text": "You're still the prettiest, cutest woman I've ever laid eyes on."
+				},
+				{
+					"name": "Kanna",
+					"text": "You're my one and only. Where is this coming from?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Damn you..."
+				},
+				{
+					"name": "Azuki",
+					"text": "Did you two forget I'm here?"
+				},
+				{
+					"text": "The three of us sit around the table."
+				},
+				{
+					"text": "And just like that summer, we toast with cans of shochu highball."
+				},
+				{
+					"text": "I became a photographer, Sumomo a cosmetologist, and Azuki a model."
+				},
+				{
+					"text": "Now I'm even old enough to toast them with alcohol instead of juice."
+				},
+				{
+					"text": "A lot has changed."
+				},
+				{
+					"text": "But a lot has stayed the same too."
+				},
+				{
+					"text": "Hanging out like this makes me feel as though we never left the garage."
+				},
+				{
+					"text": "And the heat from the steamy nabe hot pot is making the room feel just as stuffy as back then."
+				},
+				{
+					"name": "Azuki",
+					"text": "So, what the heck happened over the last two years for you guys to end up like this?"
+				},
+				{
+					"name": "Azuki",
+					"text": "I'm pretty curious, to be honest."
+				},
+				{
+					"name": "Kanna",
+					"text": "Huh? Sumomo didn't tell you?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "I knew I forgot something."
+				},
+				{
+					"name": "Azuki",
+					"text": "You were living together by the time we got in contact again."
+				},
+				{
+					"name": "Sumomo",
+					"text": "So, uh, I was the one who got in touch with Kanna first, right?"
+				},
+				{
+					"name": "Kanna",
+					"text": "Yeah."
+				},
+				{
+					"name": "Sumomo",
+					"text": "It was back when Kanna's first photo book came out."
+				},
+				{
+					"name": "Kanna",
+					"text": "..."
+				},
+				{
+					"text": "My first photo book was released today."
+				},
+				{
+					"text": "I presented a collection of photos I took while helping my mentor Spencer to some publisher, and they took care of putting them together as a book."
+				},
+				{
+					"text": "This was one of my goals."
+				},
+				{
+					"text": "The book is being sold all over the country."
+				},
+				{
+					"text": "I'm sure Sumomo will catch wind of it."
+				},
+				{
+					"text": "I placed the phone number of this office in the colophon for that reason."
+				},
+				{
+					"text": "My overall goal was to become an accomplished and super cool photographer."
+				},
+				{
+					"text": "And now that I feel like I've made it, I want to go see Sumomo."
+				},
+				{
+					"text": "And I would, if I knew where she lived."
+				},
+				{
+					"text": "Back when we parted ways there were no cell phones, so I don't know how to contact her."
+				},
+				{
+					"text": "And that's why..."
+				},
+				{
+					"text": "I worked hard to get my debut book published nationwide, so Sumomo will see that I became the kind of man I promised her I would."
+				},
+				{
+					"text": "One night when I was out drinking with Spencer, I got so drunk that I told him all about that summer."
+				},
+				{
+					"text": "My mentor shed silent tears as he listened to my story."
+				},
+				{
+					"text": "I remember him telling me what a \"preciosa summer historia\" it was. He's been supporting me in getting my photos published ever since."
+				},
+				{
+					"text": "But he also pushed me a lot harder."
+				},
+				{
+					"text": "Thanks to that, I got my photo book published way faster than most people in the industry."
+				},
+				{
+					"text": "I've been waiting for a call all day."
+				},
+				{
+					"text": "I'm certain..."
+				},
+				{
+					"text": "If she's the same Sumomo I knew back then, she'll call me."
+				},
+				{
+					"text": "I have faith."
+				},
+				{
+					"text": "The hours pass by excruciatingly slowly, but just as daylight begins to fade, the office phone rings."
+				},
+				{
+					"name": "Kanna",
+					"text": "Hello. Spencer's office."
+				},
+				{
+					"name": "???",
+					"text": "Kanna?"
+				},
+				{
+					"text": "For a second, I'm rendered speechless."
+				},
+				{
+					"text": "It's her."
+				},
+				{
+					"name": "Kanna",
+					"text": "...Sumomo."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Ahahah! Thank goodness! It's really you!"
+				},
+				{
+					"name": "Kanna",
+					"text": "You saw it?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Yes, I did. It's incredible! You got your own photo book!"
+				},
+				{
+					"name": "Kanna",
+					"text": "I thought that maybe you'd contact if me I published it."
+				},
+				{
+					"name": "Kanna",
+					"text": "I... worked really hard."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Yes."
+				},
+				{
+					"name": "Kanna",
+					"text": "I did my best to become a super cool photographer."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Yes."
+				},
+				{
+					"name": "Kanna",
+					"text": "So..."
+				},
+				{
+					"name": "Kanna",
+					"text": "Can I come see you?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Yes!"
+				},
+				{
+					"text": "We decide on a time and place, and I go to meet Sumomo."
+				},
+				{
+					"text": "We also exchanged contact information."
+				},
+				{
+					"text": "I've finally connected with Sumomo again."
+				},
+				{
+					"text": "At last."
+				},
+				{
+					"text": "I can tell her what I've always wanted to."
+				},
+				{
+					"text": "I can ask her to become my girlfriend."
+				},
+				{
+					"text": "I can ask her out like I've been waiting to."
+				},
+				{
+					"text": "In anticipation of our meeting, I looked up a pretty snazzy restaurant nearby and reserved the best table for us."
+				},
+				{
+					"text": "When I make it to our meeting spot, I see she's already there."
+				},
+				{
+					"text": "I recognize her immediately."
+				},
+				{
+					"text": "On the phone, she told me she'd be wearing something I'd recognize right away."
+				},
+				{
+					"text": "She was right about that."
+				},
+				{
+					"text": "She's standing there, waiting for me..."
+				},
+				{
+					"text": "Wearing the same outfit she did during that summer."
+				},
+				{
+					"text": "Pulling out my digital camera, I walk up to her stealthily."
+				},
+				{
+					"name": "Kanna",
+					"text": "Sumomo."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Huh?"
+				},
+				{
+					"text": "As she turns around, I snap a picture of her."
+				},
+				{
+					"text": "Her eyes widen in surprise, a smile quirking the corners of her mouth."
+				},
+				{
+					"name": "Sumomo",
+					"text": "What's with the flashy outfit? Do I even know you?"
+				},
+				{
+					"name": "Kanna",
+					"text": "I've been working on myself because I wanted to photograph you again. But I'm the same Kanna inside."
+				},
+				{
+					"name": "Sumomo",
+					"text": "No way! You used to be way shyer!"
+				},
+				{
+					"name": "Kanna",
+					"text": "I guess, yeah."
+				},
+				{
+					"name": "Sumomo",
+					"text": "And you're taller."
+				},
+				{
+					"name": "Kanna",
+					"text": "You haven't changed at all."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Thank goodness! I was gonna throw myself off a cliff if you said I look old."
+				},
+				{
+					"text": "I shake my head."
+				},
+				{
+					"name": "Kanna",
+					"text": "You're the same. The same Sumomo I fell in love with."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Whoa, you're coming on strong, huh?"
+				},
+				{
+					"text": "Despite her words, her smile is bashful and she's blushing."
+				},
+				{
+					"name": "Kanna",
+					"text": "Well... I made a reservation at a nearby restaurant."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Really?! Are you some big spender now?!"
+				},
+				{
+					"name": "Kanna",
+					"text": "Let's go."
+				},
+				{
+					"text": "The restaurant I take her to is spacious and classy."
+				},
+				{
+					"text": "I reserved a table right at the back for us."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Have you been well?"
+				},
+				{
+					"name": "Kanna",
+					"text": "Yeah, and you?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "I have, yes!"
+				},
+				{
+					"text": "I nod."
+				},
+				{
+					"name": "Sumomo",
+					"text": "You're still working for the person your dad introduced you to, right?"
+				},
+				{
+					"name": "Kanna",
+					"text": "Sure am, but I still can't hold a candle to him. I'm learning new things from him every day."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Really? Is it fun?"
+				},
+				{
+					"name": "Kanna",
+					"text": "It's hard work, but I enjoy it a lot. How about you? What are you doing?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Actually... I'm a cosmetologist now."
+				},
+				{
+					"text": "That takes me by surprise."
+				},
+				{
+					"name": "Kanna",
+					"text": "Really?!"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Yes! After I left that summer, I went to beauty school. It was the first time I ever felt enthusiastic about studying. Now I work on film sets and stuff all over the place."
+				},
+				{
+					"name": "Kanna",
+					"text": "Whoa, that's great."
+				},
+				{
+					"name": "Sumomo",
+					"text": "You remember the day we went to see Halley's Comet?"
+				},
+				{
+					"name": "Kanna",
+					"text": "Yeah."
+				},
+				{
+					"text": "That was July 28th."
+				},
+				{
+					"name": "Sumomo",
+					"text": "We went to the academy's rooftop together, remember? That night I fixed the hair and makeup of a girl who was crying over a boy."
+				},
+				{
+					"name": "Kanna",
+					"text": "While I was taking pictures?"
+				},
+				{
+					"text": "Sumomo nods."
+				},
+				{
+					"name": "Sumomo",
+					"text": "That girl was in the same class as you."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Even though we never really spoke at all during my two weeks of teacher training, we chatted a lot in those fifteen minutes."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Lifting someone's spirits using makeup was super fun for me. So I figured this kind of thing could be the job for me."
+				},
+				{
+					"name": "Kanna",
+					"text": "I never realized."
+				},
+				{
+					"name": "Sumomo",
+					"text": "So I'm really glad I went through teaching training in the end."
+				},
+				{
+					"name": "Sumomo",
+					"text": "I met you, and it helped me realize what I really wanted to do with my life."
+				},
+				{
+					"name": "Kanna",
+					"text": "That's great."
+				},
+				{
+					"text": "We share a bottle of sparkling wine with our meal."
+				},
+				{
+					"text": "I don't really know what kind of food it is. Maybe European?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Do you come to this kind of place often?"
+				},
+				{
+					"name": "Kanna",
+					"text": "Huh? Not really."
+				},
+				{
+					"name": "Sumomo",
+					"text": "I saw your photo book."
+				},
+				{
+					"name": "Sumomo",
+					"text": "There's lots of pictures of pretty women in it."
+				},
+				{
+					"text": "I nod."
+				},
+				{
+					"text": "In the end, I followed in the footsteps of my mentor to focus mainly on portrait photography."
+				},
+				{
+					"text": "My debut photo book focuses on people too."
+				},
+				{
+					"name": "Sumomo",
+					"text": "So I wondered if you come to this kind of place a lot."
+				},
+				{
+					"name": "Kanna",
+					"text": "With models, you mean?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Yeah."
+				},
+				{
+					"text": "I snort."
+				},
+				{
+					"name": "Sumomo",
+					"text": "What was that for?!"
+				},
+				{
+					"name": "Kanna",
+					"text": "It's just funny that you'd be jealous over something like that."
+				},
+				{
+					"name": "Sumomo",
+					"text": "..."
+				},
+				{
+					"name": "Kanna",
+					"text": "I don't come to fancy places like this. My mentor sometimes invites me, but I've never been out for dinner with a model."
+				},
+				{
+					"name": "Kanna",
+					"text": "I was so focused on improving my work that I never had time."
+				},
+				{
+					"name": "Sumomo",
+					"text": "I see."
+				},
+				{
+					"name": "Kanna",
+					"text": "I reserved a table here because it's a special day."
+				},
+				{
+					"name": "Kanna",
+					"text": "I don't even know what kind of food this is."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Ahahah! I'm glad to hear that. You really are still the same Kanna."
+				},
+				{
+					"name": "Kanna",
+					"text": "Of course I am."
+				},
+				{
+					"name": "Sumomo",
+					"text": "So today's a special day?"
+				},
+				{
+					"name": "Kanna",
+					"text": "..."
+				},
+				{
+					"text": "I nod without saying anything."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Why?"
+				},
+				{
+					"text": "She quirks a mischievous smile."
+				},
+				{
+					"text": "The wine has brought a rosy bloom to her cheeks."
+				},
+				{
+					"name": "Kanna",
+					"text": "Because today is the day..."
+				},
+				{
+					"name": "Kanna",
+					"text": "I can finally tell the person I love how I feel."
+				},
+				{
+					"name": "Sumomo",
+					"text": "..."
+				},
+				{
+					"name": "Kanna",
+					"text": "Sumomo."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Yes?"
+				},
+				{
+					"name": "Kanna",
+					"text": "I still love you."
+				},
+				{
+					"name": "Kanna",
+					"text": "This whole time we've been apart, you've always been the only one on my mind."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Mm."
+				},
+				{
+					"name": "Kanna",
+					"text": "I'm not a kid anymore. I think I have what it takes now."
+				},
+				{
+					"text": "Sumomo smiles softly."
+				},
+				{
+					"name": "Kanna",
+					"text": "So..."
+				},
+				{
+					"name": "Kanna",
+					"text": "I want you to be my girlfriend, and..."
+				},
+				{
+					"name": "Kanna",
+					"text": "...maybe even my wife, someday."
+				},
+				{
+					"name": "Kanna",
+					"text": "I want to go steady."
+				},
+				{
+					"text": "I look straight into her eyes."
+				},
+				{
+					"text": "Sumomo..."
+				},
+				{
+					"text": "She looks back at me, her smile lighting up her whole face."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Yes."
+				},
+				{
+					"text": "We come out of the restaurant holding hands."
+				},
+				{
+					"text": "The warmth I've been dreaming about for so long is finally here in the palm of my hand."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Your place..."
+				},
+				{
+					"name": "Kanna",
+					"text": "Hm?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Is it close?"
+				},
+				{
+					"text": "I nod."
+				},
+				{
+					"name": "Kanna",
+					"text": "Yours?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "It's not far, but..."
+				},
+				{
+					"name": "Sumomo",
+					"text": "I don't wanna go home tonight."
+				},
+				{
+					"name": "Kanna",
+					"text": "..."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Can I stay over at your place?"
+				},
+				{
+					"text": "Without a moment's hesitation, I nod."
+				},
+				{
+					"name": "Sumomo",
+					"text": "And then, we came here to this apartment."
+				},
+				{
+					"name": "Sumomo",
+					"text": "That was our first time, huh?"
+				},
+				{
+					"name": "Azuki",
+					"text": "Yeah, I didn't need to hear that! I could figure that out for myself! You obviously didn't come here to play video games!"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Ahahah!"
+				},
+				{
+					"name": "Kanna",
+					"text": "I still remember it like it was yesterday. Can't believe it's been two years since then."
+				},
+				{
+					"name": "Azuki",
+					"text": "So next you're gonna be tying the knot and living happily ever after?"
+				},
+				{
+					"text": "Beaming, Sumomo nods."
+				},
+				{
+					"text": "I nod as well."
+				},
+				{
+					"name": "Azuki",
+					"text": "Man, it's still kinda hard for me to wrap my head around."
+				},
+				{
+					"name": "Azuki",
+					"text": "I mean, back then you were a student, and she was your teacher, right?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "I was in training! I was still a student. You're the one who was way older than both of us!"
+				},
+				{
+					"name": "Azuki",
+					"text": "Oh, cut the crap!"
+				},
+				{
+					"name": "Kanna",
+					"text": "I never expected things to turn out like this either."
+				},
+				{
+					"name": "Kanna",
+					"text": "Neither did Sumomo, did you?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "I guess not. Back then, I was really worried about you being younger."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Now it's no big deal, but back when you were a student it was kind of iffy."
+				},
+				{
+					"name": "Azuki",
+					"text": "Who cares?! Age is just a number, isn't it?!"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Ahahah! You're sooo desperate."
+				},
+				{
+					"name": "Azuki",
+					"text": "Am not!"
+				},
+				{
+					"text": "The good times keep rolling, and so does time itself."
+				},
+				{
+					"text": "By now, the only thing left in the bottom of the pot is hardened grease."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Are you staying the night, Azuki?"
+				},
+				{
+					"name": "Azuki",
+					"text": "Eh? Is that late already?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Wait, you're driving, right? You sure you should be drinking?"
+				},
+				{
+					"name": "Azuki",
+					"text": "It's all good."
+				},
+				{
+					"text": "She takes her car keys out of her pocket."
+				},
+				{
+					"text": "I recognize them right away."
+				},
+				{
+					"text": "They're for Hachimaru."
+				},
+				{
+					"name": "Azuki",
+					"text": "I wanna give this back."
+				},
+				{
+					"text": "Her voice is quiet."
+				},
+				{
+					"text": "I stare blankly at her for a moment."
+				},
+				{
+					"name": "Kanna",
+					"text": "Uh, why? It's yours."
+				},
+				{
+					"name": "Azuki",
+					"text": "You gave the Hachimaru to me because you thought your ma would be happier if I were driving it around, right?"
+				},
+				{
+					"name": "Azuki",
+					"text": "But the situation's different now. When you and Peach make some babies, you gotta take the little buggers camping!"
+				},
+				{
+					"name": "Azuki",
+					"text": "I bet that'd make your ma even happier."
+				},
+				{
+					"text": "Azuki flashes me a confident, reassuring grin."
+				},
+				{
+					"name": "Kanna",
+					"text": "..."
+				},
+				{
+					"name": "Sumomo",
+					"text": "But weren't you living in the car?"
+				},
+				{
+					"name": "Azuki",
+					"text": "I've saved up more than enough money. It's about time I look for a place to settle down."
+				},
+				{
+					"name": "Azuki",
+					"text": "I'm not getting any younger."
+				},
+				{
+					"name": "Sumomo",
+					"text": "You still got plenty left in you! You're gorgeous! Those young models got nothing on you."
+				},
+				{
+					"name": "Azuki",
+					"text": "It's fine. I've never been out to compete with anyone."
+				},
+				{
+					"name": "Kanna",
+					"text": "But..."
+				},
+				{
+					"name": "Azuki",
+					"text": "I've kept it well maintained. It might look the same, but that car's sturdier than it's ever been. Besides..."
+				},
+				{
+					"name": "Azuki",
+					"text": "We have phones now. If anything happens, give your personal scrap hunter a call and she'll be there in a flash to fix you right up."
+				},
+				{
+					"name": "Kanna",
+					"text": "..."
+				},
+				{
+					"name": "Azuki",
+					"text": "It's my wedding gift. Take it, Candy."
+				},
+				{
+					"name": "Kanna",
+					"text": "...Thanks."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Yeah, thank you. You're the coolest lady in the whole wide world!"
+				},
+				{
+					"name": "Azuki",
+					"text": "Heh, that's a given."
+				},
+				{
+					"text": "After accompanying Azuki to the nearest train station, we go to the parking lot where Hachimaru's parked and get in."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Whoa! What a blast from the past!"
+				},
+				{
+					"name": "Kanna",
+					"text": "It hasn't changed at all."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Hey, sooo..."
+				},
+				{
+					"name": "Kanna",
+					"text": "Yes?"
+				},
+				{
+					"text": "She smiles mischievously and points towards the camp bed."
+				},
+				{
+					"text": "This is where we slept together on the last day of that summer."
+				},
+				{
+					"text": "I nod, and she lays down on the narrow bed, beckoning to me."
+				},
+				{
+					"text": "We cuddle up together, just as we did that day."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Kanna."
+				},
+				{
+					"name": "Kanna",
+					"text": "Yes?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "I'm super happy. Just knowing I get to spend all my days together with you like this makes me feel all warm and fuzzy inside."
+				},
+				{
+					"name": "Kanna",
+					"text": "Me too."
+				},
+				{
+					"name": "Kanna",
+					"text": "Every moment with you is the most fun I've ever had."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Let's make lots of babies and stay together until we're both old and wrinkly."
+				},
+				{
+					"name": "Kanna",
+					"text": "There's nowhere I'd rather be."
+				},
+				{
+					"name": "Sumomo",
+					"text": "But make sure you don't die before me. I'd miss you horribly."
+				},
+				{
+					"name": "Kanna",
+					"text": "No way. I don't wanna live without you either."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Ahahah! We're both dummies in love, huh?"
+				},
+				{
+					"name": "Kanna",
+					"text": "That's okay by me."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Yeah. I like being a dummy a lot. I'm so glad I was never the brightest tool in the shed."
+				},
+				{
+					"name": "Sumomo",
+					"text": "When we have kids, let's bring them up well, okay?"
+				},
+				{
+					"name": "Kanna",
+					"text": "Hmm... You think I'll end up like my dad?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Ahahah! I bet you will!"
+				},
+				{
+					"name": "Kanna",
+					"text": "..."
+				},
+				{
+					"text": "All of a sudden..."
+				},
+				{
+					"text": "Memories of Mom, indomitable as a storm, and of Dad, a serious man of few words, fill my mind."
+				},
+				{
+					"text": "I wonder if we'll become a married couple like they were."
+				},
+				{
+					"text": "Now wouldn't that be something."
+				}
+			]
+		},
+		{}
+	]
+}

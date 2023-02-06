@@ -1,0 +1,2398 @@
+{
+	"scenes": [
+		{},
+		{
+			"texts": [
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "The faint outline of a familiar room superimposes itself over the one in my mind."
+				},
+				{
+					"text": "It's Asuma's middle side home."
+				},
+				{
+					"name": "Asuma",
+					"text": "Everything after that, you already know about."
+				},
+				{
+					"name": "Kaito",
+					"text": "Base will deficiency..."
+				},
+				{
+					"text": "The illness that appeared in his memories did seems very similar to Mom and Yonagi's symptoms."
+				},
+				{
+					"name": "Asuma",
+					"text": "This disease is also called the Euforia Syndrome."
+				},
+				{
+					"name": "Kaito",
+					"text": "Euforia?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Euphoria; a very happy feeling."
+				},
+				{
+					"text": "Yonagi mutters at nobody in particular."
+				},
+				{
+					"name": "Yonagi",
+					"text": "That's the Italian spelling, right?"
+				},
+				{
+					"name": "Asuma",
+					"text": "Yes. You are quite observant."
+				},
+				{
+					"name": "Asuma",
+					"text": "There were countless medical incidents related to it in the year 2085. All newborn babies with the condition died shortly after birth."
+				},
+				{
+					"name": "Asuma",
+					"text": "Born to this world without a single cry, and leaving it as if they had no desire to be there in the first place. They were called 'silent babies,' and it became a major social problem."
+				},
+				{
+					"name": "Asuma",
+					"text": "The term base will deficiency was coined to refer to the symptoms these silent babies exhibited."
+				},
+				{
+					"text": "Asuma turns his gaze to his wife, lying immobile on the bed."
+				},
+				{
+					"name": "Asuma",
+					"text": "But the silent babies were but a portent of what was to come."
+				},
+				{
+					"name": "Asuma",
+					"text": "By 2095, young children were developing the disease as well. That was the point where humankind finally came upon the cause."
+				},
+				{
+					"text": "My eyes widen."
+				},
+				{
+					"text": "Yonagi is also looking up at Asuma, waiting for him to continue."
+				},
+				{
+					"name": "Asuma",
+					"text": "It was the artificial genes. All of the silent children in 2085 were born to older people who had rejuvenated themselves with artificial genes."
+				},
+				{
+					"name": "Kaito",
+					"text": "It was caused by artificial genes? But..."
+				},
+				{
+					"text": "I follow his gaze to the bed sitting in the middle of the room."
+				},
+				{
+					"text": "Her skin is wrinkled and dry."
+				},
+				{
+					"text": "In comparison..."
+				},
+				{
+					"text": "Asuma could even be younger than me."
+				},
+				{
+					"name": "Asuma",
+					"text": "It doesn't matter if the person has taken them themselves or not. This is evolution, so to speak."
+				},
+				{
+					"name": "Asuma",
+					"text": "At that time, there was no human on the surface who had not been affected by cell improvement in some way. It was a basic medical procedure."
+				},
+				{
+					"name": "Asuma",
+					"text": "And that caused humans to evolve."
+				},
+				{
+					"text": "I..."
+				},
+				{
+					"text": "This brings me back to a talk we had back when we still worked in the same lab."
+				},
+				{
+					"name": "Kaito",
+					"text": "You taught us in school that it was artificial sweeteners that caused humans to evolve. That was all a lie?"
+				},
+				{
+					"text": "Asuma nods."
+				},
+				{
+					"name": "Asuma",
+					"text": "Elements ingested orally would take longer to evolve the species at a genetic level."
+				},
+				{
+					"name": "Asuma",
+					"text": "That was a fabrication. A scenario invented in combination with lies about the strength of UV rays on the surface to encourage mob rule."
+				},
+				{
+					"name": "Kaito",
+					"text": "So the middle side's UV intensity reports are faked too..."
+				},
+				{
+					"name": "Kaito",
+					"text": "Why all these lies? What's the need for it?"
+				},
+				{
+					"name": "Asuma",
+					"text": "The world population decreased drastically thanks to base will deficiency spreading like wildfire."
+				},
+				{
+					"name": "Asuma",
+					"text": "But even then, there were countries with lower mortality rates."
+				},
+				{
+					"name": "Kaito",
+					"text": "It differed by country? Is the disease affected by the climate or something?"
+				},
+				{
+					"text": "He closes his eyes and shakes his head."
+				},
+				{
+					"name": "Asuma",
+					"text": "Not by the climate, but by the mindset of its people."
+				},
+				{
+					"name": "Asuma",
+					"text": "Countries with outdated class structures, dictatorships, communist countries that professed to be socialist..."
+				},
+				{
+					"name": "Asuma",
+					"text": "In such countries, the mortality rates of base will deficiency were comparatively low."
+				},
+				{
+					"name": "Kaito",
+					"text": "Class structures? Communism?"
+				},
+				{
+					"text": "That's..."
+				},
+				{
+					"text": "It's pretty much this city."
+				},
+				{
+					"name": "Asuma",
+					"text": "That was the purpose behind the design of this city."
+				},
+				{
+					"name": "Asuma",
+					"text": "For humanity to survive the outbreak of base will deficiency."
+				},
+				{
+					"name": "Asuma",
+					"text": "That's the true, unspoken history of this city."
+				},
+				{
+					"name": "Asuma",
+					"text": "Humanity created the first underground city in the year 2150. The world population at the time was about seven hundred million."
+				},
+				{
+					"name": "Asuma",
+					"text": "Over half a century of research..."
+				},
+				{
+					"name": "Asuma",
+					"text": "It was discovered that the desire for sunlight, air, and water acted as a prophylactic."
+				},
+				{
+					"name": "Asuma",
+					"text": "That's why humanity designed a city that would both deprive itself of those three things, within a city with a strong class divide."
+				},
+				{
+					"name": "Asuma",
+					"text": "The topsiders are aware of the truth, which is why they can live closest to the sun."
+				},
+				{
+					"name": "Asuma",
+					"text": "If the UV rays were really a threat to humanity, you would certainly see the lowsiders being pushed to the top of the city."
+				},
+				{
+					"name": "Kaito",
+					"text": "What about the ozone lens?"
+				},
+				{
+					"name": "Asuma",
+					"text": "Its main role is to keep the danger foremost in people's minds."
+				},
+				{
+					"name": "Asuma",
+					"text": "In the early days of our living underground, there were a few fatal accidents involving people getting around surveillance and escaping to the surface."
+				},
+				{
+					"name": "Asuma",
+					"text": "Some had intentionally chosen to die, while others simply couldn't abandon their desire for life on the surface."
+				},
+				{
+					"name": "Asuma",
+					"text": "In order to safeguard humanity, we needed a clear reason not go to the surface."
+				},
+				{
+					"name": "Asuma",
+					"text": "And so, they introduced a fake story about an artificial sweetener that was discovered around the same time artificial genes became commonplace, and the education system was reformed."
+				},
+				{
+					"name": "Kaito",
+					"text": "Is that why there's no literature left on it?"
+				},
+				{
+					"text": "He nods at me and continues."
+				},
+				{
+					"name": "Asuma",
+					"text": "It took half a century for the control of information to finally change public perception."
+				},
+				{
+					"name": "Asuma",
+					"text": "However, once the false information spread and became fact, the endless attempts at illegal escape stopped entirely."
+				},
+				{
+					"name": "Asuma",
+					"text": "Tales of death from full-body melanoma instilled a deep fear in the people."
+				},
+				{
+					"name": "Asuma",
+					"text": "Once topsiders begin to be taught the true history of the world, they are completely isolated from midsiders. They are only schooled together for the duration of elementary education."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "I..."
+				},
+				{
+					"text": "All of this makes me remember Shachi."
+				},
+				{
+					"text": "As soon as he realized the UV rays were harmless, he climbed the cave's walls like a boy possessed and died on top of the ozone lens."
+				},
+				{
+					"text": "I'm the number one! Me! I'm the best!"
+				},
+				{
+					"text": "I still remember how he screamed as he climbed towards the light."
+				},
+				{
+					"text": "He died slowly on top of the ozone lens while everyone watched. Was it because he'd fulfilled in one moment all the desire for nature and fame that was keeping his base will deficiency at bay?"
+				},
+				{
+					"name": "Asuma",
+					"text": "A social system where someone else always has it better than you..."
+				},
+				{
+					"name": "Asuma",
+					"text": "We cannot live without such a system in play."
+				},
+				{
+					"name": "Asuma",
+					"text": "Our evolution has brought us to the point that we cannot live without constant ambition."
+				},
+				{
+					"name": "Kaito",
+					"text": "But then..."
+				},
+				{
+					"name": "Kaito",
+					"text": "What was all that research on improving our resistance to UV rays for?"
+				},
+				{
+					"name": "Asuma",
+					"text": "Just one more part of this hopeless war we wage."
+				},
+				{
+					"name": "Asuma",
+					"text": "Perhaps calling it a war is giving it too much credit. We lose more ground every day."
+				},
+				{
+					"name": "Asuma",
+					"text": "We've been told, loud and clear, that we are no longer meant for this world."
+				},
+				{
+					"name": "Asuma",
+					"text": "This is but one lone planet among the endless galaxies."
+				},
+				{
+					"name": "Asuma",
+					"text": "We are merely one species on that planet meeting its evolutionary dead end."
+				},
+				{
+					"name": "Asuma",
+					"text": "That's all there is to it, no more and no less."
+				},
+				{
+					"name": "Asuma",
+					"text": "As humanity declines and heads towards extinction, it shouldn't matter whether a single individual lives or dies."
+				},
+				{
+					"name": "Asuma",
+					"text": "As a scientist, those are my thoughts on the matter. However..."
+				},
+				{
+					"text": "Asuma turns to the woman on the bed again."
+				},
+				{
+					"name": "Asuma",
+					"text": "I still stand here, unable to give up on my wife's happiness."
+				},
+				{
+					"name": "Asuma",
+					"text": "I simply can't accept the fact that the people who find a shred of happiness in this uncaring world must be the ones to die first."
+				},
+				{
+					"name": "Asuma",
+					"text": "I cannot cast away the woman who found her hope in those little moments we spent together."
+				},
+				{
+					"name": "Kaito",
+					"text": "You..."
+				},
+				{
+					"text": "I clench my fists with such fury that they tremble."
+				},
+				{
+					"name": "Kaito",
+					"text": "After everything you did to Yonagi?! After you trampled on everything she gave you, and cut up her brain to suit yourselves?"
+				},
+				{
+					"name": "Kaito",
+					"text": "You have the gall to say that?!"
+				},
+				{
+					"name": "Asuma",
+					"text": "Yes."
+				},
+				{
+					"text": "My face is twisted in anger."
+				},
+				{
+					"text": "He can see how furious I am, but he doesn't try to defend himself."
+				},
+				{
+					"name": "Asuma",
+					"text": "I've no intention of justifying what I did. You are absolutely right."
+				},
+				{
+					"name": "Asuma",
+					"text": "I wouldn't be here now if I weren't the kind of man willing to sacrifice others to accomplish his goals."
+				},
+				{
+					"name": "Asuma",
+					"text": "Those are the only kinds of people who can survive in this city."
+				},
+				{
+					"name": "Asuma",
+					"text": "The people so desperate to claw their way to the top that they'll tear down those above them without a second thought."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"name": "Asuma",
+					"text": "Can you say you're any different?"
+				},
+				{
+					"text": "I grind my teeth."
+				},
+				{
+					"text": "I grind them so hard that I can hear it."
+				},
+				{
+					"name": "Asuma",
+					"text": "If you turn off the switch at her bedside, my wife will die. Just like that."
+				},
+				{
+					"name": "Asuma",
+					"text": "She cannot live by her own power. All she can do now is keep dreaming."
+				},
+				{
+					"name": "Asuma",
+					"text": "She can't even breathe on her own. Flip the switch, and she'll die."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"name": "Asuma",
+					"text": "At the same time, if Yonagi's life was hooked to that switch as well, what would you do?"
+				},
+				{
+					"name": "Kaito",
+					"text": "What?"
+				},
+				{
+					"name": "Asuma",
+					"text": "For all the lip service we pay, we cannot survive without the sacrifice of others. Whether or not we see the sacrifice doesn't change what we're doing."
+				},
+				{
+					"name": "Asuma",
+					"text": "You're ready to sacrifice others in order to save Yonagi too, aren't you?"
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"name": "Asuma",
+					"text": "That's what I did, no more, no less."
+				},
+				{
+					"text": "Silence falls over the room."
+				},
+				{
+					"text": "Only the continuous sound of the machines keeping Asuma's wife alive fill that void."
+				},
+				{
+					"name": "Asuma",
+					"text": "Kaito, Yonagi."
+				},
+				{
+					"name": "Asuma",
+					"text": "You... Only you have the means to deliver these people from a city of falsehood."
+				},
+				{
+					"name": "Kaito",
+					"text": "And right into another life based on lies? It's not reality."
+				},
+				{
+					"name": "Asuma",
+					"text": "You're right. Whether it's a happy or a sad lie seems like such a small difference in the grand scope of things."
+				},
+				{
+					"name": "Asuma",
+					"text": "But when I saw my wife living happily in that false world through the monitor, I felt for the first time like my research really mattered."
+				},
+				{
+					"name": "Kaito",
+					"text": "And you're asking Yonagi to sacrifice herself again to keep it up, is that it?"
+				},
+				{
+					"name": "Asuma",
+					"text": "...Yes."
+				},
+				{
+					"name": "Kaito",
+					"text": "You can go to hell for all I care."
+				},
+				{
+					"text": "My voice trembles with anger."
+				},
+				{
+					"text": "I don't even know what to do with these emotions."
+				},
+				{
+					"text": "That's another thing lost to me..."
+				},
+				{
+					"text": "This feeling boiling inside of me..."
+				},
+				{
+					"text": "Is it anger? Sadness? Despair? Pity?"
+				},
+				{
+					"text": "For a moment I forget to even blink, so focused am I on breathing in and out to keep my emotions from exploding out of me."
+				},
+				{
+					"name": "Asuma",
+					"text": "But I won't force you to make the sacrifice alone."
+				},
+				{
+					"name": "Asuma",
+					"text": "Even if the virtual space is restarted, all of Asuma Lab's members will continue their research in this city until a way to eradicate base will deficiency is found."
+				},
+				{
+					"name": "Asuma",
+					"text": "With most of the people gone, we would be able to work to the fullest extent of our abilities. There would be no one left to hide from, after all."
+				},
+				{
+					"name": "Kaito",
+					"text": "Is this supposed to be a negotiation?"
+				},
+				{
+					"text": "He shakes his head."
+				},
+				{
+					"name": "Asuma",
+					"text": "I won't force you anymore. The decision is up to you."
+				},
+				{
+					"name": "Asuma",
+					"text": "The moment we put a scalpel to Yonagi's brain, all the researchers in Asuma Lab swore never to move to the virtual space."
+				},
+				{
+					"name": "Asuma",
+					"text": "Maintaining the lives of the people in the virtual world and finding a real solution to the problem facing our species are tasks someone has to do."
+				},
+				{
+					"name": "Asuma",
+					"text": "We were prepared to accept that. Not one of us believes it would serve as expiation for what we've done."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"name": "Asuma",
+					"text": "I know you are well acquainted with the progression of base will deficiency. I've told you everything I know."
+				},
+				{
+					"name": "Kaito",
+					"text": "Is there..."
+				},
+				{
+					"name": "Kaito",
+					"text": "...no cure?"
+				},
+				{
+					"name": "Asuma",
+					"text": "No, sadly."
+				},
+				{
+					"text": "I simply stand there."
+				},
+				{
+					"text": "What else can I do?"
+				},
+				{
+					"text": "Yonagi makes the first move."
+				},
+				{
+					"text": "She quietly gets up and takes my hand in her still mobile left one."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Let's go home."
+				},
+				{
+					"name": "Kaito",
+					"text": "But..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "All that's left for us to do is to give our answer."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "She leads me out of Asuma's house."
+				},
+				{
+					"text": "I'm too dumbfounded to do anything but follow her."
+				},
+				{
+					"text": "If I'm to believe any of what Asuma said, it would mean that the cause of her paralysis is rooted deep in humanity as a species."
+				},
+				{
+					"text": "Considering the position Asuma's in..."
+				},
+				{
+					"text": "He could very well be feeding us lies to make us flee the real world out of despair."
+				},
+				{
+					"text": "But..."
+				},
+				{
+					"text": "That was no made-up story."
+				},
+				{
+					"text": "I can feel it in my bones."
+				},
+				{
+					"text": "I'm the perfect example of the kind of person the city was designed to create."
+				},
+				{
+					"text": "I always wanted more."
+				},
+				{
+					"text": "Become an researcher."
+				},
+				{
+					"text": "Get a house in the middle side."
+				},
+				{
+					"text": "Finish the research I was working on."
+				},
+				{
+					"text": "While I was busy with that never-ending chase..."
+				},
+				{
+					"text": "Yonagi always said she was happy enough as long we were together."
+				},
+				{
+					"text": "While I let my own pursuits eat into the time I could have spent with her."
+				},
+				{
+					"text": "And in the end..."
+				},
+				{
+					"text": "I'm about to lose her again."
+				},
+				{
+					"text": "My whole life leading up to this point feels so worthless."
+				},
+				{
+					"text": "In the end..."
+				},
+				{
+					"text": "I simply followed in Asuma's footsteps, from beginning to inevitable end."
+				},
+				{
+					"text": "Yonagi strides forward confidently, my hand still in hers."
+				},
+				{
+					"text": "Her confident figure inspires a feeling of deja vu in me."
+				},
+				{
+					"text": "Ah, that's right."
+				},
+				{
+					"text": "It's just like back then."
+				},
+				{
+					"text": "The day Shachi broke my car and I cried and she dragged me back home."
+				},
+				{
+					"text": "She's the same person she's always been."
+				},
+				{
+					"text": "I guess I haven't changed much either. I'm still that crying little boy, barely able to muster up the power to walk with her help."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Wanna go visit Mom?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Huh?"
+				},
+				{
+					"text": "She turns to me and smiles."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Let's go."
+				},
+				{
+					"text": "Before I can answer, she's already on her way."
+				},
+				{
+					"text": "Just like that day, she crouches over the little shrub in the center of the flowerbed."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Kaito."
+				},
+				{
+					"text": "Her voice is soft."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Do you think the people who were inside me were happy?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Even if it wasn't reality, even if it was just a world of make believe..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "There were people who were happy with their time there, right?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Like that man's wife."
+				},
+				{
+					"text": "She's speaking very slowly. She's still facing away."
+				},
+				{
+					"name": "Yonagi",
+					"text": "There are many more people just like her even now, just sleeping... waiting to be inside me again, aren't there?"
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I..."
+				},
+				{
+					"text": "Yonagi gets up and turns to face me."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I should go back, shouldn't I?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "I think that's... the only meaningful thing I can do right now."
+				},
+				{
+					"name": "Kaito",
+					"text": "But then you'd be..."
+				},
+				{
+					"text": "Yonagi closes her eyes and stands there in silence."
+				},
+				{
+					"text": "No, there must be something we can do."
+				},
+				{
+					"text": "There must be, right?"
+				},
+				{
+					"text": "Am I..."
+				},
+				{
+					"text": "Am I going to lose her again?"
+				},
+				{
+					"name": "Kaito",
+					"text": "All they'd be getting is a momentary respite from the real world, completely at your expense."
+				},
+				{
+					"name": "Kaito",
+					"text": "We could share what Asuma told us with everyone else and try to find a solution together."
+				},
+				{
+					"name": "Kaito",
+					"text": "Isn't that what researchers are for?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Maybe, but..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I don't have that much time. I know that. You do too, right?"
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "Her words are so quiet..."
+				},
+				{
+					"text": "And yet I hear them."
+				},
+				{
+					"text": "They reach my ears along with a faint breeze from the surface."
+				},
+				{
+					"text": "They are quiet, yet firm."
+				},
+				{
+					"text": "I feel them sinking in."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I want to end my life on my own terms."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Not like before. I don't want to be stripped of my personhood against my will."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I want to decide my fate for myself."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I want to decide how it ends. And I want to make that ending mean something."
+				},
+				{
+					"name": "Yonagi",
+					"text": "The thought of just spending my time, day after day, slowly losing bits of myself..."
+				},
+				{
+					"text": "She smiles at me sadly."
+				},
+				{
+					"name": "Yonagi",
+					"text": "You are a kind man."
+				},
+				{
+					"name": "Yonagi",
+					"text": "No matter who I become, you're always kind to me..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "That's what makes this so hard."
+				},
+				{
+					"text": "The words come with a whisper and a smile."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Kaito."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "Her voice is so gentle."
+				},
+				{
+					"text": "The way she says my name is just like Mom used to say it."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Everything we did together. All the time we spent in this city..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Let's give it meaning."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I want to make the fact that I was here, that I existed... matter."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Help me do it."
+				},
+				{
+					"name": "Yonagi",
+					"text": "We still have time."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "She crouches over the shrub beneath which Mom and the bird lie sleeping."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I wanted to be together with you. Forever and ever."
+				},
+				{
+					"name": "Yonagi",
+					"text": "But because I knew that such a life could never be..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "That small wish, seemingly within reach yet so far away... That's what kept me alive, isn't it?"
+				},
+				{
+					"text": "Yonagi gazes at her right hand now."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I think the reason I can't move my fingers anymore is because that wish is fading for me."
+				},
+				{
+					"text": "After gazing at her palm for some time, she slowly stands up and turns back to me."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Kaito, let me decide."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I want to become their world. And I want it to be your hands that make it so."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I want to give my life to play that role."
+				},
+				{
+					"text": "Yonagi draws close to me."
+				},
+				{
+					"text": "She rests her head on my chest."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I'm sorry I couldn't be the person you were seeking."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I'm sorry for always being so selfish."
+				},
+				{
+					"name": "Yonagi",
+					"text": "The time we spent together, with all its peace and tenderness... It's all here in my heart."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Even if it feels like distant memories for me, I can still feel your warmth."
+				},
+				{
+					"name": "Yonagi",
+					"text": "The dreams we dreamed together—those dreams of three lives—are what's holding me together now."
+				},
+				{
+					"name": "Kaito",
+					"text": "Yonagi."
+				},
+				{
+					"text": "I whisper her name and cradle her head to my chest."
+				},
+				{
+					"text": "Her head fits perfectly in my palm, as it has every other time I've held her like this."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Kaito, will you hold my hand?"
+				},
+				{
+					"text": "Yonagi rests her half-immobile right hand on my left."
+				},
+				{
+					"text": "I take it."
+				},
+				{
+					"text": "I twine my fingers in hers, and hold it so tightly our palms become one."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Kaito..."
+				},
+				{
+					"text": "The earthen walls around us melt away, replaced by the expanse of an endless sky."
+				},
+				{
+					"text": "Yellow flowers dance in the wind. They're are all around us, as far as the eye can see."
+				},
+				{
+					"name": "Yonagi",
+					"text": "You'll live in my world, won't you?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "A world where the sky spreads as far as the eye can see, where the wind can envelop you..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Live in it, please?"
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "We stand together in her dreamscape."
+				},
+				{
+					"text": "Yellow petals ride on the wind, soaring high into the sky."
+				},
+				{
+					"text": "I follow them with my gaze to the pure white clouds rolling lazily above."
+				},
+				{
+					"name": "Yonagi",
+					"text": "It's beautiful, isn't it?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Let's show it to them."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Let's show this sky to all the people who spent their lives suffering here in the underground."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Let's show them how it feels to have the wind in their face."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Even if it's a made-up world..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Even if it's just a momentary dream..."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "Yonagi has made up her mind."
+				},
+				{
+					"text": "She's made her decision."
+				},
+				{
+					"text": "Even when she's been driven to the point where her voice is but a weak, faint whisper..."
+				},
+				{
+					"text": "She's decided on her own path."
+				},
+				{
+					"text": "She's decided what meaning she wants to give to her life."
+				},
+				{
+					"text": "Now..."
+				},
+				{
+					"text": "The only thing left for me to do is figure out how to accept it."
+				},
+				{
+					"name": "Kaito",
+					"text": "Then, I..."
+				},
+				{
+					"text": "My voice trembles."
+				},
+				{
+					"text": "My throat feels raw."
+				},
+				{
+					"text": "I can barely breathe."
+				},
+				{
+					"text": "But I need to do it."
+				},
+				{
+					"text": "I need to give her my answer."
+				},
+				{
+					"name": "Kaito",
+					"text": "I'll tell everyone who will listen."
+				},
+				{
+					"name": "Kaito",
+					"text": "That this sky..."
+				},
+				{
+					"name": "Kaito",
+					"text": "That this wind..."
+				},
+				{
+					"name": "Kaito",
+					"text": "That they are all the heartfelt creation of a girl. The girl who dreamed the world."
+				},
+				{
+					"name": "Kaito",
+					"text": "As long as I'm there, I'll never stop telling people."
+				},
+				{
+					"name": "Kaito",
+					"text": "I've decided... I'll make that my life's mission."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I think I'm a little too old to be a girl."
+				},
+				{
+					"name": "Kaito",
+					"text": "You'll always be a girl to me."
+				},
+				{
+					"name": "Kaito",
+					"text": "You have been since the day we met."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Mhm."
+				},
+				{
+					"text": "We hold each other tightly in that wide open field."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I want you to be the one to send me off when it's time."
+				},
+				{
+					"name": "Kaito",
+					"text": "I will."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I'm sure that's what I... the version of me, inside my memories..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I'm sure that's what she would want."
+				},
+				{
+					"name": "Kaito",
+					"text": "I know."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I'm sure she'd want to leave this world at the hands of the person she loved the most."
+				},
+				{
+					"name": "Kaito",
+					"text": "I will."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Let's say goodbye with a smile, okay?"
+				},
+				{
+					"text": "Slowly, she steps away from me."
+				},
+				{
+					"text": "My chest feels cold again without her."
+				},
+				{
+					"name": "Kaito",
+					"text": "I..."
+				},
+				{
+					"text": "I manage to choke out the words."
+				},
+				{
+					"name": "Kaito",
+					"text": "I'm not ready for that yet, but..."
+				},
+				{
+					"name": "Kaito",
+					"text": "I'll make sure I..."
+				},
+				{
+					"name": "Kaito",
+					"text": "When it's time to say goodbye, I..."
+				},
+				{
+					"name": "Kaito",
+					"text": "I'll make sure that I can."
+				},
+				{
+					"name": "Kaito",
+					"text": "I promise you."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Yes."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I'll always be watching over you."
+				},
+				{
+					"name": "Yonagi",
+					"text": "You won't ever be alone."
+				},
+				{
+					"name": "Yonagi",
+					"text": "So please... Smile for me, Kaito."
+				},
+				{
+					"text": "Will I be able to see her off with a smile when the time comes?"
+				},
+				{
+					"text": "I can't even begin to imagine such a thing."
+				},
+				{
+					"text": "I fall to my knees in tears."
+				},
+				{
+					"text": "My hands are met with the soft soil."
+				},
+				{
+					"text": "The yellow flowers sway as my tears fall on them."
+				},
+				{
+					"text": "I clench my teeth but the tears don't stop. My eyes are shut tightly and my cheeks are swollen."
+				},
+				{
+					"text": "I can't keep the wails of sorrow from escaping my lips, or the tears from running down my face."
+				},
+				{
+					"text": "But no matter how I shout, no matter how many tears I feed into the ground below..."
+				},
+				{
+					"text": "The sadness of losing her doesn't recede."
+				},
+				{
+					"text": "Just this moment."
+				},
+				{
+					"text": "Give me just this moment, Yonagi."
+				},
+				{
+					"text": "When the end comes..."
+				},
+				{
+					"text": "I'll be strong enough to smile as I watch you go."
+				},
+				{
+					"text": "But let me weep for you now. Just for now."
+				},
+				{
+					"text": "It's been half a month since Yonagi made her decision."
+				},
+				{
+					"text": "We've spent those last days together at home, with our family."
+				},
+				{
+					"text": "Me, Yonagi, Izumo, and Wooleep."
+				},
+				{
+					"text": "Together as we always were."
+				},
+				{
+					"text": "Just letting the time pass in peace."
+				},
+				{
+					"text": "We communicated our intentions to both the members of Asuma Lab and the old Kaito Lab."
+				},
+				{
+					"text": "Both laboratories began work on an environment to keep Yonagi's body stabilized and safe. And today, they finished it."
+				},
+				{
+					"text": "There is one more sip of coffee left in my mug."
+				},
+				{
+					"text": "I'm sitting there, unwilling to take that last mouthful."
+				},
+				{
+					"name": "Yonagi",
+					"text": "What kind of place do you want to live in?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Mm?"
+				},
+				{
+					"text": "I turn my eyes from the rippling black surface and towards Yonagi."
+				},
+				{
+					"name": "Yonagi",
+					"text": "On the surface. Where do you want to live?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Mm, let's see..."
+				},
+				{
+					"name": "Kaito",
+					"text": "A place by the sea, I think."
+				},
+				{
+					"name": "Kaito",
+					"text": "I'd like to live in a house by the sea. With a terrace where I can sit and watch the sky and the sea stretch out forever."
+				},
+				{
+					"name": "Yonagi",
+					"text": "By the sea... That sounds nice."
+				},
+				{
+					"name": "Kaito",
+					"text": "I actually..."
+				},
+				{
+					"text": "She tilts her head ever so slightly, urging me on."
+				},
+				{
+					"name": "Kaito",
+					"text": "I wrote a story about us. I've been writing it this whole time."
+				},
+				{
+					"text": "Her eyes widen slightly."
+				},
+				{
+					"name": "Kaito",
+					"text": "I'll keep telling that story in the house beside the sea."
+				},
+				{
+					"name": "Kaito",
+					"text": "Until everyone in the world knows about you."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Thank you."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Well..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Should we get going?"
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "I turn my gaze back down to the mug."
+				},
+				{
+					"text": "I absently tilt it and watch the liquid pool at one side."
+				},
+				{
+					"name": "Kaito",
+					"text": "Yeah."
+				},
+				{
+					"text": "I nod, and finish that last sip of coffee."
+				},
+				{
+					"name": "Kaito",
+					"text": "Let's go."
+				},
+				{
+					"text": "We walk side by side through the cornfield, as we have done a thousand times before."
+				},
+				{
+					"text": "We are the only people around as far as the eye can see."
+				},
+				{
+					"text": "I look up at the city of Shinjuku."
+				},
+				{
+					"name": "Kaito",
+					"text": "The reason I've lived to see this day..."
+				},
+				{
+					"name": "Kaito",
+					"text": "Is you."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Really?"
+				},
+				{
+					"name": "Kaito",
+					"text": "If you hadn't been with me, I'm sure I would've led a much shorter and sadder life."
+				},
+				{
+					"name": "Yonagi",
+					"text": "..."
+				},
+				{
+					"name": "Kaito",
+					"text": "Depending on how you look at it..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Mm?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Maybe this city does have its good parts."
+				},
+				{
+					"name": "Kaito",
+					"text": "You're the one that made me believe it wasn't all pointless."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Mhm."
+				},
+				{
+					"text": "We head to the institute, and find Iruma waiting for us by the entrance."
+				},
+				{
+					"name": "Iruma",
+					"text": "Hey there."
+				},
+				{
+					"name": "Kaito",
+					"text": "Hey."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Hello."
+				},
+				{
+					"text": "Iruma smiles at Yonagi."
+				},
+				{
+					"name": "Iruma",
+					"text": "...Are you sure?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Yeah."
+				},
+				{
+					"name": "Kaito",
+					"text": "It's okay now."
+				},
+				{
+					"name": "Kaito",
+					"text": "Let's go. Take us there, please."
+				},
+				{
+					"name": "Iruma",
+					"text": "Mhm, all right."
+				},
+				{
+					"text": "Iruma takes us to the bedroom they prepared inside the lab."
+				},
+				{
+					"name": "Iruma",
+					"text": "You want to be the one to do it, right?"
+				},
+				{
+					"name": "Kaito",
+					"text": "I'd like to."
+				},
+				{
+					"text": "Iruma nods in response."
+				},
+				{
+					"name": "Iruma",
+					"text": "Just go through the same process we always did when gathering data from her dreamscape."
+				},
+				{
+					"name": "Iruma",
+					"text": "On your signal, the program to suppress her sensory signals will start up."
+				},
+				{
+					"name": "Iruma",
+					"text": "The two of you to the end, right?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Yeah. Thanks, Iruma."
+				},
+				{
+					"name": "Iruma",
+					"text": "Mhm."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Thank you."
+				},
+				{
+					"name": "Iruma",
+					"text": "Yonagi, all you have to do is lie down and sleep."
+				},
+				{
+					"name": "Iruma",
+					"text": "When Kaito leaves the room, we'll look after you."
+				},
+				{
+					"name": "Iruma",
+					"text": "We've prepared the best possible environment for you down here. I guarantee that it'll be the most comfortable sleep anyone could ever ask for."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I'm glad to hear that."
+				},
+				{
+					"text": "Iruma meets Yonagi's smile in kind."
+				},
+				{
+					"text": "After looking at her for a moment, he turns back to me."
+				},
+				{
+					"name": "Kaito",
+					"text": "Thank you, Iruma."
+				},
+				{
+					"text": "I see the compassion in his eyes as he nods at me."
+				},
+				{
+					"name": "Iruma",
+					"text": "Okay, I'll leave you two now."
+				},
+				{
+					"name": "Kaito",
+					"text": "Yeah, see you."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Kaito."
+				},
+				{
+					"name": "Kaito",
+					"text": "Yes?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Can we fall asleep together one last time?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "I want you to be the first one to step into my world."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I want you to talk with the memories sleeping inside of me."
+				},
+				{
+					"name": "Kaito",
+					"text": "All right."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Kaito."
+				},
+				{
+					"name": "Kaito",
+					"text": "Yes?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Thank you for taking care of a fake like me with so much love."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Thank you for loving me even when I couldn't love you back."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I can say truthfully that my time with you has been so happy."
+				},
+				{
+					"name": "Kaito",
+					"text": "Mhm."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Go on and find the other me... the one that loved you with all your heart."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Good night."
+				},
+				{
+					"name": "Kaito",
+					"text": "Good night, Yonagi. I liked being with you."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Me too... Thank you for showing me our memories together..."
+				},
+				{
+					"text": "After she falls asleep, I wait for her waves to stabilize."
+				},
+				{
+					"text": "After her brainwaves turn to delta waves, I access her consciousness."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "The world inside of her is an infinite span of white."
+				},
+				{
+					"text": "This must be the place."
+				},
+				{
+					"text": "The place where I met those three back then."
+				},
+				{
+					"name": "Sumomo (Yonagi)",
+					"text": "So I guess this is goodbye, huh?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Yeah."
+				},
+				{
+					"text": "I turn around and see Sumomo standing there."
+				},
+				{
+					"name": "Sumomo (Yonagi)",
+					"text": "Thank you for sticking with us this whole time, really."
+				},
+				{
+					"name": "Sumomo (Yonagi)",
+					"text": "It was tons of fun!"
+				},
+				{
+					"name": "Sumomo (Yonagi)",
+					"text": "You two made the best couple ever, all the way to the end."
+				},
+				{
+					"name": "Kaito",
+					"text": "Thanks, Momonouchi Sumomo."
+				},
+				{
+					"name": "Sumomo (Yonagi)",
+					"text": "What's with the full name treatment?"
+				},
+				{
+					"text": "There's a sheen of tears in Sumomo's eyes as she smiles."
+				},
+				{
+					"name": "Sumomo (Yonagi)",
+					"text": "Bye bye! See you later, Kanna!"
+				},
+				{
+					"name": "Kaito",
+					"text": "Yeah, see you."
+				},
+				{
+					"name": "Olivia (Yonagi)",
+					"text": "I..."
+				},
+				{
+					"name": "Olivia (Yonagi)",
+					"text": "I loved watching you work with such passion."
+				},
+				{
+					"name": "Olivia (Yonagi)",
+					"text": "Don't blame yourself so much."
+				},
+				{
+					"name": "Olivia (Yonagi)",
+					"text": "You had talent, and a duty to share that talent with the world."
+				},
+				{
+					"name": "Kaito",
+					"text": "...I just wish I'd treasured our time together while I had it."
+				},
+				{
+					"name": "Olivia (Yonagi)",
+					"text": "It's okay, dear. Because, after all..."
+				},
+				{
+					"name": "Olivia (Yonagi)",
+					"text": "You'll keep telling our story, won't you?"
+				},
+				{
+					"text": "In my right hand is the story I wrote about my life with Yonagi."
+				},
+				{
+					"name": "Olivia (Yonagi)",
+					"text": "Even one night of love can spawn a tale told for eternity."
+				},
+				{
+					"name": "Olivia (Yonagi)",
+					"text": "I can't wait to see exactly how well you depict it. Don't you dare disappoint me now, Will."
+				},
+				{
+					"name": "Kaito",
+					"text": "I would have liked to hear that before writing it, you know?"
+				},
+				{
+					"text": "Olivia fades away, seeing me off with a cocky smile."
+				},
+				{
+					"name": "Rin (Yonagi)",
+					"text": "When I met you..."
+				},
+				{
+					"name": "Rin (Yonagi)",
+					"text": "I was able to face myself for the first time."
+				},
+				{
+					"name": "Rin (Yonagi)",
+					"text": "Because you loved me like no one else did."
+				},
+				{
+					"name": "Rin (Yonagi)",
+					"text": "You made me want to love myself more, to take care of myself for the first time."
+				},
+				{
+					"name": "Rin (Yonagi)",
+					"text": "I'm sorry I couldn't leave anything for you to remember me by."
+				},
+				{
+					"name": "Kaito",
+					"text": "No, I..."
+				},
+				{
+					"text": "The words about to come of my mouth sound so childish in my head that I can't help but laugh."
+				},
+				{
+					"name": "Kaito",
+					"text": "I know it may sound trite, but you gave me more memories than I can count. I haven't forgotten a second of it, and I never will."
+				},
+				{
+					"name": "Rin (Yonagi)",
+					"text": "...Yes, I know."
+				},
+				{
+					"text": "Rin looks over her shoulder, then looks up at me again."
+				},
+				{
+					"name": "Rin (Yonagi)",
+					"text": "She's waiting for you. Go to her."
+				},
+				{
+					"name": "Kaito",
+					"text": "All right."
+				},
+				{
+					"name": "Rin (Yonagi)",
+					"text": "Farewell, Professor. You're the only one I ever loved."
+				},
+				{
+					"text": "As Rin fades away, white buildings begin materializing in the white world."
+				},
+				{
+					"text": "Their outlines are simple, as if drawn by a child."
+				},
+				{
+					"text": "I make my way through them, heading deeper into the white city."
+				},
+				{
+					"text": "In the center of it, I find a white staircase leading high into the sky."
+				},
+				{
+					"text": "I climb up one step at a time."
+				},
+				{
+					"text": "The final landing comes into view..."
+				},
+				{
+					"text": "And at last, I see her."
+				},
+				{
+					"name": "Kaito",
+					"text": "Yonagi."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Mhm."
+				},
+				{
+					"name": "Kaito",
+					"text": "You were watching it all from here?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Yeah."
+				},
+				{
+					"name": "Yonagi",
+					"text": "This little enclosure is the only place I can be now."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I'm sorry I couldn't come see you."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Especially after you and Izumo worked so hard to wake me up again."
+				},
+				{
+					"name": "Yonagi",
+					"text": "It must have been hard on you."
+				},
+				{
+					"name": "Yonagi",
+					"text": "But I just couldn't get out of here... Though I did try my hardest."
+				},
+				{
+					"text": "I answer with a nod."
+				},
+				{
+					"name": "Yonagi",
+					"text": "But..."
+				},
+				{
+					"text": "She turns her eyes up to me and smiles."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I knew you would come to see me."
+				},
+				{
+					"name": "Kaito",
+					"text": "Of course I would."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Mhm."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I'm not scared anymore."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Thank you for coming, Kaito."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Thank you for loving me, despite everything."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I really was the happiest woman in the whole world."
+				},
+				{
+					"name": "Kaito",
+					"text": "Yeah."
+				},
+				{
+					"name": "Yonagi",
+					"text": "That's why I want you to be happy too."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I want you to go out to that new world with all the seas, the skies, and the wind. I want you to enjoy it all to the fullest."
+				},
+				{
+					"name": "Yonagi",
+					"text": "That's my only wish, okay?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Yes."
+				},
+				{
+					"text": "Just like I promised..."
+				},
+				{
+					"text": "I answer with a smile."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Oh dear. Didn't you say you would see me off with a smile?"
+				},
+				{
+					"name": "Kaito",
+					"text": "I am smiling."
+				},
+				{
+					"name": "Yonagi",
+					"text": "You're crying, though."
+				},
+				{
+					"name": "Kaito",
+					"text": "Yes, but I'm still smiling."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Oh, silly."
+				},
+				{
+					"name": "Kaito",
+					"text": "You're doing the same thing."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Ahahah, touche."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Yeah, I suppose we're not that strong, are we?"
+				},
+				{
+					"name": "Kaito",
+					"text": "But we're smiling. Even through the tears, we can smile for the other."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Mhm, yeah."
+				},
+				{
+					"name": "Kaito",
+					"text": "...So this is goodbye."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Yes."
+				},
+				{
+					"name": "Kaito",
+					"text": "I'm so glad I met you. Even if things have to end like this..."
+				},
+				{
+					"name": "Kaito",
+					"text": "I don't have a single regret."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Me neither!"
+				},
+				{
+					"text": "I smile."
+				},
+				{
+					"text": "Yonagi does as well."
+				},
+				{
+					"text": "As the tears run down our faces, we bravely smile on."
+				},
+				{
+					"name": "Kaito",
+					"text": "I'll keep telling everyone about you. I bet they'll make you their goddess."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Goddess?! Whoa, no pressure, huh?"
+				},
+				{
+					"name": "Kaito",
+					"text": "I think you can handle it."
+				},
+				{
+					"name": "Yonagi",
+					"text": "You think so, huh? Well, if you think so, maybe I can."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "..."
+				},
+				{
+					"text": "We slowly approach each other."
+				},
+				{
+					"text": "And our lips meet, just like the first time we kissed."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Farewell, Kaito..."
+				},
+				{
+					"text": "I hear her voice resonate deep in my mind."
+				},
+				{
+					"name": "Kaito",
+					"text": "Mhm. Farewell, Yonagi..."
+				},
+				{
+					"text": "Quietly, softly, the sensation of her touch melts away."
+				},
+				{
+					"text": "Then her breath, then her scent..."
+				},
+				{
+					"text": "Slowly but surely, every part of her fades."
+				},
+				{
+					"text": "And then..."
+				},
+				{
+					"text": "I hear the sound of waves and wind in my ears."
+				},
+				{
+					"text": "The briny scent of the tides fills my nose."
+				},
+				{
+					"text": "And strangely..."
+				},
+				{
+					"text": "Although I've never been to the sea, I recognize it."
+				},
+				{
+					"text": "My eyes are still closed, but I know what I'll see."
+				},
+				{
+					"text": "I can visualize the ocean in all of its vastness."
+				},
+				{
+					"text": "And so, I slowly open my eyes."
+				},
+				{
+					"name": "Kaito",
+					"text": "Aha. I see now."
+				},
+				{
+					"text": "This is it."
+				},
+				{
+					"text": "This is the same blue sea and sky that was in that story Mom always read to me. Kaito's Adventure."
+				},
+				{
+					"text": "That beautiful expanse of sea and the sky, merging together on the horizon..."
+				},
+				{
+					"text": "It is the very scene now before my eyes."
+				},
+				{
+					"name": "Kaito",
+					"text": "Are you watching, Yonagi?"
+				},
+				{
+					"name": "Kaito",
+					"text": "This is the sea we spent our lives seeking."
+				},
+				{
+					"text": "I find Asuma on the rooftop of the institute, looking out over Shinjuku."
+				},
+				{
+					"text": "I walk up to him."
+				},
+				{
+					"text": "He looks at me, then turns back to the city."
+				},
+				{
+					"name": "Asuma",
+					"text": "Should I go?"
+				},
+				{
+					"name": "Kaito",
+					"text": "...No."
+				},
+				{
+					"name": "Kaito",
+					"text": "I came to talk to you."
+				},
+				{
+					"name": "Asuma",
+					"text": "..."
+				},
+				{
+					"text": "I stand next to him and look out at the empty city."
+				},
+				{
+					"name": "Kaito",
+					"text": "She's asleep."
+				},
+				{
+					"name": "Kaito",
+					"text": "She won't dream anymore. She's the world itself now."
+				},
+				{
+					"name": "Asuma",
+					"text": "I see."
+				},
+				{
+					"name": "Kaito",
+					"text": "You're really gonna remain here in this city?"
+				},
+				{
+					"name": "Asuma",
+					"text": "Yes."
+				},
+				{
+					"name": "Asuma",
+					"text": "At this rate, humanity will disappear within our generation. There's still work to be done, and someone has to do it."
+				},
+				{
+					"name": "Kaito",
+					"text": "Right."
+				},
+				{
+					"name": "Asuma",
+					"text": "You're going though, right?"
+				},
+				{
+					"text": "I simply nod."
+				},
+				{
+					"name": "Kaito",
+					"text": "My duty is there. So I'm going."
+				},
+				{
+					"text": "Now he nods."
+				},
+				{
+					"name": "Asuma",
+					"text": "There are a mountain of challenges ahead of us. The dreamscape will disappear when Yonagi's life runs out."
+				},
+				{
+					"name": "Asuma",
+					"text": "We merely bought ourselves some time. However..."
+				},
+				{
+					"name": "Asuma",
+					"text": "Hope does remain."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "Asuma continues as he gazes at the city."
+				},
+				{
+					"name": "Asuma",
+					"text": "There were many who had developed base will deficiency before connecting to Yonagi's world."
+				},
+				{
+					"name": "Asuma",
+					"text": "The progression of the disease halted while they were in the virtual space."
+				},
+				{
+					"name": "Kaito",
+					"text": "It halted...?"
+				},
+				{
+					"text": "Asuma nodded at my question."
+				},
+				{
+					"name": "Kaito",
+					"text": "Why is that? The virtual space should have given everyone a life of ease."
+				},
+				{
+					"name": "Kaito",
+					"text": "One would expect it to accelerate base will deficiency."
+				},
+				{
+					"name": "Asuma",
+					"text": "I have a hypothesis."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"name": "Asuma",
+					"text": "Everyone connected to the virtual world is indirectly connecting with Yonagi, and they're all sharing a consciousness through her."
+				},
+				{
+					"name": "Asuma",
+					"text": "That's how the dreamscape works, right?"
+				},
+				{
+					"text": "I nod."
+				},
+				{
+					"name": "Asuma",
+					"text": "The mental support formed by each person connecting with all the others must create an equalizing effect with all those who have strong desires at an individual level."
+				},
+				{
+					"name": "Kaito",
+					"text": "Mm, I see."
+				},
+				{
+					"name": "Asuma",
+					"text": "Our desire to prolong our lives as individuals brought a crisis upon the whole of humanity."
+				},
+				{
+					"name": "Asuma",
+					"text": "And we were saved by one person, who abandoned her individuality to become the whole world—Yonagi."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"name": "Asuma",
+					"text": "I won't waste a moment of this limited time that Yonagi has given us. I will find a real cure for base will deficiency."
+				},
+				{
+					"text": "With this, Asuma turns his gaze up to the white sky that shines through the ozone lens."
+				},
+				{
+					"name": "Kaito",
+					"text": "...I'll just say one thing."
+				},
+				{
+					"text": "Asuma turns to me."
+				},
+				{
+					"name": "Kaito",
+					"text": "You and all the researchers of your lab have the right to enter Yonagi's world without discrimination."
+				},
+				{
+					"name": "Kaito",
+					"text": "I won't ever forgive you for what you did to her, but you don't have to stay in this world over it."
+				},
+				{
+					"text": "Asuma laughed a little."
+				},
+				{
+					"name": "Asuma",
+					"text": "We're not. This was our own decision. One last shred of our pride as researchers."
+				},
+				{
+					"name": "Kaito",
+					"text": "If you're doing it because you've decided your duty is here, I won't object."
+				},
+				{
+					"text": "Asuma nods at me."
+				},
+				{
+					"name": "Kaito",
+					"text": "Yonagi's world is open to everyone. That includes you, your wife, and anyone else."
+				},
+				{
+					"name": "Kaito",
+					"text": "That's all I wanted to say."
+				},
+				{
+					"name": "Asuma",
+					"text": "..."
+				},
+				{
+					"name": "Kaito",
+					"text": "I'll be in her world from now on."
+				},
+				{
+					"name": "Kaito",
+					"text": "And I'll tell everyone our story."
+				},
+				{
+					"name": "Kaito",
+					"text": "I'll tell them that once there was a girl who chose to become the world."
+				},
+				{
+					"name": "Kaito",
+					"text": "And I'll keep saying it until everyone in the virtual world knows about her."
+				},
+				{
+					"name": "Asuma",
+					"text": "I believe a shared perception in the virtual world will strengthen the mental link of those connected to it."
+				},
+				{
+					"name": "Asuma",
+					"text": "Your actions could become the hope that will save humanity."
+				},
+				{
+					"name": "Kaito",
+					"text": "I..."
+				},
+				{
+					"name": "Kaito",
+					"text": "I'll tell your story as well."
+				},
+				{
+					"name": "Asuma",
+					"text": "..."
+				},
+				{
+					"name": "Kaito",
+					"text": "The story of a man outside that dreamlike world."
+				},
+				{
+					"name": "Kaito",
+					"text": "The man who's dedicated his whole life to saving humanity from extinction."
+				},
+				{
+					"name": "Kaito",
+					"text": "I'll tell the story like it is."
+				},
+				{
+					"name": "Asuma",
+					"text": "I see..."
+				},
+				{
+					"text": "As his voice trails off, a single tear escapes his tightly closed eyes."
+				},
+				{
+					"text": "I see it out of the corner of my eye as I look over the middle side one last time."
+				},
+				{
+					"text": "You can see the circular cornfield where Yonagi and I had walked many times."
+				},
+				{
+					"text": "Around it, modest houses stood in cramped rows."
+				},
+				{
+					"text": "When I lift my gaze to the middle level, I see the plaza where I met Yonagi―"
+				},
+				{
+					"text": "I saw a side hole leading to a small garden where my mother and that bird slept."
+				},
+				{
+					"text": "Everywhere I looked, I was filled with memories of my time with Yonagi."
+				},
+				{
+					"text": "We certainly lived together in this city."
+				},
+				{
+					"name": "Kaito",
+					"text": "I don't resent you anymore."
+				},
+				{
+					"text": "I mumbled, and Asuma turned his gaze to me."
+				},
+				{
+					"text": "I met his gaze as I looked down on the streets of Shinjuku."
+				},
+				{
+					"name": "Kaito",
+					"text": "I won't forgive you, but I don't resent you either."
+				},
+				{
+					"name": "Kaito",
+					"text": "I'm sure she feels the same way."
+				},
+				{
+					"name": "Asuma",
+					"text": "...Thank you."
+				},
+				{
+					"text": "His shoulders quiver as he mutters the words."
+				},
+				{
+					"text": "My gaze, once focused on the middle side, now moves upwards."
+				},
+				{
+					"text": "Bright sunlight shines through the lens."
+				},
+				{
+					"text": "This is a first for me."
+				},
+				{
+					"text": "For the first time, I realize the beauty of that round sky."
+				}
+			]
+		},
+		{
+			"texts": [
+				{
+					"text": "The wind blows."
+				},
+				{
+					"text": "There's a small wooden cabin on the seaside."
+				},
+				{
+					"text": "There are many people there, embraced by the warm sea breeze."
+				},
+				{
+					"text": "As I finish telling our long story, I slowly open my eyes."
+				},
+				{
+					"name": "Kaito",
+					"text": "And that is why we have this sea and this sky."
+				},
+				{
+					"text": "The people listen attentively to my words."
+				},
+				{
+					"text": "How many years has it been since I entered the virtual space?"
+				},
+				{
+					"text": "Every day, I am here, telling Yonagi's story."
+				},
+				{
+					"text": "That is the role I picked for myself."
+				},
+				{
+					"name": "Kaito",
+					"text": "We were born at a major turning point in our species' history."
+				},
+				{
+					"name": "Kaito",
+					"text": "Driven into an evolutionary dead end, we abandoned our bodies, and came to this world made up of consciousness alone."
+				},
+				{
+					"name": "Kaito",
+					"text": "We want for nothing in this world, for it was designed as a temporary respite for our souls."
+				},
+				{
+					"name": "Kaito",
+					"text": "We were gifted the right to live here."
+				},
+				{
+					"name": "Kaito",
+					"text": "But please, always remember."
+				},
+				{
+					"name": "Kaito",
+					"text": "Remember that it was a girl who gave us this gift."
+				},
+				{
+					"name": "Kaito",
+					"text": "Remember those who still remain outside of this world, braving harsh reality as they search for a true solution."
+				},
+				{
+					"name": "Kaito",
+					"text": "And tell the story to all who will listen. To all the people who live in this beautiful world."
+				},
+				{
+					"name": "Kaito",
+					"text": "Tell them that once upon a time..."
+				},
+				{
+					"name": "Kaito",
+					"text": "There was a girl who dreamed the world."
+				}
+			]
+		},
+		{}
+	]
+}

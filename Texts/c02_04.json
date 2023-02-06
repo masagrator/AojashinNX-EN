@@ -1,0 +1,2008 @@
+{
+	"scenes": [
+		{},
+		{},
+		{
+			"texts": [
+				{
+					"text": "The day of Ed's execution..."
+				},
+				{
+					"text": "A small funeral is held in a secluded space on the outskirts of town."
+				},
+				{
+					"text": "The people who usually show up to our meetings gather together to pray."
+				},
+				{
+					"text": "Not many people, not at all."
+				},
+				{
+					"text": "But there is a certain determination on everyone's faces."
+				},
+				{
+					"text": "Each person takes turns to deliver small flowers to the small hole we dug."
+				},
+				{
+					"text": "When we bury the flowers, the slight mound of soil left is reminiscent of a grave."
+				},
+				{
+					"text": "But his body is not there."
+				},
+				{
+					"text": "I stare down and mound for a moment. Not even a proper burial, just this..."
+				},
+				{
+					"text": "But then, I feel a warm touch on my right hand."
+				},
+				{
+					"text": "Olivia stands next to me, holding my hand with hers."
+				},
+				{
+					"text": "She also stares at the makeshift grave, and I stare at her solemn profile for a while."
+				},
+				{
+					"text": "Her eyes never wavered, not for a moment."
+				},
+				{
+					"text": "I hold her hand back and look at the grave for a while."
+				},
+				{
+					"text": "We told the pub's regulars to wait for the heat to die down a little before coming again, so it's only Olivia, Dad, Rob, and me in here."
+				},
+				{
+					"name": "Will",
+					"text": "Why are you here?"
+				},
+				{
+					"name": "Olivia",
+					"text": "Huh?"
+				},
+				{
+					"name": "Will",
+					"text": "You could have stayed at the pub."
+				},
+				{
+					"name": "Will",
+					"text": "You'd be safer there. We're out of town, but that doesn't mean this isn't risky."
+				},
+				{
+					"name": "Olivia",
+					"text": "No one could reprimand anyone here for mourning their dead."
+				},
+				{
+					"name": "Olivia",
+					"text": "Not even the Queen herself."
+				},
+				{
+					"name": "Olivia",
+					"text": "That's why I came. Nothing to do with faith."
+				},
+				{
+					"name": "Will",
+					"text": "I see."
+				},
+				{
+					"name": "Will",
+					"text": "Thanks."
+				},
+				{
+					"text": "Olivia looks at me with the same face she makes when she's about to protest something."
+				},
+				{
+					"name": "Will",
+					"text": "Ed would have said the same."
+				},
+				{
+					"text": "Her expression turns vague, and she turns ahead again."
+				},
+				{
+					"name": "Olivia",
+					"text": "Perhaps he would."
+				},
+				{
+					"text": "Olivia's gaze shifts from the mound to me."
+				},
+				{
+					"name": "Olivia",
+					"text": "Does it hurt?"
+				},
+				{
+					"name": "Will",
+					"text": "Mm?"
+				},
+				{
+					"name": "Olivia",
+					"text": "Your face. You took quite the beating. It's taking a long time to heal."
+				},
+				{
+					"text": "Her concern makes me smile."
+				},
+				{
+					"text": "My face is still as swollen as it was when they took Ed away, and the aching still plagues my body."
+				},
+				{
+					"name": "Will",
+					"text": "Yeah, I've never hurt like this before."
+				},
+				{
+					"name": "Will",
+					"text": "Not only my face, but my whole body."
+				},
+				{
+					"name": "Olivia",
+					"text": "I see."
+				},
+				{
+					"text": "Olivia blows out a breath then turns ahead once more."
+				},
+				{
+					"name": "Olivia",
+					"text": "It'll be fine. Flesh wounds heal."
+				},
+				{
+					"name": "Will",
+					"text": "Yeah, I know."
+				},
+				{
+					"text": "We get back to the city before sundown."
+				},
+				{
+					"text": "Moving in big group is too conspicuous."
+				},
+				{
+					"text": "So I leave my father to Rob, and we split into two groups."
+				},
+				{
+					"name": "Olivia",
+					"text": "Hey, let's take a detour."
+				},
+				{
+					"name": "Will",
+					"text": "Where to?"
+				},
+				{
+					"name": "Olivia",
+					"text": "I want to do some shopping."
+				},
+				{
+					"name": "Will",
+					"text": "Uh? Stuff for the pub?"
+				},
+				{
+					"name": "Olivia",
+					"text": "No. Just come with me."
+				},
+				{
+					"name": "Will",
+					"text": "Huh?"
+				},
+				{
+					"text": "Walking through the market district with Olivia, I'm taken by surprise."
+				},
+				{
+					"text": "A lot of the shopkeepers know her already."
+				},
+				{
+					"text": "Many people greet her as we pass."
+				},
+				{
+					"text": "Most of them are customers that have been coming to the pub regularly since she started working there."
+				},
+				{
+					"text": "Olivia enters one of the shops, her steps decisive and confident."
+				},
+				{
+					"text": "The shopkeeper is also one of her customers."
+				},
+				{
+					"text": "She receives something from him, pays for it, and comes back to me."
+				},
+				{
+					"text": "I take a look at what she's holding."
+				},
+				{
+					"name": "Will",
+					"text": "What's that?"
+				},
+				{
+					"name": "Olivia",
+					"text": "A herb. It's called chamomile."
+				},
+				{
+					"name": "Will",
+					"text": "Chamomile..."
+				},
+				{
+					"text": "Was there a weed with that name?"
+				},
+				{
+					"text": "Is it some kind of fancy herb to make tea?"
+				},
+				{
+					"text": "While I wonder about it, Olivia's glare turns colder."
+				},
+				{
+					"name": "Olivia",
+					"text": "Would you care to explain how someone who's been working in a pub for so many years isn't familiar with such a basic herb?"
+				},
+				{
+					"name": "Olivia",
+					"text": "Have the ignorance, incompetence, and lack of aspirations that you so readily display ever been a cause of concern for you?"
+				},
+				{
+					"name": "Olivia",
+					"text": "Oh, who am I even kidding? Of course they haven't. No need to answer, save your breath."
+				},
+				{
+					"name": "Will",
+					"text": "..."
+				},
+				{
+					"text": "I don't even have a chance to talk back."
+				},
+				{
+					"text": "I wonder if being self-sufficient makes it so you can't listen to what anyone else has to say."
+				},
+				{
+					"name": "Olivia",
+					"text": "We're done here. Let's go."
+				},
+				{
+					"name": "Will",
+					"text": "...Okay."
+				},
+				{
+					"text": "As soon as we get back to the pub, Olivia begins boiling the chamomile herb in water."
+				},
+				{
+					"text": "A grassy, sweet scent wafts through the room."
+				},
+				{
+					"text": "Olivia removes the herbs from the water, rinses them lightly, and wraps a thin cloth around them before giving it to me."
+				},
+				{
+					"name": "Will",
+					"text": "Huh?"
+				},
+				{
+					"name": "Olivia",
+					"text": "Put this on your face. It'll help with the swelling."
+				},
+				{
+					"name": "Will",
+					"text": "..."
+				},
+				{
+					"text": "There's steam coming out from the lump of cloth in her hands."
+				},
+				{
+					"name": "Olivia",
+					"text": "I don't have all day."
+				},
+				{
+					"name": "Will",
+					"text": "O-Okay."
+				},
+				{
+					"text": "I take it and press the cloth to my swollen eyelid."
+				},
+				{
+					"text": "The warmth soon spreads across my face."
+				},
+				{
+					"name": "Olivia",
+					"text": "You'd better hang back behind the counter today."
+				},
+				{
+					"name": "Will",
+					"text": "Why?"
+				},
+				{
+					"name": "Olivia",
+					"text": "You'll turn the customers' stomachs. We don't need people losing their appetite."
+				},
+				{
+					"text": "It's been a few days, so we decide to reopen the pub."
+				},
+				{
+					"text": "It's a small time pub, but rumors will start to circle around if we're closed for too long."
+				},
+				{
+					"text": "If we don't go back to our usual routine, the danger that the watchmen could notice that the days we were closed coincided with Ed's death is only going to increase."
+				},
+				{
+					"name": "Will",
+					"text": "Will you be fine on your own?"
+				},
+				{
+					"name": "Olivia",
+					"text": "Don't lump me in with the likes of you. I can take care of everything, if I'm so inclined to."
+				},
+				{
+					"name": "Will",
+					"text": "You bought the chamomile for this?"
+				},
+				{
+					"text": "Olivia tilts her head to the side and gives me a blank stare."
+				},
+				{
+					"name": "Will",
+					"text": "To help me heal?"
+				},
+				{
+					"name": "Olivia",
+					"text": "Obviously. Who would ask for chamomile tea in this rundown, dirty rat hole of a pub?"
+				},
+				{
+					"name": "Olivia",
+					"text": "I don't want to have to stare at that unsightly swelling for any longer than I have to."
+				},
+				{
+					"name": "Will",
+					"text": "...Right."
+				},
+				{
+					"name": "Will",
+					"text": "Thanks."
+				},
+				{
+					"text": "Olivia crosses her arms and looks away for a moment."
+				},
+				{
+					"name": "Olivia",
+					"text": "You... really like saying that, don't you?"
+				},
+				{
+					"name": "Rob",
+					"text": "Oh, you got back fast."
+				},
+				{
+					"text": "Dad and Rob walk in after a while."
+				},
+				{
+					"text": "Dad feels the way with his cane and goes to his usual seat."
+				},
+				{
+					"name": "Father",
+					"text": "A walk outside from time to time isn't so bad."
+				},
+				{
+					"name": "Rob",
+					"text": "You still got a lot of life in you, Boss."
+				},
+				{
+					"name": "Father",
+					"text": "Of course. I got a lot to do still, in Ed's stead."
+				},
+				{
+					"name": "Rob",
+					"text": "Yeah..."
+				},
+				{
+					"text": "Dad sits down in his usual spot."
+				},
+				{
+					"text": "Rob sits next to him."
+				},
+				{
+					"name": "Olivia",
+					"text": "Are you sure about opening up shop?"
+				},
+				{
+					"name": "Father",
+					"text": "Mhm. It's more important than ever to act normal right now."
+				},
+				{
+					"name": "Olivia",
+					"text": "Makes sense."
+				},
+				{
+					"name": "Will",
+					"text": "..."
+				},
+				{
+					"text": "The last time I saw Ed flashes through my mind."
+				},
+				{
+					"text": "I shake my head to clear the thoughts away."
+				},
+				{
+					"text": "Thankfully, the pain in my face is still very distracting."
+				},
+				{
+					"name": "Father",
+					"text": "By the way, what is that smell? Apples?"
+				},
+				{
+					"name": "Olivia",
+					"text": "The ignorance is hereditary, it seems."
+				},
+				{
+					"name": "Father",
+					"text": "Mm?"
+				},
+				{
+					"name": "Will",
+					"text": "It's chamomile, Dad. You've run a bar your whole life and you don't know that?"
+				},
+				{
+					"name": "Olivia",
+					"text": "Do you know no shame?"
+				},
+				{
+					"text": "Olivia's disappointment is palpable. It seems my impression of her didn't impress her one bit."
+				},
+				{
+					"name": "Father",
+					"text": "Chamomile? That some kind of weed? Do nobles make tea out of it or something? Ahahahah!"
+				},
+				{
+					"name": "Will",
+					"text": "..."
+				},
+				{
+					"text": "I'm embarassed that I had the same idea."
+				},
+				{
+					"name": "Olivia",
+					"text": "It is quite a miracle that Will has such a talent for writing. Boss, your sense of humor is devastatingly heart crushing."
+				},
+				{
+					"name": "Father",
+					"text": "Ahahahaha!"
+				},
+				{
+					"name": "Will",
+					"text": "..."
+				},
+				{
+					"text": "I'm so glad I didn't voice my thoughts back then. Things could've been so much worse."
+				},
+				{
+					"text": "Customers start showing up after we open the pub."
+				},
+				{
+					"text": "I do as Olivia says and stay in the back cooking and making drinks."
+				},
+				{
+					"text": "After washing the dishes, I find myself empty-handed, so I watch the clients drink for a bit."
+				},
+				{
+					"text": "Everything is just as it was before yesterday."
+				},
+				{
+					"text": "A single missionary who led his people, refusing to bow to oppression, is gone."
+				},
+				{
+					"text": "But the world keeps on turning."
+				},
+				{
+					"text": "My dad and Rob stay at their corner of the bar, sometimes bringing a drink to their lips."
+				},
+				{
+					"text": "We aren't even allowed to mourn openly."
+				},
+				{
+					"text": "We have no choice other than to push these emotions down and watch time pass by."
+				},
+				{
+					"text": "The boisterous chatter of men sharing drinks fills the pub."
+				},
+				{
+					"text": "Looking around, I see Olivia's smile."
+				},
+				{
+					"text": "I'm glad she's here."
+				},
+				{
+					"text": "She serving the customers just like always."
+				},
+				{
+					"text": "Our eyes meet."
+				},
+				{
+					"text": "For a moment, her expression darkens."
+				},
+				{
+					"text": "But she quickly chases the shadow away with a smile and turns back to the patrons."
+				},
+				{
+					"text": "Her smile is radiant."
+				},
+				{
+					"text": "It's light and subtle, yet sweet and lovely."
+				},
+				{
+					"text": "Like a lovely flower basking in the sun of a clear day. Her rose eyes are still and deep as a moonlit night."
+				},
+				{
+					"text": "Words to describe her beauty just keep pouring into my head: majestic, tranquil, lustrous, unreal."
+				},
+				{
+					"text": "She has a fascinating charm that takes a hold of you as soon as you lay eyes on her."
+				},
+				{
+					"text": "If I'm to stand on the stage, I need to become like that."
+				},
+				{
+					"text": "None of the customers around her are aware of the shadow looming over her heart."
+				},
+				{
+					"text": "They're just having fun."
+				},
+				{
+					"text": "The mood is so jolly because she's performing."
+				},
+				{
+					"text": "I need to enter her mindset, and I need to bring the other members of the troupe along with me."
+				},
+				{
+					"text": "Kiki's words echo in my head."
+				},
+				{
+					"text": "Just try to show some interest in girls, would you? You'll learn a lot from actually speaking with them."
+				},
+				{
+					"text": "Watching her laugh and make merry, I try to smile and imitate her expressions."
+				},
+				{
+					"text": "I attempt to smile like her, but all I accomplish is making my tender face ache even more."
+				},
+				{
+					"name": "Rob",
+					"text": "What are you doing, lad?"
+				},
+				{
+					"name": "Will",
+					"text": "Uh, nothing."
+				},
+				{
+					"text": "The road is steep, and the summit far away, I suppose."
+				},
+				{
+					"text": "In time, the customers leave, Dad goes upstairs, and Olivia and I are left to close and clean up."
+				},
+				{
+					"text": "While we close up, I ask Olivia to tell me as much about theater as she can."
+				},
+				{
+					"name": "Olivia",
+					"text": "So, one of the reasons why commercial theater has become an institution is the existence of Tenbridge University."
+				},
+				{
+					"name": "Olivia",
+					"text": "Once scholars who went through the university's system became involved in theater, its public image changed as a whole."
+				},
+				{
+					"name": "Olivia",
+					"text": "You can feel it too, can't you? During the last decade, the role of theater in society has only grown larger."
+				},
+				{
+					"name": "Will",
+					"text": "Well, I'd say it's still mostly just fun for the masses, personally."
+				},
+				{
+					"name": "Olivia",
+					"text": "That is also correct, but if you're aiming to be chosen to perform for the Royal Court, simple mindless entertainment won't do."
+				},
+				{
+					"name": "Olivia",
+					"text": "We can't manage the candle work it would entail to keep the lights on while the audience is in the theater, so we can only perform in the Globe during daytime in summer."
+				},
+				{
+					"text": "I nod."
+				},
+				{
+					"name": "Olivia",
+					"text": "It's the same for the Lily and all the other theaters. That's why I'm certain the decision will be made this summer."
+				},
+				{
+					"name": "Will",
+					"text": "So that gives us about two months, then. Even if I write the plays, the problem would be our ability to act them out."
+				},
+				{
+					"name": "Will",
+					"text": "Can we improve everyone's acting in such a short amount of time?"
+				},
+				{
+					"name": "Olivia",
+					"text": "Don't be silly, it's not that easy. Acting isn't as easy as mashing potatoes."
+				},
+				{
+					"name": "Will",
+					"text": "..."
+				},
+				{
+					"text": "It's so exhausting to talk to her."
+				},
+				{
+					"text": "I've gotten more used to her after spending so much time together, but it can still be draining."
+				},
+				{
+					"name": "Will",
+					"text": "All the troupes in Tenbridge are aiming to be selected, right? Are there any others we should look out for?"
+				},
+				{
+					"name": "Olivia",
+					"text": "I don't think so. Ever since Marlowe started writing for them, the Admiral's Men have become the best troupe by everyone's reckoning."
+				},
+				{
+					"name": "Will",
+					"text": "But even if Marlowe's scripts are considered to be the best, the other troupes must have things they excel at, right?"
+				},
+				{
+					"name": "Will",
+					"text": "Like troupes good at performing comedies."
+				},
+				{
+					"name": "Will",
+					"text": "Or maybe some have actors that excel at playing female parts."
+				},
+				{
+					"name": "Olivia",
+					"text": "Female performances, huh? I suppose it merits looking into. Let's do that tomorrow."
+				},
+				{
+					"name": "Will",
+					"text": "Yeah, we can finish prepping early and get to it."
+				},
+				{
+					"name": "Olivia",
+					"text": "Yes. Some guilds should be performing in the square of the shopping district."
+				},
+				{
+					"name": "Olivia",
+					"text": "We can go watch their performance and still be in time for rehearsal. I'll come over early so we can finish up and head out while it's still morning."
+				},
+				{
+					"text": "I respond with a nod and we continue cleaning up."
+				},
+				{
+					"text": "Now that our conversation has naturally petered out, only the sounds of our work fill the pub."
+				},
+				{
+					"text": "The next day, we leave the pub early to make it to the square by noon."
+				},
+				{
+					"name": "Olivia",
+					"text": "There it is. See where everyone's gathered?"
+				},
+				{
+					"text": "Looking in the direction she points, I see a crowd of people."
+				},
+				{
+					"text": "I can hear the more impatient among them hooting and shouting about when the show's gonna start."
+				},
+				{
+					"name": "Will",
+					"text": "Whoa, that's a lot of people."
+				},
+				{
+					"name": "Olivia",
+					"text": "People want entertainment during these trying times, but books are too expensive for common folk to buy."
+				},
+				{
+					"name": "Olivia",
+					"text": "Truly, theater is a solace in many of their lives."
+				},
+				{
+					"name": "Will",
+					"text": "Let's go take a look."
+				},
+				{
+					"text": "A little past noon, the Worshipful Company of Blacksmiths begin their performance."
+				},
+				{
+					"text": "Three men come out and take turns reciting poems that make me feel like bugs are crawling under my skin."
+				},
+				{
+					"name": "Olivia",
+					"text": "The head of the guild writes his own scripts."
+				},
+				{
+					"name": "Olivia",
+					"text": "Apparently, he tried to become a poet in his youth, and has quite a delicate sensitivity when it comes to writing."
+				},
+				{
+					"name": "Will",
+					"text": "Delicate, you say..."
+				},
+				{
+					"name": "Will",
+					"text": "What deaf man said that?"
+				},
+				{
+					"name": "Olivia",
+					"text": "He himself, naturally."
+				},
+				{
+					"name": "Will",
+					"text": "Of course."
+				},
+				{
+					"name": " ",
+					"text": "Get off the stage!"
+				},
+				{
+					"name": " ",
+					"text": "What's this bloody mess?! Is this a joke?!"
+				},
+				{
+					"text": "The heckling only gets louder and louder."
+				},
+				{
+					"text": "There's no need to lower our voices to a whisper with all this ruckus around us."
+				},
+				{
+					"name": "Will",
+					"text": "Tough crowd."
+				},
+				{
+					"name": "Olivia",
+					"text": "Brutally honest, aren't they? And this is when they're watching for free. We charge money, so the bar is even higher."
+				},
+				{
+					"name": "Olivia",
+					"text": "You can't ignore the audience's reception, but you won't last a day if you lend an ear to every single bad faith comment out there."
+				},
+				{
+					"name": "Will",
+					"text": "Truer words have never been spoken."
+				},
+				{
+					"name": "Will",
+					"text": "That was pretty short."
+				},
+				{
+					"name": "Olivia",
+					"text": "Being able to recognize the point before they overstay their welcome is one thing they have going for them."
+				},
+				{
+					"name": "Will",
+					"text": "You're a pretty harsh critic too."
+				},
+				{
+					"name": "Olivia",
+					"text": "All troupes are our rivals. It goes both ways. You should hear the things that are said about us."
+				},
+				{
+					"name": "Will",
+					"text": "I see."
+				},
+				{
+					"text": "The Worshipful Company of Blacksmiths exits the stage, and a beautiful woman takes their place."
+				},
+				{
+					"name": "Will",
+					"text": "Oh!"
+				},
+				{
+					"text": "The men in the audience begin cheering."
+				},
+				{
+					"name": "Olivia",
+					"text": "The Worshipful Company of Bakers. They're really popular with the men. Surely I don't need to explain why."
+				},
+				{
+					"name": "Will",
+					"text": "Are you sure they aren't actually women..."
+				},
+				{
+					"name": "Olivia",
+					"text": "You'll be just like them in no time. You have the prettier face."
+				},
+				{
+					"name": "Will",
+					"text": "You think so?"
+				},
+				{
+					"name": "Olivia",
+					"text": "I know so."
+				},
+				{
+					"text": "After that short answer, Olivia turns to me."
+				},
+				{
+					"name": "Olivia",
+					"text": "You should be more aware of your beauty. It's the first time Spencer has called anyone beautiful besides me."
+				},
+				{
+					"name": "Olivia",
+					"text": "Though I do believe I am above you in that regard."
+				},
+				{
+					"name": "Will",
+					"text": "No objections there, ma'am."
+				},
+				{
+					"name": "Olivia",
+					"text": "Good boy."
+				},
+				{
+					"text": "The Worshipful Company of Bakers play seems to feature a depiction of a real person from the merchant district."
+				},
+				{
+					"text": "I don't know this person at all."
+				},
+				{
+					"text": "So it's a little hard to follow the story they're trying to tell."
+				},
+				{
+					"text": "The story itself seems to rely on the audience knowing the people who work in the district and their personalities."
+				},
+				{
+					"text": "So it depends entirely on prior information the viewers might have."
+				},
+				{
+					"text": "Still, it's a huge hit among the audience."
+				},
+				{
+					"name": "Olivia",
+					"text": "They're making plays for their regular clients, see?"
+				},
+				{
+					"name": "Will",
+					"text": "Right."
+				},
+				{
+					"name": "Olivia",
+					"text": "It's a pretty insular play that you need to be from the area to understand, but it's probably the best we'll see today."
+				},
+				{
+					"name": "Will",
+					"text": "The leading actor is impressive. I almost forgot he's actually a man."
+				},
+				{
+					"name": "Olivia",
+					"text": "Apparently, they have a good reference to base their performances on."
+				},
+				{
+					"name": "Will",
+					"text": "I see."
+				},
+				{
+					"text": "Just like Kiki."
+				},
+				{
+					"text": "He also made up a character based on the real women in his life."
+				},
+				{
+					"name": "Will",
+					"text": "It'd like to see the person in question."
+				},
+				{
+					"name": "Olivia",
+					"text": "You want to see her?"
+				},
+				{
+					"text": "I turn my eyes to an amazed Olivia."
+				},
+				{
+					"name": "Will",
+					"text": "Can we meet the person they're using to inspire themselves?"
+				},
+				{
+					"name": "Olivia",
+					"text": "With enough money, yes."
+				},
+				{
+					"name": "Will",
+					"text": "Where is she?"
+				},
+				{
+					"name": "Olivia",
+					"text": "At a brothel."
+				},
+				{
+					"name": "Will",
+					"text": "I..."
+				},
+				{
+					"text": "A brothel!"
+				},
+				{
+					"text": "The house of temptation and ruination!"
+				},
+				{
+					"text": "The place where men go to come undone!"
+				},
+				{
+					"name": "Olivia",
+					"text": "It seems like they use the most popular girl as a model for their acting. Being number one in any profession is truly remarkable, is it not?"
+				},
+				{
+					"text": "This is outrageous!"
+				},
+				{
+					"name": "Olivia",
+					"text": "How about you go? I'll pay the cost. It'll be worth it if it improves your acting."
+				},
+				{
+					"name": "Will",
+					"text": "No, I'm fine. I resent the idea of my first time being in... such a way."
+				},
+				{
+					"name": "Olivia",
+					"text": "Mm..."
+				},
+				{
+					"name": "Olivia",
+					"text": "That so?"
+				},
+				{
+					"name": "Will",
+					"text": "Yeah, I mean, if my first real partner were to learn that my first experience was at a brothel, how would I—"
+				},
+				{
+					"name": "Olivia",
+					"text": "You've said quite enough."
+				},
+				{
+					"text": "Olivia cuts me off."
+				},
+				{
+					"name": "Will",
+					"text": "..."
+				},
+				{
+					"name": "Olivia",
+					"text": "How naive."
+				},
+				{
+					"name": "Will",
+					"text": "Come on, don't be like that."
+				},
+				{
+					"text": "After that, the Worshipful Society of Apothecaries presents a play about the Bible, and then the performances are over for the day."
+				},
+				{
+					"name": "Will",
+					"text": "That was more boisterous than I expected."
+				},
+				{
+					"name": "Olivia",
+					"text": "The atmosphere might change depending on the place, but the people who come see these performances are all looking for the same thing."
+				},
+				{
+					"name": "Olivia",
+					"text": "Something that helps them forget the tedium of everyday life."
+				},
+				{
+					"name": "Olivia",
+					"text": "If you can provide that entertainment, no audience will complain even if your story's full of inside jests and friendly jabs at others."
+				},
+				{
+					"name": "Olivia",
+					"text": "Besides, everyone will have forgotten all about it by tomorrow."
+				},
+				{
+					"name": "Will",
+					"text": "So being too formal and bookish about the stories one tells is no good, huh?"
+				},
+				{
+					"name": "Olivia",
+					"text": "I think your Midsummer Night's Dream is okay. Anyone can relate to love problems, plus it's a comedy."
+				},
+				{
+					"name": "Will",
+					"text": "Right."
+				},
+				{
+					"name": "Olivia",
+					"text": "But next you must write a tragedy. How does one capture the hearts of an audience using those themes?"
+				},
+				{
+					"name": "Olivia",
+					"text": "That will be the next challenge for you."
+				},
+				{
+					"text": "I stare at her profile."
+				},
+				{
+					"name": "Will",
+					"text": "Why can't I write another comedy?"
+				},
+				{
+					"name": "Olivia",
+					"text": "Because that won't show anyone the range of your talent."
+				},
+				{
+					"name": "Olivia",
+					"text": "The words of a bard who can write deep tragedy gain weight even in a comedy."
+				},
+				{
+					"name": "Olivia",
+					"text": "If we perform the same comedy after your capacity to do tragedy is well established, its reception will only get better."
+				},
+				{
+					"name": "Olivia",
+					"text": "And training the range of things you can write will definitely be of use in your fight against Marlowe."
+				},
+				{
+					"name": "Will",
+					"text": "What do you mean?"
+				},
+				{
+					"name": "Olivia",
+					"text": "Remember how I told you that since the number of writers from academic backgrounds has risen, the perceived cultural value of theater has also increased?"
+				},
+				{
+					"text": "I nod."
+				},
+				{
+					"name": "Olivia",
+					"text": "What do you suppose happened as a result?"
+				},
+				{
+					"text": "Olivia keeps her eyes steady on me."
+				},
+				{
+					"text": "I return her stare and wait for her to continue."
+				},
+				{
+					"name": "Olivia",
+					"text": "The specialties each writer excels at have become more marked. For example, there are writers who focus on historical dramas, or ones who excel at comedy."
+				},
+				{
+					"name": "Will",
+					"text": "I see."
+				},
+				{
+					"name": "Olivia",
+					"text": "You wrote a comedy this time, but before that you wrote Richard III, right? That was a historical drama."
+				},
+				{
+					"text": "I nod."
+				},
+				{
+					"name": "Olivia",
+					"text": "To be honest, I thought that William Shakespeare was merely a pen name various writers were using to release their works."
+				},
+				{
+					"name": "Olivia",
+					"text": "The range of your style is wide in ways that have never been seen before in this world."
+				},
+				{
+					"name": "Olivia",
+					"text": "I would have never guessed that they all came from the quill of one young bartender with a good memory."
+				},
+				{
+					"name": "Will",
+					"text": "I have the customers to thank for my inspiration."
+				},
+				{
+					"name": "Olivia",
+					"text": "Yes. And that wide range is one of your weapons. That's why you should write a tragedy after Midsummer Night's Dream."
+				},
+				{
+					"name": "Will",
+					"text": "All right, a tragedy it is then."
+				},
+				{
+					"text": "A while back, Rob told me about the story of the Danish ghost."
+				},
+				{
+					"text": "Ed was there too, and we discussed story possibilities together."
+				},
+				{
+					"text": "He said what I came up with sounded like an interesting story."
+				},
+				{
+					"text": "..."
+				},
+				{
+					"text": "I will use that story to crush Marlowe."
+				},
+				{
+					"name": "Olivia",
+					"text": "Will?"
+				},
+				{
+					"name": "Will",
+					"text": "Huh? Ah, sorry. It's nothing."
+				},
+				{
+					"name": "Will",
+					"text": "I'm just thinking about the tragedy I'll be writing next."
+				},
+				{
+					"name": "Olivia",
+					"text": "You have any ideas?"
+				},
+				{
+					"name": "Will",
+					"text": "Yeah."
+				},
+				{
+					"name": "Will",
+					"text": "I have an ace up my sleeve, I believe."
+				},
+				{
+					"text": "Olivia stares me pensively."
+				},
+				{
+					"name": "Olivia",
+					"text": "Go and write it today. When can I read the first draft?"
+				},
+				{
+					"name": "Will",
+					"text": "Mm, in about two weeks."
+				},
+				{
+					"name": "Olivia",
+					"text": "That's too slow. We need to start rehearsals the day after Midsummer Night's Dream premieres. You can't take two weeks."
+				},
+				{
+					"name": "Olivia",
+					"text": "I'll give you one week. Understood?"
+				},
+				{
+					"name": "Will",
+					"text": "I know better than to gainsay you. I know I don't really have a choice."
+				},
+				{
+					"name": "Olivia",
+					"text": "I'm glad to see you know the ground you're standing on. After all, you are my—"
+				},
+				{
+					"name": "Will",
+					"text": "Slave, yeah, I get it. I'll try my best with one week."
+				},
+				{
+					"name": "Olivia",
+					"text": "Good boy."
+				},
+				{
+					"name": "Kiki",
+					"text": "Eep!"
+				},
+				{
+					"name": "Thomas",
+					"text": "What horse stomped on your face?"
+				},
+				{
+					"text": "While the pub was closed, I was also absent from rehearsal."
+				},
+				{
+					"text": "Naturally, the rest of troupe members are taken aback when I show up with two black eyes."
+				},
+				{
+					"name": "Will",
+					"text": "I just slipped and fell, that's all."
+				},
+				{
+					"name": "Kiki",
+					"text": "You're THAT bad at walking?!"
+				},
+				{
+					"name": "Thomas",
+					"text": "Yeah, right, you expect us to believe the ground did that to you? Don't take us for fools."
+				},
+				{
+					"name": "Kiki",
+					"text": "Aaw, what a waste of a handsome face."
+				},
+				{
+					"name": "Will",
+					"text": "It'll heal in time for the premiere, don't worry."
+				},
+				{
+					"text": "Olivia walks out from the wings, coming our way with her arms spread out."
+				},
+				{
+					"name": "Olivia",
+					"text": "It's time. Let's get started."
+				},
+				{
+					"name": "Thomas",
+					"text": "Oh, here we go again."
+				},
+				{
+					"name": "Kiki",
+					"text": "Be brave, my friends."
+				},
+				{
+					"name": "Thomas",
+					"text": "You too, shorty."
+				},
+				{
+					"name": "Men",
+					"text": "*Sigh*"
+				},
+				{
+					"text": "Everyone's left panting at the end of the rehearsal."
+				},
+				{
+					"text": "I've heard the word slave enough for a lifetime today."
+				},
+				{
+					"text": "The amount of saliva she's sprayed on my face from all that shouting must have surpassed my own sweat by now."
+				},
+				{
+					"text": "I remember her yelling, but I don't quite remember quite how or why she was so angry."
+				},
+				{
+					"name": "Kiki",
+					"text": "All right, time to head out for a drink!"
+				},
+				{
+					"name": "Thomas",
+					"text": "And pig out after a day of hard work."
+				},
+				{
+					"name": "Kiki&Thomas",
+					"text": "And then hit the hay!"
+				},
+				{
+					"name": "Kiki",
+					"text": "See you, Will. You did well today."
+				},
+				{
+					"name": "Will",
+					"text": "Yeah... Oh, wait, Kiki."
+				},
+				{
+					"name": "Kiki",
+					"text": "Mm?"
+				},
+				{
+					"name": "Will",
+					"text": "Do you understand how the characters feel? The whole thing about Helena chasing the man she loves to the forest and her feelings being unrequited."
+				},
+				{
+					"name": "Kiki",
+					"text": "Oh, right. That's how the story goes, right."
+				},
+				{
+					"name": "Will",
+					"text": "I've been thinking, Helena being so heartbroken might be too much for a comedy like this, so..."
+				},
+				{
+					"name": "Kiki",
+					"text": "It's just fine! There's no way we can make anyone feel sad. We couldn't act out anything more tragic than these rehearsals to save our lives."
+				},
+				{
+					"name": "Will",
+					"text": "I suppose you have a point. Now, Thomas."
+				},
+				{
+					"name": "Thomas",
+					"text": "Hm?"
+				},
+				{
+					"name": "Will",
+					"text": "It's about the fairy's mannerisms. You understood all Olivia said?"
+				},
+				{
+					"name": "Will",
+					"text": "I think Puck has the potential to become the play's most popular character if he's acted out well."
+				},
+				{
+					"name": "Will",
+					"text": "I based him off a klutzy Italian mail boy, and—"
+				},
+				{
+					"name": "Thomas",
+					"text": "I get it, you know! He's, uh, like this, right?"
+				},
+				{
+					"text": "Thomas does a strange dance for me."
+				},
+				{
+					"text": "It's weird and uncanny, but there's nothing of the innocent cuteness Puck should have."
+				},
+				{
+					"name": "Will",
+					"text": "O-Oh..."
+				},
+				{
+					"name": "Kiki",
+					"text": "It doesn't really matter, we're all gonna get yelled at and chastised tomorrow no matter what we do."
+				},
+				{
+					"name": "Will",
+					"text": "Perhaps..."
+				},
+				{
+					"name": "Thomas",
+					"text": "Yeah, don't think too hard. Just bear with it again, then go and eat something tasty."
+				},
+				{
+					"name": "Kiki",
+					"text": "And drink the good ale!"
+				},
+				{
+					"name": "Kiki&Thomas",
+					"text": "Then hit the hay."
+				},
+				{
+					"name": "Will",
+					"text": "...Right."
+				},
+				{
+					"name": "Kiki",
+					"text": "You better take care of your face now."
+				},
+				{
+					"name": "Will",
+					"text": "Okay."
+				},
+				{
+					"text": "I see Kiki and Thomas off as they leave the theater."
+				},
+				{
+					"text": "They're not wrong."
+				},
+				{
+					"text": "When I became Olivia's \"slave,\" I also had no motivation for acting."
+				},
+				{
+					"text": "They're the same as I was."
+				},
+				{
+					"text": "I stare at Olivia as she stands on the stage practicing her movements."
+				},
+				{
+					"text": "To be honest, it would be far preferable if she were the only one who had to stand on stage."
+				},
+				{
+					"text": "But you can't make theater like that."
+				},
+				{
+					"text": "The performances we saw today in the square looked like child's play compared to Marlowe's crew."
+				},
+				{
+					"text": "Anyone with eyes can see we're below even that."
+				},
+				{
+					"text": "Olivia has a magnetism that keeps people's eyes fixed on her."
+				},
+				{
+					"text": "It seems like this troupe was established thanks in part to that."
+				},
+				{
+					"text": "But even that is reduced when she's up on stage. She's not able to be who she really is."
+				},
+				{
+					"text": "That fact was brought home hard to me today."
+				},
+				{
+					"text": "Men are willing and happy to be fooled, even if it's by a fake woman."
+				},
+				{
+					"text": "If Olivia were able to act as herself, the troupe's popularity would skyrocket."
+				},
+				{
+					"text": "But during the plays, no one realizes her true nature."
+				},
+				{
+					"text": "On the stage, she's a man."
+				},
+				{
+					"text": "At the drop of a hat, she can become a handsome nobleman."
+				},
+				{
+					"text": "All while retaining that attraction of hers."
+				},
+				{
+					"text": "She devotes herself to practicing her craft."
+				},
+				{
+					"text": "She seems made to stand on the stage."
+				},
+				{
+					"text": "Yet she can't do it as her own person."
+				},
+				{
+					"text": "Because she's a woman."
+				},
+				{
+					"text": "She has no choice but pretend to be a man."
+				},
+				{
+					"text": "But she shines the brightest when she performs as herself, as Olivia."
+				},
+				{
+					"text": "I watch her for what seems like hours."
+				},
+				{
+					"text": "Ah, that's right."
+				},
+				{
+					"text": "I suppose my job is to help \"her\" stand on the stage."
+				},
+				{
+					"name": "Will",
+					"text": "..."
+				},
+				{
+					"text": "I burn everything about her into my mind and make it mine."
+				},
+				{
+					"text": "That's a good shortcut."
+				},
+				{
+					"name": "Rob",
+					"text": "You've been busy, eh?"
+				},
+				{
+					"name": "Will",
+					"text": "Yeah, thanks in no small part to you."
+				},
+				{
+					"text": "I wash the dishes and cups as they pile up before me."
+				},
+				{
+					"name": "Will",
+					"text": "Maybe people are making up for the time we spent closed."
+				},
+				{
+					"name": "Father",
+					"text": "Not quite. This is all Olivia's doing."
+				},
+				{
+					"name": "Rob",
+					"text": "No doubt about it."
+				},
+				{
+					"text": "Rob and Dad laugh out loud."
+				},
+				{
+					"text": "I listen to them with a wry smile on my face."
+				},
+				{
+					"name": "Will",
+					"text": "Ah, Rob."
+				},
+				{
+					"name": "Rob",
+					"text": "Mm?"
+				},
+				{
+					"name": "Will",
+					"text": "There's something I'd like you to get for me."
+				},
+				{
+					"name": "Rob",
+					"text": "Now, what would that be?"
+				},
+				{
+					"text": "I tell Rob."
+				},
+				{
+					"name": "Rob",
+					"text": "Huh? What do you want that for, lad?"
+				},
+				{
+					"name": "Will",
+					"text": "Because I'll be using it. I can pay too. Think you can get it for me?"
+				},
+				{
+					"name": "Rob",
+					"text": "Err, maybe one of the nobles would part with one if I ask. Really, what are you using that for?"
+				},
+				{
+					"name": "Olivia",
+					"text": "Will! Three more cups of ale."
+				},
+				{
+					"name": "Will",
+					"text": "Coming right up!"
+				},
+				{
+					"text": "The pub is full tonight."
+				},
+				{
+					"text": "Ever since Olivia started working here, this stopped being an unusual sight."
+				},
+				{
+					"text": "Everyone comes to talk with her."
+				},
+				{
+					"text": "And now the food is actually okay too."
+				},
+				{
+					"text": "...It's pretty much all down to Olivia."
+				},
+				{
+					"text": "Now it feels like Olivia is the owner and I'm simply the helping hand."
+				},
+				{
+					"text": "I serve three cups and place them on the counter."
+				},
+				{
+					"text": "Olivia takes them and swiftly delivers them to their tables."
+				},
+				{
+					"text": "If the customers order more drinks, they can talk to Olivia when she brings them over."
+				},
+				{
+					"text": "Our daily sales of ale have increased by an order of magnitude since Olivia started working here."
+				},
+				{
+					"text": "Which in turn has made the relationship with our ale supplier a lot more amicable."
+				},
+				{
+					"text": "He's started giving us better deals and even gifting us bottles of alcohol I'd never heard of before, which in turns attracts drinkers with a taste for unusual and rare spirits."
+				},
+				{
+					"text": "Our sales have increased, and the amount we purchase with it."
+				},
+				{
+					"text": "One of the reasons we closed down after what happened with Ed was because we needed to plan around this new money flow."
+				},
+				{
+					"text": "Once the rush of food orders calms down, I direct my attention toward Olivia."
+				},
+				{
+					"text": "She rests her left hand on the back of a chair and puts her right on her hip."
+				},
+				{
+					"text": "I try mimicking her poses."
+				},
+				{
+					"text": "Even how she sways her hips as she walks."
+				},
+				{
+					"name": "Rob",
+					"text": "Lad, are you okay?"
+				},
+				{
+					"name": "Will",
+					"text": "Not now, please. This is important."
+				},
+				{
+					"name": "Rob",
+					"text": "Are you sure?"
+				},
+				{
+					"name": "Father",
+					"text": "What is it, Rob?"
+				},
+				{
+					"name": "Rob",
+					"text": "Boss, I don't know how to say this, but your son's shaking those hips."
+				},
+				{
+					"name": "Father",
+					"text": "Why is my son strutting his stuff?"
+				},
+				{
+					"name": "Rob",
+					"text": "He says it's important."
+				},
+				{
+					"name": "Father",
+					"text": "Hah..."
+				},
+				{
+					"text": "I keep observing her until it's time to close."
+				},
+				{
+					"text": "I discovered many things."
+				},
+				{
+					"text": "First, Olivia never turns her back on customers."
+				},
+				{
+					"text": "Even when she picks up drinks, her body's always facing the tables."
+				},
+				{
+					"text": "She always stands firm."
+				},
+				{
+					"text": "And her back is always ramrod straight."
+				},
+				{
+					"text": "Her usually emotional demeanor is concealed, and the feeling that she's hiding something behind that smile gives her an air of otherworldliness."
+				},
+				{
+					"text": "I feel like I'm unraveling the elements that make her so irresistible and appealing one by one."
+				},
+				{
+					"name": "Olivia",
+					"text": "You'll start writing today, right?"
+				},
+				{
+					"name": "Will",
+					"text": "Huh?"
+				},
+				{
+					"name": "Olivia",
+					"text": "The tragedy."
+				},
+				{
+					"text": "Olivia says, as she wipes a table."
+				},
+				{
+					"name": "Will",
+					"text": "Yeah, I guess I need to get started."
+				},
+				{
+					"name": "Olivia",
+					"text": "What kind of story is it?"
+				},
+				{
+					"name": "Will",
+					"text": "It's about revenge."
+				},
+				{
+					"name": "Olivia",
+					"text": "Revenge, you say?"
+				},
+				{
+					"text": "Yes, that's the main theme."
+				},
+				{
+					"text": "A downward spiral of revenge that results in tragedy."
+				},
+				{
+					"text": "The absurdity of the play's world is thrust upon the audience as they watch the main character become consumed by revenge."
+				},
+				{
+					"text": "That's the story that's burning inside of me."
+				},
+				{
+					"text": "I feel like that's the theme I must devote myself to right now."
+				},
+				{
+					"name": "Will",
+					"text": "..."
+				},
+				{
+					"text": "I'm taken back to the day Rob told me the story about that royal Danish ghost."
+				},
+				{
+					"text": "As I play it back in my mind, I write down the key words I'll use."
+				},
+				{
+					"text": "\"Compared to a king who sticks around after death, that son of his strikes me as a little spineless, don't you think?\""
+				},
+				{
+					"text": "Ed's words echo in my head."
+				},
+				{
+					"text": "He was right. The protagonist of this story is vindictive, weak, and obsessive."
+				},
+				{
+					"text": "His obsession for revenge is directed at his mother and uncle. And of course, at himself."
+				},
+				{
+					"text": "It's a chain that drags him to his own personal hell."
+				},
+				{
+					"text": "A Danish prince whose father was killed unjustly, and is tasked with taking revenge."
+				},
+				{
+					"text": "His name is..."
+				},
+				{
+					"name": "Will",
+					"text": "...Hamlet."
+				},
+				{
+					"text": "Yes, I remember hearing that name from a bookseller who was returning to Denmark."
+				},
+				{
+					"text": "I sound out the name several times and decide on the pronunciation."
+				},
+				{
+					"text": "It has a nice ring to it."
+				},
+				{
+					"text": "Hamlet."
+				},
+				{
+					"text": "Anger takes over his heart and drives him mad."
+				},
+				{
+					"text": "I'll put parts of my own anger into him."
+				},
+				{
+					"text": "My rage isn't so feeble as to be sublimated by this."
+				},
+				{
+					"text": "I can feel it coming out of my every pore, calling for blood."
+				},
+				{
+					"text": "But I can't let myself be driven by my rage."
+				},
+				{
+					"text": "That's why..."
+				},
+				{
+					"text": "Hamlet, you will go mad in my stead."
+				},
+				{
+					"text": "You will burn out in a blaze of revenge and hatred for me."
+				},
+				{
+					"text": "Revenge will beget revenge; it will consume the ones you love, and drive you to ruin."
+				},
+				{
+					"text": "And I will be with you all the way to the end. I will depict your struggle and your pain."
+				},
+				{
+					"text": "This seething anger, this emptiness in my chest... I will put it down onto paper for posterity."
+				},
+				{
+					"text": "The further you go, and the stronger you burn..."
+				},
+				{
+					"text": "People won't be able to look away from your pain."
+				},
+				{
+					"text": "Yes, you will be driven to the very edges of your sanity."
+				},
+				{
+					"text": "To the point where a quick death would be preferable to the inferno that your life will be."
+				},
+				{
+					"text": "What will you think when you're on the brink?"
+				},
+				{
+					"text": "What words will come out of your mouth?"
+				},
+				{
+					"name": "Will",
+					"text": "To be, or not to be..."
+				},
+				{
+					"text": "Yes, the ultimate choice will be thrust upon you."
+				},
+				{
+					"text": "But you can't afford to let the sweet embrace of death tempt you."
+				},
+				{
+					"text": "The ghost of your assassinated father..."
+				},
+				{
+					"text": "He is your curse."
+				},
+				{
+					"name": "Will",
+					"text": "Yes, yes..."
+				},
+				{
+					"text": "I've never felt such an exhilarating response before."
+				},
+				{
+					"text": "This work is it."
+				},
+				{
+					"text": "Ed..."
+				},
+				{
+					"text": "He said this was an interesting story."
+				},
+				{
+					"text": "I swear, I'll make this a masterpiece that will go down in history."
+				},
+				{
+					"text": "By the weekend, my face is completely healed."
+				},
+				{
+					"text": "Rob delivered what I asked for two days after I made my request."
+				},
+				{
+					"name": "Will",
+					"text": "Hmm, where does this go? Like this?"
+				},
+				{
+					"text": "I figure out how it works piece by piece."
+				},
+				{
+					"name": "Will",
+					"text": "Ah, I see. So this goes here..."
+				},
+				{
+					"name": "Will",
+					"text": "Impressive how they use such a complex thing."
+				},
+				{
+					"name": "Will",
+					"text": "Okay."
+				},
+				{
+					"text": "I'm ready."
+				},
+				{
+					"text": "I go out into the darkened city."
+				},
+				{
+					"text": "I inhale and exhale."
+				},
+				{
+					"text": "In my head, I picture Olivia."
+				},
+				{
+					"text": "I've been watching her closely, memorizing every move she makes."
+				},
+				{
+					"text": "All of it comes back to me now."
+				},
+				{
+					"text": "Using those memories as a base, I imagine myself taking a step forward as her."
+				},
+				{
+					"text": "I can hear my footsteps."
+				},
+				{
+					"text": "Occasionally, I pass by other townspeople."
+				},
+				{
+					"text": "Feeling gazes upon me that I've never felt before in my life, I keep walking through the city streets."
+				},
+				{
+					"name": "Olivia",
+					"text": "It's not right."
+				},
+				{
+					"text": "Atop the stage, I repeat the same movements again and again."
+				},
+				{
+					"text": "Each time, I make minute adjustments."
+				},
+				{
+					"name": "Olivia",
+					"text": "Like this?"
+				},
+				{
+					"text": "Finally, I find a motion that pleases me."
+				},
+				{
+					"text": "It flows well with the rest."
+				},
+				{
+					"text": "I repeat the movement until the correct manner is imprinted in my muscles, so I can perform it without conscious thought."
+				},
+				{
+					"text": "The day of the premiere is approaching."
+				},
+				{
+					"text": "I've taught Will as much as I can about theater, but his performance hasn't improved much."
+				},
+				{
+					"text": "I thought I had finally found someone who could bring out the beauty of female roles."
+				},
+				{
+					"text": "Perhaps I must take the reins this time as well."
+				},
+				{
+					"text": "I need to make sure everyone's eyes stay focused on me."
+				},
+				{
+					"text": "Sure, the acting will fall flat overall, but we'll at least make it something presentable."
+				},
+				{
+					"text": "The performances of the rest of the troupe might be unbearable to suffer, but below all that there's the strong foundation of Will's writing."
+				},
+				{
+					"text": "An authentic story that speaks of human nature and touches the heart."
+				},
+				{
+					"text": "An universal message that can resonate with people through the ages."
+				},
+				{
+					"name": "Olivia",
+					"text": "..."
+				},
+				{
+					"text": "Beads of sweat roll down my brow."
+				},
+				{
+					"text": "The cold night breeze envelops my heated body."
+				},
+				{
+					"text": "It's about time to go back."
+				},
+				{
+					"text": "I need to rest so I can be up bright and early tomorrow."
+				},
+				{
+					"text": "My sleep was always shallow, but these days I've been sleeping soundly."
+				},
+				{
+					"text": "Perhaps the fatigue is catching up to me."
+				},
+				{
+					"text": "But the time I spend in that pub always seems to be over in the blink of an eye."
+				},
+				{
+					"text": "After wiping myself down and getting changed, I leave the theater."
+				},
+				{
+					"text": "The first time I read Midsummer's Night Dream, my heart was aflutter, and my senses danced."
+				},
+				{
+					"text": "But now I'm completely exhausted."
+				},
+				{
+					"text": "As things stand, being selected for the court performance seems beyond our reach."
+				},
+				{
+					"text": "We're lacking in so many aspects."
+				},
+				{
+					"text": "If the troupe can't hold together without Spencer's patronage this summer..."
+				},
+				{
+					"text": "It'll be the end of it."
+				},
+				{
+					"text": "Spencer's planning to move to the New World."
+				},
+				{
+					"text": "And he's almost had enough of my constant dodging his marriage proposals."
+				},
+				{
+					"text": "Live or die, this is my last chance."
+				},
+				{
+					"text": "If I miss it, I will be Spencer's little doll for the rest of my days."
+				},
+				{
+					"name": "Olivia",
+					"text": "What have I come this far for?"
+				},
+				{
+					"text": "I murmur on a sigh."
+				},
+				{
+					"text": "When I lower my gaze from the bright moon, I catch sight of something out the corner of my eye. Something exuding elegance and grace."
+				},
+				{
+					"text": "I only realize that what I'm looking at is a woman when we pass each other."
+				},
+				{
+					"text": "My head whips back out of reflex, and I chase her with my eyes."
+				},
+				{
+					"text": "Waist-length golden hair sways beautifully as she walks."
+				},
+				{
+					"text": "I got the fleeting impression that she was smiling when we passed each other."
+				},
+				{
+					"text": "My imagination, mayhaps."
+				},
+				{
+					"text": "Either way..."
+				},
+				{
+					"name": "Olivia",
+					"text": "Curious..."
+				},
+				{
+					"text": "It's unusual to see a woman walking alone this late at night."
+				},
+				{
+					"text": "She doesn't look like a brothel worker."
+				},
+				{
+					"text": "Her scent is different, and she doesn't have that air about her."
+				},
+				{
+					"text": "Why did I turn around to look at her?"
+				},
+				{
+					"text": "Why am I staring as she walks away?"
+				},
+				{
+					"text": "I vaguely keep my eyes on her until she disappears into the night."
+				},
+				{
+					"name": "Olivia",
+					"text": "..."
+				},
+				{
+					"text": "I don't think I've ever looked back at someone like this."
+				},
+				{
+					"text": "Not once in my life."
+				}
+			]
+		},
+		{}
+	]
+}

@@ -1,0 +1,329 @@
+{
+	"scenes": [
+		{
+			"texts": [
+				{
+					"text": "I'm visiting a nearby cafe today with Rin and our little girl."
+				},
+				{
+					"text": "Since we're self-employed, we're free to take time off during the week."
+				},
+				{
+					"text": "We like being able to have a day out while the city is quieter."
+				},
+				{
+					"text": "We took a trip to the bookstore to get some materials, and then decided to stop by our usual cafe."
+				},
+				{
+					"text": "I suspect that at some point, the staff realized Rin's actually one of the most popular young writers in Japan."
+				},
+				{
+					"text": "But they keep a reasonable distance from our family."
+				},
+				{
+					"text": "And they're considerate enough to guide us to a place in the back of the store, away from the other patrons."
+				},
+				{
+					"text": "It's a really nice place, which is why I'm a regular."
+				},
+				{
+					"text": "Our daughter is sleeping soundly in her stroller."
+				},
+				{
+					"text": "Strangely enough, Rin's reading a weekly magazine. I can only imagine she's looking for material for her next novel."
+				},
+				{
+					"text": "I idly scroll through the news on my phone as I sip on some iced coffee."
+				},
+				{
+					"name": "Rin",
+					"text": "Hey, do you think we committed adultery?"
+				},
+				{
+					"text": "Talk about a bolt from the blue."
+				},
+				{
+					"text": "I raise my face from the screen and stare dumbfounded at her."
+				},
+				{
+					"text": "Automatically, my gaze shifts from her to our daughter."
+				},
+				{
+					"text": "Thankfully, it seems like she's asleep."
+				},
+				{
+					"text": "She may not be able to understand what we're talking about, but it's definitely not the kind of awkward conversation I'd want our daughter to overhear."
+				},
+				{
+					"name": "Arishima",
+					"text": "Where did that come from?"
+				},
+				{
+					"name": "Rin",
+					"text": "Look at this."
+				},
+				{
+					"text": "She turns the magazine around to show me a double-page spread article."
+				},
+				{
+					"name": "Arishima",
+					"text": "Couples formed by adultery have a high divorce rate... Cosmic retribution..."
+				},
+				{
+					"text": "Rin nods."
+				},
+				{
+					"name": "Arishima",
+					"text": "What crap are you reading?"
+				},
+				{
+					"name": "Rin",
+					"text": "Just a stupid gossip magazine."
+				},
+				{
+					"name": "Arishima",
+					"text": "Then why get hung up on one of its stupid articles?"
+				},
+				{
+					"name": "Rin",
+					"text": "But this says the divorce rate is over seventy percent."
+				},
+				{
+					"name": "Arishima",
+					"text": "Where did they get those numbers?"
+				},
+				{
+					"name": "Rin",
+					"text": "Mm, it says this magazine does its own research."
+				},
+				{
+					"name": "Arishima",
+					"text": "Rin, don't you remember what that editor who came from one of those magazines told us? The horoscopes are all written by part-timers just making stuff up. You're not supposed to take any of this seriously."
+				},
+				{
+					"name": "Rin",
+					"text": "This isn't fortune telling, it's hard statistics."
+				},
+				{
+					"name": "Arishima",
+					"text": "Even if they are, it's only seventy percent. We're happy, aren't we? That means we're in that thirty percent, then. All we've gotta do is keep the love alive to make it stay that way."
+				},
+				{
+					"name": "Rin",
+					"text": "But if there's seventy percent chance of rain, you'd bring an umbrella, right? Just in case, you know."
+				},
+				{
+					"name": "Arishima",
+					"text": "...I don't know about that."
+				},
+				{
+					"text": "She quirks a sly smile."
+				},
+				{
+					"name": "Rin",
+					"text": "I know how much of a worrywart you are, silly. You always carry an umbrella with you."
+				},
+				{
+					"name": "Arishima",
+					"text": "..."
+				},
+				{
+					"text": "I detect a hint of meaning behind her smile."
+				},
+				{
+					"text": "She's probably reminiscing about the day we met."
+				},
+				{
+					"text": "Me being such a worrywart is what led to me lending her an umbrella that day. Looking back on it, it was a pretty cheesy first encounter, huh?"
+				},
+				{
+					"name": "Rin",
+					"text": "I'm not saying these numbers are gonna bring me to tears, but it makes me wonder if it's actually true."
+				},
+				{
+					"name": "Arishima",
+					"text": "The marriage with my ex-wife had already collapsed by the time we became involved in that way. It wasn't adultery."
+				},
+				{
+					"name": "Rin",
+					"text": "I'm not asking for your self-interested interpretation of what happened, sweetie."
+				},
+				{
+					"text": "I squint and eye her suspiciously."
+				},
+				{
+					"name": "Rin",
+					"text": "I know I was young at the time, but I'm sure the divorce wasn't official back then, was it?"
+				},
+				{
+					"name": "Arishima",
+					"text": "...Yeah."
+				},
+				{
+					"name": "Rin",
+					"text": "Yes, that's what I thought. So it was adultery."
+				},
+				{
+					"name": "Arishima",
+					"text": "No, not quite."
+				},
+				{
+					"name": "Rin",
+					"text": "What do you mean?"
+				},
+				{
+					"name": "Arishima",
+					"text": "..."
+				},
+				{
+					"text": "Maybe she's not wrong."
+				},
+				{
+					"name": "Rin",
+					"text": "But the divorce wasn't official. You just started calling her your ex as soon as you left the house, right?"
+				},
+				{
+					"name": "Arishima",
+					"text": "...I don't remember that."
+				},
+				{
+					"name": "Rin",
+					"text": "Why are you lying?"
+				},
+				{
+					"name": "Arishima",
+					"text": "I'm sorry, you're right. I did call her my ex-wife before she actually was."
+				},
+				{
+					"name": "Rin",
+					"text": "Mhm, I knew I was right."
+				},
+				{
+					"text": "Rin nods to herself."
+				},
+				{
+					"name": "Rin",
+					"text": "So it really was adultery, then."
+				},
+				{
+					"name": "Arishima",
+					"text": "Maybe it was."
+				},
+				{
+					"name": "Rin",
+					"text": "Come again?"
+				},
+				{
+					"text": "Now she's the one eyeing me suspiciously with a frown on her face."
+				},
+				{
+					"name": "Arishima",
+					"text": "Yes, it was adultery."
+				},
+				{
+					"text": "She rests her cheek on the heel of her hand and turns her gaze away."
+				},
+				{
+					"name": "Rin",
+					"text": "I wonder if I'll become the new ex-wife as soon as the next young girl comes along."
+				},
+				{
+					"name": "Arishima",
+					"text": "Not in a million years."
+				},
+				{
+					"text": "She throws a freezing glare my way."
+				},
+				{
+					"text": "Sometimes I wonder if it's really normal to look at a member of your family with such a loaded gaze."
+				},
+				{
+					"name": "Rin",
+					"text": "How can you say that? Didn't you marry your ex-wife because you thought you wouldn't leave her in a million years?"
+				},
+				{
+					"name": "Arishima",
+					"text": "...Yeah."
+				},
+				{
+					"text": "I see now. A couple formed and married from an affair may start to become suspicious of one another, lose trust, and end up in a divorce."
+				},
+				{
+					"name": "Rin",
+					"text": "I don't want to get divorced..."
+				},
+				{
+					"text": "Rin trails off."
+				},
+				{
+					"text": "I turn my gaze back at her."
+				},
+				{
+					"text": "She settles back into her chair and drops her sad gaze down to the magazine."
+				},
+				{
+					"text": "Her expression echoes the innocent girl she was back when we first met."
+				},
+				{
+					"name": "Arishima",
+					"text": "It's okay, Rin. Even I've done some growing all these years we've been together. I know that I'm the luckiest man on Earth for having met you."
+				},
+				{
+					"name": "Arishima",
+					"text": "I know I've hurt you before, but I can swear to you that the one thing I won't ever do is betray you. I'll be by your side for as long as you can stomach this old man."
+				},
+				{
+					"text": "Rin slowly looks back up, meeting my gaze."
+				},
+				{
+					"name": "Rin",
+					"text": "Yeah, that's right."
+				},
+				{
+					"text": "Suddenly, a small cry comes from the stroller."
+				},
+				{
+					"text": "Our heads turn in unison to check on our daughter."
+				},
+				{
+					"text": "Rin reaches out and slowly rocks the stroller back and forth."
+				},
+				{
+					"text": "The crying diminishes and her breathing evens out again in a minute."
+				},
+				{
+					"name": "Rin",
+					"text": "We're parents now. We need to stay together and do our best."
+				},
+				{
+					"name": "Arishima",
+					"text": "Yeah."
+				},
+				{
+					"name": "Rin",
+					"text": "I've gotta do my part to keep the love alive too."
+				},
+				{
+					"name": "Arishima",
+					"text": "Keeping the flame alive is a joint effort, yeah."
+				},
+				{
+					"text": "She quirks an amused smile."
+				},
+				{
+					"name": "Rin",
+					"text": "It's okay. I don't see myself getting tired of teasing you in the foreseeable future."
+				},
+				{
+					"name": "Arishima",
+					"text": "Were you playing me like a fiddle again, honey?"
+				},
+				{
+					"name": "Rin",
+					"text": "Mm, who knows..."
+				}
+			]
+		},
+		{}
+	]
+}

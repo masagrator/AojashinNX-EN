@@ -1,0 +1,237 @@
+{
+	"scenes": [
+		{},
+		{},
+		{
+			"texts": [
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "I realize I've been crying."
+				},
+				{
+					"text": "I get up and wipe my tears."
+				},
+				{
+					"text": "It may be just a dream, but the pain of saying farewell to a loved one is very real in my heart right now."
+				},
+				{
+					"text": "I turn to look at Yonagi."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "I get up, walk to her bedside, and gently wipe away the tears pooling in the corners of her eyes."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Mm..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Kaito?"
+				},
+				{
+					"text": "Still half-asleep, she reaches out to me."
+				},
+				{
+					"name": "Kaito",
+					"text": "I'm right here."
+				},
+				{
+					"text": "I hold her hand in mine, and we stay like that for a while."
+				}
+			]
+		},
+		{
+			"texts": [
+				{
+					"name": "Kaito",
+					"text": "Hah... Hah..."
+				},
+				{
+					"text": "My eyes snap open and I turn to the sleeping Yonagi."
+				},
+				{
+					"text": "It happened again."
+				},
+				{
+					"text": "I saw another unfamiliar vision."
+				},
+				{
+					"text": "Is this Yonagi's power?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "...Kaito."
+				},
+				{
+					"text": "Yonagi groggily opens her eyes."
+				},
+				{
+					"name": "Yonagi",
+					"text": "What's wrong?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Oh..."
+				},
+				{
+					"text": "I struggle to regulate my breathing so that she doesn't notice how shaken up I am."
+				},
+				{
+					"name": "Kaito",
+					"text": "It's nothing. I was just watching you sleep, that's all."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I see."
+				},
+				{
+					"name": "Kaito",
+					"text": "Are you still sleepy?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Mhm..."
+				},
+				{
+					"name": "Kaito",
+					"text": "You can keep sleeping."
+				},
+				{
+					"text": "I put the palm of my hand against her forehead and gently let it glide left and right."
+				},
+				{
+					"name": "Kaito",
+					"text": "The next dream we have together will be the last."
+				},
+				{
+					"name": "Kaito",
+					"text": "I'll be with you soon."
+				},
+				{
+					"name": "Yonagi",
+					"text": "...Okay."
+				},
+				{
+					"name": "Kaito",
+					"text": "Good night."
+				},
+				{
+					"name": "Yonagi",
+					"text": "...Good night."
+				},
+				{
+					"text": "Her breathing becomes calmer, and before I know it, she's asleep."
+				},
+				{
+					"name": "Izumo",
+					"text": "This will be the last dream."
+				},
+				{
+					"name": "Izumo",
+					"text": "Are you ready?"
+				},
+				{
+					"name": "Kaito",
+					"text": "...Yeah."
+				},
+				{
+					"text": "I turn to face Izumo."
+				},
+				{
+					"name": "Kaito",
+					"text": "I know you probably won't tell me anything, but I might as well ask."
+				},
+				{
+					"name": "Izumo",
+					"text": "What is it?"
+				},
+				{
+					"name": "Kaito",
+					"text": "I think I have a hunch... about who the mastermind behind this whole elaborate setup is."
+				},
+				{
+					"name": "Izumo",
+					"text": "..."
+				},
+				{
+					"name": "Kaito",
+					"text": "Would you hear me out?"
+				},
+				{
+					"name": "Izumo",
+					"text": "As long as you don't expect an answer."
+				},
+				{
+					"text": "I feel the corner of my mouth twitch upwards."
+				},
+				{
+					"name": "Kaito",
+					"text": "Going by what little I know, the only person who could put all this together is..."
+				},
+				{
+					"name": "Kaito",
+					"text": "Me. I don't believe it could be anyone else."
+				},
+				{
+					"text": "Izumo gives me a level stare."
+				},
+				{
+					"name": "Kaito",
+					"text": "I may not have my memories..."
+				},
+				{
+					"name": "Kaito",
+					"text": "But I can feel that Yonagi is important to me."
+				},
+				{
+					"name": "Kaito",
+					"text": "And if this plan will serve to help her, I'm sure I would cooperate."
+				},
+				{
+					"name": "Kaito",
+					"text": "But there is no third-party intervention. This plan seems able to be carried out to its completion with only the four of us in this room."
+				},
+				{
+					"name": "Kaito",
+					"text": "And I believe I may be familiar with the workings of the human brain and memory formation. I wouldn't be able to keep up with what you say otherwise."
+				},
+				{
+					"name": "Kaito",
+					"text": "If that's the case, and I'm right, the only person behind all this has to be me."
+				},
+				{
+					"name": "Kaito",
+					"text": "What do you think?"
+				},
+				{
+					"name": "Izumo",
+					"text": "Once you finish the last dream, everything will become clear."
+				},
+				{
+					"name": "Izumo",
+					"text": "You will know, whether you want or not."
+				},
+				{
+					"name": "Izumo",
+					"text": "That question is not one for me to answer at this point in time."
+				},
+				{
+					"name": "Kaito",
+					"text": "...Okay."
+				},
+				{
+					"name": "Kaito",
+					"text": "Let's finish that last dream."
+				}
+			]
+		},
+		{}
+	]
+}

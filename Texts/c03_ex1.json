@@ -1,0 +1,577 @@
+{
+	"scenes": [
+		{
+			"texts": [
+				{
+					"name": "Sumomo",
+					"text": "Hey, hey! Kanna!"
+				},
+				{
+					"name": "Sumomo",
+					"text": "So, uh, about the cam I borrowed the other day..."
+				},
+				{
+					"name": "Kanna",
+					"text": "Cam?"
+				},
+				{
+					"name": "Kanna",
+					"text": "Ah, the one you took on that girls-only camping trip with Azuki? How did that go?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Oh, it was just dandy!"
+				},
+				{
+					"name": "Kanna",
+					"text": "You're giving it to Azuki for her channel, right? She's doing her own editing?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "I wonder. I think she uploaded her first video today."
+				},
+				{
+					"name": "Kanna",
+					"text": "Oh! Let's watch it!"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Err, I wanted to talk about something before we watched the video."
+				},
+				{
+					"name": "Kanna",
+					"text": "Azuki Channel... 'Camping with the girls,' huh? Gotta be this one... Whoa!"
+				},
+				{
+					"name": "Sumomo",
+					"text": "What's wrong?!"
+				},
+				{
+					"name": "Kanna",
+					"text": "She uploaded it today, right?! It has over three hundred thousand views!"
+				},
+				{
+					"name": "Sumomo",
+					"text": "For real?!"
+				},
+				{
+					"name": "Kanna",
+					"text": "Look!"
+				},
+				{
+					"name": "Azuki",
+					"text": "It's recording?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "You bet!"
+				},
+				{
+					"name": "Azuki",
+					"text": "Aloha! Azuki here! Remember to like and subscribe, kiddos!"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Like and subscribe!"
+				},
+				{
+					"name": "Kanna",
+					"text": "Isn't that a bit early? Don't people usually do that at the end of the video?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Azuki says you've gotta be a trailblazer to make it on the internet."
+				},
+				{
+					"name": "Kanna",
+					"text": "Really?"
+				},
+				{
+					"name": "Azuki",
+					"text": "Today we bring you this! Look at this view!"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Are you sure about this? It's just a forest, isn't it?"
+				},
+				{
+					"name": "Azuki",
+					"text": "Ah, shut up! A good view is a good view! Doesn't it feel good to be here?! It's about the vibe! Breathe in that clean air!"
+				},
+				{
+					"name": "Sumomo",
+					"text": "We sprayed so much insect spray that I can't smell anything else."
+				},
+				{
+					"name": "Azuki",
+					"text": "The hell are you here for?! To bomb my video?! You damn bitch!"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Yeah, yeah! Just let me take care of the camera! Oh, my name's Momonouchi Sumomo, by the way! I'm your camera lady today!"
+				},
+				{
+					"name": "Sumomo",
+					"text": "I'm a beautician by day, and I work with Azuki at filming locations. Married, by the way! So no funky business in the comments, boys!"
+				},
+				{
+					"name": "Azuki",
+					"text": "No one's gonna thirst over a hag like you, geez."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Forget about me and keep the video going!"
+				},
+				{
+					"name": "Azuki",
+					"text": "Yeah, yeah! Anyway, we have a talky cam today so..."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Azuki! Say it properly! Camera!"
+				},
+				{
+					"name": "Azuki",
+					"text": "Who the heck cares?! God, you and the pipsqueak are such a pain in the ass sometimes!"
+				},
+				{
+					"name": "Sumomo",
+					"text": "So we're having a ladies-only camping trip this weekend!"
+				},
+				{
+					"name": "Azuki",
+					"text": "What she said! No boys allowed!"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Oh, fire! You're totes good at camping, huh?"
+				},
+				{
+					"name": "Azuki",
+					"text": "Well, naturally! I used to camp a lot back in the day. Wanted to light fires really bad, you know how it is."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Ah, I see. So it wasn't because you wanted to drive cars?"
+				},
+				{
+					"name": "Azuki",
+					"text": "Cars are fun no matter what you do with them. No need to go camping for that."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Mm..."
+				},
+				{
+					"name": "Azuki",
+					"text": "You got a license yet, Peach?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Nope! Seems like a drag, so I never bothered."
+				},
+				{
+					"name": "Azuki",
+					"text": "Nah, it's easy! You can just drive an automatic and it practically drives itself."
+				},
+				{
+					"name": "Sumomo",
+					"text": "But what about the accelerator? Don't you gotta step on that and the breaks? You also have to turn the wheel, right?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "And you gotta press the thing that goes all flashy when you turn, right?"
+				},
+				{
+					"name": "Azuki",
+					"text": "That's the blinkers. You don't need to vocalize."
+				},
+				{
+					"name": "Sumomo",
+					"text": "And you also gotta turn on the thing that wipes the glass when it rains, right?"
+				},
+				{
+					"name": "Azuki",
+					"text": "The wipers, yeah."
+				},
+				{
+					"name": "Sumomo",
+					"text": "No way! Too much stuff to do. It's not my thing."
+				},
+				{
+					"name": "Azuki",
+					"text": "You do a lot more than that fixing up someone's hair, if you ask me. You know, the whole thing where you grab someone's hair and slather butter on it."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Butter? Ah, you mean the hair wax?"
+				},
+				{
+					"name": "Azuki",
+					"text": "Yeah, that thing."
+				},
+				{
+					"name": "Sumomo",
+					"text": "You sure you're a model, Azuki? Like, you're a top model!"
+				},
+				{
+					"name": "Azuki",
+					"text": "Thanks."
+				},
+				{
+					"name": "Sumomo",
+					"text": "How do you not remember what hair wax is? If you keep saying stuff like that, kids are gonna start copying it! You can't spread misinformation like that!"
+				},
+				{
+					"name": "Azuki",
+					"text": "Huh? You mean butter's not good for your hair?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Are you stupid?! It'd make it sooo greasy, probably!"
+				},
+				{
+					"name": "Kanna",
+					"text": "I don't think this has anything to do with camping."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Ahahah! Agreed!"
+				},
+				{
+					"name": "Azuki",
+					"text": "Well, that's one fire started. Let's get cooking."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Aye! What do we roast first?"
+				},
+				{
+					"name": "Azuki",
+					"text": "The bananas."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Bananas?! Excuse me?! You wanna roast bananas?!"
+				},
+				{
+					"name": "Azuki",
+					"text": "They're damn good. You didn't know?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Like hell I know! Don't we have meat or marshmallows? We're camping!"
+				},
+				{
+					"name": "Azuki",
+					"text": "Pfft, that's weak sauce. You get bored of marshmallows in like, two days!"
+				},
+				{
+					"name": "Azuki",
+					"text": "Bananas are forever, you broad!"
+				},
+				{
+					"name": "Sumomo",
+					"text": "I'll get tired of baked bananas after just one!"
+				},
+				{
+					"name": "Azuki",
+					"text": "Stop being a baby about it!"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Okay, I get it! Let's roast the damn bananas, but let me roast something else too!"
+				},
+				{
+					"name": "Azuki",
+					"text": "No can do. I only packed bananas."
+				},
+				{
+					"name": "Sumomo",
+					"text": "What?"
+				},
+				{
+					"name": "Azuki",
+					"text": "Look here."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Are you a damn monkey?!"
+				},
+				{
+					"name": "Azuki",
+					"text": "That was uncalled for!"
+				},
+				{
+					"name": "Sumomo",
+					"text": "You gotta be kidding me! How do you only bring bananas on a camping trip?!"
+				},
+				{
+					"name": "Azuki",
+					"text": "What else do you need?! Besides, Japanese monkeys eat potatoes, not bananas, you airhead! We don't grow bananas here!"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Then you're worse than a monkey!"
+				},
+				{
+					"name": "Azuki",
+					"text": "Ah shut up! You're just stupid! Dumb bimbo!"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Monkey!"
+				},
+				{
+					"name": "Azuki",
+					"text": "Let me tell you about bananas! They don't grow here in Japan, so you gotta breed them specially or import them! They're an achievement of science! Japanese bananas are the best!"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Ahahah! The monkey's defending bananas now!"
+				},
+				{
+					"name": "Azuki",
+					"text": "Well you're not getting your hands on a single one of these, you hear me?!"
+				},
+				{
+					"name": "Sumomo",
+					"text": "No, no! Let me have one! I'll be a monkley too! Ook ook! See?"
+				},
+				{
+					"name": "Azuki",
+					"text": "Ook!"
+				},
+				{
+					"name": "Kanna",
+					"text": "Looks like you had fun."
+				},
+				{
+					"name": "Sumomo",
+					"text": "It was a blast!"
+				},
+				{
+					"name": "Sumomo",
+					"text": "But Azuki really needs to get real. I mean, bringing only bananas to camp out?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Oh, this is good! Roasted bananas rock!"
+				},
+				{
+					"name": "Azuki",
+					"text": "Heheh, didn't I tell you?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "They're good, and super soft! Gimme another!"
+				},
+				{
+					"name": "Azuki",
+					"text": "Who's the monkey now, eh?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "You evolved enough to use fire! I'm loving it!"
+				},
+				{
+					"name": "Azuki",
+					"text": "You still poking fun at me?!"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Another!"
+				},
+				{
+					"name": "Azuki",
+					"text": "It's good, ain't it? You see it now?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "You bet I do!"
+				},
+				{
+					"name": "Azuki",
+					"text": "Bananas are all you need, right?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Nah, I would have liked meat, still. I don't think bananas go too well with booze."
+				},
+				{
+					"name": "Azuki",
+					"text": "Damn, you got pissy when you became a housewife! Don't eat my bananas! You ought to apologize to the banana god!"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Ahahah! Who the heck is that?! You worship phallic objects now?"
+				},
+				{
+					"name": "Azuki",
+					"text": "Ah, shut up! That's all you can think of when you hear about bananas?! Get your head out of the gutter!"
+				},
+				{
+					"name": "Kanna",
+					"text": "It's nice to see you two fooling around like always."
+				},
+				{
+					"name": "Sumomo",
+					"text": "We just become little kids when we hang out together, huh?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "I'm getting tired, Azuki! Let's switch places!"
+				},
+				{
+					"name": "Azuki",
+					"text": "What? You wanna give me the cam?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "It's not a... Whatever! Just take it!"
+				},
+				{
+					"name": "Azuki",
+					"text": "You don't have to hold it up like a dummy, do you? Don't you have a tripod?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "It's too heavy!"
+				},
+				{
+					"name": "Azuki",
+					"text": "Just leave it there. It's gonna record anyway."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Thanks! Okay, let's put you on this rock. There you go."
+				},
+				{
+					"name": "Kanna",
+					"text": "Huh? You didn't use a tripod? Was the camera okay?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "..."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Does this get the shot okay?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Ah, that's cool! Now we can get me in the shot too! Hello there! Sumomo here!"
+				},
+				{
+					"name": "Azuki",
+					"text": "Come over here, Peaches. Your banana's gonna get burned."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Ah, coming!"
+				},
+				{
+					"name": "Azuki",
+					"text": "Ah!"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Ah! Crap... I didn't like that sound."
+				},
+				{
+					"name": "Azuki",
+					"text": "Did it break?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Looks like that. Oh man, Kanna's gonna be so mad."
+				},
+				{
+					"name": "Azuki",
+					"text": "Ah crap! Did we lose all the footage?!"
+				},
+				{
+					"name": "Sumomo",
+					"text": "I think it recorded everything up until now. Can you check?"
+				},
+				{
+					"name": "Azuki",
+					"text": "Sure, lemme get the computer real quick."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Just make sure you cut the part where it breaks, okay?"
+				},
+				{
+					"name": "Azuki",
+					"text": "Right on!"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Damn her... I told her to cut that!"
+				},
+				{
+					"name": "Kanna",
+					"text": "Ah, but it did record it all."
+				},
+				{
+					"name": "Sumomo",
+					"text": "S-Sorry for breaking your cam..."
+				},
+				{
+					"name": "Kanna",
+					"text": "The camera, you mean."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Ah, right. I'm really sorry for that, Canna..."
+				},
+				{
+					"name": "Kanna",
+					"text": "Kanna, you mean."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Oh, yeah..."
+				},
+				{
+					"name": "Kanna",
+					"text": "Just make sure you take the tripod next time. I'd like to do some banana camping too sometime."
+				},
+				{
+					"name": "Sumomo",
+					"text": "The roasted bananas were actually pretty good! I'll make you some to apologize, okay? I saw how Azuki made them!"
+				},
+				{
+					"name": "Kanna",
+					"text": "We haven't been able to go camping lately, now that I think about it. We gotta use Hachimaru more. I mean, Azuki was kind enough to give it back and all."
+				},
+				{
+					"name": "Kanna",
+					"text": "Okay, let's go this weekend!"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Yippee! Good thing I broke the camera!"
+				},
+				{
+					"name": "Kanna",
+					"text": "Sumomo."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Ah... Sorry. Too much info, right?"
+				},
+				{
+					"name": "Kanna",
+					"text": "You meant cam?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Oh my god!"
+				}
+			]
+		},
+		{}
+	]
+}

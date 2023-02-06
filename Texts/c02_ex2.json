@@ -1,0 +1,566 @@
+{
+	"scenes": [
+		{
+			"texts": [
+				{
+					"text": "After becoming the Lord Chamberlain's Men, we released three more plays."
+				},
+				{
+					"text": "Today's the premiere of the latest of them."
+				},
+				{
+					"text": "It takes me back to the play we performed in secret for Queen Elizabeth, Romeo and Juliet."
+				},
+				{
+					"text": "That's the play that got us the position of Lord Chamberlain's Men in the first place."
+				},
+				{
+					"text": "I wrote only tragedies for a while after that, so this time I wrote a comedy."
+				},
+				{
+					"text": "After the play, I go out and greet our expectant audience, and the theater breaks out in an ovation."
+				},
+				{
+					"text": "A play is complete only when it finally elicits a reaction from the audience."
+				},
+				{
+					"text": "Their cheers fill the theater, guiding our production, and giving the actors on stage confidence."
+				},
+				{
+					"text": "Thus the performance improves, and the audience grows more and more engrossed in our stories."
+				},
+				{
+					"text": "What kickstarts that cycle is the script at the base of it all."
+				},
+				{
+					"text": "There are times when a good script can make up for a lacking execution and performance, but there's no such thing as a good play without a good script."
+				},
+				{
+					"text": "Once there is a script, it is the job of the playwright to keep the whole troupe within the bounds of the story."
+				},
+				{
+					"text": "I've done this professionally for a while now, but premieres are one thing I'll never get used to."
+				},
+				{
+					"text": "I head back to the wing of the stage, the full seats of the theater causing me to smile from ear to ear."
+				},
+				{
+					"name": "Olivia",
+					"text": "Good job out there."
+				},
+				{
+					"name": "Will",
+					"text": "Thanks."
+				},
+				{
+					"name": "Olivia",
+					"text": "Now you're conducting yourself like the great man you are. It's the least I expect from Tenbridge's best-selling author."
+				},
+				{
+					"name": "Will",
+					"text": "Take another look. My knees are jelly."
+				},
+				{
+					"text": "Olivia glance at my shivering knees."
+				},
+				{
+					"name": "Olivia",
+					"text": "Oh, you weren't joking."
+				},
+				{
+					"name": "Will",
+					"text": "Premieres always make me nervous."
+				},
+				{
+					"text": "She looks back at me and gives me a reassuring smile."
+				},
+				{
+					"name": "Olivia",
+					"text": "I think it's a fine thing. Never forget that humility."
+				},
+				{
+					"name": "Kiki",
+					"text": "Hey, Will! Leader!"
+				},
+				{
+					"name": "Olivia",
+					"text": "Mm?"
+				},
+				{
+					"name": "Will",
+					"text": "Yes?"
+				},
+				{
+					"text": "Strictly speaking, she's not the troupe leader anymore."
+				},
+				{
+					"text": "But that's what everyone in the troupe still calls her."
+				},
+				{
+					"text": "I always consult with her about my latest works, and we also plan out the production together."
+				},
+				{
+					"text": "And she's in charge of the rehearsals and the logistics of it all."
+				},
+				{
+					"text": "She's also the one who whips us all into shape."
+				},
+				{
+					"text": "While she may not be on the stage anymore, she is still the leader of this troupe behind the curtains."
+				},
+				{
+					"text": "It is not what we desired, but for now she's content being our shadow leader."
+				},
+				{
+					"name": "Kiki",
+					"text": "Some big wig from the castle wants to speak with us, supposedly."
+				},
+				{
+					"name": "Will",
+					"text": "Oh, really?"
+				},
+				{
+					"name": "Kiki",
+					"text": "Mhm."
+				},
+				{
+					"name": "Olivia",
+					"text": "Are you sure it's not just a fan trying to get our attention?"
+				},
+				{
+					"name": "Kiki",
+					"text": "A person of great importance, they said."
+				},
+				{
+					"name": "Olivia",
+					"text": "No one who is actually of great importance would ever refer to themselves as such. How suspicious."
+				},
+				{
+					"name": "Kiki",
+					"text": "I thought the same, but they just won't go away. They said my whole family would be beheaded unless I bring the people in charge to them."
+				},
+				{
+					"name": "Olivia",
+					"text": "They can do that?"
+				},
+				{
+					"name": "Will",
+					"text": "You're working backstage, Olivia. The only ones they have to see are me and Kiki."
+				},
+				{
+					"name": "Kiki",
+					"text": "Uh, they kind of asked for the leader, specifically."
+				},
+				{
+					"name": "Will",
+					"text": "For Olivia, you mean?"
+				},
+				{
+					"text": "We exchange slightly alarmed glances."
+				},
+				{
+					"text": "Olivia is no longer working here in any official capacity, so if they requested her by name..."
+				},
+				{
+					"text": "It might be someone we know."
+				},
+				{
+					"name": "Will",
+					"text": "Wanna go see what this is all about?"
+				},
+				{
+					"name": "Olivia",
+					"text": "Yes. Let's go see who they are. Perhaps they are as important as they claim, after all."
+				},
+				{
+					"name": "Kiki",
+					"text": "This way."
+				},
+				{
+					"name": "Kiki",
+					"text": "Err... Ah! There they are. Look, by the entrance."
+				},
+				{
+					"name": "Olivia",
+					"text": "Wait a minute..."
+				},
+				{
+					"text": "Olivia looks up at me, and I notice the anxiousness in her gaze."
+				},
+				{
+					"name": "Will",
+					"text": "That's Queen Elizabeth's attendant..."
+				},
+				{
+					"name": "Kiki",
+					"text": "Huh? The queen?!"
+				},
+				{
+					"name": "Olivia",
+					"text": "Let's go."
+				},
+				{
+					"name": "Queen Elizabeth",
+					"text": "Well met. It has been far too long, William Shakespeare and Olivia Berry."
+				},
+				{
+					"name": "Will",
+					"text": "Yes..."
+				},
+				{
+					"name": "Queen Elizabeth",
+					"text": "No need to look so tense! I am merely a theatergoer today."
+				},
+				{
+					"name": "Will",
+					"text": "O-Okay?"
+				},
+				{
+					"name": "Kiki",
+					"text": "Whoa, the queen brings her whole throne with her when she goes on escapades? Isn't it a bit... big?"
+				},
+				{
+					"name": "Olivia",
+					"text": "I don't think she'd be able to move about in secrecy if that's the case."
+				},
+				{
+					"name": "Will",
+					"text": "Y-You're gonna get us killed! Shut it!"
+				},
+				{
+					"name": "Queen Elizabeth",
+					"text": "I grow restless if I'm not sat on my throne, so I secretly had it brought here to this theater of yours."
+				},
+				{
+					"name": "Will",
+					"text": "I didn't even notice..."
+				},
+				{
+					"name": "Queen Elizabeth",
+					"text": "Visiting theaters in secret is a specialty of mine. There is no theater in this city that I cannot sneak into, throne and all."
+				},
+				{
+					"name": "Will",
+					"text": "Th-That's remarkable!"
+				},
+				{
+					"name": "Queen Elizabeth",
+					"text": "Tonight's comedy was simply sublime, Shakespeare. Truly, your performance elevates the good name of the Lord Chamberlain's Men."
+				},
+				{
+					"name": "Will",
+					"text": "Thank you."
+				},
+				{
+					"name": "Queen Elizabeth",
+					"text": "However... Do you know why I summoned you tonight?"
+				},
+				{
+					"name": "Will",
+					"text": "I... honestly have no idea, Ma'am."
+				},
+				{
+					"name": "Queen Elizabeth",
+					"text": "Olivia Berry."
+				},
+				{
+					"name": "Olivia",
+					"text": "Yes, Your Majesty?"
+				},
+				{
+					"name": "Queen Elizabeth",
+					"text": "You were originally the leader of this troupe, correct?"
+				},
+				{
+					"name": "Olivia",
+					"text": "Yes."
+				},
+				{
+					"name": "Queen Elizabeth",
+					"text": "Yet you don't stand on your own stage now. Why is that?"
+				},
+				{
+					"name": "Olivia",
+					"text": "...Because I'm a woman, Ma'am."
+				},
+				{
+					"name": "Queen Elizabeth",
+					"text": "Yes. You were allowed to perform for that one night only."
+				},
+				{
+					"name": "Queen Elizabeth",
+					"text": "It is a regrettable state of affairs. I wish to see you perform again, truly I do. But you should know that will never happen during my reign, as much as I may want it to."
+				},
+				{
+					"name": "Queen Elizabeth",
+					"text": "Isn't that right, Shakespeare?"
+				},
+				{
+					"name": "Will",
+					"text": "Yes, Ma'am."
+				},
+				{
+					"name": "Queen Elizabeth",
+					"text": "Well then, how would you explain to me this member of your troupe?"
+				},
+				{
+					"name": "Kiki",
+					"text": "Huh?"
+				},
+				{
+					"name": "Queen Elizabeth",
+					"text": "Why is this woman standing on stage, I ask."
+				},
+				{
+					"name": "Will",
+					"text": "..."
+				},
+				{
+					"name": "Olivia",
+					"text": "..."
+				},
+				{
+					"name": "Queen Elizabeth",
+					"text": "No response, then?"
+				},
+				{
+					"name": "Will",
+					"text": "N-No, my Queen... She, uh, err, no! He..."
+				},
+				{
+					"name": "Will",
+					"text": "You have it wrong, Ma'am. He's actually a man."
+				},
+				{
+					"name": "Queen Elizabeth",
+					"text": "..."
+				},
+				{
+					"name": "Kiki",
+					"text": "Ayup."
+				},
+				{
+					"name": "Queen Elizabeth",
+					"text": "Hahah... Ahahah! Ahahahahahah!"
+				},
+				{
+					"name": "Queen Elizabeth",
+					"text": "Have you lost your mind, Shakespeare? You mean to tell me this beautiful specimen is a man?! Surely you jest!"
+				},
+				{
+					"name": "Queen Elizabeth",
+					"text": "I have seen many actors in my time, boy, but never have I seen a man like this."
+				},
+				{
+					"name": "Kiki",
+					"text": "E-Eheheh."
+				},
+				{
+					"name": "Olivia",
+					"text": "This is no time to blush at compliments, Kiki."
+				},
+				{
+					"name": "Will",
+					"text": "N-No, Ma'am. This is no jest. He is, in fact, male... biologically, at least."
+				},
+				{
+					"name": "Kiki",
+					"text": "Ayup."
+				},
+				{
+					"name": "Queen Elizabeth",
+					"text": "So you shall play innocent, then."
+				},
+				{
+					"name": "Will",
+					"text": "No, I..."
+				},
+				{
+					"name": "Queen Elizabeth",
+					"text": "Well, let us play along. Shall I ascertain the sex of this man of yours right here and now?"
+				},
+				{
+					"name": "Will",
+					"text": "Err, well... S-Sure? Go ahead?"
+				},
+				{
+					"name": "Olivia",
+					"text": "Mhm, mhm."
+				},
+				{
+					"name": "Kiki",
+					"text": "Good by me!"
+				},
+				{
+					"name": "Queen Elizabeth",
+					"text": "You underestimate my mettle at your own peril. If you believe your resolute attitude will get me to back down, you are sorely mistaken."
+				},
+				{
+					"name": "Will",
+					"text": "We'd never do such a foolish thing. You are welcome to ascertain as much as you want, Ma'am."
+				},
+				{
+					"name": "Olivia",
+					"text": "Kiki, makes preparations so Her Majesty can ascertain properly."
+				},
+				{
+					"name": "Kiki",
+					"text": "Okie dokie! Now, if you'll excuse me..."
+				},
+				{
+					"name": "Kiki",
+					"text": "Upsy daisy! Okay, here goes! Oop!"
+				},
+				{
+					"name": "Queen Elizabeth",
+					"text": "Wh-What in the world is this?!"
+				},
+				{
+					"name": "Kiki",
+					"text": "Huh? Is it hard to see?"
+				},
+				{
+					"name": "Queen Elizabeth",
+					"text": "L-Lord preserve! A real appendage! I-It's so imposing too! Goodness!"
+				},
+				{
+					"name": "Kiki",
+					"text": "I told you!"
+				},
+				{
+					"name": "Queen Elizabeth",
+					"text": "O-Obviously, you stuffed your underpants! It is fake!"
+				},
+				{
+					"name": "Kiki",
+					"text": "Feel free to touch."
+				},
+				{
+					"name": "Queen Elizabeth",
+					"text": "T-Touch? Me? Touch th-that huge thing?!"
+				},
+				{
+					"name": "Kiki",
+					"text": "Feel free to slide your royal hand right in, Ma'am."
+				},
+				{
+					"name": "Queen Elizabeth",
+					"text": "Oh my!"
+				},
+				{
+					"name": "Kiki",
+					"text": "Make sure to go all the way down to the base so you can make sure it's properly attached."
+				},
+				{
+					"name": "Queen Elizabeth",
+					"text": "E-Eep!"
+				},
+				{
+					"name": "Kiki",
+					"text": "I call that one the left squire, and that's the right squire."
+				},
+				{
+					"name": "Queen Elizabeth",
+					"text": "I-I think the knight is putting on armor!"
+				},
+				{
+					"name": "Kiki",
+					"text": "Ah, yes! Right there, oooh..."
+				},
+				{
+					"name": "Queen Elizabeth",
+					"text": "E-E-Enough! I've, err, seen enough! No more!"
+				},
+				{
+					"name": "Queen Elizabeth",
+					"text": "Hah... Hah... Hah... Haah..."
+				},
+				{
+					"name": "Will",
+					"text": "How was it, Ma'am?"
+				},
+				{
+					"name": "Queen Elizabeth",
+					"text": "I-I reserve my impression, Shakespeare! P-Please, tell Kiki to put it away this instant!"
+				},
+				{
+					"name": "Olivia",
+					"text": "A respectable reaction."
+				},
+				{
+					"name": "Will",
+					"text": "You heard Her Majesty, Kiki."
+				},
+				{
+					"name": "Kiki",
+					"text": "Okay!"
+				},
+				{
+					"name": "Kiki",
+					"text": "It's gone now."
+				},
+				{
+					"name": "Will",
+					"text": "The knight is gone."
+				},
+				{
+					"name": "Queen Elizabeth",
+					"text": "M-Mhm..."
+				},
+				{
+					"name": "Will",
+					"text": "Can we keep employing Kiki as an actor, Ma'am?"
+				},
+				{
+					"name": "Queen Elizabeth",
+					"text": "I-If he or she or they are indeed male, I see no reason why not!"
+				},
+				{
+					"name": "Will",
+					"text": "Thank you for your kind understanding."
+				},
+				{
+					"name": "Kiki",
+					"text": "Goodie!"
+				},
+				{
+					"name": "Will",
+					"text": "May we go back to the stage?"
+				},
+				{
+					"name": "Queen Elizabeth",
+					"text": "You may. Um, Kiki..."
+				},
+				{
+					"name": "Kiki",
+					"text": "Yes?"
+				},
+				{
+					"name": "Queen Elizabeth",
+					"text": "Your body is a veritable gift from the heavens. You must endeavour to perfect your craft as an actor."
+				},
+				{
+					"name": "Kiki",
+					"text": "Thank you, Ma'am!"
+				},
+				{
+					"name": "Queen Elizabeth",
+					"text": "You may go now."
+				},
+				{
+					"name": "Will",
+					"text": "With your permission."
+				},
+				{
+					"name": "Queen Elizabeth",
+					"text": "Well then... That was a terrific experience."
+				},
+				{
+					"name": "Queen Elizabeth",
+					"text": "There truly are so many different people in this country of ours."
+				}
+			]
+		},
+		{}
+	]
+}

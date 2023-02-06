@@ -1,0 +1,662 @@
+{
+	"scenes": [
+		{},
+		{},
+		{
+			"texts": [
+				{
+					"name": "Yonagi",
+					"text": "I want to read a book."
+				},
+				{
+					"name": "Kaito",
+					"text": "A book?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Yes."
+				},
+				{
+					"name": "Shleep",
+					"text": "*Chirp*"
+				},
+				{
+					"name": "Kaito",
+					"text": "Like a picture book?"
+				},
+				{
+					"text": "Yonagi shakes her head."
+				},
+				{
+					"name": "Yonagi",
+					"text": "...A novel."
+				},
+				{
+					"name": "Kaito",
+					"text": "Oh, okay."
+				},
+				{
+					"name": "Kaito",
+					"text": "Are there any in the recreation room? I saw a bunch of picture books."
+				},
+				{
+					"name": "Izumo",
+					"text": "No. There are no novels."
+				},
+				{
+					"name": "Kaito",
+					"text": "Where can we get some?"
+				},
+				{
+					"name": "Izumo",
+					"text": "There may be some in the facility's library. I will fetch some."
+				},
+				{
+					"name": "Kaito",
+					"text": "Would you like her to do that?"
+				},
+				{
+					"text": "Yonagi nods."
+				},
+				{
+					"name": "Izumo",
+					"text": "I need an author and title."
+				},
+				{
+					"name": "Yonagi",
+					"text": "..."
+				},
+				{
+					"name": "Kaito",
+					"text": "I guess..."
+				},
+				{
+					"name": "Kaito",
+					"text": "Rashomon, by Ryunosuke Akutagawa."
+				},
+				{
+					"text": "Izumo doesn't bring us one of the slim pocket books that appeared in my dreams."
+				},
+				{
+					"text": "Instead, she returns with a complete compilation of Ryunosuke Akutagawa's works, one of which is Rashomon."
+				},
+				{
+					"text": "The book is as heavy as a portable computer."
+				},
+				{
+					"text": "Yonagi opens it on her lap and reads slowly."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "I watch Yonagi as she reads."
+				},
+				{
+					"text": "Her gaze silently glides over the sea of small letters printed across the pages of the large book."
+				},
+				{
+					"name": "Kaito",
+					"text": "You like books?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Yes. I like them."
+				},
+				{
+					"name": "Kaito",
+					"text": "I see."
+				},
+				{
+					"name": "Kaito",
+					"text": "Want me to stop talking?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "It's okay."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I like talking with you too."
+				},
+				{
+					"text": "Yonagi doesn't take her eyes off the thick tome as she speaks."
+				},
+				{
+					"name": "Kaito",
+					"text": "It looks like a difficult book. You can read it?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Yeah, kind of."
+				},
+				{
+					"name": "Yonagi",
+					"text": "It's fun to just go word by word."
+				},
+				{
+					"name": "Kaito",
+					"text": "I see."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Wanna read together?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Really?"
+				},
+				{
+					"text": "Yonagi nods and raises her face."
+				},
+				{
+					"name": "Yonagi",
+					"text": "It's okay."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "I sit next to her and follow the sentences together with her."
+				},
+				{
+					"text": "The paper has a yellow tint to it, and the text is dotted with characters I don't recognize."
+				},
+				{
+					"text": "It's immediately apparent that this is a really old book."
+				},
+				{
+					"text": "I take a glance at her profile."
+				},
+				{
+					"text": "She's zealously going word by word, even if she doesn't understand them all."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "I follow her example and let my eyes take in the words weaved by a man named Ryunosuke Akutagawa."
+				},
+				{
+					"name": "Yonagi",
+					"text": "...I'm hungry."
+				},
+				{
+					"name": "Kaito",
+					"text": "Do you wanna go eat something?"
+				},
+				{
+					"text": "She nods."
+				},
+				{
+					"name": "Kaito",
+					"text": "Okay, let's go with Izumo."
+				}
+			]
+		},
+		{
+			"texts": [
+				{
+					"name": "Yonagi",
+					"text": "I want to see a play."
+				},
+				{
+					"name": "Kaito",
+					"text": "A theater play?"
+				},
+				{
+					"name": "Shleep",
+					"text": "*Chirp*"
+				},
+				{
+					"text": "I turn to Izumo."
+				},
+				{
+					"name": "Kaito",
+					"text": "I'm not expecting a positive answer, but I gotta ask—"
+				},
+				{
+					"name": "Izumo",
+					"text": "You can watch videos from the archive."
+				},
+				{
+					"name": "Kaito",
+					"text": "Videos, huh? Okay."
+				},
+				{
+					"text": "I look back at Yonagi."
+				},
+				{
+					"name": "Kaito",
+					"text": "Does that sound good to you?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Yes."
+				},
+				{
+					"name": "Kaito",
+					"text": "Well, you heard her."
+				},
+				{
+					"name": "Izumo",
+					"text": "There are some tablets you can use in the recreation room. Come this way."
+				},
+				{
+					"name": "Izumo",
+					"text": "What play do you want to see?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Play..."
+				},
+				{
+					"name": "Kaito",
+					"text": "Hmm..."
+				},
+				{
+					"name": "Kaito",
+					"text": "A Midsummer's Night's Dream. From Shakespeare."
+				},
+				{
+					"name": "Izumo",
+					"text": "Understood."
+				},
+				{
+					"name": "Yonagi",
+					"text": "..."
+				},
+				{
+					"text": "Izumo hands us a tablet device, and its screen displays people wearing clothes I've never seen before acting out a play."
+				},
+				{
+					"text": "Maybe my memory is just busted. Maybe the people of this city wear stuff like this."
+				},
+				{
+					"text": "No, just from looking at Izumo's attire and this whole facility's design, I can tell that this video was recorded in a completely different time period."
+				},
+				{
+					"name": "Yonagi",
+					"text": "This actor is good. That actor is bad."
+				},
+				{
+					"name": "Kaito",
+					"text": "You can tell? I think they're speaking in French or something."
+				},
+				{
+					"text": "Yonagi nods in response."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Kind of."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "I remember Olivia's demanding standards from the dream."
+				},
+				{
+					"name": "Yonagi",
+					"text": "This actor is trying too hard. This one isn't trying at all."
+				},
+				{
+					"name": "Kaito",
+					"text": "Whoa, you have no mercy."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I want to act in a play."
+				},
+				{
+					"name": "Kaito",
+					"text": "You like plays?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Yeah, I like them."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I like being someone I'm not."
+				},
+				{
+					"name": "Kaito",
+					"text": "I see."
+				},
+				{
+					"name": "Yonagi",
+					"text": "But the times I can be myself are more precious."
+				},
+				{
+					"name": "Kaito",
+					"text": "Huh?"
+				},
+				{
+					"text": "I think on her words for a moment."
+				},
+				{
+					"text": "The times she can be herself?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Heheh, it's Puck. The troublemaker one."
+				},
+				{
+					"text": "She happily mutters to herself."
+				},
+				{
+					"text": "I peer down at the screen in her hands."
+				},
+				{
+					"name": "Kaito",
+					"text": "That's a really cute boy."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Mhm."
+				},
+				{
+					"text": "The closing of the curtain signals a scene change."
+				},
+				{
+					"text": "Eventually, the pair of men and women wander into the forest and start arguing with each other."
+				},
+				{
+					"name": "Yonagi",
+					"text": "In this play..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "A woman's acting in it."
+				},
+				{
+					"name": "Kaito",
+					"text": "Oh, you're right."
+				},
+				{
+					"name": "Yonagi",
+					"text": "...I'm glad."
+				},
+				{
+					"name": "Yonagi",
+					"text": "The world did change. I'm happy."
+				},
+				{
+					"text": "Yonagi has a sweet smile on her face as she watches."
+				},
+				{
+					"text": "After looking at her placid expression for a moment, I turn to watch the play together with her."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I'm hungry."
+				},
+				{
+					"text": "She mutters, in the middle of third act."
+				},
+				{
+					"name": "Kaito",
+					"text": "Want to go eat?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Yes."
+				},
+				{
+					"text": "She bobs her head."
+				},
+				{
+					"text": "I raise my face and look at Izumo."
+				},
+				{
+					"text": "She nods in response and quickly heads out of the recreation room."
+				},
+				{
+					"name": "Kaito",
+					"text": "Let's go."
+				}
+			]
+		},
+		{
+			"texts": [
+				{
+					"name": "Yonagi",
+					"text": "I want to take pictures."
+				},
+				{
+					"name": "Kaito",
+					"text": "Pictures?"
+				},
+				{
+					"text": "Yonagi nods."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Can we?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Well, we'd need a camera."
+				},
+				{
+					"name": "Izumo",
+					"text": "There is one ready for use in the recreation room. It can take pictures."
+				},
+				{
+					"name": "Kaito",
+					"text": "Oh, okay."
+				},
+				{
+					"text": "I turn from Izumo back to Yonagi."
+				},
+				{
+					"name": "Kaito",
+					"text": "Wanna go somewhere to take the pictures?"
+				},
+				{
+					"text": "Yonagi nods."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Thanks."
+				},
+				{
+					"name": "Kaito",
+					"text": "So, where should we go?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "...Outside. That'd be nice."
+				},
+				{
+					"name": "Kaito",
+					"text": "Hmm, the only place where we can go outside would be..."
+				},
+				{
+					"name": "Kaito",
+					"text": "The rooftop."
+				},
+				{
+					"text": "Izumo nods."
+				},
+				{
+					"name": "Kaito",
+					"text": "Okay, let's try it out."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Okay."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Whoa."
+				},
+				{
+					"text": "Clasping the small digital camera, Yonagi rushes out onto the rooftop."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Kaito, it's really pretty."
+				},
+				{
+					"text": "Yonagi points the camera at the round sky dome and presses the shutter."
+				},
+				{
+					"text": "She smiles proudly as she looks at the result displayed on the small screen."
+				},
+				{
+					"name": "Yonagi",
+					"text": "It's a round sky."
+				},
+				{
+					"name": "Kaito",
+					"text": "Yeah."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Ah..."
+				},
+				{
+					"text": "She then points the camera at me and presses the button."
+				},
+				{
+					"text": "Then she shows me the picture on the camera's display."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Kaito."
+				},
+				{
+					"name": "Kaito",
+					"text": "Yeah."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Ah!"
+				},
+				{
+					"text": "She excitedly points the camera at Izumo next."
+				},
+				{
+					"text": "And right after that, she does the same for Wooleep."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Izumo. Wooleep."
+				},
+				{
+					"name": "Kaito",
+					"text": "Yeah."
+				},
+				{
+					"name": "Shleep",
+					"text": "*Chirp*"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Take some of me."
+				},
+				{
+					"text": "She presents me with the camera."
+				},
+				{
+					"name": "Kaito",
+					"text": "Are you sure?"
+				},
+				{
+					"text": "She nods enthusiastically."
+				},
+				{
+					"text": "Yonagi walks closer to the handrail and strikes a pose with a hand on her waist."
+				},
+				{
+					"name": "Kaito",
+					"text": "Okay, I'm taking it now."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Am I cute?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Really cute."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Yay!"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Show me, show me!"
+				},
+				{
+					"text": "Yonagi rushes over to me."
+				},
+				{
+					"text": "I hold out the camera to her."
+				},
+				{
+					"name": "Yonagi",
+					"text": "You're pretty good."
+				},
+				{
+					"name": "Kaito",
+					"text": "Thanks."
+				},
+				{
+					"name": "Yonagi",
+					"text": "But you still have a long way to go."
+				},
+				{
+					"name": "Kaito",
+					"text": "Excuse me?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "It's fine, don't worry. Take more, please?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Sure."
+				},
+				{
+					"text": "After that, we keep taking pictures. The day goes by with literally all the pictures of Izumo featuring the same deadpan expression."
+				},
+				{
+					"name": "Yonagi",
+					"text": "..."
+				},
+				{
+					"name": "Kaito",
+					"text": "Huh? What's wrong?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "I'm hungry."
+				},
+				{
+					"name": "Izumo",
+					"text": "Shall we go eat?"
+				},
+				{
+					"text": "Yonagi nods."
+				},
+				{
+					"name": "Kaito",
+					"text": "Let's go back inside."
+				},
+				{
+					"name": "Izumo",
+					"text": "Yes."
+				}
+			]
+		},
+		{},
+		{}
+	]
+}

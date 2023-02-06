@@ -1,0 +1,2842 @@
+{
+	"scenes": [
+		{},
+		{
+			"texts": [
+				{
+					"text": "I watch Izumo head off back home."
+				},
+				{
+					"name": "Kaito",
+					"text": "Well, I should get going too."
+				},
+				{
+					"name": "Kaito",
+					"text": "...You'd better be there, or I'll look really stupid."
+				},
+				{
+					"text": "Retracing the steps of my memory, I think of the first place Yonagi would go to after coming back to this world."
+				},
+				{
+					"text": "My mind made up, I head to the only place it could be."
+				},
+				{
+					"text": "A certain place in the middle side where we used to clean together."
+				},
+				{
+					"text": "The middle side common area. In that hole we filled up once..."
+				},
+				{
+					"text": "It's open, just as I imagined."
+				},
+				{
+					"text": "It was just a bunch of rocks we piled together and covered up. Nothing an adult that bothered to look twice could undo."
+				},
+				{
+					"text": "Even now, we're the only ones who know of this place."
+				},
+				{
+					"text": "Shachi's dead, after all."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "Can I fit now? I'm not as small as I used to be."
+				},
+				{
+					"text": "I lower to a crouch and squeeze myself through the narrow opening."
+				},
+				{
+					"text": "There she is."
+				},
+				{
+					"text": "She's crouching over a little mound in the soil."
+				},
+				{
+					"name": "Shleep",
+					"text": "*Chirp*"
+				},
+				{
+					"text": "Wooleep is standing guard by the entrance of the clearing."
+				},
+				{
+					"text": "This place is a grave for the bird we once took care of."
+				},
+				{
+					"text": "And Mom's resting place."
+				},
+				{
+					"name": "Kaito",
+					"text": "Yonagi."
+				},
+				{
+					"text": "Yonagi slowly turns around."
+				},
+				{
+					"text": "And then..."
+				},
+				{
+					"text": "She smiles at me."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Kaito."
+				},
+				{
+					"text": "It's her voice."
+				},
+				{
+					"text": "She's calling my name with a smile on her face."
+				},
+				{
+					"text": "I come to stand next to her and look over the plant at the very center of the flowerbed."
+				},
+				{
+					"text": "It's grown quite a bit since we planted it."
+				},
+				{
+					"text": "Seeing it looking so exuberant brings a smile to my face."
+				},
+				{
+					"name": "Yonagi",
+					"text": "The city..."
+				},
+				{
+					"text": "I glance at her profile."
+				},
+				{
+					"name": "Yonagi",
+					"text": "It's so quiet. It's like there's no one in it."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "She's looking up at me now."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Did something happen while I was sleeping?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "I was sleeping, right?"
+				},
+				{
+					"name": "Kaito",
+					"text": "...Yeah."
+				},
+				{
+					"text": "She has a quiet, placid smile on her face."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I can kind of tell that I've been sleeping for a long, long time."
+				},
+				{
+					"text": "Yonagi's voice reminds me a lot of Izumo's robotic tone, somehow."
+				},
+				{
+					"text": "It is like there is barely an inflection in her tone. A distinct lack of emotion."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I also vaguely remember you and Izumo working really hard to wake me up. It's all a little hazy, like it happened in a dream."
+				},
+				{
+					"name": "Kaito",
+					"text": "Mhm."
+				},
+				{
+					"name": "Kaito",
+					"text": "Do you remember anything else about that dream?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "..."
+				},
+				{
+					"text": "Yonagi slowly turns away, her gaze falling down to our shrub."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I feel like I was in a more open place than this city."
+				},
+				{
+					"name": "Yonagi",
+					"text": "There were lots of people living there. There was the sky, and the sea, and the lights shone bright even in the middle of the night. It was really beautiful."
+				},
+				{
+					"name": "Yonagi",
+					"text": "But I couldn't go into that city. All I could do was look down at it from behind really thick glass."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I could see my face reflected in the glass, but I couldn't tell if it was really me."
+				},
+				{
+					"name": "Yonagi",
+					"text": "And the me I saw there was crying for some reason."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I..."
+				},
+				{
+					"text": "Yonagi stares at the plant by our feet."
+				},
+				{
+					"text": "She stays like that for a while, her mouth half open."
+				},
+				{
+					"text": "I patiently wait for her to continue."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I felt like I wanted to be looking out at that view together with someone, but I couldn't remember who."
+				},
+				{
+					"name": "Yonagi",
+					"text": "But I kept calling for that person somehow..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "That's the dream I was having this whole time. I dreamed it for so long."
+				},
+				{
+					"name": "Kaito",
+					"text": "I see."
+				},
+				{
+					"text": "I realize immediately."
+				},
+				{
+					"text": "That must be it."
+				},
+				{
+					"text": "It has to be."
+				},
+				{
+					"text": "The faint memory of herself that interfered with the virtual space."
+				},
+				{
+					"text": "And inside those tiny remnants, there was Yonagi."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Now I understand what it meant."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I kept calling for you, and you came for me. Together with Izumo."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Isn't that right?"
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "I give her a small nod."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Thank you for coming for me."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I wanna see Izumo too."
+				},
+				{
+					"name": "Kaito",
+					"text": "She's waiting at home. She was really excited to greet us with a hot bowl of porridge."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Ahahah, she's that happy?"
+				},
+				{
+					"text": "Yonagi giggles at the idea."
+				},
+				{
+					"text": "I nod, the corners of my mouth twitching into a wry smile."
+				},
+				{
+					"name": "Kaito",
+					"text": "She looked really happy to me."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I see. Then I'm sure she was."
+				},
+				{
+					"name": "Kaito",
+					"text": "She's waiting for us."
+				},
+				{
+					"text": "I extend my hand out to her."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Mhm."
+				},
+				{
+					"text": "She takes my hand and smiles."
+				},
+				{
+					"text": "We entwine our fingers and lock our hands together."
+				},
+				{
+					"name": "Kaito",
+					"text": "Let's go home."
+				},
+				{
+					"text": "She nods and takes one last look at the shrub before we go."
+				},
+				{
+					"text": "When we return home, we find Izumo hard at work in the kitchen."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Izumo."
+				},
+				{
+					"text": "Yonagi calls out to her as soon as we enter."
+				},
+				{
+					"text": "Izumo pauses in what she's doing and turns to face us."
+				},
+				{
+					"name": "Izumo",
+					"text": "Yonagi."
+				},
+				{
+					"text": "Izumo nods."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I'm home."
+				},
+				{
+					"text": "Izumo gives her another small nod, her level stare fixed on Yonagi's face."
+				},
+				{
+					"name": "Izumo",
+					"text": "Welcome home."
+				},
+				{
+					"name": "Kaito",
+					"text": "You cleaned the place?"
+				},
+				{
+					"name": "Izumo",
+					"text": "Yes. Kaito, just what kind of lifestyle were you living in this room?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Uh..."
+				},
+				{
+					"name": "Izumo",
+					"text": "Everything was caked in dust, and the floor was covered with flour."
+				},
+				{
+					"name": "Izumo",
+					"text": "Were you even eating?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Ah... I was kind of just eating the corn flour as-is."
+				},
+				{
+					"name": "Yonagi",
+					"text": "On its own?!"
+				},
+				{
+					"name": "Kaito",
+					"text": "It kind of has the texture of bread in your mouth. It convenient, and I didn't feel like cooking for just myself..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Wow..."
+				},
+				{
+					"name": "Izumo",
+					"text": "Wait just a moment. I will be finished with the cleaning soon. Then I will prepare a porridge meal."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Your best dish."
+				},
+				{
+					"name": "Izumo",
+					"text": "Affirmative."
+				},
+				{
+					"text": "We sit at the table and eat Izumo's porridge together."
+				},
+				{
+					"text": "Yonagi eats slowly. When she's done, Izumo carefully takes the plate away."
+				},
+				{
+					"name": "Yonagi",
+					"text": "It tasted like home."
+				},
+				{
+					"name": "Kaito",
+					"text": "Yeah, it was delicious."
+				},
+				{
+					"name": "Izumo",
+					"text": "I'm glad it was to your liking."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Well then."
+				},
+				{
+					"text": "Yonagi stretches out her arms and takes a deep breath before smiling at me again."
+				},
+				{
+					"name": "Yonagi",
+					"text": "There's one thing I need to ask."
+				},
+				{
+					"name": "Kaito",
+					"text": "Mm?"
+				},
+				{
+					"text": "I feel like a faint shadow falls over her smile all of a sudden."
+				},
+				{
+					"text": "She rests her hands on the table and casts her gaze down at them."
+				},
+				{
+					"name": "Yonagi",
+					"text": "How long will my memories last?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "You two must know about that, right?"
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "I catch a glimpse of Izumo turning around out the corner of my eye."
+				},
+				{
+					"text": "Izumo stares at Yonagi's back for a moment with a neutral expression."
+				},
+				{
+					"text": "Then our gazes meet."
+				},
+				{
+					"text": "I give her a small nod and begin."
+				},
+				{
+					"name": "Kaito",
+					"text": "Yonagi."
+				},
+				{
+					"name": "Kaito",
+					"text": "How much do you remember from before you went to sleep?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Do you remember Asuma?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Asuma?"
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "She looks up at me again, and her eyes wander for a moment."
+				},
+				{
+					"name": "Yonagi",
+					"text": "That's a person's name, right?"
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Mm, did they mean something to me?"
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "Hearing her calm tone, I realize something."
+				},
+				{
+					"text": "It could be that her present ego is barely managing to hold together as it is."
+				},
+				{
+					"name": "Kaito",
+					"text": "Once upon a time, I would have said so. But I don't know how you felt about him towards the end."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Would you tell me everything you know?"
+				},
+				{
+					"text": "I take a deep breath and brace myself."
+				},
+				{
+					"name": "Kaito",
+					"text": "All right."
+				},
+				{
+					"text": "I tell her about how my lab was taken from me."
+				},
+				{
+					"text": "I tell her everything about Asuma. How he was a colleague of her father, and what he did to her."
+				},
+				{
+					"text": "She slowly blinks at me, listening to my story attentively."
+				},
+				{
+					"name": "Kaito",
+					"text": "You don't remember any of it?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "The only people I remember are you and Izumo. And Wooleep too."
+				},
+				{
+					"name": "Yonagi",
+					"text": "But I must have known everyone, mustn't I? Like the person you mentioned, Iruma? And everyone else in the lab, right?"
+				},
+				{
+					"text": "I nod."
+				},
+				{
+					"name": "Kaito",
+					"text": "As far as I heard from Asuma..."
+				},
+				{
+					"name": "Kaito",
+					"text": "He said that your memory regression was at an advanced stage when he decided to forcibly deprive you of your ego."
+				},
+				{
+					"name": "Kaito",
+					"text": "Though I wouldn't trust anything he says myself."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I wonder..."
+				},
+				{
+					"text": "Yonagi trails off, her gaze settling back on her hands."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Why can I only remember you two?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "I remember you both very well."
+				},
+				{
+					"name": "Yonagi",
+					"text": "That's why I went there."
+				},
+				{
+					"name": "Kaito",
+					"text": "Right now your consciousness is being held up by us."
+				},
+				{
+					"name": "Kaito",
+					"text": "Wooleep is continually assisting your brain by using the mapping of the parts of your brain that were stimulated during all the dreams."
+				},
+				{
+					"name": "Kaito",
+					"text": "That was our plan."
+				},
+				{
+					"name": "Kaito",
+					"text": "We participated in your dreams. I think that's why—maybe you're reproducing the reactions you had when interacting with us during all those dreams."
+				},
+				{
+					"name": "Kaito",
+					"text": "Conversely..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "..."
+				},
+				{
+					"name": "Kaito",
+					"text": "The feelings you're experiencing right now..."
+				},
+				{
+					"name": "Kaito",
+					"text": "You could say they're artificial. There is no way for your brain to discern that anymore."
+				},
+				{
+					"name": "Yonagi",
+					"text": "...I see."
+				},
+				{
+					"name": "Yonagi",
+					"text": "But I believe they're real."
+				},
+				{
+					"name": "Yonagi",
+					"text": "You're keeping my consciousness in place even now?"
+				},
+				{
+					"name": "Izumo",
+					"text": "Wooleep and I are assisting your brain. Wooleep was originally designed for remote communication, so you can move freely within short distances from him."
+				},
+				{
+					"name": "Kaito",
+					"text": "Even with that assistance..."
+				},
+				{
+					"name": "Kaito",
+					"text": "I cannot say for sure how long your brain will hold on."
+				},
+				{
+					"name": "Kaito",
+					"text": "It's enough of a miracle that we got here, to be honest."
+				},
+				{
+					"name": "Kaito",
+					"text": "Once you hit your limit, you'll lose yourself again."
+				},
+				{
+					"name": "Yonagi",
+					"text": "But you two still came for me anyway, didn't you?"
+				},
+				{
+					"text": "I nod in response."
+				},
+				{
+					"text": "Izumo also gives a small nod."
+				},
+				{
+					"name": "Kaito",
+					"text": "Izumo and I made a decision to keep going to the end and never give up on you."
+				},
+				{
+					"name": "Kaito",
+					"text": "As long as we believe, you will never be truly gone from our hearts."
+				},
+				{
+					"name": "Kaito",
+					"text": "That's why—"
+				},
+				{
+					"name": "Yonagi",
+					"text": "I—"
+				},
+				{
+					"text": "Yonagi murmurs over me."
+				},
+				{
+					"text": "She slowly brings her gaze back up to meet mine."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Am I the same as the old me?"
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Is the person you wanted to save... the same as the person I am right now?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Of course. You're always you."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I see..."
+				},
+				{
+					"text": "Yonagi looks down at her own hands again."
+				},
+				{
+					"text": "She slowly closes her eyes for a moment, then opens them again."
+				},
+				{
+					"text": "I watch in silence as she does this a few times."
+				},
+				{
+					"name": "Yonagi",
+					"text": "So that's why the city is so calm."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I feel like I understand my dream's meaning."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Those people..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "What's happening to the people that were living inside me now?"
+				},
+				{
+					"name": "Kaito",
+					"text": "They're sleeping."
+				},
+				{
+					"name": "Kaito",
+					"text": "They're all sleeping behind the panels between the top and middle side."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I see..."
+				},
+				{
+					"text": "The silence drags on."
+				},
+				{
+					"text": "The usually bustling and noisy low side is uncharacteristically quiet."
+				},
+				{
+					"text": "It somehow makes the silence all the more deafening."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I wanna take a walk."
+				},
+				{
+					"name": "Kaito",
+					"text": "Huh?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Around the city."
+				},
+				{
+					"text": "Yonagi turns to Izumo."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Can I take a little walk with Kaito?"
+				},
+				{
+					"text": "Izumo gives her a small nod."
+				},
+				{
+					"name": "Izumo",
+					"text": "Of course."
+				},
+				{
+					"name": "Shleep",
+					"text": "*Chirp*"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Kaito?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Yes?"
+				},
+				{
+					"text": "After letting Yonagi change into her usual clothes, we leave the house."
+				},
+				{
+					"text": "As we walk alongside the tall corn stalks, Yonagi quietly addresses me."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Would you show me places that I should have memories of? Can you tell me about them?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Memories?"
+				},
+				{
+					"text": "Yonagi nods, her eyes still swimming about somewhat randomly."
+				},
+				{
+					"text": "I peer beyond her bangs and gauge her lethargic expression."
+				},
+				{
+					"name": "Kaito",
+					"text": "Yonagi."
+				},
+				{
+					"text": "She raises her face to look at me."
+				},
+				{
+					"name": "Kaito",
+					"text": "You can be honest with me. Do you really not remember anything?"
+				},
+				{
+					"text": "She shakes her head."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I do. I remember what happened. Maybe even what I felt at the time."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "She slowly blinks at me."
+				},
+				{
+					"text": "Her gaze wanders as if she's staring at words on a page."
+				},
+				{
+					"name": "Yonagi",
+					"text": "But..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Right now..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I don't really know..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "If these feelings of love I have for you are mine or someone else's."
+				},
+				{
+					"text": "I come to a stop."
+				},
+				{
+					"text": "Yonagi stops as well, then gently takes my hand with hers."
+				},
+				{
+					"name": "Yonagi",
+					"text": "No, that's not it. I'm sorry."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I just can't see how these feelings I have for you are mine."
+				},
+				{
+					"text": "She looks down at our hands."
+				},
+				{
+					"name": "Yonagi",
+					"text": "They don't feel like my own feelings, but like they're someone else's."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Even though I know I love you so much it hurts."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Even though I want to feel at ease when we hold hands like this."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I just can't seem to feel anything of my own right now."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I'm sorry."
+				},
+				{
+					"name": "Kaito",
+					"text": "Don't worry."
+				},
+				{
+					"text": "I feel my chest tighten with pain."
+				},
+				{
+					"text": "I promised to accept her, no matter what."
+				},
+				{
+					"text": "I thought I prepared myself mentally, but my heart feels the pins of reality pushing against it."
+				},
+				{
+					"text": "I take deep breaths in and out to calm myself."
+				},
+				{
+					"text": "I guess I'm not as ready as I wanted to think."
+				},
+				{
+					"text": "She told me that she'd stop being herself."
+				},
+				{
+					"text": "She asked me if it was okay for her to love me despite it all."
+				},
+				{
+					"text": "I stepped up to the plate. I said I was ready."
+				},
+				{
+					"name": "Yonagi",
+					"text": "That's why I want to make those memories mine again."
+				},
+				{
+					"name": "Yonagi",
+					"text": "If I don't, I..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I won't be able to love you like you want me to."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I'll just disappear again without ever giving anything back to you."
+				},
+				{
+					"name": "Kaito",
+					"text": "Even so..."
+				},
+				{
+					"name": "Kaito",
+					"text": "Even if you did that, it would be okay."
+				},
+				{
+					"text": "I suppress the anxiety threatening to make my voice break as I speak."
+				},
+				{
+					"name": "Kaito",
+					"text": "Izumo and I decided it was okay."
+				},
+				{
+					"name": "Kaito",
+					"text": "We promised to be content."
+				},
+				{
+					"name": "Kaito",
+					"text": "Even if all we did was welcome you home one more time."
+				},
+				{
+					"name": "Kaito",
+					"text": "So—"
+				},
+				{
+					"name": "Yonagi",
+					"text": "But I want to answer all that love. I want to do something in return for everything you did."
+				},
+				{
+					"name": "Yonagi",
+					"text": "That feeling is the only one I know to be mine."
+				},
+				{
+					"name": "Yonagi",
+					"text": "So please, can you tell me about our memories one more time?"
+				},
+				{
+					"text": "I nod, feeling the warmth on the back of my hand."
+				},
+				{
+					"name": "Kaito",
+					"text": "All right."
+				},
+				{
+					"name": "Kaito",
+					"text": "Back when we were kids, we used to walk this road together all the time."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Holding hands like this."
+				},
+				{
+					"text": "I nod, a little smile coming to my lips."
+				},
+				{
+					"name": "Kaito",
+					"text": "Every day, all the time. Even when we grew up, we always held hands."
+				},
+				{
+					"name": "Kaito",
+					"text": "Back then, we went to school in the morning, and I went to my technical course to become a researcher while you read in the library."
+				},
+				{
+					"name": "Kaito",
+					"text": "And in the afternoon, we went to the middle side, had our lunch, then worked until the evening."
+				},
+				{
+					"name": "Kaito",
+					"text": "You liked doing that. Everyone called it labor, including me, but you always said it was honest work."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Ahahah! That does sound like me, yeah."
+				},
+				{
+					"name": "Kaito",
+					"text": "Do you remember it?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Yeah, I do. You were always working so hard to become a researcher."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I didn't have the courage to tell you about my father, and I couldn't even write it down in my stories."
+				},
+				{
+					"name": "Yonagi",
+					"text": "But all the time spent together was so fun for me."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I couldn't bring myself to tear it all down. I was too scared to tell you."
+				},
+				{
+					"text": "I nod at her."
+				},
+				{
+					"name": "Kaito",
+					"text": "It was a challenge for me too. Looking back on it, I was so young and clueless."
+				},
+				{
+					"name": "Kaito",
+					"text": "I'm sure I'd be much calmer these days. I'd listen to what you have to say without flying off the handle. I certainly wouldn't leave our house over it."
+				},
+				{
+					"name": "Yonagi",
+					"text": "We grew up and became adults together, didn't we?"
+				},
+				{
+					"text": "I smile back at her and nod."
+				},
+				{
+					"name": "Kaito",
+					"text": "That's right."
+				},
+				{
+					"name": "Kaito",
+					"text": "This was pretty much the center of our lives when were kids."
+				},
+				{
+					"name": "Kaito",
+					"text": "We met here for the first time too."
+				},
+				{
+					"name": "Yonagi",
+					"text": "You were making a small car, right?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "The one that was spinning in place."
+				},
+				{
+					"name": "Kaito",
+					"text": "Yeah, you remember well."
+				},
+				{
+					"name": "Yonagi",
+					"text": "You were upset at something the first time we spoke, right?"
+				},
+				{
+					"name": "Kaito",
+					"text": "I wasn't upset, just scared. I didn't go to school, so I never really spoke to anyone besides Mom back then."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Ah, I see."
+				},
+				{
+					"text": "Yonagi reminiscences about the past with a slight smile on her face."
+				},
+				{
+					"text": "Asuma was there that day."
+				},
+				{
+					"text": "Is he also there in the memories she's recalling?"
+				},
+				{
+					"text": "Are her memories clear in her mind? Or rather like watching them through a thick haze?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "What were we talking about that day?"
+				},
+				{
+					"name": "Kaito",
+					"text": "About where our names came from."
+				},
+				{
+					"name": "Kaito",
+					"text": "You told me that your name means 'calm world', like a lull in the sea."
+				},
+				{
+					"name": "Yonagi",
+					"text": "How about you?"
+				},
+				{
+					"text": "I turn my eyes from the square to look down at her."
+				},
+				{
+					"name": "Yonagi",
+					"text": "What does your name mean?"
+				},
+				{
+					"name": "Kaito",
+					"text": "I replied that Mom named me after a kite in the sky, so that I would grow to be a good man who would lift everyone up and take them to where we could all see the sea again."
+				},
+				{
+					"name": "Kaito",
+					"text": "And you said my mother must be a wonderful person."
+				},
+				{
+					"name": "Kaito",
+					"text": "I was really happy about that. About to cry, actually."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I see now."
+				},
+				{
+					"name": "Kaito",
+					"text": "And then we became friends."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Mhm."
+				},
+				{
+					"text": "Yonagi slowly overlooks the empty plaza."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I wonder if we lived up to our names in the end."
+				},
+				{
+					"name": "Kaito",
+					"text": "How so?"
+				},
+				{
+					"text": "Yonagi looks up at me and smiles."
+				},
+				{
+					"name": "Yonagi",
+					"text": "And then..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "You started going to school too, right?"
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "I nod at her."
+				},
+				{
+					"name": "Kaito",
+					"text": "My first day here, I didn't imagine I would come to spend most of my time in this building."
+				},
+				{
+					"name": "Kaito",
+					"text": "The requirements become a researcher were tough. It's one of the few ways lowsiders can become midsiders."
+				},
+				{
+					"name": "Kaito",
+					"text": "It's what I was aiming for, but not even I was confident in actually making it."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I was living here until yesterday, right?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Yeah."
+				},
+				{
+					"name": "Kaito",
+					"text": "But neither of us were our real selves back then."
+				},
+				{
+					"name": "Yonagi",
+					"text": "..."
+				},
+				{
+					"text": "Yonagi looks the institute up and down."
+				},
+				{
+					"text": "I don't know what kind of treatment she got in Asuma lab."
+				},
+				{
+					"text": "I don't know how long she stayed herself during that time either."
+				},
+				{
+					"text": "But perhaps it's for the better that she doesn't remember any of what happened after she was kidnapped from our home."
+				},
+				{
+					"name": "????",
+					"text": "Kaito?"
+				},
+				{
+					"text": "Hearing a familiar voice, I turn around."
+				},
+				{
+					"text": "Iruma is standing there on the road to the institute."
+				},
+				{
+					"name": "Iruma",
+					"text": "Kaito! And Yonagi!"
+				},
+				{
+					"name": "Iruma",
+					"text": "Whoa! It's been ages! How have you been? You look well!"
+				},
+				{
+					"name": "Kaito",
+					"text": "Iruma..."
+				},
+				{
+					"text": "I can't explain how much of a relief it is to see his contagious smile."
+				},
+				{
+					"name": "Iruma",
+					"text": "I'm so glad to see you. You look so much better now."
+				},
+				{
+					"text": "I nod and shake his hand."
+				},
+				{
+					"name": "Kaito",
+					"text": "Sorry about what happened back then. No, I should thank you."
+				},
+				{
+					"name": "Iruma",
+					"text": "Don't sweat it! So you two didn't go, huh?"
+				},
+				{
+					"name": "Kaito",
+					"text": "No."
+				},
+				{
+					"text": "I suppose he's talking about moving to the virtual space."
+				},
+				{
+					"name": "Iruma",
+					"text": "Figured. All the Kaito Lab members decided to stay behind."
+				},
+				{
+					"name": "Kaito",
+					"text": "They did?"
+				},
+				{
+					"name": "Iruma",
+					"text": "Of course! They can go shove it down their throats after they kicked us out like that!"
+				},
+				{
+					"name": "Kaito",
+					"text": "You're doing lowsider labor now?"
+				},
+				{
+					"name": "Iruma",
+					"text": "Yeah, I became kind of disillusioned with the whole sider thing ever since our lab got shut down. The good old chief let me help out, and it's not that bad. Pretty fun, actually."
+				},
+				{
+					"name": "Kaito",
+					"text": "I see."
+				},
+				{
+					"text": "Yonagi watches the two of us patiently, but I notice her smile looks somewhat strained."
+				},
+				{
+					"name": "Kaito",
+					"text": "Yonagi, this is a colleague of mine. We used to work together in Kaito Lab. He always supported me."
+				},
+				{
+					"name": "Kaito",
+					"text": "I also told him about your condition when your memory started to regress."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I see."
+				},
+				{
+					"name": "Iruma",
+					"text": "..."
+				},
+				{
+					"text": "It takes but a moment for Iruma to grasp the situation."
+				},
+				{
+					"name": "Iruma",
+					"text": "Does she remember you?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Yeah."
+				},
+				{
+					"name": "Iruma",
+					"text": "That's a relief."
+				},
+				{
+					"name": "Kaito",
+					"text": "We're also planning to just take it easy in the low side too. You can tell everyone. We'd like to see them again."
+				},
+				{
+					"name": "Iruma",
+					"text": "Sure, you got it."
+				},
+				{
+					"name": "Kaito",
+					"text": "Is everyone well?"
+				},
+				{
+					"name": "Iruma",
+					"text": "Good people do good wherever they are. Now they're all thinking about how to share the labor among all the remaining people and how to maintain the city."
+				},
+				{
+					"name": "Iruma",
+					"text": "But we're stretched thin just procuring food here underground. Supporting a city with only the corn that we grow in the low side is a full-time job."
+				},
+				{
+					"name": "Iruma",
+					"text": "It puzzles me to this day just how in the world the topsiders distributed the food to begin with."
+				},
+				{
+					"name": "Kaito",
+					"text": "Is there sufficient food?"
+				},
+				{
+					"name": "Iruma",
+					"text": "Most houses are empty now, so we're managing."
+				},
+				{
+					"name": "Kaito",
+					"text": "It's a relief to hear that. Gives me some hope to know the remaining midsiders and lowsiders are working together."
+				},
+				{
+					"name": "Iruma",
+					"text": "Gotta say though, nature is terrifying! Leave a patch alone for one day, and you won't be able to fend off the damn weeds!"
+				},
+				{
+					"name": "Iruma",
+					"text": "This whole thing opened my eyes. The only reason we were ever able to shut ourselves away in a lab and do research all day was because of the hard work of everyone down in the low side."
+				},
+				{
+					"name": "Kaito",
+					"text": "You're the pride of Kaito Lab. Knowing good people like you and the others are working to keep things running really makes me feel like the lab meant something."
+				},
+				{
+					"name": "Iruma",
+					"text": "What are you talking about, crown jewel of the institute? What could be more meaningful than finishing the virtual space? That's nothing compared to us dirtying our hands a little."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"name": "Iruma",
+					"text": "Mm?"
+				},
+				{
+					"name": "Kaito",
+					"text": "I..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "..."
+				},
+				{
+					"name": "Iruma",
+					"text": "You were forced to work at Asuma lab, weren't you, Yonagi? That last session we did, you never woke up from."
+				},
+				{
+					"name": "Iruma",
+					"text": "Asuma forced you to keep sleeping until they got the data they wanted, didn't he?"
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"name": "Iruma",
+					"text": "But I'm glad to see you safe and sound now."
+				},
+				{
+					"text": "Iruma gives Yonagi a broad, sincere smile."
+				},
+				{
+					"text": "Well..."
+				},
+				{
+					"text": "He doesn't seem to know exactly how the virtual space was eventually completed."
+				},
+				{
+					"text": "He's one of the few who knew everything about my research."
+				},
+				{
+					"text": "The fact that he doesn't know means there are probably only a few select people left in the city who do."
+				},
+				{
+					"text": "Those select few being the members of Asuma Lab."
+				},
+				{
+					"text": "They hid the fact that they conducted inhumane experiments on Yonagi to fulfill their ends."
+				},
+				{
+					"text": "Though, thinking about it logically, I suppose that's not surprising."
+				},
+				{
+					"text": "I'm not sure the migration would have gone so smoothly had people actually known how the virtual space was achieved and maintained."
+				},
+				{
+					"text": "...Or at least, that's what I want to believe."
+				},
+				{
+					"text": "Just imagining people rushing without a second thought to a utopia built at the expense of another life ..."
+				},
+				{
+					"text": "I'd rather not believe I worked so hard for so many years for people like that."
+				},
+				{
+					"name": "Iruma",
+					"text": "You two are still living in the low side, right? Is Izumin waiting for you?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Izumin?"
+				},
+				{
+					"name": "Kaito",
+					"text": "That's what he calls Izumo."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I see."
+				},
+				{
+					"name": "Iruma",
+					"text": "Yeah! Cute, ain't it?"
+				},
+				{
+					"text": "Yonagi gives him a small smile."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I'll try calling her that when we get back."
+				},
+				{
+					"name": "Iruma",
+					"text": "Nothing would make me happier."
+				},
+				{
+					"name": "Kaito",
+					"text": "Come hang out soon. Our house is small, but it's got enough space to have a good time."
+				},
+				{
+					"name": "Iruma",
+					"text": "I'll tell everyone. Sorry for taking so much of your time, guys."
+				},
+				{
+					"name": "Kaito",
+					"text": "It's fine. It's good to see you."
+				},
+				{
+					"name": "Iruma",
+					"text": "Same here. Everyone was worried you were dead or something."
+				},
+				{
+					"text": "My smile turns a little bitter at that."
+				},
+				{
+					"text": "I was pretty much dead at one point, I suppose."
+				},
+				{
+					"name": "Kaito",
+					"text": "See you later."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Ah, see you."
+				},
+				{
+					"name": "Iruma",
+					"text": "Yeah, you bet!"
+				},
+				{
+					"name": "Yonagi",
+					"text": "He's a really lively person, isn't he?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Yeah. I could always count on him to give life to the lab."
+				},
+				{
+					"name": "Kaito",
+					"text": "He's the opposite of me, pretty much."
+				},
+				{
+					"name": "Yonagi",
+					"text": "But you're good friends."
+				},
+				{
+					"text": "I nod, feeling a little bit of pride."
+				},
+				{
+					"name": "Kaito",
+					"text": "We've always been on good terms. Perhaps that's what being friends is like."
+				},
+				{
+					"name": "Kaito",
+					"text": "There's one more place to visit around here."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Mhm."
+				},
+				{
+					"text": "Yonagi turns her gaze in the general direction of the researcher residences."
+				},
+				{
+					"name": "Yonagi",
+					"text": "The house in the middle side, right?"
+				},
+				{
+					"text": "I answer with a nod."
+				},
+				{
+					"text": "That would be..."
+				},
+				{
+					"text": "We often enjoyed each other's intimate company as a married couple."
+				},
+				{
+					"text": "She'll remember that, I think."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Let's go."
+				},
+				{
+					"name": "Kaito",
+					"text": "Okay."
+				},
+				{
+					"name": "Yonagi",
+					"text": "We spent a lot of time there, right?"
+				},
+				{
+					"text": "Though I really can't tell from her expression; it looks like she's just commenting on the weather."
+				},
+				{
+					"text": "She doesn't seem to feel any shyness about her recollections."
+				},
+				{
+					"text": "As she is right now, the memories of me and her making love must seem like the distant past memories of a stranger."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Kaito?"
+				},
+				{
+					"name": "Kaito",
+					"text": "It's nothing."
+				},
+				{
+					"name": "Kaito",
+					"text": "Let's get going."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Ahahah, this takes me back."
+				},
+				{
+					"name": "Kaito",
+					"text": "Yeah."
+				},
+				{
+					"text": "Yonagi sits on the clean bed."
+				},
+				{
+					"text": "The house in the low side was pretty grimy, but the house here is almost spotless."
+				},
+				{
+					"text": "It's barely even dusty."
+				},
+				{
+					"text": "It's clear that the air purification and airtight seal of the building have done their job well."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Kaito."
+				},
+				{
+					"text": "I turn my eyes away from the almost eerily clean shelves and back to Yonagi."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Do you want to make love?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Uh, now? Here?"
+				},
+				{
+					"text": "She nods."
+				},
+				{
+					"text": "She sits on the edge of the bed, looking straight into my eyes as she asks about our marital activities."
+				},
+				{
+					"name": "Kaito",
+					"text": "Why are you asking me this now?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "I mean..."
+				},
+				{
+					"text": "Yonagi casts her gaze down at her lap, the same small smile on her lips."
+				},
+				{
+					"name": "Yonagi",
+					"text": "We were married, and we loved each other..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "And you worked so hard to save me, but now that I'm awake..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Isn't it hard for you not to touch me when you have me right in front of you?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "I'm fine with it. I'll do whatever you want, if you want it."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I'm sure I'd like to do that, and we used to do it here in the past."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Right?"
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "I sit next to her and hold her hand."
+				},
+				{
+					"name": "Kaito",
+					"text": "Yonagi."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Mm?"
+				},
+				{
+					"name": "Kaito",
+					"text": "You don't need to force yourself to act like the Yonagi in your memories."
+				},
+				{
+					"name": "Kaito",
+					"text": "If there's anything I could say about you, it's that you were always honest."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Honest?"
+				},
+				{
+					"text": "She tilts her head to the side in confusion."
+				},
+				{
+					"name": "Kaito",
+					"text": "You always spoke your mind in front of me."
+				},
+				{
+					"text": "I look down at my hands as I press them together and think."
+				},
+				{
+					"name": "Kaito",
+					"text": "There was a time when the burden on you to help build the virtual space became too great."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I remember that."
+				},
+				{
+					"text": "When I raise my face to look at her, I see a smile on her face."
+				},
+				{
+					"text": "I can't help but smile as well."
+				},
+				{
+					"name": "Kaito",
+					"text": "Back then, you told me you wanted to stop the experiments. That night, you trusted me with what you couldn't say to anyone else."
+				},
+				{
+					"name": "Kaito",
+					"text": "I believe that helped us realize something: no matter how significant one's work is, there are times when you need to vent and wish things weren't the way they are."
+				},
+				{
+					"name": "Kaito",
+					"text": "But in the end, you chose to go back to perform the experiments."
+				},
+				{
+					"name": "Kaito",
+					"text": "If I had been a better man and stopped the experiments back then, maybe the situation now would be very different."
+				},
+				{
+					"name": "Yonagi",
+					"text": "We could be here all day talking about what could have been."
+				},
+				{
+					"text": "I chuckle softly."
+				},
+				{
+					"name": "Kaito",
+					"text": "You're right. Anyway..."
+				},
+				{
+					"name": "Kaito",
+					"text": "I may not be proud of much of what I did with my life, but there is one thing I'm certain of."
+				},
+				{
+					"name": "Kaito",
+					"text": "I feel proud that I became the kind of man you trusted enough to open up your heart to."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Mhm."
+				},
+				{
+					"name": "Kaito",
+					"text": "So..."
+				},
+				{
+					"text": "I gently take her hand in mine."
+				},
+				{
+					"name": "Kaito",
+					"text": "Do whatever you want to do, as the person you are right now."
+				},
+				{
+					"name": "Kaito",
+					"text": "If you really want to make love with me, I would love to."
+				},
+				{
+					"name": "Kaito",
+					"text": "But you don't need to offer your body to satisfy me. That's not what this is about."
+				},
+				{
+					"name": "Kaito",
+					"text": "You don't need to give yourself up to anyone. That's what we worked so hard for, Izumo and I."
+				},
+				{
+					"name": "Yonagi",
+					"text": "All right."
+				},
+				{
+					"text": "She gives me a small nod."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I was a little thoughtless, wasn't I? I'm sorry."
+				},
+				{
+					"name": "Yonagi",
+					"text": "So..."
+				},
+				{
+					"text": "She gently squeezes my hand back."
+				},
+				{
+					"name": "Yonagi",
+					"text": "If I feel the desire without forcing it..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I'll ask again, okay?"
+				},
+				{
+					"text": "I answer with a nod and a smile."
+				},
+				{
+					"name": "Kaito",
+					"text": "I'll be waiting for that."
+				},
+				{
+					"text": "We walk out of the house, holding hands all the way back down to the low side."
+				},
+				{
+					"name": "Kaito",
+					"text": "There's one more important place."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Mm?"
+				},
+				{
+					"name": "Kaito",
+					"text": "The place were we rescued Izumo."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Ah."
+				},
+				{
+					"name": "Yonagi",
+					"text": "She got dumped in that hole, didn't she?"
+				},
+				{
+					"text": "I nod in response."
+				},
+				{
+					"name": "Yonagi",
+					"text": "You did like going there a lot back then."
+				},
+				{
+					"name": "Kaito",
+					"text": "That place was like a mountain of treasure to us during those days."
+				},
+				{
+					"name": "Kaito",
+					"text": "I picked up stuff that needed a little repair, then took it to the market to barter for food and soap."
+				},
+				{
+					"name": "Kaito",
+					"text": "Mom really liked the smell of that soap."
+				},
+				{
+					"name": "Yonagi",
+					"text": "You've always been really good at tinkering, yeah."
+				},
+				{
+					"name": "Kaito",
+					"text": "I guess you could call me the original scrap hunter."
+				},
+				{
+					"text": "Yonagi smiles at the comment."
+				},
+				{
+					"name": "Kaito",
+					"text": "There's not much else to see there, though. Plus there's another place we should visit before going home."
+				},
+				{
+					"name": "Kaito",
+					"text": "What do you wanna do?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "I'd like to go. That place means a lot to us and Izumo."
+				},
+				{
+					"text": "I nod at her."
+				},
+				{
+					"name": "Kaito",
+					"text": "All right, let's go."
+				},
+				{
+					"name": "Kaito",
+					"text": "This brings back memories. I haven't been here in years."
+				},
+				{
+					"name": "Yonagi",
+					"text": "It may sound a little obvious, but this place hasn't changed a bit, huh?"
+				},
+				{
+					"text": "She slowly walks through the entrance to the dump."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I wonder why Izumo was dumped here."
+				},
+				{
+					"name": "Yonagi",
+					"text": "And who she was living with before that..."
+				},
+				{
+					"text": "Yonagi murmurs as she looks up at a mountain of trash."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "She forgot about Shachi."
+				},
+				{
+					"text": "The boy who climbed the vined walls of that little clearing and danced like a madman on top of the ozone lens, only to meet a sad and sudden end after developing melanoma."
+				},
+				{
+					"text": "As for Izumo..."
+				},
+				{
+					"text": "I believe Shachi's family must have disposed of her for not fulfilling her role as Shachi's guardian."
+				},
+				{
+					"name": "Kaito",
+					"text": "...Yeah, I wonder about that."
+				},
+				{
+					"name": "Yonagi",
+					"text": "You don't know either?"
+				},
+				{
+					"text": "She turns to me, the same placid smile gracing her lips."
+				},
+				{
+					"name": "Kaito",
+					"text": "...Once I had a really bad experience after picking up the trash of a topsider."
+				},
+				{
+					"name": "Kaito",
+					"text": "Ever since, I stopped thinking about the past owners of whatever I picked up."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I see."
+				},
+				{
+					"text": "I lean over a pile of trash and pick up a discarded black object that's caught my eye."
+				},
+				{
+					"text": "It's a camera from the surface era."
+				},
+				{
+					"text": "It's different from the one Yonagi had."
+				},
+				{
+					"name": "Kaito",
+					"text": "Even if I were to start repairing stuff again, there would be no one to barter with, huh?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "..."
+				},
+				{
+					"text": "I discard the camera back onto the pile and get up."
+				},
+				{
+					"name": "Kaito",
+					"text": "Let's go."
+				},
+				{
+					"name": "Kaito",
+					"text": "There's one last place."
+				},
+				{
+					"name": "Kaito",
+					"text": "I think it's the place that has the deepest meaning for you."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Mhm."
+				},
+				{
+					"name": "Kaito",
+					"text": "Soon after we started living together..."
+				},
+				{
+					"name": "Kaito",
+					"text": "We often went to the markets because the rations for two kids' labor weren't enough."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Yeah."
+				},
+				{
+					"name": "Kaito",
+					"text": "We didn't need cigs or liquor, so we always got paper and ink instead."
+				},
+				{
+					"name": "Kaito",
+					"text": "Sometimes we traded some scraps I'd picked up, or people asked us to repair something."
+				},
+				{
+					"name": "Kaito",
+					"text": "Back then, I believed that as long as I could make myself useful, everything would work out in the end."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Aren't we going to the market?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Most of the lowsiders migrated, so it's more of an empty square now."
+				},
+				{
+					"name": "Kaito",
+					"text": "The place has changed so much even I find it hard to remember how it used to be."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I see... This city is like an empty shell now."
+				},
+				{
+					"name": "Kaito",
+					"text": "Yeah, that's one way to put it."
+				},
+				{
+					"name": "Yonagi",
+					"text": "It's all so quiet. It's not like the low side I know."
+				},
+				{
+					"name": "Kaito",
+					"text": "I know what you mean."
+				},
+				{
+					"name": "Yonagi",
+					"text": "The last place..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "...is where I used to live, right?"
+				},
+				{
+					"text": "I turn my face to her."
+				},
+				{
+					"text": "She's staring straight forward."
+				},
+				{
+					"text": "As I watch her profile, she looks up and me and smiles."
+				},
+				{
+					"name": "Kaito",
+					"text": "Bingo."
+				},
+				{
+					"text": "Yonagi's old home was in as much of a sad state as ours before Izumo did something about it."
+				},
+				{
+					"text": "There's a thick film of dust covering the doorknob."
+				},
+				{
+					"name": "Yonagi",
+					"text": "..."
+				},
+				{
+					"text": "She walks to the center of the room, slowly scanning the space."
+				},
+				{
+					"text": "The writing desks and the bookshelves full of material left by her father are covered in years worth of dust."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I used to live here."
+				},
+				{
+					"name": "Kaito",
+					"text": "You were alone here before we started living together."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Huh?"
+				},
+				{
+					"text": "Her eyes widen in surprise."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Alone?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "But I was a kid?"
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"name": "Kaito",
+					"text": "Do you remember anything from before we met?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "..."
+				},
+				{
+					"text": "Yonago slowly looks over the room, and her gaze settles on a corkboard."
+				},
+				{
+					"name": "Yonagi",
+					"text": "..."
+				},
+				{
+					"text": "She walks over to it and looks at the pictures pinned to it."
+				},
+				{
+					"text": "I move to stand next to her and follow her gaze."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Kaito... Izumo... Wooleep... And that man from before..."
+				},
+				{
+					"text": "She stops at the picture we took the day of Kaito Lab's first research presentation."
+				},
+				{
+					"name": "Yonagi",
+					"text": "..."
+				},
+				{
+					"text": "She stares intently at the photo for a long while."
+				},
+				{
+					"text": "Then she slowly turns to me."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Who are these people?"
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "She asks, pointing to the picture of her father and Asuma."
+				},
+				{
+					"text": "I let my gaze wander, uncertainty keeping my tongue."
+				},
+				{
+					"text": "I hesitate, unsure whether to answer with the truth or not."
+				},
+				{
+					"text": "Abruptly, Yonagi then looks down at the table beside her and picks up a sketchbook."
+				},
+				{
+					"name": "Yonagi",
+					"text": "..."
+				},
+				{
+					"text": "She stops at a page with a drawing of her birth mother."
+				},
+				{
+					"text": "She stares at it for a moment, and a smile forms on her face."
+				},
+				{
+					"name": "Yonagi",
+					"text": "She's very beautiful, isn't she?"
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "They're kinda similar."
+				},
+				{
+					"name": "Kaito",
+					"text": "Similar?"
+				},
+				{
+					"text": "She looks up at me and nods."
+				},
+				{
+					"name": "Yonagi",
+					"text": "You know, the editor wife from Hatano Rin's story."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "A faint shadow is cast over her smile."
+				},
+				{
+					"text": "Then, she turns to the sketchbook again."
+				},
+				{
+					"name": "Yonagi",
+					"text": "If she appeared in that story..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "That must mean she was an important person to me."
+				},
+				{
+					"name": "Yonagi",
+					"text": "But..."
+				},
+				{
+					"text": "She slowly closes the book."
+				},
+				{
+					"name": "Yonagi",
+					"text": "It looks like I can't remember."
+				},
+				{
+					"name": "Kaito",
+					"text": "That woman..."
+				},
+				{
+					"text": "I make up my mind and steel myself."
+				},
+				{
+					"text": "Yonagi's world..."
+				},
+				{
+					"text": "It doesn't have to reflect reality. It should be whatever she wants."
+				},
+				{
+					"text": "Otherwise..."
+				},
+				{
+					"text": "Why did I even bother to bring her back to this empty, blasted hole of a city."
+				},
+				{
+					"name": "Kaito",
+					"text": "She was your mother."
+				},
+				{
+					"text": "She look up at me, her eyes wide at the revelation."
+				},
+				{
+					"name": "Kaito",
+					"text": "The person with long hair in this photo was your father."
+				},
+				{
+					"name": "Kaito",
+					"text": "And the one next to him was his friend."
+				},
+				{
+					"name": "Yonagi",
+					"text": "...Ah, I see."
+				},
+				{
+					"name": "Kaito",
+					"text": "All of them..."
+				},
+				{
+					"name": "Kaito",
+					"text": "They were all important to you."
+				},
+				{
+					"name": "Kaito",
+					"text": "They sadly passed away, but you always treasured that photo and the sketchbook."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I see. I understand now."
+				},
+				{
+					"text": "She forgot."
+				},
+				{
+					"text": "She forgot the trauma that losing her father caused her."
+				},
+				{
+					"text": "And she forgot about the mother that abandoned her."
+				},
+				{
+					"text": "It's almost as if..."
+				},
+				{
+					"text": "She has begun to follow the exact same path her father once did."
+				},
+				{
+					"text": "But she..."
+				},
+				{
+					"text": "It would be so much easier if I could just forget what that woman did."
+				},
+				{
+					"text": "That's what she once said to me."
+				},
+				{
+					"text": "And just like she said..."
+				},
+				{
+					"text": "Now she has lost her own pain."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Thank you for today."
+				},
+				{
+					"name": "Kaito",
+					"text": "Huh?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Thanks for showing me so many places."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I finally understand after coming to this room."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "Her smile has a desolate tinge to it."
+				},
+				{
+					"text": "It looks like there's a hint of resignation and sadness behind it."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I'm certain this room was important to me... It must be full to the brim of things I never wanted to forget."
+				},
+				{
+					"name": "Yonagi",
+					"text": "But I can't feel a thing."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I don't feel like I ever lived here."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Now I understand."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I'm not the person I used to be. She's gone now."
+				},
+				{
+					"text": "Yonagi reaches out for the polaroid camera resting on a shelf and picks it up."
+				},
+				{
+					"text": "She slowly traces her fingers along the camera as she stares at it."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Kaito?"
+				},
+				{
+					"text": "I watch her dazedly."
+				},
+				{
+					"text": "Yonagi stares vacantly at me."
+				},
+				{
+					"name": "Yonagi",
+					"text": "You'll still be with me? Despite everything?"
+				},
+				{
+					"name": "Kaito",
+					"text": "I..."
+				},
+				{
+					"text": "I begin, my mind already set."
+				},
+				{
+					"text": "I gaze into her eyes and continue."
+				},
+				{
+					"name": "Kaito",
+					"text": "I'll stay by your side till the end."
+				},
+				{
+					"name": "Kaito",
+					"text": "That's what I decided the moment we woke you up."
+				},
+				{
+					"name": "Kaito",
+					"text": "I won't leave your side, no matter what."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I see."
+				},
+				{
+					"name": "Yonagi",
+					"text": "If you're fine with that, then—"
+				},
+				{
+					"text": "I shake my head at her."
+				},
+				{
+					"name": "Kaito",
+					"text": "I think your symptoms may fluctuate depending on the day."
+				},
+				{
+					"name": "Kaito",
+					"text": "Maybe tomorrow you'll remember what you can't recall today."
+				},
+				{
+					"name": "Kaito",
+					"text": "There's no need to hurry things. You only just woke up."
+				},
+				{
+					"name": "Kaito",
+					"text": "Maybe I'm really talking to myself, heh. I may have been a little impatient too."
+				},
+				{
+					"text": "She lets out a little giggle at that."
+				},
+				{
+					"name": "Yonagi",
+					"text": "You'll wait until I fall in love with you again?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Of course I will."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I'm glad you woke me up."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I'm glad you were the one next to me when I opened my eyes. That's what I feel right now."
+				},
+				{
+					"name": "Yonagi",
+					"text": "But I also feel myself loving you more and more, little by little..."
+				},
+				{
+					"text": "She says, putting her hands together and looking into my eyes."
+				},
+				{
+					"name": "Yonagi",
+					"text": "So give me just a little more time."
+				},
+				{
+					"text": "I answer with a nod."
+				},
+				{
+					"name": "Kaito",
+					"text": "I'm so glad. You can't imagine how glad I am to hear that."
+				},
+				{
+					"name": "Kaito",
+					"text": "Let's go home. Izumo's waiting."
+				},
+				{
+					"text": "I extend my hand to her."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Yeah, let's go."
+				},
+				{
+					"text": "She puts her hand in mine, and we walk out."
+				},
+				{
+					"text": "We entwine our fingers together as we walk back."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Oh?"
+				},
+				{
+					"text": "She widens her eyes and stares down at her own hands."
+				},
+				{
+					"name": "Kaito",
+					"text": "Mm?"
+				},
+				{
+					"text": "But as I hold her hand, I notice something."
+				},
+				{
+					"text": "Her hand is neither closed nor open."
+				},
+				{
+					"text": "It's just kind of limp, like the hand of a sleeping person."
+				},
+				{
+					"name": "Yonagi",
+					"text": "My fingers..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I can't move them."
+				},
+				{
+					"name": "Kaito",
+					"text": "...How about your toes?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Mhm, I can move them."
+				},
+				{
+					"name": "Kaito",
+					"text": "Good."
+				},
+				{
+					"text": "Ever since that day..."
+				},
+				{
+					"text": "We start giving Yonagi daily examinations, just like I did with Mom when I was a kid."
+				},
+				{
+					"text": "Thankfully, the progress of the paralysis doesn't seem to be as rapid as it was with her."
+				},
+				{
+					"name": "Kaito",
+					"text": "How is she?"
+				},
+				{
+					"name": "Izumo",
+					"text": "There are no anomalies in the data I am monitoring."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I'm hungry."
+				},
+				{
+					"text": "Izumo nods and walks to the kitchen."
+				},
+				{
+					"text": "After a while, the sweet scent of synth milk spreads throughout the house."
+				},
+				{
+					"text": "After eating the porridge with Izumo's help, Yonagi spends the afternoon reading her own novels."
+				},
+				{
+					"text": "She keeps reading the same three novels every single day."
+				},
+				{
+					"text": "Sitting at the desk, she quietly uses her left hand to turn the pages."
+				},
+				{
+					"text": "We've been home for a whole week without going out."
+				},
+				{
+					"text": "I feel like she's speaking less as time goes on."
+				},
+				{
+					"name": "Kaito",
+					"text": "Which one are you reading today?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Rin's story."
+				},
+				{
+					"text": "I nod."
+				},
+				{
+					"name": "Kaito",
+					"text": "How do you feel about reading your own novels?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "...I guess it feels like I didn't write this myself."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "But I do remember having these dreams."
+				},
+				{
+					"name": "Yonagi",
+					"text": "It's kind of interesting to see all those things I saw in writing."
+				},
+				{
+					"name": "Kaito",
+					"text": "I see."
+				},
+				{
+					"text": "She answers my questions the same way every day."
+				},
+				{
+					"text": "No matter which novel she's reading."
+				},
+				{
+					"text": "She wrote those novels to try and come closer to her past self, but they're not reaching her right now."
+				},
+				{
+					"name": "Kaito",
+					"text": "An old friend is coming over today."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Old friend?"
+				},
+				{
+					"text": "I nod."
+				},
+				{
+					"name": "Kaito",
+					"text": "One of my colleagues from the lab. They wanna see you."
+				},
+				{
+					"name": "Yonagi",
+					"text": "...Oh."
+				},
+				{
+					"text": "She murmurs, a faint smile on her face as she looks up at me."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Can't wait."
+				},
+				{
+					"name": "Iruma",
+					"text": "Hey there!"
+				},
+				{
+					"name": "Kaito",
+					"text": "Sorry for taking you away from your work."
+				},
+				{
+					"name": "Iruma",
+					"text": "Don't sweat it, man! I got way more time on my hands than I ever did back at the lab."
+				},
+				{
+					"name": "Iruma",
+					"text": "Good day to you, Yonagi!"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Hello."
+				},
+				{
+					"name": "Iruma",
+					"text": "It's been a while, Izumin!"
+				},
+				{
+					"name": "Izumo",
+					"text": "It's good to see you."
+				},
+				{
+					"name": "Kaito",
+					"text": "Yonagi, do you recognize him?"
+				},
+				{
+					"text": "She tilts her head slightly."
+				},
+				{
+					"name": "Yonagi",
+					"text": "He was one of your researcher friends, right?"
+				},
+				{
+					"text": "Iruma and I exchange glances."
+				},
+				{
+					"name": "Kaito",
+					"text": "Yeah."
+				},
+				{
+					"name": "Iruma",
+					"text": "Well, it's been a while. Why don't we sit down like the geezers we are and reminiscence about the good old days?"
+				},
+				{
+					"name": "Kaito",
+					"text": "We're not that old, are we?"
+				},
+				{
+					"name": "Iruma",
+					"text": "I just want to get ahead of the curve and get it into my head while everyone around me can still say that."
+				},
+				{
+					"name": "Iruma",
+					"text": "Imagine me realizing I'm old one day while I'm all wrinkly! I'd die from a heart attack!"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Ahahah."
+				},
+				{
+					"text": "Yonagi puts a hand over her mouth and laughs at the silly comment."
+				},
+				{
+					"text": "We both heave an internal sigh of relief."
+				},
+				{
+					"name": "Iruma",
+					"text": "Her condition is worsening, isn't it?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Yeah."
+				},
+				{
+					"name": "Kaito",
+					"text": "Again, sorry for taking your time for this."
+				},
+				{
+					"name": "Iruma",
+					"text": "I told you it's fine! Really!"
+				},
+				{
+					"name": "Iruma",
+					"text": "What's happening to her, though? Why does she only recognize you and Izumin?"
+				},
+				{
+					"name": "Kaito",
+					"text": "You know about the error in the virtual space?"
+				},
+				{
+					"text": "Iruma nods, his expression turning pensive."
+				},
+				{
+					"name": "Iruma",
+					"text": "The thing about everyone in it having the same dreams, right? Yeah, I heard about that."
+				},
+				{
+					"name": "Kaito",
+					"text": "Those dreams... They were the stories from the novels that Yonagi wrote based on her memories with me."
+				},
+				{
+					"name": "Kaito",
+					"text": "I think a little fragment of her ego that was left over from what they did to her was calling out to me."
+				},
+				{
+					"name": "Iruma",
+					"text": "Oh, I see."
+				},
+				{
+					"name": "Kaito",
+					"text": "Izumo and I connected into her dreams until we managed to send the signals she subconsciously wanted."
+				},
+				{
+					"name": "Kaito",
+					"text": "All while we mapped out the parts of her brain that activated and reacted to those signals."
+				},
+				{
+					"name": "Kaito",
+					"text": "Now we're using that data to continuously assist her brain."
+				},
+				{
+					"name": "Kaito",
+					"text": "That's how we've managed to hold back her memory regression, even if just temporarily."
+				},
+				{
+					"name": "Iruma",
+					"text": "So that's how it is. So you pinpointed the areas of her brain that activated when recognizing the two of you."
+				},
+				{
+					"name": "Iruma",
+					"text": "That does seem consistent with what I saw back there."
+				},
+				{
+					"text": "I nod at him and glance back at the house."
+				},
+				{
+					"name": "Kaito",
+					"text": "I was prepared for this."
+				},
+				{
+					"name": "Iruma",
+					"text": "I still wonder about what's happening to her fingers, though."
+				},
+				{
+					"name": "Kaito",
+					"text": "We don't know. It may be the same ailment my mother suffered from."
+				},
+				{
+					"name": "Kaito",
+					"text": "Or it may be a side effect from the experiments."
+				},
+				{
+					"text": "After a moment of hesitation, I decide not to tell Iruma about what Asuma did to her brain."
+				},
+				{
+					"name": "Iruma",
+					"text": "..."
+				},
+				{
+					"name": "Kaito",
+					"text": "We'll wait and see how it progresses for a little longer. If there are no positive changes, then..."
+				},
+				{
+					"name": "Kaito",
+					"text": "I guess we'll have no choice but to go and ask him about it."
+				},
+				{
+					"name": "Iruma",
+					"text": "I wonder why..."
+				},
+				{
+					"name": "Iruma",
+					"text": "Why are you two the only ones subjected to all of this?"
+				},
+				{
+					"name": "Iruma",
+					"text": "I just don't get why you can't be left alone."
+				},
+				{
+					"name": "Kaito",
+					"text": "Thank you."
+				},
+				{
+					"name": "Kaito",
+					"text": "Really, it means a lot to know you feel that way."
+				},
+				{
+					"name": "Kaito",
+					"text": "Sorry I couldn't invite everyone today. The house is pretty small, as you saw."
+				},
+				{
+					"name": "Iruma",
+					"text": "Yeah, reminded me of an expression I read in an old book. What was it? Ah! Cramped as a can of sardines!"
+				},
+				{
+					"text": "We share a little bit of laughter before turning back to the fields."
+				},
+				{
+					"name": "Iruma",
+					"text": "I'll bring some corn whiskey next time. I'd say it's about time we share some drinks again."
+				},
+				{
+					"name": "Kaito",
+					"text": "Whoa, that brings back memories. You got your hands on some?"
+				},
+				{
+					"name": "Iruma",
+					"text": "There's more of it than we know what to do with, actually. Everyone who needed it just to get through the day went and moved to the virtual space."
+				},
+				{
+					"name": "Kaito",
+					"text": "Hah, that makes sense."
+				},
+				{
+					"text": "I watch the fields as the sprinklers come on. The droplets of water look like a shower of amber rain under the light of the setting sun."
+				},
+				{
+					"name": "Kaito",
+					"text": "I'll be in touch. Thanks for the help."
+				},
+				{
+					"name": "Iruma",
+					"text": "Aw, come on now. I am and always will be Kaito Lab's second in command."
+				},
+				{
+					"name": "Kaito",
+					"text": "And my greatest friend as well."
+				},
+				{
+					"name": "Iruma",
+					"text": "You look after Yonagi and Izumin well now, eh?"
+				},
+				{
+					"name": "Kaito",
+					"text": "You can bet on that."
+				}
+			]
+		},
+		{}
+	]
+}

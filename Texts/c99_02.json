@@ -1,0 +1,2148 @@
+{
+	"scenes": [
+		{},
+		{
+			"texts": [
+				{
+					"name": "Yonagi",
+					"text": "...Ah."
+				},
+				{
+					"name": "Kaito",
+					"text": "Mm?"
+				},
+				{
+					"text": "My field of view is filled by a stark white ceiling and long, flowing white hair."
+				},
+				{
+					"name": "Yonagi",
+					"text": "..."
+				},
+				{
+					"text": "Rose-colored eyes look down on me."
+				},
+				{
+					"name": "Kaito",
+					"text": "...Yonagi?"
+				}
+			]
+		},
+		{
+			"texts": [
+				{
+					"name": "Yonagi",
+					"text": "..."
+				},
+				{
+					"text": "For a moment, I could swear she nodded."
+				},
+				{
+					"text": "Maybe I'm imagining things."
+				}
+			]
+		},
+		{
+			"texts": [
+				{
+					"name": "Yonagi",
+					"text": "Kaito..."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				}
+			]
+		},
+		{
+			"texts": [
+				{
+					"text": "I get up."
+				},
+				{
+					"text": "Yonagi, who was bending over me, mimics my movement."
+				},
+				{
+					"name": "Kaito",
+					"text": "How long did we sleep this time?"
+				},
+				{
+					"text": "I mutter at no one in particular, and am reminded there are no clocks in this place."
+				},
+				{
+					"text": "By design, I'd assume."
+				},
+				{
+					"text": "I can't tell if I had a light sleep or a deep slumber."
+				},
+				{
+					"text": "Then, the door opens."
+				},
+				{
+					"text": "Izumo and Wooleep enter the room."
+				},
+				{
+					"name": "Izumo",
+					"text": "Did you sleep well?"
+				},
+				{
+					"name": "Kaito",
+					"text": "You don't need to ask to know, do you?"
+				},
+				{
+					"name": "Izumo",
+					"text": "You should eat. Your blood sugar levels are low."
+				},
+				{
+					"name": "Kaito",
+					"text": "Gee, thanks."
+				},
+				{
+					"text": "I turn to Yonagi."
+				},
+				{
+					"name": "Kaito",
+					"text": "Looks like food's ready."
+				}
+			]
+		},
+		{
+			"texts": [
+				{
+					"text": "It seems like an expression attempts to break through Yonagi's emotionless visage, but it quickly returns to her usual neutral expression."
+				}
+			]
+		},
+		{
+			"texts": [
+				{
+					"text": "After staring at me for a moment too long, she gives me a small nod."
+				}
+			]
+		},
+		{
+			"texts": [
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "When we get to the table, Izumo presents us with the same boiled corn dish from before."
+				},
+				{
+					"text": "It dawns on me that we'll probably be eating the same thing for as long as we're here."
+				},
+				{
+					"text": "But it does taste okay, so it'll probably take some time for me to get bored of it."
+				},
+				{
+					"text": "The only sound in the room is that of spoons clinking against bowls."
+				},
+				{
+					"name": "Kaito",
+					"text": "...Izumo."
+				},
+				{
+					"text": "She turns to me."
+				},
+				{
+					"name": "Kaito",
+					"text": "Mind if I ask a few more things?"
+				},
+				{
+					"name": "Izumo",
+					"text": "Go ahead."
+				},
+				{
+					"name": "Kaito",
+					"text": "It's about the dream."
+				},
+				{
+					"name": "Izumo",
+					"text": "Yes?"
+				},
+				{
+					"name": "Kaito",
+					"text": "You know about these dreams I'm having, don't you?"
+				},
+				{
+					"text": "She nods."
+				},
+				{
+					"name": "Kaito",
+					"text": "I've never had such vivid dreams before."
+				},
+				{
+					"name": "Kaito",
+					"text": "It feels like I'm really there. I'm really curious about it."
+				},
+				{
+					"name": "Izumo",
+					"text": "Ask away. I'll answer as much as I can."
+				}
+			]
+		},
+		{
+			"selects": [
+				"What's an adjunct professor?",
+				"What's a pub?",
+				"Never mind."
+			]
+		},
+		{
+			"texts": [
+				{
+					"name": "Kaito",
+					"text": "What's an adjunct professor?"
+				},
+				{
+					"name": "Izumo",
+					"text": "In short, it is an academic appointment wherein the person only imparts lectures."
+				},
+				{
+					"name": "Izumo",
+					"text": "A person in this position is not responsible for tutoring their students like a tenured professor, nor do they have any obligation to get involved with anything outside their assigned teaching syllabus."
+				},
+				{
+					"name": "Izumo",
+					"text": "Most of the people employed in this capacity are not full-time employees, so they can have side jobs as well."
+				},
+				{
+					"name": "Kaito",
+					"text": "Side jobs, okay."
+				},
+				{
+					"text": "Arishima may still be harboring hopes of becoming a novelist someday."
+				},
+				{
+					"text": "Maybe that's why he chose such an arrangement for his employment."
+				},
+				{
+					"text": "I get the feeling that in his case, it's also a good choice in that it allows him to keep a distance from his students."
+				},
+				{
+					"name": "Kaito",
+					"text": "So it's a term from the education system from long ago."
+				},
+				{
+					"name": "Izumo",
+					"text": "Yes."
+				}
+			]
+		},
+		{
+			"texts": [
+				{
+					"name": "Kaito",
+					"text": "I heard of a place called a 'pub' in the dream. What was that about?"
+				},
+				{
+					"name": "Izumo",
+					"text": "The people of old had a tradition of gathering and eating together outside of their homes."
+				},
+				{
+					"name": "Izumo",
+					"text": "At the time, a system of 'currency' was in circulation, and people indirectly exchanged this currency for goods and services."
+				},
+				{
+					"text": "I feel my eyes widen in incredulous surprise."
+				},
+				{
+					"name": "Kaito",
+					"text": "Why go through so much trouble?"
+				},
+				{
+					"name": "Izumo",
+					"text": "The population at that time was much larger than it is now. Rather than bartering, indirect exchange through paper currency was more convenient."
+				},
+				{
+					"name": "Izumo",
+					"text": "A pub was a place where you could exchange currency mainly for alcoholic beverages and light meals."
+				},
+				{
+					"name": "Kaito",
+					"text": "And alcohol was available to any adult?"
+				},
+				{
+					"text": "She nods."
+				},
+				{
+					"name": "Izumo",
+					"text": "If they were older than twenty years old, give or take depending on the region of the world."
+				},
+				{
+					"name": "Kaito",
+					"text": "Pretty different from now, then."
+				},
+				{
+					"name": "Izumo",
+					"text": "The drinking age was only lowered after we returned to the current barter economy."
+				},
+				{
+					"name": "Kaito",
+					"text": "I see."
+				}
+			]
+		},
+		{
+			"selects": [
+				"Woman couldn't act on stage?",
+				"Who's Christopher Marlowe?",
+				"Never mind."
+			]
+		},
+		{
+			"texts": [
+				{
+					"name": "Kaito",
+					"text": "Is it true that women weren't allowed to act on stage?"
+				},
+				{
+					"name": "Izumo",
+					"text": "Yes. Back then, it was forbidden for woman to perform. It seems that, back then, female roles were performed by young males before their voices broke."
+				},
+				{
+					"name": "Izumo",
+					"text": "In the same vein, women that dressed as men were considered abhorrent, and the act was branded as taboo."
+				},
+				{
+					"name": "Izumo",
+					"text": "Although progress was slower in some countries, it was not until the nineteenth century that women generally started assuming a more leading role in society."
+				},
+				{
+					"name": "Kaito",
+					"text": "Too much time, if you ask me..."
+				}
+			]
+		},
+		{
+			"texts": [
+				{
+					"name": "Kaito",
+					"text": "A man named Christopher Marlowe appeared in my dream."
+				},
+				{
+					"name": "Izumo",
+					"text": "A playwright who was active in England during the sixteenth century."
+				},
+				{
+					"text": "I glance at Yonagi."
+				},
+				{
+					"text": "She's staring absently at nothing like usual."
+				},
+				{
+					"text": "I then turn back to Izumo."
+				},
+				{
+					"name": "Kaito",
+					"text": "Right."
+				},
+				{
+					"name": "Izumo",
+					"text": "William Shakespeare went on to become widely regarded as the greatest writer who ever lived, but at the time of his debut, Christopher Marlowe was a popular household name."
+				},
+				{
+					"name": "Kaito",
+					"text": "Yeah, he seemed pretty popular."
+				},
+				{
+					"name": "Izumo",
+					"text": "His most famous works are 'The Jew of Malta' and 'Tamburlaine the Great.' He was a worthy contemporary and rival for Shakespeare."
+				},
+				{
+					"name": "Izumo",
+					"text": "If Shakespeare never started writing, perhaps he would have been the most well known writer of the Elizabethan era."
+				},
+				{
+					"name": "Kaito",
+					"text": "He was that good?"
+				},
+				{
+					"name": "Izumo",
+					"text": "Even taking into account the misfortune of Marlowe's untimely death in the middle of his career, Shakespeare's fame as a writer simply came to eclipse his."
+				},
+				{
+					"name": "Kaito",
+					"text": "But why? Wasn't he popular?"
+				},
+				{
+					"name": "Izumo",
+					"text": "It is said that the play that brought him fame was Tamburlaine the Great."
+				},
+				{
+					"name": "Izumo",
+					"text": "As for the momentum he gained after debuting that play... perhaps he simply lacked the modesty to make use of it."
+				},
+				{
+					"name": "Kaito",
+					"text": "What do you mean?"
+				},
+				{
+					"name": "Izumo",
+					"text": "In the twentieth century, critics began to argue that his subsequent works were mostly written by other hands."
+				},
+				{
+					"name": "Kaito",
+					"text": "Like the Jew of Malta?"
+				},
+				{
+					"text": "Izumo nods."
+				},
+				{
+					"name": "Izumo",
+					"text": "Even if the first two acts were written by Marlowe, critics speculate that the subsequent three acts may have been written by other people."
+				},
+				{
+					"name": "Kaito",
+					"text": "That's more than half the play."
+				},
+				{
+					"name": "Izumo",
+					"text": "If it had Marlowe's name on it, it would sell."
+				},
+				{
+					"name": "Izumo",
+					"text": "At the time, Marlowe may have been dazzled by the allure of reaping easy prestige, rather than than going through the hard work of meticulously honing his craft."
+				},
+				{
+					"name": "Izumo",
+					"text": "There are also theories that he was in fact acting as spy in the service of Queen Elizabeth's service."
+				},
+				{
+					"name": "Kaito",
+					"text": "A spy? What for?"
+				},
+				{
+					"name": "Izumo",
+					"text": "Mainly..."
+				},
+				{
+					"name": "Izumo",
+					"text": "As a tipper reporting on the current religious target at the time. The Catholic faith."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "Catholics, huh?"
+				},
+				{
+					"text": "Right, Will's house..."
+				},
+				{
+					"text": "It's a secret place of congregation for Catholics."
+				},
+				{
+					"name": "Kaito",
+					"text": "So he's a pretty clear cut enemy, then."
+				},
+				{
+					"name": "Izumo",
+					"text": "At any rate, verifiably accurate data from Shakespeare's time is scarce, and there are many different interpretations and theories. I think you should be aware of that."
+				},
+				{
+					"name": "Kaito",
+					"text": "Yeah, thanks. That gave me a lot to think about."
+				},
+				{
+					"name": "Izumo",
+					"text": "Is that so?"
+				}
+			]
+		},
+		{
+			"selects": [
+				"What was with all the birds?",
+				"What's this wave eating thing?",
+				"Never mind."
+			]
+		},
+		{
+			"texts": [
+				{
+					"name": "Kaito",
+					"text": "In the dream, I was in a place called Chiba prefecture?"
+				},
+				{
+					"text": "Izumo nods."
+				},
+				{
+					"name": "Izumo",
+					"text": "Nariyama City."
+				},
+				{
+					"name": "Kaito",
+					"text": "There were a bunch of white birds there. I think someone called them..."
+				},
+				{
+					"name": "Izumo",
+					"text": "Pigeons. But they aren't pigeons. They are biological communication devices called artificial pigeons."
+				},
+				{
+					"name": "Izumo",
+					"text": "Their development was announced by Hazuki Izana in 2031. By the year 2035, five hundred million artificial pigeons were released out to the world as the first test of the system."
+				},
+				{
+					"name": "Izumo",
+					"text": "After that, the number of pigeons increased, and a global, cheap, and stable communication network was provided to the whole world."
+				},
+				{
+					"name": "Kaito",
+					"text": "I see."
+				},
+				{
+					"name": "Izumo",
+					"text": "However..."
+				},
+				{
+					"name": "Izumo",
+					"text": "On July 10th, 2046, all the artificial pigeons went out of control. Suddenly, they began to emit jamming radio waves all throughout the pigeon network, rendering all electronic communication devices useless."
+				},
+				{
+					"name": "Izumo",
+					"text": "This phenomenon is commonly known as the wave eating."
+				},
+				{
+					"name": "Kaito",
+					"text": "Wave eating, I see."
+				}
+			]
+		},
+		{
+			"texts": [
+				{
+					"name": "Kaito",
+					"text": "That dream is about the year 2061, so it happens after the wave eating started, right?"
+				},
+				{
+					"text": "Izumo nods."
+				},
+				{
+					"name": "Izumo",
+					"text": "The wave eating was a man-made disaster intentionally brought about by Hazuki Izana. The aftermath of it affected the whole world."
+				},
+				{
+					"name": "Izumo",
+					"text": "Humanity relied on the pigeon network at the time."
+				},
+				{
+					"name": "Izumo",
+					"text": "After the wave eating, the United Nations started a campaign called 'Remember Nature.' Efforts were made to return highly automated jobs and fully automated industries back to human hands and labor."
+				},
+				{
+					"name": "Izumo",
+					"text": "Public opinion leaned towards anti-technology, and the few means of wired communication were used only by the governments of the world to stay in contact."
+				},
+				{
+					"name": "Kaito",
+					"text": "So there are no communication devices in that world, huh?"
+				}
+			]
+		},
+		{},
+		{},
+		{
+			"texts": [
+				{
+					"text": "While I've been talking with Izumo, I've managed to clean my plate."
+				},
+				{
+					"text": "Yonagi has also finished her meal."
+				},
+				{
+					"name": "Kaito",
+					"text": "Thanks."
+				},
+				{
+					"text": "Izumo nods."
+				},
+				{
+					"text": "Yonagi simply stares at her empty plate."
+				},
+				{
+					"name": "Kaito",
+					"text": "Mind if I go get some fresh air?"
+				},
+				{
+					"name": "Izumo",
+					"text": "Outside?"
+				},
+				{
+					"text": "I nod."
+				},
+				{
+					"name": "Kaito",
+					"text": "I wanna go take a look at the rooftop you took me to the other day. I can't tell what time it is in here."
+				},
+				{
+					"name": "Izumo",
+					"text": "No problem. You do not need permission."
+				},
+				{
+					"name": "Kaito",
+					"text": "Thanks."
+				},
+				{
+					"name": "Izumo",
+					"text": "You may be able to see the sun at this time of the day."
+				},
+				{
+					"name": "Kaito",
+					"text": "Okay."
+				}
+			]
+		},
+		{
+			"texts": [
+				{
+					"text": "The elevator door opens."
+				}
+			]
+		},
+		{
+			"texts": [
+				{
+					"text": "The air outdoors feels a little chilly."
+				},
+				{
+					"text": "I walk ahead, looking up at the sky."
+				},
+				{
+					"text": "A wave of relief hits me."
+				},
+				{
+					"text": "This is the sky I know."
+				},
+				{
+					"text": "The round sky, surrounded by high walls."
+				},
+				{
+					"text": "The outside world is just as I... remember."
+				},
+				{
+					"text": "I look down and see the whole span of the cityscape spreading in front of my eyes."
+				},
+				{
+					"text": "The familiar sight of the outer walls lined with houses on their surface."
+				},
+				{
+					"text": "And above that, the sky is blue and the sun dazzling."
+				},
+				{
+					"text": "This is the world I know."
+				},
+				{
+					"text": "Without my memories, I can't really judge how much of my perception is correct."
+				},
+				{
+					"text": "But this is the Japan I know. I know in my heart that this is Shinjuku."
+				},
+				{
+					"text": "I wonder if anyone has found a way to really stand under that sky."
+				},
+				{
+					"text": "It doesn't look like much has changed from the mental image I seem to have, so the answer is probably no."
+				},
+				{
+					"text": "Taking a deep breath, I notice tiny dust particles mixed into the air."
+				},
+				{
+					"text": "The air indoors is a lot cleaner than outside."
+				},
+				{
+					"text": "That too..."
+				},
+				{
+					"text": "...is the world I know."
+				}
+			]
+		},
+		{
+			"texts": [
+				{
+					"name": "Kaito",
+					"text": "Huh?"
+				},
+				{
+					"text": "When I get take the elevator and go back to the eating area, I find no one there."
+				},
+				{
+					"text": "The dishes Yonagi and I used have been put away as well."
+				},
+				{
+					"text": "Yonagi's probably sleeping already."
+				},
+				{
+					"text": "Izumo and Wooleep are also nowhere to be seen."
+				},
+				{
+					"text": "But I don't find anyone in the room either."
+				},
+				{
+					"text": "Yonagi's bed is empty."
+				},
+				{
+					"name": "Kaito",
+					"text": "Mm?"
+				},
+				{
+					"text": "I notice a set of clothes neatly folded on my bed."
+				},
+				{
+					"text": "They're exactly the same as the ones I'm wearing right now."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "I lift up my arm and take a whiff."
+				},
+				{
+					"text": "Thankfully, it doesn't smell."
+				},
+				{
+					"text": "But perhaps it wouldn't be a bad idea to take a shower before the next dream."
+				},
+				{
+					"text": "The bathroom should be..."
+				},
+				{
+					"text": "I recall the time Izumo guided me around."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "I hear the sound of running water on the other side of the door."
+				},
+				{
+					"text": "So Yonagi's taking a shower. That makes sense."
+				},
+				{
+					"name": "Kaito",
+					"text": "Should I come back later?"
+				},
+				{
+					"name": "Izumo",
+					"text": "No problem."
+				},
+				{
+					"name": "Kaito",
+					"text": "Izumo? Were you watching me?"
+				},
+				{
+					"name": "Izumo",
+					"text": "Yes. This entire facility is under constant surveillance."
+				},
+				{
+					"name": "Kaito",
+					"text": "Gotcha."
+				},
+				{
+					"text": "The sound of water stops."
+				},
+				{
+					"text": "I can hear someone moving around in the shower room."
+				},
+				{
+					"name": "Kaito",
+					"text": "I'll come back later."
+				},
+				{
+					"text": "But just then, the door opens."
+				},
+				{
+					"text": "Hot steam rolls out into the corridor."
+				},
+				{
+					"name": "Izumo",
+					"text": "Yonagi is done with her bath. Feel free to enter."
+				},
+				{
+					"name": "Izumo",
+					"text": "Come in."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"name": "Izumo",
+					"text": "Are you coming in?"
+				},
+				{
+					"text": "I cautiously step through the steamy entrance."
+				},
+				{
+					"name": "Yonagi",
+					"text": "..."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"name": "Izumo",
+					"text": "Go ahead, the bath is open. It's unisex."
+				},
+				{
+					"text": "Izumo's deadpan tone echoes through the hot room."
+				},
+				{
+					"text": "Yonagi is looking at me as though I'm just a part of the furniture."
+				},
+				{
+					"text": "My eyes are helplessly drawn towards the obvious."
+				},
+				{
+					"text": "Her wet white hair clings to the modest curves of her chest."
+				},
+				{
+					"text": "Her hair and skin share almost the same shade of white."
+				},
+				{
+					"name": "Izumo",
+					"text": "Aren't you going to undress?"
+				},
+				{
+					"name": "Kaito",
+					"text": "I don't think I will, no."
+				},
+				{
+					"name": "Izumo",
+					"text": "Why not?"
+				},
+				{
+					"name": "Kaito",
+					"text": "I'll come back later. You need time to dry her hair, right?"
+				},
+				{
+					"text": "Yonagi's gaze stings me."
+				},
+				{
+					"text": "I can't read any emotions on her face, but the lack of expression itself feels recriminating."
+				},
+				{
+					"name": "Izumo",
+					"text": "Your heart rate is increasing."
+				},
+				{
+					"name": "Kaito",
+					"text": "Enough with the live broadcast."
+				},
+				{
+					"name": "Izumo",
+					"text": "Hm?"
+				},
+				{
+					"text": "Izumo and Yonagi are staring at me in silence."
+				},
+				{
+					"name": "Kaito",
+					"text": "I'll take a bath next time I wake up. I'm going back to sleep."
+				},
+				{
+					"name": "Izumo",
+					"text": "It appears to me that you are in a state of excitement. I believe it will not help you sleep."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "If I had my memories, would have I behaved differently?"
+				},
+				{
+					"text": "No, I get the feeling my reaction would be about the same."
+				},
+				{
+					"text": "I should just go back to bed, before she gets back."
+				},
+				{
+					"text": "If Yonagi's in the same room, I'm sure I won't be able to sleep well."
+				},
+				{
+					"text": "Heaving a deep sigh, I head back to the room on my own."
+				}
+			]
+		},
+		{},
+		{
+			"texts": [
+				{
+					"text": "When I stand up, Yonagi does the same."
+				},
+				{
+					"name": "Kaito",
+					"text": "You're coming with me?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "..."
+				},
+				{
+					"text": "She nods."
+				},
+				{
+					"name": "Shleep",
+					"text": "*Chirp*"
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "Yonagi trails after me without saying a word."
+				},
+				{
+					"text": "Her bare feet slap against the floor."
+				},
+				{
+					"name": "Kaito",
+					"text": "Hey, Yonagi."
+				},
+				{
+					"text": "I turn back and call out to her, which elicits no response from her."
+				},
+				{
+					"name": "Kaito",
+					"text": "I mean, can I call you Yonagi?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Do you remember how long we have been here?"
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "No response."
+				},
+				{
+					"name": "Kaito",
+					"text": "Figures."
+				},
+				{
+					"text": "I face ahead again and go to the elevator leading up to the rooftop."
+				},
+				{
+					"text": "The elevator door opens in front of us."
+				},
+				{
+					"text": "A cool air blows onto our faces as it does."
+				},
+				{
+					"text": "When I move to step outside..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "..."
+				},
+				{
+					"text": "Yonagi stops me, pulling on my sleeve."
+				},
+				{
+					"name": "Kaito",
+					"text": "You don't wanna go?"
+				},
+				{
+					"text": "She shakes her head."
+				},
+				{
+					"name": "Yonagi",
+					"text": "*Cough*"
+				},
+				{
+					"text": "She lets out a cough."
+				},
+				{
+					"text": "Right, the air outside is pretty dusty."
+				},
+				{
+					"text": "Tokyo is an underground city."
+				},
+				{
+					"text": "The air is cleaner indoors."
+				},
+				{
+					"name": "Kaito",
+					"text": "Then let's go back."
+				},
+				{
+					"name": "Yonagi",
+					"text": "..."
+				},
+				{
+					"text": "She bobs her head."
+				},
+				{
+					"text": "Yonagi stays a few steps behind me as we walk down the corridor to our room."
+				},
+				{
+					"text": "Once we arrive, she heads straight for her bed."
+				},
+				{
+					"name": "Kaito",
+					"text": "Do you feel better in here?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "..."
+				},
+				{
+					"text": "No reaction."
+				},
+				{
+					"text": "Maybe she just doesn't feel like talking."
+				},
+				{
+					"name": "Kaito",
+					"text": "Do you have dreams too?"
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"name": "Kaito",
+					"text": "What kind of dreams?"
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "..."
+				},
+				{
+					"text": "She just yawns in response."
+				},
+				{
+					"name": "Kaito",
+					"text": "Are you sleepy?"
+				},
+				{
+					"text": "Instead of answering my question, she lays down on the bed."
+				},
+				{
+					"text": "She keeps her rose eyes trained on me."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "Hearing the door open behind me, I turn back to see Izumo and Wooleep come into the room."
+				},
+				{
+					"name": "Izumo",
+					"text": "Kaito, do you want to take a shower?"
+				},
+				{
+					"name": "Kaito",
+					"text": "A shower?"
+				},
+				{
+					"text": "She nods."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "I lift up my arm and take a whiff."
+				},
+				{
+					"text": "Thankfully, it doesn't smell."
+				},
+				{
+					"text": "But perhaps it wouldn't be a bad idea to take a shower before the next dream."
+				},
+				{
+					"name": "Kaito",
+					"text": "Yeah, I guess that'd be nice."
+				},
+				{
+					"name": "Izumo",
+					"text": "Here."
+				},
+				{
+					"text": "Izumo presents me with a neatly folded set of clothes."
+				},
+				{
+					"text": "They're exactly the same I'm wearing now."
+				},
+				{
+					"name": "Kaito",
+					"text": "Is she gonna be okay on her own?"
+				},
+				{
+					"name": "Izumo",
+					"text": "The shower booth is for one person. You can't bathe together."
+				},
+				{
+					"name": "Kaito",
+					"text": "That's not what I'm talking about."
+				},
+				{
+					"name": "Izumo",
+					"text": "..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "..."
+				},
+				{
+					"text": "Izumo and Yonagi just stare at me silently."
+				},
+				{
+					"text": "...This is so uncomfortable."
+				},
+				{
+					"name": "Kaito",
+					"text": "Whatever, I'll just go take a shower."
+				},
+				{
+					"name": "Izumo",
+					"text": "Go ahead."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "I get up and head to the door."
+				},
+				{
+					"name": "Shleep",
+					"text": "*Chirp*"
+				},
+				{
+					"name": "Kaito",
+					"text": "Yeah, thanks."
+				},
+				{
+					"text": "Wooleep chirps at me when I pass him. For some reason, I construe it as him calling out to me, so I thank him out of some kind of reflex."
+				},
+				{
+					"name": "Yonagi",
+					"text": "..."
+				},
+				{
+					"text": "When I come back from the shower, Yonagi's already asleep."
+				},
+				{
+					"text": "I go to my bed, sit down, and stare at her for a moment."
+				},
+				{
+					"text": "She's turned over with her back to me."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "I lay down on the bed, facing the stark white ceiling."
+				},
+				{
+					"text": "This is a weird place."
+				},
+				{
+					"text": "A weird place, full of weird girls."
+				},
+				{
+					"text": "I blink slowly."
+				},
+				{
+					"text": "My eyelids feel heavy, and opening them back up is feeling like a worse proposition by the minute."
+				},
+				{
+					"text": "This warmth makes me feel really sleepy."
+				},
+				{
+					"text": "Izumo said that these dreams are sequenced like stories."
+				},
+				{
+					"text": "Will I see the continuation of that last dream now?"
+				},
+				{
+					"text": "As my hazy mind vaguely wonders about these dream world memories, I fall into a deep sleep."
+				}
+			]
+		},
+		{},
+		{
+			"texts": [
+				{
+					"text": "When I stand up, Yonagi does the same."
+				},
+				{
+					"name": "Kaito",
+					"text": "You're coming with me?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "..."
+				},
+				{
+					"text": "She shakes her head."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I don't want to go there."
+				},
+				{
+					"name": "Kaito",
+					"text": "...I see."
+				},
+				{
+					"name": "Shleep",
+					"text": "*Chirp*"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Let's play."
+				},
+				{
+					"name": "Kaito",
+					"text": "Play?"
+				},
+				{
+					"text": "She bobs her head."
+				},
+				{
+					"name": "Shleep",
+					"text": "*Cheerful chirping*"
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "I look between Yonagi and Izumo."
+				},
+				{
+					"text": "Both of them are staring straight at me."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Let's play together."
+				},
+				{
+					"text": "Yonagi stares into my eyes."
+				},
+				{
+					"text": "I turn to Izumo and think for a second."
+				},
+				{
+					"name": "Kaito",
+					"text": "...Is that okay?"
+				},
+				{
+					"text": "She nods."
+				},
+				{
+					"name": "Izumo",
+					"text": "Go ahead."
+				},
+				{
+					"name": "Kaito",
+					"text": "Okay."
+				},
+				{
+					"name": "Kaito",
+					"text": "Yonagi."
+				},
+				{
+					"name": "Kaito",
+					"text": "Let's play."
+				},
+				{
+					"text": "She nods and leaves her seat."
+				},
+				{
+					"text": "I follow her out of the dining room."
+				}
+			]
+		},
+		{
+			"texts": [
+				{
+					"text": "Once we arrive at the recreation room, Yonagi walks up to the bookshelf, takes out a picture book, and goes to sit down on the floor."
+				},
+				{
+					"name": "Kaito",
+					"text": "A picture book?"
+				},
+				{
+					"text": "Yonagi nods."
+				},
+				{
+					"name": "Kaito",
+					"text": "Let's see..."
+				},
+				{
+					"text": "The title on the cover is \"Yamanashi.\""
+				},
+				{
+					"name": "Kaito",
+					"text": "Looks pretty old."
+				},
+				{
+					"text": "I read the author's name."
+				},
+				{
+					"name": "Kaito",
+					"text": "Miyazawa Kenji... Born in 1896."
+				},
+				{
+					"name": "Kaito",
+					"text": "Almost three centuries ago."
+				},
+				{
+					"text": "That is, if my memory-less perception is right."
+				},
+				{
+					"name": "Kaito",
+					"text": "It's amazing how this has stood the test of time."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Wanna read?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Err, uh..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Read."
+				},
+				{
+					"name": "Kaito",
+					"text": "Me?"
+				},
+				{
+					"text": "She nods."
+				},
+				{
+					"text": "I sit next to her and look at the pages."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"name": "Kaito",
+					"text": "Here are two blue magic lantern slides, projecting the bottom of a small mountain stream."
+				},
+				{
+					"name": "Kaito",
+					"text": "Two tiny young crabs are playing at the bottom of the blue brook."
+				},
+				{
+					"name": "Yonagi",
+					"text": "What is a crab?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Well..."
+				},
+				{
+					"name": "Kaito",
+					"text": "They're animals that live in the water. I haven't actually seen any, though."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Animals."
+				},
+				{
+					"name": "Kaito",
+					"text": "Yeah, these ones. See? These two little animals."
+				},
+				{
+					"text": "I say, pointing at the bright little creatures depicted in the book."
+				},
+				{
+					"name": "Kaito",
+					"text": "Clammbon laughed."
+				},
+				{
+					"name": "Kaito",
+					"text": "Clammbon's laughter went pop, pop."
+				},
+				{
+					"name": "Kaito",
+					"text": "Clammbon jumped and laughed."
+				},
+				{
+					"text": "Yonagi pulls on my sleeve."
+				},
+				{
+					"name": "Yonagi",
+					"text": "What's Clammbon?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Hmm..."
+				},
+				{
+					"text": "Good question."
+				},
+				{
+					"text": "I've never seen a crab in my life."
+				},
+				{
+					"text": "And as far as I can tell from the picture..."
+				},
+				{
+					"name": "Kaito",
+					"text": "Maybe it's this bubbly thing?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Bubbly..."
+				},
+				{
+					"name": "Kaito",
+					"text": "...Foam?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Foam."
+				},
+				{
+					"name": "Kaito",
+					"text": "Yeah."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Clammbon is foam."
+				},
+				{
+					"name": "Kaito",
+					"text": "Maybe."
+				},
+				{
+					"text": "What if I'm wrong?"
+				},
+				{
+					"text": "It's not like I have anything else to go on, though."
+				},
+				{
+					"name": "Kaito",
+					"text": "Can I keep reading?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Mhm."
+				},
+				{
+					"name": "Kaito",
+					"text": "Clammbon's laughter went pop, pop."
+				},
+				{
+					"name": "Kaito",
+					"text": "The ceiling and the sides are like dark blue, impenetrable steel walls. Dark bubbles flow along the smooth, running ceiling."
+				},
+				{
+					"name": "Kaito",
+					"text": "And this is the end of the magic lantern slide."
+				},
+				{
+					"name": "Yonagi",
+					"text": "..."
+				},
+				{
+					"name": "Kaito",
+					"text": "...The end."
+				},
+				{
+					"name": "Yonagi",
+					"text": "..."
+				},
+				{
+					"name": "Kaito",
+					"text": "Did you like it?"
+				},
+				{
+					"text": "Yonagi nods."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I feel sorry for the fish."
+				},
+				{
+					"name": "Kaito",
+					"text": "Yeah, poor thing."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Now this."
+				},
+				{
+					"name": "Kaito",
+					"text": "Yeah, up next is... The Little Mermaid."
+				},
+				{
+					"text": "More water stuff?"
+				},
+				{
+					"text": "And it's a tragic story too."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Read it, read it!"
+				},
+				{
+					"name": "Kaito",
+					"text": "Okay, you're the boss."
+				},
+				{
+					"name": "Yonagi",
+					"text": "..."
+				},
+				{
+					"name": "Kaito",
+					"text": "Huh? Yonagi?"
+				},
+				{
+					"text": "After reading four books to her, she begins to rub at her eyes."
+				}
+			]
+		},
+		{
+			"texts": [
+				{
+					"text": "Once we arrive at the recreation room, Yonagi goes and takes two dolls from the toybox."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Here."
+				},
+				{
+					"name": "Kaito",
+					"text": "Hm?"
+				},
+				{
+					"text": "She presents me with a doll that looks like a prince."
+				},
+				{
+					"name": "Yonagi",
+					"text": "You're the boy."
+				},
+				{
+					"name": "Kaito",
+					"text": "Okay."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I will be the princess."
+				},
+				{
+					"text": "She says, holding a doll in a pink dress in her hand."
+				},
+				{
+					"name": "Kaito",
+					"text": "Okay."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Prince, are you coming to see me?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Oh, I'm the prince?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Yes, you are the boy."
+				},
+				{
+					"name": "Kaito",
+					"text": "Okay, gotcha."
+				},
+				{
+					"name": "Yonagi",
+					"text": "And the prince rides this. Here."
+				},
+				{
+					"text": "Yonagi presents me a brown, four-legged doll."
+				},
+				{
+					"name": "Kaito",
+					"text": "All right."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Uh..."
+				},
+				{
+					"name": "Kaito",
+					"text": "Huh?"
+				},
+				{
+					"text": "Yonagi groans, and the doll falls to the floor."
+				},
+				{
+					"name": "Yonagi",
+					"text": "The princess died."
+				},
+				{
+					"name": "Kaito",
+					"text": "What?!"
+				},
+				{
+					"name": "Yonagi",
+					"text": "She'll revive when the prince comes back."
+				},
+				{
+					"name": "Kaito",
+					"text": "Ah, then he better hurry."
+				},
+				{
+					"name": "Kaito",
+					"text": "Clop... Clop... Clop..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "You're riding a horse. It should be faster."
+				},
+				{
+					"name": "Kaito",
+					"text": "Oh, right."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Faster. Clop clop clop."
+				},
+				{
+					"name": "Kaito",
+					"text": "Clop clop clop!"
+				},
+				{
+					"name": "Yonagi",
+					"text": "And now that he's here, the prince cries."
+				},
+				{
+					"name": "Kaito",
+					"text": "Because his princess died?"
+				},
+				{
+					"text": "Yonagi nods."
+				},
+				{
+					"name": "Kaito",
+					"text": "O-Oh, princess... Boo hoo..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "He would cry harder."
+				},
+				{
+					"name": "Kaito",
+					"text": "W-Waaah, waaah."
+				},
+				{
+					"name": "Yonagi",
+					"text": "And then the prince dies."
+				},
+				{
+					"name": "Kaito",
+					"text": "Him too?!"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Hurry."
+				},
+				{
+					"name": "Kaito",
+					"text": "O-Oh, cruel world... Thud..."
+				},
+				{
+					"text": "I let the doll fall to the floor."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Upsy-daisy."
+				},
+				{
+					"name": "Kaito",
+					"text": "Huh?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "The princess came back to life."
+				},
+				{
+					"name": "Kaito",
+					"text": "Why?!"
+				},
+				{
+					"name": "Yonagi",
+					"text": "She wasn't dead."
+				},
+				{
+					"name": "Kaito",
+					"text": "What about the prince?!"
+				},
+				{
+					"name": "Yonagi",
+					"text": "He's dead, right?"
+				},
+				{
+					"name": "Kaito",
+					"text": "No way!"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Uhhh... Thud."
+				},
+				{
+					"name": "Kaito",
+					"text": "What happened to her now?!"
+				},
+				{
+					"name": "Yonagi",
+					"text": "She was so sad about the prince dying that she died of sadness."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "And they lived happily ever after."
+				},
+				{
+					"name": "Kaito",
+					"text": "What?! No?!"
+				},
+				{
+					"name": "Yonagi",
+					"text": "It's fine!"
+				},
+				{
+					"text": "Yonagi snaps back."
+				},
+				{
+					"name": "Kaito",
+					"text": "O-Okay. It's fine."
+				},
+				{
+					"text": "That was a weird story."
+				},
+				{
+					"name": "Yonagi",
+					"text": "..."
+				},
+				{
+					"name": "Kaito",
+					"text": "Huh? Yonagi?"
+				},
+				{
+					"text": "After repeating the same story with the doll three times, she begins rubbing at her eyes."
+				}
+			]
+		},
+		{
+			"texts": [
+				{
+					"text": "Once we arrive at the recreation room, Yonagi trots over the the toybox and takes out some paints and a black camera before coming back."
+				},
+				{
+					"text": "She hands the camera to me."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I am the model, you are my camera man."
+				},
+				{
+					"name": "Kaito",
+					"text": "Okay?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Use this to take pictures of me."
+				},
+				{
+					"name": "Kaito",
+					"text": "Ah, okay. Gotcha."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I'll put on makeup first."
+				},
+				{
+					"text": "Then, she pats at her cheeks."
+				},
+				{
+					"name": "Kaito",
+					"text": "What's that?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Make up."
+				},
+				{
+					"name": "Kaito",
+					"text": "Oh, I see what you mean."
+				},
+				{
+					"name": "Yonagi",
+					"text": "It's blush."
+				},
+				{
+					"text": "She says, lightly dusting a paintbrush over her cheeks."
+				},
+				{
+					"text": "Then she brings the brush to her mouth."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Lipstick."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Do I look cute?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Very cute."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Okay."
+				},
+				{
+					"text": "Yonagi drops the brush and picks up another one."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Now I'll paint my nails."
+				},
+				{
+					"name": "Kaito",
+					"text": "Okay."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I'll make them sparkly."
+				},
+				{
+					"name": "Kaito",
+					"text": "That sounds nice."
+				},
+				{
+					"text": "She starts using the paint on her nails."
+				},
+				{
+					"text": "The paint from last time has already come off."
+				},
+				{
+					"text": "It probably washes off with water."
+				},
+				{
+					"name": "Yonagi",
+					"text": "And last, I'll do my hair."
+				},
+				{
+					"name": "Kaito",
+					"text": "Okay."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Chop chop."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Chop chop chop."
+				},
+				{
+					"text": "She pantomimes cutting her own hair with scissors."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Swoooosh!"
+				},
+				{
+					"name": "Kaito",
+					"text": "Swoosh?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "I'm drying it."
+				},
+				{
+					"name": "Kaito",
+					"text": "Oh, makes sense."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Pssshhh..."
+				},
+				{
+					"name": "Kaito",
+					"text": "And what's what?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Hair spray."
+				},
+				{
+					"name": "Kaito",
+					"text": "Whoa."
+				},
+				{
+					"text": "An impressive effort for realism."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Okay, I'm ready."
+				},
+				{
+					"name": "Kaito",
+					"text": "Gotcha."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Am I super pretty?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Huh? Err, wh-why do you ask?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Am I super pretty?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Y-Yeah, super pretty?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Yes!"
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Take my picture."
+				},
+				{
+					"name": "Kaito",
+					"text": "Ah, right. Say cheese..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "You gotta tell me how cute I am."
+				},
+				{
+					"name": "Kaito",
+					"text": "Huh?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "You have to!"
+				},
+				{
+					"name": "Kaito",
+					"text": "Ah... You're really cute."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Tell me I'm the best."
+				},
+				{
+					"name": "Kaito",
+					"text": "You're the best."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Super pretty?"
+				},
+				{
+					"name": "Kaito",
+					"text": "You're super pretty!"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Yes!"
+				},
+				{
+					"name": "Kaito",
+					"text": "Okay, I took the picture."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Nice!"
+				},
+				{
+					"name": "Yonagi",
+					"text": "I'll put on the next dress."
+				},
+				{
+					"name": "Kaito",
+					"text": "Oh boy..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "..."
+				},
+				{
+					"name": "Kaito",
+					"text": "Huh? Yonagi?"
+				},
+				{
+					"text": "After we've been playing at modeling for a while, Yonagi starts rubbing at her eyes."
+				}
+			]
+		},
+		{
+			"texts": [
+				{
+					"name": "Yonagi",
+					"text": "I'm sleepy."
+				},
+				{
+					"name": "Kaito",
+					"text": "Oh."
+				},
+				{
+					"name": "Yonagi",
+					"text": "..."
+				},
+				{
+					"name": "Izumo",
+					"text": "Hello there."
+				},
+				{
+					"name": "Kaito",
+					"text": "Ah, good thing you're here. Yonagi's—"
+				},
+				{
+					"name": "Izumo",
+					"text": "Yes, It's okay. She can sleep here."
+				},
+				{
+					"name": "Shleep",
+					"text": "*Chirp*"
+				},
+				{
+					"text": "Izumo quickly grabs a blanket from a nearby rack and covers Yonagi with it."
+				},
+				{
+					"name": "Izumo",
+					"text": "..."
+				},
+				{
+					"text": "Izumo stares at Yonagi."
+				},
+				{
+					"text": "I follow her gaze and look at Yonagi's sleeping face as well."
+				},
+				{
+					"text": "The corners of her mouth are curled into a placid smile."
+				},
+				{
+					"name": "Kaito",
+					"text": "She's smiling?"
+				},
+				{
+					"name": "Izumo",
+					"text": "Yes."
+				},
+				{
+					"text": "Izumo keeps staring at her face as she gently strokes her head."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"name": "Izumo",
+					"text": "You can go to sleep whenever you want."
+				},
+				{
+					"name": "Kaito",
+					"text": "Oh, okay."
+				},
+				{
+					"text": "Now that she mentions it, I'm quite drowsy."
+				},
+				{
+					"name": "Kaito",
+					"text": "I'm a bit sleepy, yeah. I'll go back to my bed."
+				},
+				{
+					"name": "Izumo",
+					"text": "Yes."
+				},
+				{
+					"text": "I turn my back on Yonagi, Izumo, and Wooleep."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "As I'm about to go out the door, I look back at the recreation room."
+				},
+				{
+					"name": "Kaito",
+					"text": "Izumo."
+				},
+				{
+					"name": "Izumo",
+					"text": "Yes?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Good night."
+				},
+				{
+					"name": "Izumo",
+					"text": "..."
+				},
+				{
+					"text": "I get the feeling that my comment perplexes her, somehow."
+				},
+				{
+					"text": "Turning back to the corridor, I leave the room."
+				},
+				{
+					"name": "Izumo",
+					"text": "Ah... Good night."
+				},
+				{
+					"text": "I hear her faint response from behind the now closed door."
+				},
+				{
+					"text": "I walk back to my room feeling strangely calm."
+				},
+				{
+					"text": "I have no idea what this experiment is for."
+				},
+				{
+					"text": "But maybe it isn't such a bad idea to cooperate."
+				},
+				{
+					"text": "Such are the thoughts that cross my mind as I yawn on my way back to bed."
+				}
+			]
+		},
+		{}
+	]
+}

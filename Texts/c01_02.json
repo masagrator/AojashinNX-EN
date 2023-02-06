@@ -1,0 +1,1064 @@
+{
+	"scenes": [
+		{},
+		{
+			"texts": [
+				{
+					"name": "Rin",
+					"text": "Hey."
+				},
+				{
+					"name": "Arishima",
+					"text": "..."
+				},
+				{
+					"text": "I hear someone call me from behind and turn to face them."
+				},
+				{
+					"name": "Rin",
+					"text": "You like books, don't you, Arishima?"
+				},
+				{
+					"name": "Arishima",
+					"text": "I suppose I don't hate them."
+				},
+				{
+					"name": "Rin",
+					"text": "I like them too. What are you reading there?"
+				},
+				{
+					"name": "Arishima",
+					"text": "A novel."
+				},
+				{
+					"name": "Rin",
+					"text": "Is it good?"
+				},
+				{
+					"name": "Arishima",
+					"text": "Yeah, I like this person's writing."
+				},
+				{
+					"name": "Arishima",
+					"text": "I wouldn't call it interesting, though."
+				},
+				{
+					"name": "Rin",
+					"text": "Mmh..."
+				},
+				{
+					"text": "Hatano exhales a soft breath as she looks at the novel I'm holding."
+				},
+				{
+					"name": "Rin",
+					"text": "Mind if I borrow it when you're done?"
+				},
+				{
+					"name": "Arishima",
+					"text": "Huh?"
+				},
+				{
+					"text": "She's staring into my eyes."
+				},
+				{
+					"name": "Arishima",
+					"text": "Uh, sure thing. You can have it."
+				},
+				{
+					"text": "I put the novel down on the table."
+				},
+				{
+					"text": "She opens her eyes wide."
+				},
+				{
+					"name": "Rin",
+					"text": "Are you sure?"
+				},
+				{
+					"name": "Arishima",
+					"text": "I've read it a bunch of times. Take it."
+				},
+				{
+					"text": "She bashfully picks it up."
+				},
+				{
+					"name": "Rin",
+					"text": "Thanks."
+				},
+				{
+					"text": "I nod."
+				},
+				{
+					"name": "Rin",
+					"text": "So you want to write too, then?"
+				},
+				{
+					"name": "Arishima",
+					"text": "What?"
+				},
+				{
+					"name": "Rin",
+					"text": "You can write."
+				},
+				{
+					"name": "Arishima",
+					"text": "..."
+				},
+				{
+					"text": "I stare at her and shake my head."
+				},
+				{
+					"text": "She quirks a wide, sly smile."
+				},
+				{
+					"name": "Rin",
+					"text": "You want to write so badly."
+				},
+				{
+					"name": "Rin",
+					"text": "You know you can."
+				},
+				{
+					"name": "Arishima",
+					"text": "No. It didn't work."
+				},
+				{
+					"name": "Arishima",
+					"text": "When I tried, all I wrote was trash. Reading other people's prose isn't enough to teach you how to string together your own sentences."
+				},
+				{
+					"name": "Arishima",
+					"text": "...I couldn't write."
+				},
+				{
+					"name": "Shouko",
+					"text": "It's not that you couldn't. You just didn't."
+				},
+				{
+					"text": "Hatano looks up at the source of the voice."
+				},
+				{
+					"text": "It's my wife, standing between us."
+				},
+				{
+					"name": "Shouko",
+					"text": "And while you sat there not writing, at some point you really stopped being able to, didn't you?"
+				},
+				{
+					"name": "Shouko",
+					"text": "How nice it must have felt to be unable to write. A load off your shoulders."
+				},
+				{
+					"name": "Shouko",
+					"text": "Because of course, it's not your fault. Time is to blame, isn't it? It's never you."
+				},
+				{
+					"text": "Rin stares at my wife."
+				},
+				{
+					"name": "Arishima",
+					"text": "...Don't say that in front of the students."
+				},
+				{
+					"text": "My wife laughs, contempt and disdain seeping into the sound."
+				},
+				{
+					"text": "Rin's eyes are locked on her, her expression unchanged."
+				},
+				{
+					"text": "My wife disappears."
+				},
+				{
+					"text": "She's nowhere to be seen anymore."
+				},
+				{
+					"text": "Rin stares at the spot where she was for a long moment."
+				},
+				{
+					"text": "I turn my gaze back to her."
+				},
+				{
+					"text": "She does the same, and we stare at each other in silence."
+				}
+			]
+		},
+		{
+			"texts": [
+				{
+					"name": "Arishima",
+					"text": "..."
+				},
+				{
+					"text": "I had a dream about Rin."
+				},
+				{
+					"text": "I was a student, and I was sitting right in front of her."
+				},
+				{
+					"text": "If we'd met under different circumstances, maybe that's the kind of way we could have interacted."
+				},
+				{
+					"text": "When my wife appeared, I went back to being middle-aged."
+				},
+				{
+					"text": "I went back to who I am."
+				},
+				{
+					"text": "Then my wife disappeared, leaving me and Rin alone."
+				},
+				{
+					"text": "It was a weird dream, for sure."
+				},
+				{
+					"text": "I wish I didn't wake up."
+				},
+				{
+					"text": "I look at at the wall clock."
+				},
+				{
+					"text": "Monday morning, 5 a.m."
+				},
+				{
+					"text": "I let out a tired sigh."
+				},
+				{
+					"text": "It's the start of a new week."
+				},
+				{
+					"text": "How long was my wife's trip to Osaka again?"
+				},
+				{
+					"text": "I reach out for my phone to ask her, then stop."
+				},
+				{
+					"text": "The dream from just now flashes through my head."
+				},
+				{
+					"text": "Our lives couldn't be more separate right now."
+				},
+				{
+					"text": "There's no need to ask. It doesn't matter."
+				},
+				{
+					"text": "I still feel sluggish."
+				},
+				{
+					"text": "Probably because I fell asleep in front of my PC on Saturday."
+				},
+				{
+					"text": "It's a good thing my wife wasn't around this weekend."
+				},
+				{
+					"text": "Thanks to that, I was able to focus on writing all weekend long."
+				},
+				{
+					"text": "If I got tired of writing in my room, I could move into the living room."
+				},
+				{
+					"text": "And whenever I got stuck, I could pace around the house."
+				},
+				{
+					"text": "One word at a time."
+				},
+				{
+					"text": "My first novel in years is taking shape."
+				},
+				{
+					"text": "I guess I do still like writing after all."
+				},
+				{
+					"text": "Knowing that makes my heart feel a bit lighter."
+				},
+				{
+					"text": "I get up and stretch my limbs out."
+				},
+				{
+					"text": "I didn't get much sleep over the weekend, so I'm fatigued, yet somehow I still feel lighter."
+				},
+				{
+					"name": "Watanabe",
+					"text": "Geez, you look like a panda."
+				},
+				{
+					"text": "I turn to Watanabe."
+				},
+				{
+					"text": "Seeing his concerned look, I let out a little snort."
+				},
+				{
+					"text": "Yeah, I suppose it's does look pretty bad."
+				},
+				{
+					"text": "The bags under my eyes don't lie, and I'm no spring chicken anymore."
+				},
+				{
+					"text": "I was awake all night through the weekend, so it's obviously taken its toll."
+				},
+				{
+					"text": "From the way he's frowning, I imagine my laughter isn't serving to reassure him."
+				},
+				{
+					"name": "Watanabe",
+					"text": "You okay? Don't tell me you started doing drugs or something."
+				},
+				{
+					"name": "Arishima",
+					"text": "Just this one."
+				},
+				{
+					"text": "I say, raising my cig."
+				},
+				{
+					"name": "Watanabe",
+					"text": "For real? You kinda look possessed or something."
+				},
+				{
+					"name": "Arishima",
+					"text": "You could say I am."
+				},
+				{
+					"name": "Watanabe",
+					"text": "..."
+				},
+				{
+					"text": "It's been three days since I started the draft."
+				},
+				{
+					"text": "I had twenty years worth of pent-up drive that I just had to get out of my system."
+				},
+				{
+					"text": "Even if I'm not talented and it's not particularly good, I still need to write."
+				},
+				{
+					"text": "And I gotta admit, it feels damn good."
+				},
+				{
+					"text": "The more clearly I delineated the difference between me and Shuho, the more the haze inside my mind seemed to clear."
+				},
+				{
+					"text": "I don't need to write hundreds of pages."
+				},
+				{
+					"text": "For now, I simply decided to write for this one week."
+				},
+				{
+					"name": "Watanabe",
+					"text": "Anyway, remember the last time we went drinking? Remember how we talked about that girl?"
+				},
+				{
+					"name": "Arishima",
+					"text": "Hm?"
+				},
+				{
+					"name": "Watanabe",
+					"text": "The second-year girl. Hatano."
+				},
+				{
+					"name": "Arishima",
+					"text": "Oh, yeah."
+				},
+				{
+					"name": "Watanabe",
+					"text": "I hear you've been having lunch together?"
+				},
+				{
+					"name": "Arishima",
+					"text": "..."
+				},
+				{
+					"name": "Watanabe",
+					"text": "At the cafeteria."
+				},
+				{
+					"name": "Arishima",
+					"text": "Yeah, I guess we did. What, you saw us? Could have said hi."
+				},
+				{
+					"name": "Watanabe",
+					"text": "Nah, I didn't see you guys."
+				},
+				{
+					"name": "Arishima",
+					"text": "Huh?"
+				},
+				{
+					"name": "Watanabe",
+					"text": "Remember, this is a school campus, Professor Arishima. What do you think is the number one concern for these kids?"
+				},
+				{
+					"name": "Arishima",
+					"text": "Their midterms?"
+				},
+				{
+					"name": "Watanabe",
+					"text": "GET REAL!"
+				},
+				{
+					"text": "He shouts so loud that the flimsy walls of the smoking room tremble."
+				},
+				{
+					"name": "Watanabe",
+					"text": "It's love! Boys and girls! Rumors, scandals! Getting married turned your head to mush or what?!"
+				},
+				{
+					"name": "Arishima",
+					"text": "Err, I don't really think about that stuff?"
+				},
+				{
+					"name": "Watanabe",
+					"text": "Oh, for the love of..."
+				},
+				{
+					"text": "Watanabe heaves an exasperated sigh."
+				},
+				{
+					"name": "Watanabe",
+					"text": "Didn't I tell you? She stands out. People are jealous of her."
+				},
+				{
+					"name": "Watanabe",
+					"text": "You thought THAT Rin having lunch with a male professor in the middle of the cafeteria would go unnoticed? Like, really?"
+				},
+				{
+					"name": "Arishima",
+					"text": "...Maybe if it was you. I'm turning 45 this year."
+				},
+				{
+					"name": "Watanabe",
+					"text": "That's neither here nor there."
+				},
+				{
+					"name": "Watanabe",
+					"text": "Anyway, I think it'd be better if you didn't draw so much attention to yourself. You don't like that kind of thing, do you?"
+				},
+				{
+					"name": "Arishima",
+					"text": "Mmh..."
+				},
+				{
+					"name": "Watanabe",
+					"text": "Don't worry, I know you didn't have any ulterior motives or anything."
+				},
+				{
+					"name": "Arishima",
+					"text": "..."
+				},
+				{
+					"text": "I'm unable to respond straight away."
+				},
+				{
+					"name": "Watanabe",
+					"text": "Huh? You didn't, right?"
+				},
+				{
+					"name": "Arishima",
+					"text": "Don't be stupid."
+				},
+				{
+					"name": "Watanabe",
+					"text": "Yeah, yeah, right!"
+				},
+				{
+					"text": "I finish my afternoon lectures and the usual paperwork that comes with the job."
+				},
+				{
+					"name": "Arishima",
+					"text": "Have a good evening, everyone."
+				},
+				{
+					"text": "The professor at the desk beside mine looks up and nods in acknowledgment."
+				},
+				{
+					"text": "Instead of going to the library, I head straight home."
+				},
+				{
+					"text": "The sky is still light."
+				},
+				{
+					"text": "How many years has it been since I last went home this early?"
+				},
+				{
+					"text": "I glance at the library from a distance."
+				},
+				{
+					"text": "I wonder if Rin's reading another one of her dad's books today."
+				},
+				{
+					"name": "Arishima",
+					"text": "..."
+				},
+				{
+					"text": "I'll try to keep myself from talking to her for a while."
+				},
+				{
+					"text": "At least until I finish writing this."
+				},
+				{
+					"text": "I do feel a little disappointed that I won't be spending time with her."
+				},
+				{
+					"text": "But then I remember the dream I had last night."
+				},
+				{
+					"text": "If we were both students, we might have gone to the library together."
+				},
+				{
+					"text": "We'd talk about our favorite books, and maybe a friendship would blossom."
+				},
+				{
+					"text": "But the fact remains that our positions are completely different."
+				},
+				{
+					"text": "She's a student, and I'm a professor."
+				},
+				{
+					"text": "Our only points of slight contact are in the library and the classroom."
+				},
+				{
+					"text": "It's too frail to call it a bond."
+				},
+				{
+					"text": "I turn my back on the library and head home."
+				},
+				{
+					"text": "I make it back before the sun dips over the horizon."
+				},
+				{
+					"text": "Stepping through the front door, I notice my wife's shoes in the entryway."
+				},
+				{
+					"text": "And a pair of male shoes that I don't recognize."
+				},
+				{
+					"text": "They're sneakers. I don't own shoes like these."
+				},
+				{
+					"text": "I look down at the pair of shoes for a while."
+				},
+				{
+					"text": "Then I hear the door of the living room open and raise my head."
+				},
+				{
+					"text": "My wife is peering out from behind it."
+				},
+				{
+					"name": "Shouko",
+					"text": "...Aren't you a bit early?"
+				},
+				{
+					"name": "Arishima",
+					"text": "Yeah."
+				},
+				{
+					"name": "Shouko",
+					"text": "What happened?"
+				},
+				{
+					"name": "Arishima",
+					"text": "Nothing."
+				},
+				{
+					"name": "Shouko",
+					"text": "Oh..."
+				},
+				{
+					"text": "Averting her eyes from me, she falls silent."
+				},
+				{
+					"text": "I think she's trying to think of what to say."
+				},
+				{
+					"text": "The collar of her blouse is clearly out of place."
+				},
+				{
+					"text": "Why do I notice this?"
+				},
+				{
+					"text": "It's not like we care about each other."
+				},
+				{
+					"text": "I curse my powers of observation."
+				},
+				{
+					"text": "Unsurprisingly enough, she says nothing as her eyes wander about aimlessly."
+				},
+				{
+					"name": "Arishima",
+					"text": "...So it was until today, huh?"
+				},
+				{
+					"text": "She turns to me again."
+				},
+				{
+					"name": "Shouko",
+					"text": "What was?"
+				},
+				{
+					"name": "Arishima",
+					"text": "Your work trip."
+				},
+				{
+					"name": "Shouko",
+					"text": "Yeah."
+				},
+				{
+					"text": "She nods in response."
+				},
+				{
+					"name": "Shouko",
+					"text": "One of the writers I'm in charge of just stopped by for something. He'll be gone soon."
+				},
+				{
+					"name": "Arishima",
+					"text": "I see."
+				},
+				{
+					"name": "Shouko",
+					"text": "Sorry."
+				},
+				{
+					"name": "Arishima",
+					"text": "It's fine."
+				},
+				{
+					"text": "I take off my shoes and go upstairs."
+				},
+				{
+					"text": "Entering my room, I close the door behind me."
+				},
+				{
+					"text": "I let my bag fall to the floor."
+				},
+				{
+					"text": "The sounds of people drift up the stairs."
+				},
+				{
+					"text": "The clink of cups against wood."
+				},
+				{
+					"text": "Did she make coffee for him?"
+				},
+				{
+					"text": "Have I ever drank coffee made by her in this house?"
+				},
+				{
+					"text": "Then I hear the sound of water running."
+				},
+				{
+					"text": "Maybe they're washing the cups."
+				},
+				{
+					"text": "The sound continues for a while."
+				},
+				{
+					"text": "After it stops, I hear the door of the living room open."
+				},
+				{
+					"text": "Two sets of footsteps walk toward the front door."
+				},
+				{
+					"text": "In the end, it's over without me ever even seeing what the man looks like."
+				},
+				{
+					"text": "I hear the door open and close."
+				},
+				{
+					"text": "And then, silence."
+				},
+				{
+					"text": "I heave a huge sigh."
+				},
+				{
+					"text": "It's quiet."
+				},
+				{
+					"text": "I walk to my desk by the window and take a seat."
+				},
+				{
+					"text": "Leaning back in the chair, I stare up at the ceiling."
+				},
+				{
+					"text": "I'm not even disappointed at this point."
+				},
+				{
+					"text": "Our relationship has gone cold and dead."
+				},
+				{
+					"text": "I'm not about to try and press my idea of fidelity onto her."
+				},
+				{
+					"text": "Still, my chest feels prickly."
+				},
+				{
+					"text": "I don't understand this feeling."
+				},
+				{
+					"text": "Do I have some kind of lingering attachment to her?"
+				},
+				{
+					"text": "She said that she's in charge of a young writer."
+				},
+				{
+					"text": "I understand the enthusiasm of a budding novelist."
+				},
+				{
+					"text": "Maybe it stirred the woman inside of her; a woman of flesh and desire."
+				},
+				{
+					"text": "Nah, she's always been that woman. Just because she doesn't show that side of herself to me doesn't make it any less real."
+				},
+				{
+					"text": "I have to laugh at myself."
+				},
+				{
+					"text": "In the end, we're very alike."
+				},
+				{
+					"text": "At some point living together in this house, we both withered away."
+				},
+				{
+					"text": "And, with coincidental timing, we've both been blessed with a small sprout of youth that we're now clinging to."
+				},
+				{
+					"text": "I don't blame or condemn her."
+				},
+				{
+					"text": "I understand how she feels."
+				},
+				{
+					"text": "I'm the same."
+				},
+				{
+					"text": "Bored to death of everyday life."
+				},
+				{
+					"text": "Accepting it out of sheer laziness."
+				},
+				{
+					"text": "Being disgusted with and feeling pity for yourself."
+				},
+				{
+					"text": "Impatience and resignation becoming your default state of mind."
+				},
+				{
+					"text": "...I know that very well."
+				},
+				{
+					"text": "I won't point the finger."
+				},
+				{
+					"text": "But I won't forgive either."
+				},
+				{
+					"text": "I want to escape this inexorably dull slide toward death too."
+				},
+				{
+					"text": "I'm not living like this because I like it."
+				},
+				{
+					"text": "Time keeps marching on, no matter what I do."
+				},
+				{
+					"text": "And the only resistance I can put up is..."
+				},
+				{
+					"text": "I turn on the laptop, input my password, and smash the Enter key with more force than needed."
+				},
+				{
+					"text": "I'll change this everyday routine the only way I know how."
+				},
+				{
+					"text": "By writing."
+				},
+				{
+					"text": "I open the draft file and begin typing away."
+				},
+				{
+					"text": "After a while, I settle into a comfortable rhythm."
+				},
+				{
+					"text": "The prickly feeling in my chest goes away."
+				},
+				{
+					"text": "I just focus on the sentences taking form in my mind."
+				},
+				{
+					"text": "By the times my eyes get tired and I tear them away from the screen, it's already dark outside."
+				},
+				{
+					"text": "I look at the clock."
+				},
+				{
+					"text": "It's after 10 p.m."
+				},
+				{
+					"text": "I pinch bridge of my nose."
+				},
+				{
+					"text": "After easing some of the tension with that, I stand up and stretch."
+				},
+				{
+					"text": "I realize that my mouth feels dry."
+				},
+				{
+					"text": "When I go down to the living room, I find my wife at the table reading something."
+				},
+				{
+					"name": "Shouko",
+					"text": "..."
+				},
+				{
+					"text": "She raises her face to look at me."
+				},
+				{
+					"text": "I give her a small nod and head to the kitchen."
+				},
+				{
+					"text": "As I walk past the dining table, I glance at the novel she's reading."
+				},
+				{
+					"text": "It's a galley proof."
+				},
+				{
+					"text": "Probably the work of that young writer who was here earlier."
+				},
+				{
+					"text": "I pick up the kettle and set some water to boil."
+				},
+				{
+					"name": "Arishima",
+					"text": "Want some coffee?"
+				},
+				{
+					"text": "She looks up and stares at me for a moment."
+				},
+				{
+					"name": "Shouko",
+					"text": "Yeah. Thanks."
+				},
+				{
+					"text": "I nod, put enough water for two cups in the kettle, and turn it on."
+				},
+				{
+					"text": "I set up the drip coffee bags in the cups and wait for the water to boil."
+				},
+				{
+					"text": "While I wait, I lean back against the kitchen counter and stare at her."
+				},
+				{
+					"text": "Her long bangs brush against her mouth."
+				},
+				{
+					"text": "The years are showing."
+				},
+				{
+					"text": "For both of us."
+				},
+				{
+					"text": "There are faint laugh lines forming around her mouth."
+				},
+				{
+					"text": "And there are deep crow's feet carved into the corners of her eyes."
+				},
+				{
+					"text": "Despite this, I still think she's a beautiful woman."
+				},
+				{
+					"text": "I don't really think I can make a calm assessment of her at this point."
+				},
+				{
+					"text": "But I'm certain she's more valuable than I am in the dating market."
+				},
+				{
+					"text": "Noticing my gaze on her, she looks my way."
+				},
+				{
+					"name": "Shouko",
+					"text": "What?"
+				},
+				{
+					"name": "Arishima",
+					"text": "Nothing, really."
+				},
+				{
+					"name": "Arishima",
+					"text": "Was just wondering about what you're reading."
+				},
+				{
+					"name": "Shouko",
+					"text": "A galley proof."
+				},
+				{
+					"text": "She leans back in her chair."
+				},
+				{
+					"name": "Arishima",
+					"text": "Is it well written?"
+				},
+				{
+					"name": "Shouko",
+					"text": "Yeah. I'd say it is."
+				},
+				{
+					"name": "Shouko",
+					"text": "It'll probably be a hit with younger readers."
+				},
+				{
+					"text": "I nod."
+				},
+				{
+					"name": "Shouko",
+					"text": "Wanna read it?"
+				},
+				{
+					"name": "Arishima",
+					"text": "Nah. I don't think I'd have any useful opinions to offer."
+				},
+				{
+					"name": "Shouko",
+					"text": "Huh."
+				},
+				{
+					"name": "Arishima",
+					"text": "Is it by the writer who was here earlier?"
+				},
+				{
+					"name": "Shouko",
+					"text": "Yeah."
+				},
+				{
+					"text": "Her eyes are fixed on the manuscript."
+				},
+				{
+					"name": "Arishima",
+					"text": "..."
+				},
+				{
+					"text": "...I'm writing now too."
+				},
+				{
+					"text": "If I tell her that, would it change anything?"
+				},
+				{
+					"text": "Would she look at my draft with the same attention she's giving to the one in front of her?"
+				},
+				{
+					"text": "The water boils."
+				},
+				{
+					"text": "I pour the water evenly between the two cups."
+				},
+				{
+					"text": "After putting the kettle back in its place, I grab the steaming cups."
+				},
+				{
+					"text": "I hand one of them to my wife."
+				},
+				{
+					"text": "She takes it without a word, and turns once again to the paper in her hand."
+				},
+				{
+					"text": "It's covered in scribbles of red pen."
+				},
+				{
+					"text": "The line edits and notes of a professional editor."
+				},
+				{
+					"text": "She takes a sip of coffee and focuses on reading."
+				},
+				{
+					"name": "Arishima",
+					"text": "...I'm writing too."
+				},
+				{
+					"name": "Shouko",
+					"text": "Huh?"
+				},
+				{
+					"text": "She looks up at me."
+				},
+				{
+					"name": "Arishima",
+					"text": "I'm writing a novel."
+				},
+				{
+					"name": "Shouko",
+					"text": "...Why?"
+				},
+				{
+					"name": "Arishima",
+					"text": "I wanted to write."
+				},
+				{
+					"text": "She looks up at me, an awkward silence taking form."
+				},
+				{
+					"name": "Shouko",
+					"text": "Today? Out of nowhere?"
+				},
+				{
+					"text": "I shake my head."
+				},
+				{
+					"name": "Arishima",
+					"text": "I started at the weekend."
+				},
+				{
+					"text": "She nods slowly."
+				},
+				{
+					"name": "Arishima",
+					"text": "...Would you read it?"
+				},
+				{
+					"name": "Shouko",
+					"text": "..."
+				},
+				{
+					"text": "She bites back a laugh."
+				},
+				{
+					"text": "With the smile from the little outburst still on her face, she looks up at me."
+				},
+				{
+					"name": "Shouko",
+					"text": "Now? Aren't you about ten years too late?"
+				},
+				{
+					"name": "Shouko",
+					"text": "What? Are you trying to insinuate something? You think you can try and guilt trip me over something?"
+				},
+				{
+					"name": "Arishima",
+					"text": "..."
+				},
+				{
+					"name": "Shouko",
+					"text": "Do your best with your little novel."
+				},
+				{
+					"text": "I nod and leave the living room with my coffee in hand."
+				},
+				{
+					"text": "I knew this would happen."
+				},
+				{
+					"text": "I just wanted to tell her."
+				},
+				{
+					"text": "That she's not the only one disillusioned and tired of this life."
+				},
+				{
+					"text": "I'm not happy with the way I am right now either."
+				},
+				{
+					"text": "That's why I'm trying to change."
+				},
+				{
+					"text": "I go back to my room and return to working on my draft."
+				}
+			]
+		},
+		{}
+	]
+}

@@ -1,0 +1,17 @@
+c01_01:
+	{
+		"string": "２０００年に一般女性と結婚、長女をもうけたが、\\n２００７年に離婚。",
+		"string_ENG": "He married his first wife in 2000, and together they had a daughter. They divorced in 2007."
+	},
+	In English event image included with original romfs it's stated that he married her in 1996.
+	Dunno if this is typo or original year before moving timeline from high school to university (to make his daughter 4 year older).
+	But in Japanese language it's 2000, so it will stay like this.
+
+c00_03:
+	three event images with English text included with original romfs have typos:
+	- S(h)ingle Thinking Space
+	- Image trans(e)fer
+	- Data communication by b(a)io nanochip
+	- "Bule" instead of "Blue"
+	
+	I won't fix them as they're readable anyway

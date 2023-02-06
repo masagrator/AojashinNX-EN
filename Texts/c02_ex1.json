@@ -1,0 +1,304 @@
+{
+	"scenes": [
+		{
+			"texts": [
+				{
+					"name": "Will",
+					"text": "Mm..."
+				},
+				{
+					"name": "Olivia",
+					"text": "Why so pensive? Writing a new piece?"
+				},
+				{
+					"name": "Will",
+					"text": "Yeah, it's a new piece all right, but..."
+				},
+				{
+					"name": "Olivia",
+					"text": "You're stuck? I'll read it for you. What kind of story is it?"
+				},
+				{
+					"name": "Will",
+					"text": "Actually..."
+				},
+				{
+					"text": "I place the object of my dismay on the counter."
+				},
+				{
+					"text": "Olivia immediately regards it with suspicion."
+				},
+				{
+					"name": "Olivia",
+					"text": "Huh? What's this? It stinks."
+				},
+				{
+					"name": "Will",
+					"text": "It's supposed to be pottage stew."
+				},
+				{
+					"name": "Olivia",
+					"text": "Pottage? Ah, I see. I thought you drank too much and barfed into the bowl or something of the like."
+				},
+				{
+					"name": "Will",
+					"text": "Did you just call my food vomit?"
+				},
+				{
+					"name": "Olivia",
+					"text": "I think you underestimate the way it stinks... *Sniff* What in name of the Lord did you put in this... this thing..."
+				},
+				{
+					"name": "Will",
+					"text": "Potatoes."
+				},
+				{
+					"name": "Olivia",
+					"text": "Okay... Well, that sounds very standard. Why does it smell so bloody sour, though?"
+				},
+				{
+					"name": "Will",
+					"text": "Try it out and you'll see."
+				},
+				{
+					"name": "Olivia",
+					"text": "You want me to put that sour, stinking regurgitation in my mouth? Am I hearing this right?"
+				},
+				{
+					"text": "I nod, trying to block out the way she keeps likening my food to vomit."
+				},
+				{
+					"name": "Will",
+					"text": "Believe in me, my love."
+				},
+				{
+					"name": "Olivia",
+					"text": "...You didn't put anything weird in this, did you?"
+				},
+				{
+					"name": "Will",
+					"text": "It's an experiment for a new menu item. I wouldn't put anything strange in it."
+				},
+				{
+					"text": "With obvious trepidation, Olivia picks up a spoon as she looks down at the bowl the same way one would look at a heap of trash."
+				},
+				{
+					"name": "Olivia",
+					"text": "..."
+				},
+				{
+					"text": "She takes a spoonful and raises it to her mouth."
+				},
+				{
+					"name": "Will",
+					"text": "How is it?"
+				},
+				{
+					"name": "Olivia",
+					"text": "As sour as I imagined."
+				},
+				{
+					"name": "Will",
+					"text": "Doesn't it have a refreshing aftertaste?"
+				},
+				{
+					"name": "Olivia",
+					"text": "Not at all."
+				},
+				{
+					"name": "Will",
+					"text": "Hmm..."
+				},
+				{
+					"name": "Olivia",
+					"text": "I wasn't even aware that pottage soup was, well, a thing in the first place. What did you put in this?"
+				},
+				{
+					"name": "Will",
+					"text": "The main ingredients are potatoes and milk, right? Then I added salt and pepper."
+				},
+				{
+					"name": "Olivia",
+					"text": "Uh, did you make sure the milk wasn't bad? Why would it be this acidic?"
+				},
+				{
+					"name": "Will",
+					"text": "I put in some vinegar to give it a special kick."
+				},
+				{
+					"name": "Olivia",
+					"text": "Excuse moi?"
+				},
+				{
+					"name": "Will",
+					"text": "Okay, hear me out. So our customers come to drink, right? It's obviously bad for their liver, but I heard that vinegar is really good for that, so I thought we could..."
+				},
+				{
+					"name": "Olivia",
+					"text": "I don't want to hear you spilling the beans on vinegar!"
+				},
+				{
+					"name": "Will",
+					"text": "How rude, vinegar isn't even made out of beans."
+				},
+				{
+					"name": "Olivia",
+					"text": "Oh, shut up. Don't even dare."
+				},
+				{
+					"name": "Will",
+					"text": "..."
+				},
+				{
+					"text": "Olivia frowns and rubs at the spot between her eyebrows in clear displeasure."
+				},
+				{
+					"name": "Olivia",
+					"text": "This is the literal opposite of a secret ingredient. You completely eliminated the taste of the potatoes with it."
+				},
+				{
+					"name": "Olivia",
+					"text": "It just tastes like taking a swig of the vinegar bottle."
+				},
+				{
+					"name": "Will",
+					"text": "Oh, good!"
+				},
+				{
+					"name": "Olivia",
+					"text": "Excuse moi?!"
+				},
+				{
+					"name": "Will",
+					"text": "I hear that people in the Orient drink vinegar to stay healthy."
+				},
+				{
+					"name": "Olivia",
+					"text": "So what?!"
+				},
+				{
+					"name": "Will",
+					"text": "You look a little healthier already."
+				},
+				{
+					"name": "Olivia",
+					"text": "We're talking about a new menu item, right?! Where's all this vinegar bollocks coming from?! You're just full of beans!"
+				},
+				{
+					"name": "Will",
+					"text": "What's with you and beans today? Anyway, it's not bollocks, vinegar is—"
+				},
+				{
+					"name": "Olivia",
+					"text": "Silence! We didn't even have vinegar in stock! Where did you get it?!"
+				},
+				{
+					"name": "Will",
+					"text": "I bought some, see?"
+				},
+				{
+					"text": "I pull an unopened bottle of vinegar from under the counter and place it in front of her."
+				},
+				{
+					"text": "I was told that it's vinegar made from the same ingredients as wine."
+				},
+				{
+					"name": "Olivia",
+					"text": "Wine vinegar, okay. It is true that it's good for the body, and it could enhance the flavor of a pottage."
+				},
+				{
+					"name": "Olivia",
+					"text": "But don't tell me you put two or three spoonfuls of this in the pot, please. The flavor is too overpowering to add more than a few drops."
+				},
+				{
+					"name": "Will",
+					"text": "I put in the whole thing to see what happened."
+				},
+				{
+					"name": "Olivia",
+					"text": "What?! The whole bottle?!"
+				},
+				{
+					"name": "Will",
+					"text": "Mhm."
+				},
+				{
+					"name": "Olivia",
+					"text": "That's not a secret ingredient! You pickled those poor potatoes! Where did you learn to cook?!"
+				},
+				{
+					"name": "Will",
+					"text": "You know I'm self-taught. No one taught me how to write or how to cook."
+				},
+				{
+					"name": "Will",
+					"text": "Since I'm kind of making the theater thing work out, I imagined I could do the same with cooking."
+				},
+				{
+					"name": "Olivia",
+					"text": "Well, that's a bloody shame. I see that your talent doesn't go beyond the theather's walls."
+				},
+				{
+					"name": "Will",
+					"text": "But I—"
+				},
+				{
+					"name": "Olivia",
+					"text": "No buts! Anyone with even one lick of cooking aptitude wouldn't spill a whole bottle of vinegar in a bloody soup! This is basic common sense!"
+				},
+				{
+					"name": "Will",
+					"text": "Are you sure simply deviating from the norm is such a bad thing?"
+				},
+				{
+					"name": "Olivia",
+					"text": "Do you need to ask?! You used a whole bottle of vinegar!"
+				},
+				{
+					"name": "Will",
+					"text": "But..."
+				},
+				{
+					"name": "Olivia",
+					"text": "No bloody buts!"
+				},
+				{
+					"text": "Olivia blows out a sigh of exasperation."
+				},
+				{
+					"name": "Olivia",
+					"text": "Get out of the way. If you want a new dish that badly, I'll make it. You just go back to the desk and keep writing. I hereby banish you from the kitchen."
+				},
+				{
+					"name": "Will",
+					"text": "O-Okay..."
+				},
+				{
+					"name": "Olivia",
+					"text": "Why did you even choose vinegar? Of all the things to get, I swear on the Lord's bones..."
+				},
+				{
+					"name": "Will",
+					"text": "I heard the other pubs are selling pickled beans, and they're pretty popular, so I thought it'd be a hit with our patrons."
+				},
+				{
+					"name": "Will",
+					"text": "Apparently they improve the metabolism and cure constipation."
+				},
+				{
+					"name": "Olivia",
+					"text": "...So this really was about beans all along, huh?"
+				},
+				{
+					"name": "Will",
+					"text": "Hahah! Now that you mention it, yeah!"
+				},
+				{
+					"name": "Olivia",
+					"text": "Enough laughter! You really tick me off!"
+				}
+			]
+		},
+		{}
+	]
+}

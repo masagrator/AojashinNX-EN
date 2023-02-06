@@ -1,0 +1,93 @@
+{
+	"scenes": [
+		{},
+		{},
+		{
+			"texts": [
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "So we're finally having the last dream."
+				},
+				{
+					"text": "I rise from bed."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Kaito. Good morning."
+				},
+				{
+					"name": "Kaito",
+					"text": "Good morning."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Did you have a dream?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Yeah."
+				},
+				{
+					"name": "Yonagi",
+					"text": "...Right."
+				},
+				{
+					"text": "She smiles softly."
+				},
+				{
+					"text": "Izumo and Wooleep come into the room."
+				},
+				{
+					"text": "This time, they stop in the doorway and look at me."
+				},
+				{
+					"text": "Izumo nods at me almost imperceptibly."
+				},
+				{
+					"text": "I suppose that means I can proceed as I wish."
+				},
+				{
+					"name": "Kaito",
+					"text": "Wanna go play?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Play?"
+				},
+				{
+					"name": "Kaito",
+					"text": "You wanna do something, right?"
+				},
+				{
+					"text": "I ask, knowing what her answer will be."
+				}
+			]
+		},
+		{
+			"texts": [
+				{
+					"text": "After finishing her meal, Yonagi returns to bed and I watch her for a while."
+				},
+				{
+					"text": "She's just sleeping peacefully, like always."
+				},
+				{
+					"text": "But this won't last much longer."
+				},
+				{
+					"text": "Is their plan—"
+				},
+				{
+					"text": "No."
+				},
+				{
+					"text": "Is my plan working out as intended right now?"
+				}
+			]
+		},
+		{}
+	]
+}

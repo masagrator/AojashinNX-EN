@@ -1,0 +1,932 @@
+{
+	"scenes": [
+		{},
+		{},
+		{},
+		{
+			"texts": [
+				{
+					"name": "Kaito",
+					"text": "Mm... H-Huh?"
+				},
+				{
+					"name": "Izumo",
+					"text": "Good morning."
+				},
+				{
+					"name": "Kaito",
+					"text": "Uh, where's Yonagi?"
+				},
+				{
+					"name": "Izumo",
+					"text": "Still sleeping."
+				},
+				{
+					"name": "Kaito",
+					"text": "Oh, I see."
+				},
+				{
+					"text": "I glance at the bed on the other side of the room. Yonagi's still lying there, breathing quiet and even."
+				},
+				{
+					"name": "Kaito",
+					"text": "What's wrong?"
+				},
+				{
+					"name": "Izumo",
+					"text": "Hm?"
+				},
+				{
+					"name": "Kaito",
+					"text": "I thought we were having the same dream."
+				},
+				{
+					"name": "Izumo",
+					"text": "That is correct."
+				},
+				{
+					"name": "Izumo",
+					"text": "But now, she has started having a different dream."
+				},
+				{
+					"name": "Kaito",
+					"text": "Different?"
+				},
+				{
+					"text": "Izumo nods."
+				},
+				{
+					"name": "Izumo",
+					"text": "Your memory needs to be initialized."
+				},
+				{
+					"name": "Kaito",
+					"text": "What do you mean?"
+				},
+				{
+					"name": "Izumo",
+					"text": "You are the receptor for her dream world. Any past memories you have will only become noise."
+				},
+				{
+					"name": "Kaito",
+					"text": "You're erasing my memories again?"
+				},
+				{
+					"name": "Izumo",
+					"text": "That's right."
+				},
+				{
+					"name": "Kaito",
+					"text": "Wait a second. You can't just do this."
+				},
+				{
+					"name": "Kaito",
+					"text": "I don't even remember anything from before two days ago."
+				},
+				{
+					"name": "Izumo",
+					"text": "I am sorry. I have already received the pertinent permission from the concerned party regarding the initialization process in the event of an error such as this."
+				},
+				{
+					"name": "Kaito",
+					"text": "You mean... me?"
+				},
+				{
+					"name": "Izumo",
+					"text": "You when you had your whole memory, to be exact."
+				},
+				{
+					"name": "Kaito",
+					"text": "Wait! Even if I'm going to lose the memories anyway, I still want to know what happened."
+				},
+				{
+					"name": "Kaito",
+					"text": "Weren't you managing the dreams and sequencing them like a story?"
+				},
+				{
+					"name": "Kaito",
+					"text": "I'm still halfway through a dream. Why is this happening out of nowhere?"
+				},
+				{
+					"name": "Izumo",
+					"text": "It is Yonagi who decides the contents of the dream. You receive the images from her, and your reactions return to Yonagi."
+				},
+				{
+					"name": "Izumo",
+					"text": "To progress the dream requires interaction between the two of you. But now there is a gap between you and her dream world."
+				},
+				{
+					"name": "Kaito",
+					"text": "What caused it?"
+				},
+				{
+					"name": "Izumo",
+					"text": "Unknown."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"name": "Kaito",
+					"text": "What happens if I don't want to do this? Do you really need to erase my memories to resolve this situation?"
+				},
+				{
+					"name": "Izumo",
+					"text": "Literally nothing will happen."
+				},
+				{
+					"name": "Izumo",
+					"text": "You will remain in this facility, unable to leave, and Yonagi will keep on dreaming without waking up."
+				},
+				{
+					"name": "Kaito",
+					"text": "What?"
+				},
+				{
+					"name": "Izumo",
+					"text": "The only thing that can advance her dream is the interactions between you and her."
+				},
+				{
+					"name": "Izumo",
+					"text": "Unless there is a reaction signal from the receptor, Yonagi will keep on sending the same signal in hopes of getting a response."
+				},
+				{
+					"name": "Izumo",
+					"text": "It would mean that the goal of this plan would not be achieved. Therefore, nothing would happen."
+				},
+				{
+					"name": "Kaito",
+					"text": "She'd keep sleeping? Goal of the plan?"
+				},
+				{
+					"text": "I turn to Yonagi once more."
+				},
+				{
+					"text": "Her chest is moving up and down faintly."
+				},
+				{
+					"name": "Izumo",
+					"text": "To recover Yonagi's ego. That is the goal of this plan."
+				},
+				{
+					"text": "I asked her before what all this was for."
+				},
+				{
+					"text": "Yesterday, she denied me that information."
+				},
+				{
+					"name": "Kaito",
+					"text": "You didn't tell me that yesterday. Why now?"
+				},
+				{
+					"name": "Izumo",
+					"text": "Because the initialization has already been decided."
+				},
+				{
+					"name": "Izumo",
+					"text": "You don't have to do anything. Just fall asleep."
+				},
+				{
+					"name": "Izumo",
+					"text": "Wooleep will perform a selective memory cleaning on you. There will be no pain. When you wake again, you won't remember this conversation happened."
+				},
+				{
+					"name": "Kaito",
+					"text": "Wha... Nnh..."
+				},
+				{
+					"text": "Suddenly, speaking becomes hard."
+				},
+				{
+					"text": "My eyelids feel like they're made out of lead."
+				},
+				{
+					"text": "My mind dims, and my vision narrows."
+				},
+				{
+					"name": "Kaito",
+					"text": "W-Wait..."
+				},
+				{
+					"name": "Kaito",
+					"text": "H-How many times..."
+				},
+				{
+					"name": "Kaito",
+					"text": "Have I... lost my... memories..."
+				},
+				{
+					"name": "Izumo",
+					"text": "This is the first time."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"name": "Izumo",
+					"text": "Rest well, Kaito."
+				}
+			]
+		},
+		{},
+		{},
+		{},
+		{},
+		{
+			"texts": [
+				{
+					"name": "Kaito",
+					"text": "Nnh... H-Huh?"
+				},
+				{
+					"name": "Izumo",
+					"text": "Good morning."
+				},
+				{
+					"name": "Kaito",
+					"text": "Uh, where's Yonagi?"
+				},
+				{
+					"name": "Izumo",
+					"text": "She's already awake."
+				},
+				{
+					"name": "Kaito",
+					"text": "Oh, I see."
+				},
+				{
+					"text": "I've gotten accustomed to waking up to Yonagi peering into my face."
+				},
+				{
+					"text": "But today I'm met with the ceiling."
+				},
+				{
+					"text": "It makes me feel slightly sad."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "I stare at her empty bed for a moment."
+				},
+				{
+					"text": "When I raise my face, I meet Izumo's eyes as she looks down at me."
+				},
+				{
+					"name": "Izumo",
+					"text": "I believe she went out to the rooftop."
+				},
+				{
+					"name": "Kaito",
+					"text": "Huh? Really?"
+				},
+				{
+					"text": "She nods."
+				},
+				{
+					"name": "Kaito",
+					"text": "But didn't she say she doesn't like being out there?"
+				},
+				{
+					"name": "Izumo",
+					"text": "She's changing, little by little."
+				},
+				{
+					"name": "Kaito",
+					"text": "I see."
+				},
+				{
+					"text": "That person in the dream resembles her."
+				},
+				{
+					"text": "The things that happen as the dream progresses are changing her."
+				},
+				{
+					"text": "I've started to get a vague sense of what this experiment is about."
+				},
+				{
+					"name": "Kaito",
+					"text": "I want to see her."
+				},
+				{
+					"name": "Kaito",
+					"text": "Can I?"
+				},
+				{
+					"name": "Izumo",
+					"text": "Of course."
+				},
+				{
+					"name": "Izumo",
+					"text": "Let's go to the rooftop."
+				},
+				{
+					"text": "I rise from the bed and put on my sandals."
+				},
+				{
+					"text": "When the elevator doors open and I step out onto the rooftop, I see Yonagi's back."
+				},
+				{
+					"text": "Wooleep is hovering behind her."
+				},
+				{
+					"text": "She's just looking at the sky."
+				},
+				{
+					"text": "I chase her gaze with mine."
+				},
+				{
+					"text": "I look up at the round, starry sky."
+				},
+				{
+					"text": "It feels so close you could reach out and touch it, but not quite."
+				},
+				{
+					"text": "The surface and the wind are so near, yet so far."
+				},
+				{
+					"text": "Wild greenery spreads out beyond the circular lens."
+				},
+				{
+					"text": "I look turn my gaze back down to Yonagi."
+				},
+				{
+					"text": "Noticing my approaching footsteps, she turns around."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Ah..."
+				},
+				{
+					"name": "Kaito",
+					"text": "Good morning."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Good morning?"
+				},
+				{
+					"text": "I stand next to her, resting my elbows on the railing."
+				},
+				{
+					"text": "She watches me attentively."
+				},
+				{
+					"name": "Yonagi",
+					"text": "..."
+				},
+				{
+					"text": "Then she grabs me by the cheeks and turns my face towards hers."
+				},
+				{
+					"name": "Kaito",
+					"text": "Ngh..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Kaito."
+				},
+				{
+					"text": "I nod, still sandwiched between her hands."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Kaito."
+				},
+				{
+					"name": "Kaito",
+					"text": "That's me."
+				},
+				{
+					"text": "She nods."
+				},
+				{
+					"text": "Finally, she slowly peels her hands away from my cheeks."
+				},
+				{
+					"name": "Shleep",
+					"text": "*Chirp*"
+				},
+				{
+					"name": "Kaito",
+					"text": "Do you recognize me?"
+				},
+				{
+					"text": "Yonagi shakes her head."
+				},
+				{
+					"text": "Then she raises her hand and points at my face."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Kaito."
+				},
+				{
+					"text": "Then she points at herself."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Yonagi."
+				},
+				{
+					"name": "Yonagi",
+					"text": "That's it."
+				},
+				{
+					"text": "I answer her with a nod."
+				},
+				{
+					"name": "Shleep",
+					"text": "*Chirp*"
+				},
+				{
+					"name": "Kaito",
+					"text": "What are you doing out here?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Looking at the sky."
+				},
+				{
+					"name": "Kaito",
+					"text": "Aren't you cold?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "A little."
+				},
+				{
+					"name": "Kaito",
+					"text": "The air isn't that good out here. Maybe we should go inside."
+				},
+				{
+					"name": "Yonagi",
+					"text": "But I want to look at the sky."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I wanted to make sure it was there."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "...I'm hungry."
+				},
+				{
+					"name": "Izumo",
+					"text": "Would you like to eat?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Yes."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I'm thirsty."
+				},
+				{
+					"name": "Izumo",
+					"text": "Let's go inside."
+				},
+				{
+					"name": "Kaito",
+					"text": "Not yet. I need to talk to you, Izumo."
+				},
+				{
+					"text": "Izumo gives me a level stare."
+				},
+				{
+					"name": "Izumo",
+					"text": "Wooleep, with Yonagi."
+				},
+				{
+					"name": "Shleep",
+					"text": "*Affirmative chirp*"
+				},
+				{
+					"text": "Wooleep hovers ahead of Yonagi to guide her."
+				},
+				{
+					"text": "She follows after the little floating robot back to the elevator."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "Once the door closes, we're the only ones left on the rooftop."
+				},
+				{
+					"name": "Kaito",
+					"text": "She's changed."
+				},
+				{
+					"name": "Izumo",
+					"text": "Yes."
+				},
+				{
+					"name": "Kaito",
+					"text": "Does it have something to do with the dream I'm having?"
+				},
+				{
+					"name": "Izumo",
+					"text": "..."
+				},
+				{
+					"name": "Kaito",
+					"text": "Otherwise, you wouldn't need to bother monitoring my dreams."
+				},
+				{
+					"name": "Kaito",
+					"text": "The only one who changes each time I wake up is Yonagi."
+				},
+				{
+					"name": "Izumo",
+					"text": "..."
+				},
+				{
+					"name": "Kaito",
+					"text": "You don't need to answer."
+				},
+				{
+					"name": "Kaito",
+					"text": "In fact, I feel like your silence is an answer in and of itself."
+				},
+				{
+					"name": "Izumo",
+					"text": "What do you mean?"
+				},
+				{
+					"name": "Kaito",
+					"text": "If I wasn't close to the truth, you would deny what I'm saying."
+				},
+				{
+					"name": "Izumo",
+					"text": "..."
+				},
+				{
+					"name": "Kaito",
+					"text": "There's only one thing I want to ask."
+				},
+				{
+					"text": "I stare at her face."
+				},
+				{
+					"name": "Kaito",
+					"text": "If I keep dreaming, will you be able to help that girl?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Is this experiment being done for Yonagi's sake?"
+				},
+				{
+					"name": "Izumo",
+					"text": "Yes."
+				},
+				{
+					"name": "Izumo",
+					"text": "It will save her."
+				},
+				{
+					"name": "Kaito",
+					"text": "What's wrong with her?"
+				},
+				{
+					"name": "Izumo",
+					"text": "I cannot answer that question right now."
+				},
+				{
+					"name": "Kaito",
+					"text": "Did I know, before I lost my memory?"
+				},
+				{
+					"text": "She nods."
+				},
+				{
+					"name": "Kaito",
+					"text": "I see... So that must mean..."
+				},
+				{
+					"name": "Kaito",
+					"text": "I agreed to help with this experiment because I wanted to help her."
+				},
+				{
+					"text": "She keeps her steady, neutral gaze on me."
+				},
+				{
+					"name": "Kaito",
+					"text": "And even as I am now, I want to see her grow."
+				},
+				{
+					"name": "Kaito",
+					"text": "But..."
+				},
+				{
+					"name": "Kaito",
+					"text": "How many times have we repeated this exchange?"
+				},
+				{
+					"name": "Kaito",
+					"text": "How many times have I had my memories wiped and kept dreaming?"
+				},
+				{
+					"name": "Izumo",
+					"text": "We have only cleaned your memory once."
+				},
+				{
+					"name": "Kaito",
+					"text": "...Not like I have much choice but to believe whatever you tell me."
+				},
+				{
+					"name": "Kaito",
+					"text": "You said it yourself. You can lie if you need to."
+				},
+				{
+					"name": "Kaito",
+					"text": "I have no choice but to believe."
+				},
+				{
+					"name": "Izumo",
+					"text": "But you're the one who said that an actual liar would never admit to being one."
+				},
+				{
+					"text": "The comment rips a chuckle out of me."
+				},
+				{
+					"text": "I detect a hint of bewilderment in Izumo."
+				},
+				{
+					"text": "Or perhaps I'm just imagining things again."
+				},
+				{
+					"text": "Perhaps I'm just seeing what I want to see, attributing emotions where there are none."
+				}
+			]
+		},
+		{
+			"texts": [
+				{
+					"text": "Rin's memory lingers in my mind."
+				},
+				{
+					"text": "That sorrowful wail of hers..."
+				},
+				{
+					"text": "I'm sure it's as much Yonagi's sadness as it is Rin's."
+				},
+				{
+					"text": "In both this world—"
+				},
+				{
+					"text": "And the dream world—"
+				},
+				{
+					"text": "I'm the only one who can save her."
+				},
+				{
+					"text": "I clench my fists, a mixture of frustration and helplessness filling my being."
+				}
+			]
+		},
+		{
+			"texts": [
+				{
+					"text": "Olivia's memory lingers in my mind."
+				},
+				{
+					"text": "That confident smile of hers."
+				},
+				{
+					"text": "I'm sure it's as much Yonagi's confidence as it is Olivia's."
+				},
+				{
+					"text": "In both this world—"
+				},
+				{
+					"text": "And the dream world—"
+				},
+				{
+					"text": "I'm the only one who can be by her side."
+				},
+				{
+					"text": "I'm the only one who can fulfill her unreasonable demands."
+				},
+				{
+					"text": "I clench my fists, a mixture of frustration and determination filling my being."
+				}
+			]
+		},
+		{
+			"texts": [
+				{
+					"text": "Sumomo's memory lingers in my mind."
+				},
+				{
+					"text": "That joyful smile of hers."
+				},
+				{
+					"text": "I'm certain that it's as much Yonagi's happiness as it is Sumomo's."
+				},
+				{
+					"text": "In both this world—"
+				},
+				{
+					"text": "And the dream world—"
+				},
+				{
+					"text": "I'm the only one who can bring out that smile."
+				},
+				{
+					"text": "I'm sure Yonagi's smile can be as dazzling as Sumomo's."
+				},
+				{
+					"text": "I clench my fists, a mixture of determination and conviction filling my being."
+				}
+			]
+		},
+		{
+			"texts": [
+				{
+					"name": "Kaito",
+					"text": "There are still many things I don't understand."
+				},
+				{
+					"name": "Kaito",
+					"text": "But I've decided what it is I want to get back first."
+				},
+				{
+					"name": "Izumo",
+					"text": "What is that?"
+				},
+				{
+					"text": "Izumo stares at me, her tone as monotonous as ever."
+				},
+				{
+					"text": "I watch her staring at me from the corner of my eye."
+				},
+				{
+					"text": "A faint smile touches my lips."
+				},
+				{
+					"text": "Little by little, I'm coming to like this aloof girl."
+				},
+				{
+					"text": "Perhaps..."
+				},
+				{
+					"text": "Perhaps, even after being wiped so many times, the faint traces of my memories are starting to coalesce within me."
+				},
+				{
+					"name": "Kaito",
+					"text": "When that time comes, you'll understand."
+				},
+				{
+					"text": "I use the same phrase she said to me once before and smile at her."
+				},
+				{
+					"text": "She simply stares at my profile as I look up at the night sky, her expression unfazed."
+				},
+				{
+					"text": "The stars twinkle in the distant sky."
+				},
+				{
+					"text": "I wonder if the night breeze blows beyond the lens separating us from it."
+				},
+				{
+					"text": "I wonder..."
+				},
+				{
+					"text": "Does Yonagi imagine that wind enveloping us as well? What goes through her mind?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Let's go back."
+				},
+				{
+					"name": "Izumo",
+					"text": "Inside?"
+				},
+				{
+					"text": "I shake my head."
+				},
+				{
+					"name": "Kaito",
+					"text": "To Yonagi's dream."
+				},
+				{
+					"name": "Izumo",
+					"text": "All of Yonagi's dreams..."
+				},
+				{
+					"name": "Kaito",
+					"text": "Huh?"
+				},
+				{
+					"name": "Izumo",
+					"text": "They have progressed beyond what was planned for. If we transmit the mapping data we have saved from her brain, you can continue whichever dream you want."
+				},
+				{
+					"name": "Kaito",
+					"text": "Uh, mapping data?"
+				},
+				{
+					"name": "Izumo",
+					"text": "Wooleep has been recording the sensory signals in her brain."
+				},
+				{
+					"text": "So we can nudge her towards a particular dream by stimulating the parts of her brain that activate during each of them."
+				},
+				{
+					"name": "Kaito",
+					"text": "And you have the data for all the dreams. Three of them, right?"
+				},
+				{
+					"name": "Izumo",
+					"text": "Yes."
+				},
+				{
+					"text": "I smile again."
+				},
+				{
+					"name": "Izumo",
+					"text": "Hm?"
+				},
+				{
+					"name": "Kaito",
+					"text": "I only remember one of those dreams."
+				},
+				{
+					"name": "Kaito",
+					"text": "But Wooleep has the data for all three of them, right?"
+				},
+				{
+					"text": "She gives me a small nod."
+				},
+				{
+					"name": "Kaito",
+					"text": "How strange. Who dreamed those other two with her?"
+				},
+				{
+					"text": "She stares at me in complete silence."
+				},
+				{
+					"name": "Kaito",
+					"text": "Never mind. Just tell me one thing: Is this the first time this experiment has come this far?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Or have we had this conversation more than once?"
+				},
+				{
+					"name": "Izumo",
+					"text": "This is the first time all of Yonagi's dreams have progressed further than our control values. The plan is progressing."
+				},
+				{
+					"name": "Kaito",
+					"text": "I see."
+				},
+				{
+					"name": "Kaito",
+					"text": "And I can believe it when you say that?"
+				},
+				{
+					"name": "Izumo",
+					"text": "From now on, your memory will not be initialized."
+				},
+				{
+					"name": "Izumo",
+					"text": "You can trust my words."
+				},
+				{
+					"name": "Kaito",
+					"text": "...Well, I suppose I'll have to."
+				},
+				{
+					"text": "In other words, they have initialized my memory several times in the past."
+				},
+				{
+					"name": "Kaito",
+					"text": "So, how do I choose the dream?"
+				},
+				{
+					"name": "Izumo",
+					"text": "Just tell me which one you want to continue. Which dream would you like to see?"
+				}
+			]
+		},
+		{
+			"selects": [
+				"CASE-1　Hatano Rin",
+				"CASE-2　Olivia Berry",
+				"CASE-3　Momonouchi Sumomo"
+			]
+		},
+		{}
+	]
+}

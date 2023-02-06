@@ -1,0 +1,430 @@
+{
+	"scenes": [
+		{
+			"texts": [
+				{
+					"name": "Rin",
+					"text": "Kaoru, do you remember this?"
+				},
+				{
+					"name": "Arishima",
+					"text": "Mm?"
+				},
+				{
+					"text": "I come out of our baby's room after putting her to bed, and Rin calls out to me from the kitchen."
+				},
+				{
+					"text": "As I come into the kitchen, I notice she's holding a bottle of red wine."
+				},
+				{
+					"text": "She raises it to me, lifting an eyebrow and smiling suggestively."
+				},
+				{
+					"text": "I take a moment to examine the label."
+				},
+				{
+					"text": "It's not a brand I'm familiar with, which means it's probably expensive. Not that I know much about wine, mind you."
+				},
+				{
+					"name": "Arishima",
+					"text": "...Nice bottle. Where did you get that?"
+				},
+				{
+					"name": "Rin",
+					"text": "I bought it. With my own hard-earned money."
+				},
+				{
+					"name": "Arishima",
+					"text": "Mhm, I see."
+				},
+				{
+					"text": "This brings back memories."
+				},
+				{
+					"text": "It's been four years since that."
+				},
+				{
+					"text": "It's the same wine she set on the dining table the first time she cooked for me back when she was still my student."
+				},
+				{
+					"name": "Rin",
+					"text": "Oh goodness, no. I went out of my way to go and buy another bottle of it. It looks like it was from a good year, so the price hiked up compared to last time."
+				},
+				{
+					"name": "Arishima",
+					"text": "It became even more expensive? Well, I'll be..."
+				},
+				{
+					"text": "It was expensive enough four years ago."
+				},
+				{
+					"name": "Rin",
+					"text": "It was summer back then too, remember? In fact, that day was today, four years ago."
+				},
+				{
+					"name": "Arishima",
+					"text": "Whoa, really?"
+				},
+				{
+					"name": "Rin",
+					"text": "It's our duck and watercress anniversary."
+				},
+				{
+					"text": "I can't help but chuckle at the idea of an anniversary for our first dinner."
+				},
+				{
+					"name": "Rin",
+					"text": "That's why I prepared the same thing for this special occasion. I couldn't make the duck dish again, though."
+				},
+				{
+					"name": "Arishima",
+					"text": "The wine is more than enough. Thank you, honey."
+				},
+				{
+					"text": "I go to the cupboard and pull out two glasses for red wine."
+				},
+				{
+					"text": "They're mostly decorative, really."
+				},
+				{
+					"text": "Rin started to drink with me when she became of legal age for it, but we don't drink on a daily basis."
+				},
+				{
+					"text": "It's not something I'm looking to change. At the most, I have a few beers on the weekend, but only if I feel like it."
+				},
+				{
+					"name": "Rin",
+					"text": "I bought this too, but could you open it? I've never done this before."
+				},
+				{
+					"text": "Rin presents me with a brand new sommelier knife, and sits down at the table."
+				},
+				{
+					"name": "Arishima",
+					"text": "Okay, watch and learn."
+				},
+				{
+					"text": "I deftly cut the capsule open with the new knife."
+				},
+				{
+					"text": "I insert the screw in the center of the cork and turn the now T-shaped knife."
+				},
+				{
+					"text": "To be honest, I'm not very good at it."
+				},
+				{
+					"text": "But nonetheless, Rin watches attentively with a sweet smile on her face."
+				},
+				{
+					"text": "The cork comes out with a satisfying popping sound."
+				},
+				{
+					"text": "The end of the cork that was in contact with the wine has turned a bright purple color."
+				},
+				{
+					"text": "She looks up at me, a satisfied smile spreading from ear to ear."
+				},
+				{
+					"text": "I meet her gaze and proceed to pour some wine into the glass set in front of her."
+				},
+				{
+					"text": "This thing was thirty thousand yen before prices went up."
+				},
+				{
+					"text": "I can't help but wonder how much it set her back this time."
+				},
+				{
+					"text": "And whether or not I'm making some kind of mistake in my handling of this fine wine."
+				},
+				{
+					"text": "I manage to hide my trepidation for long enough to finish pouring us two glasses of wine."
+				},
+				{
+					"name": "Rin",
+					"text": "Shall we toast?"
+				},
+				{
+					"text": "I nod and sit down opposite to her."
+				},
+				{
+					"text": "She raises her glass to me."
+				},
+				{
+					"text": "I reciprocate the gesture by raising my own."
+				},
+				{
+					"name": "Rin",
+					"text": "I read it's not very good manners to touch glasses."
+				},
+				{
+					"name": "Arishima",
+					"text": "That so? Well, let's toast like this, then."
+				},
+				{
+					"name": "Rin",
+					"text": "Yes."
+				},
+				{
+					"text": "Rin takes a dainty sip from her glass."
+				},
+				{
+					"text": "I bring my own glass to my lips and feel the thin rim between them."
+				},
+				{
+					"text": "It feels so delicate, I'm sure it could easily break while washing if handled without care."
+				},
+				{
+					"text": "I tip the glass back slightly and have a taste of the red wine."
+				},
+				{
+					"name": "Rin",
+					"text": "..."
+				},
+				{
+					"text": "My first impression of the taste is... rather flat and uninspiring."
+				},
+				{
+					"text": "It goes down my throat without making much of an impression. Guess you could say it's smooth, at least."
+				},
+				{
+					"name": "Rin",
+					"text": "So this is how it tasted, huh?"
+				},
+				{
+					"name": "Arishima",
+					"text": "I hear that good wine changes its taste depending on how long it's in contact with the air. Maybe this is one of those?"
+				},
+				{
+					"name": "Rin",
+					"text": "Oh, that'd make sense."
+				},
+				{
+					"name": "Arishima",
+					"text": "That's why the glasses are so big and why people in restaurants swirl them around—it's to let the wine breathe."
+				},
+				{
+					"text": "She stares at me, her eyes wide in admiration."
+				},
+				{
+					"name": "Arishima",
+					"text": "At least that's what I read in one of Hatano's books. Which was it, again? Must have been from some compilation of essays he wrote about his hobbies."
+				},
+				{
+					"name": "Rin",
+					"text": "Ah, I do remember reading that, now that you mention it."
+				},
+				{
+					"text": "She brings the glass to her smiling lips again."
+				},
+				{
+					"name": "Rin",
+					"text": "Do you remember how you got mad at me that day? It was really mean of you."
+				},
+				{
+					"text": "I falter for a moment before answering."
+				},
+				{
+					"name": "Arishima",
+					"text": "Yeah, I remember it well."
+				},
+				{
+					"text": "She flashes me a meaningful smile."
+				},
+				{
+					"text": "I know that smile."
+				},
+				{
+					"text": "That's the face she makes when she's toying with me."
+				},
+				{
+					"name": "Rin",
+					"text": "Would you say I started earning my own money like you wanted? I think I've grown a fair bit since then. I mean, we're raising our sweet little girl now."
+				},
+				{
+					"name": "Arishima",
+					"text": "Yeah, you're a grown woman now."
+				},
+				{
+					"name": "Rin",
+					"text": "And I think I'm a lot better at dealing with the public, if I do say so myself."
+				},
+				{
+					"text": "I answer with a nod."
+				},
+				{
+					"text": "Rin casts her mischievous gaze down at the purplish wine swirling in her glass."
+				},
+				{
+					"name": "Rin",
+					"text": "I still think about it sometimes. If I had been in your position, what would have I done back then?"
+				},
+				{
+					"name": "Rin",
+					"text": "How would I have treated that young girl with no sense of the money she had?"
+				},
+				{
+					"name": "Arishima",
+					"text": "..."
+				},
+				{
+					"text": "She looks straight into my eyes with that same sly smile."
+				},
+				{
+					"name": "Rin",
+					"text": "If I was me, I don't think I'd break her heart just for trying to do something nice for me."
+				},
+				{
+					"name": "Arishima",
+					"text": "Mhm..."
+				},
+				{
+					"name": "Rin",
+					"text": "I really don't think I'd have the heart to grab her innocent good intentions and crush them beneath my heel. Who would ever do such a thing?"
+				},
+				{
+					"text": "She says, all smiles."
+				},
+				{
+					"text": "Man, it's been a while."
+				},
+				{
+					"text": "I remember the day she described herself as a very persistent person."
+				},
+				{
+					"text": "And I fully agree with that self-assessment."
+				},
+				{
+					"text": "My young, beautiful wife can be persistent and vindictive beyond comprehension."
+				},
+				{
+					"name": "Arishima",
+					"text": "...You've been holding onto that for four years, have you?"
+				},
+				{
+					"name": "Rin",
+					"text": "Oh, no. Holding onto it? I'd never."
+				},
+				{
+					"name": "Rin",
+					"text": "No, why would I?"
+				},
+				{
+					"name": "Arishima",
+					"text": "You are right, though. I was young too. In fact, I'd say I'm still green in a lot of respects. I'm learning from you every day."
+				},
+				{
+					"text": "The smile quickly disappears from her face, replaced with an icy glare directed squarely at me."
+				},
+				{
+					"name": "Rin",
+					"text": "It ticks me off when you just take things in stride like that."
+				},
+				{
+					"name": "Arishima",
+					"text": "Sorry to disappoint."
+				},
+				{
+					"text": "After treating me to a little more of her disdainful look, the facade finally drops and she smiles again."
+				},
+				{
+					"name": "Rin",
+					"text": "No need to apologize, silly."
+				},
+				{
+					"text": "Then she raises the glass to her lips one more time."
+				},
+				{
+					"text": "I watch as the wine is welcomed between her lean, velvety lips."
+				},
+				{
+					"text": "Not a bad sight, I must admit."
+				},
+				{
+					"text": "But a moment later, her eyebrows shoot up and she exclaims."
+				},
+				{
+					"name": "Rin",
+					"text": "I think it got a little sweeter!"
+				},
+				{
+					"text": "I follow her example and take another swig of my glass."
+				},
+				{
+					"text": "The taste has indeed gained some depth and body."
+				},
+				{
+					"name": "Arishima",
+					"text": "Guess all it needed was some fresh air to reach its peak after being bottled up for so long. Reminds me of you, actually."
+				},
+				{
+					"name": "Rin",
+					"text": "Huh?"
+				},
+				{
+					"text": "I can see that took her by surprise. She eyes me askance before continuing."
+				},
+				{
+					"name": "Rin",
+					"text": "We're drinking such rich wine, but all you can manage is dry remarks, I see."
+				},
+				{
+					"name": "Rin",
+					"text": "I mean it, you say such unpleasant things sometimes. It just reeks of an old vintage, and not a particularly well-aged one. Why, it's starting to make the wine smell corked."
+				},
+				{
+					"name": "Arishima",
+					"text": "..."
+				},
+				{
+					"text": "I turn my quickly blurring gaze up."
+				},
+				{
+					"text": "The last thing I need is to let her see the tears pooling in my eyes."
+				},
+				{
+					"name": "Arishima",
+					"text": "...Sorry about that. I'm sorry for being so old."
+				},
+				{
+					"name": "Rin",
+					"text": "It's okay, I love that about you."
+				},
+				{
+					"text": "The tears keep making my vision blur."
+				},
+				{
+					"text": "It takes all of my focus to not start sobbing on the spot."
+				},
+				{
+					"name": "Arishima",
+					"text": "Thank you..."
+				},
+				{
+					"name": "Rin",
+					"text": "My words exactly. Thank you for letting me have my fun and tease you sometimes."
+				},
+				{
+					"name": "Rin",
+					"text": "Now, wipe those tears, silly. We have a bottle to finish, and the night is young."
+				},
+				{
+					"name": "Arishima",
+					"text": "Mhm."
+				},
+				{
+					"text": "I dab at the corners of my eyes with the tissue she hands me, turn a smile to her, and put the glass to my lips again."
+				},
+				{
+					"text": "As the wine gains an even richer depth, I can't help but wonder if braving through the tears might have deepened my appreciation for it."
+				},
+				{
+					"text": "It's very much like my life, I suppose."
+				},
+				{
+					"text": "Heh."
+				}
+			]
+		},
+		{}
+	]
+}

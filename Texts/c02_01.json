@@ -1,0 +1,4970 @@
+{
+	"scenes": [
+		{},
+		{
+			"texts": [
+				{
+					"name": "??",
+					"text": "There's a castle in Denmark haunted by a ghost. But not just any ghost! It's the ghost of the king himself!"
+				},
+				{
+					"name": "??",
+					"text": "The spirit stands at his son's bedside every night!"
+				},
+				{
+					"name": "??",
+					"text": "In time, it drove the poor lad mad..."
+				},
+				{
+					"name": "??",
+					"text": "They say he let his uncle take the throne in his place. The throne that his father left him, that was rightfully his!"
+				},
+				{
+					"name": "Regular Patron 1",
+					"text": "At least, that's the rumor I heard while I was in Denmark. What say you, Will? Intriguing, eh?!"
+				},
+				{
+					"name": "Will",
+					"text": "That story again? Haven't you heard any better ones?"
+				},
+				{
+					"name": "Regular Patron 2",
+					"text": "And isn't the prince a bit spineless to be the son of a man who sticks around after death?"
+				},
+				{
+					"name": "Regular Patron 1",
+					"text": "Nah, that's how families turn out sometimes. Like when you get a worthless drunkard father to a truly upstanding lad..."
+				},
+				{
+					"name": "Regular Patron 1",
+					"text": "Why, just like you two here."
+				},
+				{
+					"name": "Father",
+					"text": "Who're you calling a drunkard, eh?!"
+				},
+				{
+					"text": "My dad, who's sitting at the end of counter, snaps back."
+				},
+				{
+					"name": "Father",
+					"text": "*Cough*! *Cough*!"
+				},
+				{
+					"text": "It leads him to a coughing fit."
+				},
+				{
+					"name": "Regular Patron 1",
+					"text": "Whoa there, old man. Don't die on us."
+				},
+				{
+					"name": "Father",
+					"text": "I got something in me throat, Will. Give me some ale, would ya?"
+				},
+				{
+					"name": "Will",
+					"text": "Yeah, right! Have some water!"
+				},
+				{
+					"name": "Father",
+					"text": "The water's awful in this damn rat hole! Ain't that right, Ed?"
+				},
+				{
+					"name": "Will",
+					"text": "This is YOUR damn rat hole!"
+				},
+				{
+					"name": "Ed",
+					"text": "Heh."
+				},
+				{
+					"name": "Rob",
+					"text": "Like stupid father, like stupid son."
+				},
+				{
+					"name": "Father",
+					"text": "You what?! Hey, Will! Give 'im a good smack right on the noggin! For the both of us! Come on!"
+				},
+				{
+					"name": "Will",
+					"text": "Dad, they're patrons."
+				},
+				{
+					"text": "I notice Ed's cup is empty, so I pour him some more ale."
+				},
+				{
+					"text": "He flashes me a grin."
+				},
+				{
+					"name": "Ed",
+					"text": "Hmm. It's true that Rob's story just now is lacking something."
+				},
+				{
+					"name": "Will",
+					"text": "How about the one you told about the power struggle over in the Netherlands? The two would go together well."
+				},
+				{
+					"name": "Rob",
+					"text": "Netherlands?"
+				},
+				{
+					"name": "Ed",
+					"text": "Hm?"
+				},
+				{
+					"text": "Both Rob and Ed cock their heads in confusion."
+				},
+				{
+					"name": "Will",
+					"text": "You know, how the queen had an affair with the king's younger brother, and then they conspired to assassinate him."
+				},
+				{
+					"name": "Rob",
+					"text": "I don't remember a story like that..."
+				},
+				{
+					"name": "Will",
+					"text": "Well, you told it! You forgot?!"
+				},
+				{
+					"name": "Father",
+					"text": "Right in the noggin! While he's distracted!"
+				},
+				{
+					"name": "Will",
+					"text": "We moved on, Dad. Pipe down already."
+				},
+				{
+					"name": "Father",
+					"text": "..."
+				},
+				{
+					"text": "My father dejectedly hangs his head."
+				},
+				{
+					"text": "Rob laughs uproariously."
+				},
+				{
+					"name": "Ed",
+					"text": "If only it were true, but Rob's stories are always just some bunk he heard around town."
+				},
+				{
+					"name": "Rob",
+					"text": "When did I tell this story again?"
+				},
+				{
+					"text": "Rob leans over to me."
+				},
+				{
+					"name": "Will",
+					"text": "About two years ago? You told it on a rainy day."
+				},
+				{
+					"name": "Rob",
+					"text": "How am I supposed to remember something I said over drinks two years ago?!"
+				},
+				{
+					"name": "Father",
+					"text": "Say it like it is, Rob! Grab that no good son of mine and smack him on the noggin!"
+				},
+				{
+					"name": "Rob",
+					"text": "Is that what you did back when your eyes were good, Boss?"
+				},
+				{
+					"name": "Will",
+					"text": "You bet! He whacked me so hard my memory's messed up. Now I remember everything I ever heard."
+				},
+				{
+					"name": "Ed",
+					"text": "Jokes aside, I think that's a great ability. You should put it to use in other areas, not just remembering Rob's silly stories."
+				},
+				{
+					"name": "Rob",
+					"text": "Yeah, you could memorize some recipes for food that's not crap."
+				},
+				{
+					"name": "Will",
+					"text": "Ah, put a lid on it, would you?"
+				},
+				{
+					"name": "Ed",
+					"text": "So, how do you link this Netherlands story with the Danish ghost story?"
+				},
+				{
+					"name": "Will",
+					"text": "Well, what if the king learned of his wife's betrayal just before he died?"
+				},
+				{
+					"name": "Father",
+					"text": "What a rotten way to die! Unforgivable!"
+				},
+				{
+					"name": "Will",
+					"text": "But her younger brother and the queen still manage to take the throne."
+				},
+				{
+					"name": "Father",
+					"text": "Shameless! And you call yourself my son?! I didn't raise you like this!"
+				},
+				{
+					"name": "Rob",
+					"text": "Boss, we're not talking about Will here. Keep it quiet, would ya?"
+				},
+				{
+					"name": "Father",
+					"text": "..."
+				},
+				{
+					"name": "Will",
+					"text": "The young prince suspects nothing, until one day, his father's ghost appears to him."
+				},
+				{
+					"name": "Will",
+					"text": "The ghost entreats the boy to take revenge on his own mother... and that's how you line them up."
+				},
+				{
+					"name": "Ed",
+					"text": "It does sound quite interesting."
+				},
+				{
+					"name": "Father",
+					"text": "So what does the prince do after that?!"
+				},
+				{
+					"name": "Will",
+					"text": "Dunno."
+				},
+				{
+					"name": "Father",
+					"text": "Why not?!"
+				},
+				{
+					"name": "Will",
+					"text": "I just came up with it now."
+				},
+				{
+					"name": "Ed",
+					"text": "Revenge against his mother who conspired to kill his father and put her lover on the throne. This story sounds violent indeed."
+				},
+				{
+					"name": "Rob",
+					"text": "Heh, nothing that we don't see all the time in this rotten world. Nothing unheard of to you especially, eh, Ed?"
+				},
+				{
+					"name": "Ed",
+					"text": "...Yes, quite."
+				},
+				{
+					"name": "Will",
+					"text": "Oh, right. You work at a theater, don't you?"
+				},
+				{
+					"name": "Ed",
+					"text": "Yes. The popular plays are always filled with bloodshed and violence."
+				},
+				{
+					"name": "Rob",
+					"text": "Gotta wonder if it's the writers or the public asking for that kind of story."
+				},
+				{
+					"name": "Ed",
+					"text": "A mix of both, I'd say. But it keeps the seats full, and the scones sell quite well."
+				},
+				{
+					"name": "Rob",
+					"text": "That's Tenbridge's most popular theater for you."
+				},
+				{
+					"name": "Ed",
+					"text": "But I'm certain you can write something good, Will. Why, I wouldn't put it past you to beat some of the scripts we get at the Lily Theater."
+				},
+				{
+					"name": "Rob",
+					"text": "Aye! And I'll do my part by bringing you more great stories!"
+				},
+				{
+					"name": "Will",
+					"text": "Why don't you focus on your real job instead?"
+				},
+				{
+					"name": "Rob",
+					"text": "It's the last time I sell to you, ya bastard! Especially since you turn right around and sell them as-is!"
+				},
+				{
+					"name": "Will",
+					"text": "I'm particular about dish presentation, I'll have you know."
+				},
+				{
+					"name": "Rob",
+					"text": "You just throw slices on a plate! Now I'm never selling to you again, and that's that!"
+				},
+				{
+					"name": "Ed",
+					"text": "Without the pickled herring, all we'll have to go with the drinks will be potatoes."
+				},
+				{
+					"name": "Will",
+					"text": "We have soup too."
+				},
+				{
+					"name": "Rob",
+					"text": "No one wants soup with their booze! It all just sloshes around in your gut! Why is soup the only warm thing on this damn menu?!"
+				},
+				{
+					"name": "Will",
+					"text": "Because that's all I can make."
+				},
+				{
+					"name": "Rob",
+					"text": "How many years have you been doing this?! It's your damn pub, do something about it!"
+				},
+				{
+					"name": "Will",
+					"text": "It's my dad's, actually."
+				},
+				{
+					"name": "Father",
+					"text": "Though I'm not much more than part of the furniture by now."
+				},
+				{
+					"name": "Rob",
+					"text": "You could afford to be as quiet as the rest of the tables then, boss."
+				},
+				{
+					"name": "Will",
+					"text": "Agreed."
+				},
+				{
+					"name": "Father",
+					"text": "Give me a drink if you want me to shut up!"
+				},
+				{
+					"name": "Will",
+					"text": "Is that a threat?"
+				},
+				{
+					"name": "Rob",
+					"text": "What's worse, there's no pretty ladies to look at. Ain't that right? What's even keeping us here?"
+				},
+				{
+					"name": "Ed",
+					"text": "Well, Will is quite the looker. I always enjoy having him around."
+				},
+				{
+					"name": "Rob",
+					"text": "Say, my lad. Have you ever thought about crossdressing? You have a pretty cute face."
+				},
+				{
+					"name": "Ed",
+					"text": "Your voice is high enough too."
+				},
+				{
+					"name": "Father",
+					"text": "Yeah, why were you born a boy? I would've preferred a daughter, I would."
+				},
+				{
+					"name": "Will",
+					"text": "I see the drinks are kicking in, eh?"
+				},
+				{
+					"name": "Rob",
+					"text": "It's settled, then! I'll get a costume from the Spencer troupe next time I visit! It'll fit you, I'm sure!"
+				},
+				{
+					"name": "Rob",
+					"text": "They get no customers, so I bet they'll be glad to give you a pretty dress!"
+				},
+				{
+					"name": "Will",
+					"text": "No way! We could hire a real girl if you lot would contribute more! Come on, drink! Eat! Stuff your faces, you swine!"
+				},
+				{
+					"name": "Rob",
+					"text": "Oi, boss! Your boy's callin' his customers swine. Don't you think he needs a whipping?"
+				},
+				{
+					"name": "Father",
+					"text": "Give him a whack on the noggin for me."
+				},
+				{
+					"name": "Will",
+					"text": "Bunch of violent pigs, the lot of you!"
+				},
+				{
+					"name": "Ed",
+					"text": "I'd say this sense of camaraderie is something you can only get from a good bartender."
+				},
+				{
+					"name": "Rob",
+					"text": "Want me to pay up that bad? Well, let's see how you like this! Fetch the cups, lad! The first one to fall off his chair loses!"
+				},
+				{
+					"name": "Will",
+					"text": "Bring it on!"
+				},
+				{
+					"name": "Father",
+					"text": "Ey! Let me in on the fun too!"
+				},
+				{
+					"text": "The pub is full of familiar faces tonight."
+				},
+				{
+					"text": "How many years has it been since I started manning the counter myself?"
+				},
+				{
+					"text": "Thanks to the friendly regulars, I managed to get used to serving people, despite my initial lack of aptitude."
+				},
+				{
+					"text": "We don't get that many customers, so I manage on my own."
+				},
+				{
+					"text": "That's the reason our menu is so limited."
+				},
+				{
+					"text": "But the complaining from the regulars is part of the fun."
+				},
+				{
+					"text": "Another day's work over."
+				},
+				{
+					"text": "My dad is at his usual seat at the end of the counter, slumped face down over the bar."
+				},
+				{
+					"name": "Rob",
+					"text": "Oi, Will."
+				},
+				{
+					"text": "Just as I'm about to lock up for the night, I'm approached by Rob, one of the regulars who has stuck around until the wee hours."
+				},
+				{
+					"text": "Whenever he stays until closing time, I know exactly what he's after."
+				},
+				{
+					"name": "Will",
+					"text": "What is it? We're closed, all right?"
+				},
+				{
+					"name": "Rob",
+					"text": "No, no more drinks for me. I want you to work your magic again."
+				},
+				{
+					"name": "Will",
+					"text": "Again? You're that short of hands? Surely you have your pick here in Tenbridge."
+				},
+				{
+					"name": "Rob",
+					"text": "I could fill the Queen's castle with people who want to write. But I can count the number of writers who can please an audience with one hand."
+				},
+				{
+					"name": "Will",
+					"text": "Hah, that so."
+				},
+				{
+					"name": "Rob",
+					"text": "It can be comedy, tragedy, whatever you like."
+				},
+				{
+					"name": "Will",
+					"text": "I don't mind writing something, but it's gonna eat into my prep time tomorrow. You okay with soup and potatoes to complement your ale tomorrow?"
+				},
+				{
+					"name": "Rob",
+					"text": "Don't you worry. Your food sucks whether you prepare it in advance or not."
+				},
+				{
+					"name": "Will",
+					"text": "Oh, stuff it!"
+				},
+				{
+					"name": "Rob",
+					"text": "The point is, focus on what you're good at."
+				},
+				{
+					"name": "Will",
+					"text": "If only I were good at it!"
+				},
+				{
+					"name": "Rob",
+					"text": "Well, you're better at writing than cooking, at least."
+				},
+				{
+					"name": "Rob",
+					"text": "I'll increase the pay from last time, okay? Sound good?"
+				},
+				{
+					"name": "Will",
+					"text": "..."
+				},
+				{
+					"text": "I look back at the counter."
+				},
+				{
+					"text": "My dad's dozing off."
+				},
+				{
+					"name": "Will",
+					"text": "Give me an advance and I'll start tonight."
+				},
+				{
+					"name": "Rob",
+					"text": "That's more like it! By the way, I'm told they want to start rehearsing this weekend."
+				},
+				{
+					"name": "Will",
+					"text": "That only gives me two days!"
+				},
+				{
+					"name": "Rob",
+					"text": "Hahahah!"
+				},
+				{
+					"name": "Will",
+					"text": "This isn't funny! That's even less time than the last time!"
+				},
+				{
+					"name": "Rob",
+					"text": "Aw, come on. How about you use that story from today? The one about the Danish ghost."
+				},
+				{
+					"name": "Rob",
+					"text": "Yeah, make something out of that idea. I wanna see how it turns out."
+				},
+				{
+					"name": "Will",
+					"text": "I can't write a full tragedy in two days."
+				},
+				{
+					"name": "Rob",
+					"text": "How about a comedy, then?"
+				},
+				{
+					"name": "Will",
+					"text": "How am I supposed to write a comedy out of a man killing his mother after she killed his father?"
+				},
+				{
+					"name": "Rob",
+					"text": "My lad, I am a firm believer that limits are made to be overcome."
+				},
+				{
+					"name": "Will",
+					"text": "What about the physical limits?! I can't just close up shop!"
+				},
+				{
+					"name": "Rob",
+					"text": "You can do it! I believe in you! Forgo sleep for a couple days, and you'll be golden!"
+				},
+				{
+					"name": "Will",
+					"text": "You say that after making me stay up all night drinking with you?!"
+				},
+				{
+					"name": "Rob",
+					"text": "Here's your advance! That's half the money! See you later, lad!"
+				},
+				{
+					"name": "Will",
+					"text": "Ah! Hey! You lousy—!"
+				},
+				{
+					"name": "Will",
+					"text": "Two days, huh?"
+				},
+				{
+					"text": "I scratch the back of my head with one hand while I open the other."
+				},
+				{
+					"text": "The coins make a satisfying clink as they settle."
+				},
+				{
+					"text": "I stare at the three coins for a moment before putting them on the table."
+				},
+				{
+					"name": "Will",
+					"text": "Guess I gotta write then, huh."
+				},
+				{
+					"text": "I turn to my collapsed father and pat him on the back."
+				},
+				{
+					"name": "Will",
+					"text": "We're done for today, Dad. You can go sleep upstairs."
+				},
+				{
+					"name": "Father",
+					"text": "Nh? Ah, my boy. Sorry, I dozed off."
+				},
+				{
+					"text": "I hand him his cane, take his hand to help him up, and we head to the stairs."
+				},
+				{
+					"name": "Will",
+					"text": "Rob stayed till late tonight. I'll handle the prep for tomorrow."
+				},
+				{
+					"name": "Father",
+					"text": "He asked you to write another play?"
+				},
+				{
+					"name": "Will",
+					"text": "Yeah."
+				},
+				{
+					"name": "Father",
+					"text": "Guess you inherited that talent from me. Sorry about that."
+				},
+				{
+					"name": "Will",
+					"text": "I don't think I've seen you write a word in my life."
+				},
+				{
+					"name": "Father",
+					"text": "But I always thought I might write some day. Why, I do even now."
+				},
+				{
+					"name": "Will",
+					"text": "You won't, don't worry."
+				},
+				{
+					"name": "Father",
+					"text": "Tsk! Look at you, getting a big head just because you can string some words together!"
+				},
+				{
+					"name": "Will",
+					"text": "It's an honor to be able to write a script for a Tenbridge Troupe. I'm doing it because I like writing. I'll make sure it doesn't hurt the pub."
+				},
+				{
+					"name": "Father",
+					"text": "Nah, it's your pub now. Do whatever you like with it."
+				},
+				{
+					"name": "Will",
+					"text": "You're the owner."
+				},
+				{
+					"name": "Father",
+					"text": "I'm just a blind old drunkard now."
+				},
+				{
+					"text": "There's nowhere in this place that I need to guide my father to."
+				},
+				{
+					"text": "He knows this pub like the back of his hand."
+				},
+				{
+					"text": "So long as I put the seats back where they belong after the patrons are gone, my dad can find his way around with his cane no problem."
+				},
+				{
+					"text": "It took him a while to get used to losing his sight, but never underestimate how adaptable we humans can be."
+				},
+				{
+					"name": "Father",
+					"text": "I'll hit the hay, son."
+				},
+				{
+					"name": "Will",
+					"text": "Sleep well."
+				},
+				{
+					"name": "Father",
+					"text": "Good night. Don't stay up too late."
+				},
+				{
+					"text": "He slowly climbs the stairs."
+				},
+				{
+					"name": "Will",
+					"text": "..."
+				},
+				{
+					"text": "I spread today's profits on the counter."
+				},
+				{
+					"text": "Another month in the red..."
+				},
+				{
+					"text": "Even with the advance I got from Rob just now, it's not enough."
+				},
+				{
+					"text": "All this money will go right back into opening the shop tomorrow."
+				},
+				{
+					"text": "I sigh and brush my bangs off my forehead."
+				},
+				{
+					"text": "I'm seriously considering crossdressing if it'll bring more customers."
+				},
+				{
+					"text": "I can't even give my father a proper meal with this."
+				},
+				{
+					"text": "I let out another huge sigh in the empty pub."
+				},
+				{
+					"text": "No, this is no time to feel sorry for myself."
+				},
+				{
+					"text": "We can't live unless I earn money."
+				},
+				{
+					"text": "I get up and use the leftovers behind the counter to dish out supper for myself and breakfast for Dad while thinking about the script in my head."
+				},
+				{
+					"text": "There's just no time."
+				},
+				{
+					"text": "Do I use something I already wrote? Or slap something together out of half-formed ideas?"
+				},
+				{
+					"text": "It'll have to be one or the other."
+				},
+				{
+					"text": "I think back on the stories I've heard during my time here."
+				},
+				{
+					"text": "All kinds of people from different backgrounds visit our pub."
+				},
+				{
+					"text": "This small room is like a vast library."
+				},
+				{
+					"text": "I think back on tales I've heard."
+				},
+				{
+					"text": "Shocking stories. Pathetic stories. Heart-wrenching stories."
+				},
+				{
+					"text": "All kinds of stories."
+				},
+				{
+					"text": "I put my father's breakfast in a pot for tomorrow and grab my own bowl of supper."
+				},
+				{
+					"text": "Then I blow out the lamps and head upstairs."
+				},
+				{
+					"name": "Will",
+					"text": "The King of Denmark, huh?"
+				},
+				{
+					"text": "I sit at my desk and stare intently at the quill."
+				},
+				{
+					"text": "My mind keeps coming back to that story Rob told today."
+				},
+				{
+					"text": "Ghosts, assassinations, parricide..."
+				},
+				{
+					"name": "Will",
+					"text": "No way I can pull all those threads together in time."
+				},
+				{
+					"text": "I do think it would make a good story."
+				},
+				{
+					"text": "But I just can't put it together in two days."
+				},
+				{
+					"text": "I take a parchment from the shelf and look through some of my unfinished writing."
+				},
+				{
+					"text": "I can't be too picky now."
+				},
+				{
+					"text": "I have no money, therefore I must write."
+				},
+				{
+					"name": "Will",
+					"text": "Rehearsal in two days, huh?"
+				},
+				{
+					"text": "Yet I have no time either."
+				},
+				{
+					"text": "First, I need to decide what to write."
+				},
+				{
+					"text": "Rereading some of my unfinished scripts, I remember the settings in which I heard each of the stories."
+				},
+				{
+					"text": "Wars between England and France, infighting between three princesses, a political play about ancient Rome..."
+				},
+				{
+					"text": "Tenbridge is a hub for merchants who travel all around the continent."
+				},
+				{
+					"text": "Truly, I feel blessed to be in a place where so many stories converge."
+				},
+				{
+					"text": "One of them catches my eye in particular."
+				},
+				{
+					"name": "Will",
+					"text": "Oh, I'd forgotten about this one."
+				},
+				{
+					"text": "I search through my memory."
+				},
+				{
+					"name": "Will",
+					"text": "I got this one from Rob. He's really all about those rumors, eh?"
+				},
+				{
+					"text": "Two women and two men."
+				},
+				{
+					"text": "A tale of foolish youths in love."
+				},
+				{
+					"text": "He said that he heard it in Italy, if I remember correctly."
+				},
+				{
+					"name": "Will",
+					"text": "This could work, actually."
+				},
+				{
+					"text": "The concept is attention-grabbing and the story is clear-cut."
+				},
+				{
+					"text": "It'll be simple to write the kind of comedic scenes people would expect from reading the summary."
+				},
+				{
+					"name": "Will",
+					"text": "All right. Let's go with this."
+				},
+				{
+					"text": "I turn back to my desk and pick up the quill."
+				}
+			]
+		},
+		{
+			"texts": [
+				{
+					"name": "Will",
+					"text": "Haah..."
+				},
+				{
+					"text": "I trudge down the stairs, my steps a little unsteady after working all night."
+				},
+				{
+					"name": "Will",
+					"text": "Morning."
+				},
+				{
+					"name": "Father",
+					"text": "Morning, Son."
+				},
+				{
+					"text": "I find my dad peeling potatoes in his usual spot."
+				},
+				{
+					"text": "This is one of the few tasks that he's still able to do since he lost his sight."
+				},
+				{
+					"text": "Moving behind the counter, I see the meal I prepared last night still untouched."
+				},
+				{
+					"name": "Will",
+					"text": "You're not eating?"
+				},
+				{
+					"name": "Father",
+					"text": "I could go for a drink."
+				},
+				{
+					"name": "Will",
+					"text": "Don't be grumpy now."
+				},
+				{
+					"text": "He lets out a throaty laugh."
+				},
+				{
+					"name": "Will",
+					"text": "You can rest. There's a gathering today, so there's no need to tire yourself out."
+				},
+				{
+					"name": "Father",
+					"text": "Don't worry. All I do is sit around and be a nuisance when the patrons come."
+				},
+				{
+					"name": "Will",
+					"text": "You make double the racket than all our patrons combined."
+				},
+				{
+					"name": "Father",
+					"text": "That's just how I pass the time. Don't you worry."
+				},
+				{
+					"name": "Will",
+					"text": "..."
+				},
+				{
+					"name": "Father",
+					"text": "Yeah, I could go for a drink."
+				},
+				{
+					"name": "Will",
+					"text": "You know I can't let you drink. Don't be stubborn."
+				},
+				{
+					"text": "His smile turns bitter as he continues peeling."
+				},
+				{
+					"text": "Now that I think about it, when was the last time I saw him eat anything?"
+				},
+				{
+					"text": "It must have been about four days ago."
+				},
+				{
+					"text": "He nibbles on apples, and munches on nuts from time to time, but it's been that long since I saw him have a proper meal."
+				},
+				{
+					"text": "It was when I was restocking our ale supplies, if I remember correctly."
+				},
+				{
+					"text": "I glance at him again."
+				},
+				{
+					"text": "He's looking a little worse for wear every morning."
+				},
+				{
+					"name": "Townsfolk",
+					"text": "Public execution! At the fountain square!"
+				},
+				{
+					"text": "We hear someone shouting outside."
+				},
+				{
+					"text": "With it comes the hullabaloo of people moving in one direction and shouting."
+				},
+				{
+					"name": "Father",
+					"text": "Catholic hunting, eh?"
+				},
+				{
+					"name": "Will",
+					"text": "Looks like it."
+				},
+				{
+					"text": "I stare at the door for a moment then turn to him."
+				},
+				{
+					"name": "Will",
+					"text": "Should we go?"
+				},
+				{
+					"name": "Father",
+					"text": "No..."
+				},
+				{
+					"name": "Father",
+					"text": "Not like I can see it with my own two eyes."
+				},
+				{
+					"name": "Will",
+					"text": "All right."
+				},
+				{
+					"text": "Ever since Queen Elizabeth's coronation, the persecution of Catholics has intensified."
+				},
+				{
+					"text": "Being or even housing a believer is grounds for execution."
+				},
+				{
+					"text": "After pulling on the limbs of those poor souls until their tendons snap, they are exposed naked in front of all, and their intestines gutted to make a display out of them."
+				},
+				{
+					"text": "After that their head is severed from their bodies and put on a stake to adorn the castle for several days."
+				},
+				{
+					"text": "It has become something of a source of entertainment among the common folk."
+				},
+				{
+					"text": "This country has lost its freedom of creed."
+				},
+				{
+					"text": "I'm repulsed every time I see a portrait of the queen as I go about the city."
+				},
+				{
+					"text": "I wish she were made to experience the same pain and humiliation that is being inflicted upon others under her rule."
+				},
+				{
+					"text": "We stay there in silence, the pile of peeled potatoes growing larger."
+				},
+				{
+					"name": "Will",
+					"text": "So, what are your plans for today?"
+				},
+				{
+					"name": "Father",
+					"text": "Same as always."
+				},
+				{
+					"text": "I answer with a nod."
+				},
+				{
+					"name": "Father",
+					"text": "Will."
+				},
+				{
+					"text": "I look up at him."
+				},
+				{
+					"name": "Father",
+					"text": "Sorry, I need to go upstairs for a bit."
+				},
+				{
+					"name": "Will",
+					"text": "All right."
+				},
+				{
+					"name": "Will",
+					"text": "I'll come with you."
+				},
+				{
+					"text": "I slowly climb up the stairs after him."
+				},
+				{
+					"text": "We enter the largest room of the house, and my dad sits at one of the tables in the middle of it."
+				},
+				{
+					"name": "Will",
+					"text": "You're praying, right?"
+				},
+				{
+					"name": "Father",
+					"text": "Yeah."
+				},
+				{
+					"name": "Will",
+					"text": "All right."
+				},
+				{
+					"text": "I turn over a small painting on the wall, showing the image of the crucifix on the back."
+				},
+				{
+					"text": "This cross is a symbol of the Catholic faith."
+				},
+				{
+					"text": "If this idol were to be found, we'd be subject to capital punishment as well."
+				},
+				{
+					"text": "And yet, I somehow feel closer to God with such things around."
+				},
+				{
+					"text": "A person's faith cannot be fettered."
+				},
+				{
+					"text": "That was my father's steadfast belief when he set up this room as a secret meeting place for believers."
+				},
+				{
+					"text": "This is another facet of the pub we run together."
+				},
+				{
+					"text": "I walk behind my kneeling father and cross myself."
+				},
+				{
+					"text": "Then I clasp my hands together and join him in silent prayer."
+				},
+				{
+					"text": "We humans are weak."
+				},
+				{
+					"text": "We need something to support our fallible hearts, to draw strength from in hopeless times."
+				},
+				{
+					"text": "After a while, I open my eyes."
+				},
+				{
+					"text": "My father is still kneeling in front of me."
+				},
+				{
+					"text": "After staring at his back for a moment, I leave the room."
+				},
+				{
+					"text": "I go back downstairs and continue peeling potatoes."
+				},
+				{
+					"text": "The hustle and bustle outside doesn't abate."
+				},
+				{
+					"text": "I keep working, trying to put the horrific event going on outside out of my mind."
+				},
+				{
+					"name": "Rob",
+					"text": "Hey."
+				},
+				{
+					"name": "Will",
+					"text": "Hey there."
+				},
+				{
+					"text": "We exchange knowing glances, and I nod."
+				},
+				{
+					"text": "If I'm familiar with someone, I don't need to ask for the password."
+				},
+				{
+					"text": "There's are just under ten people who regularly attend these gatherings."
+				},
+				{
+					"text": "We rarely get new faces."
+				},
+				{
+					"text": "With the persecution going on, it's no wonder."
+				},
+				{
+					"text": "Public executions have become a new source of entertainment for the people."
+				},
+				{
+					"text": "After Rob, a few more familiar faces come in and go upstairs."
+				},
+				{
+					"text": "All of them wear grim expressions."
+				},
+				{
+					"name": "Ed",
+					"text": "Will."
+				},
+				{
+					"name": "Will",
+					"text": "Hey, Ed."
+				},
+				{
+					"text": "Ed smiles at me."
+				},
+				{
+					"name": "Ed",
+					"text": "Is everyone inside?"
+				},
+				{
+					"name": "Will",
+					"text": "Yeah."
+				},
+				{
+					"text": "His expression softens a little."
+				},
+				{
+					"name": "Ed",
+					"text": "Would you like to join us today?"
+				},
+				{
+					"name": "Will",
+					"text": "There'll be no one to keep officers from snooping around if I'm up there too."
+				},
+				{
+					"name": "Ed",
+					"text": "They're all manning their spectacle over at the square."
+				},
+				{
+					"text": "I look down at the potatoes."
+				},
+				{
+					"name": "Ed",
+					"text": "Let us all pray together. If those that are left behind don't pray with all their hearts..."
+				},
+				{
+					"name": "Ed",
+					"text": "...those suffering in the square won't find peace with the Lord."
+				},
+				{
+					"text": "He stares at me, conviction steeling his words."
+				},
+				{
+					"text": "I can see the fire of dissent in his eyes. A quiet, strong glow that yields not to the times we're living in."
+				},
+				{
+					"name": "Will",
+					"text": "All right, Father."
+				},
+				{
+					"text": "I put the knife down and wash my hands."
+				},
+				{
+					"text": "Ed smiles kindly and goes upstairs."
+				},
+				{
+					"text": "I follow after him."
+				},
+				{
+					"text": "When I enter the room, Ed walks up to the front."
+				},
+				{
+					"text": "Less than ten believers are gathered around Rob and my dad."
+				},
+				{
+					"text": "Ed stands in front of everyone."
+				},
+				{
+					"text": "All turn their attention to him."
+				},
+				{
+					"text": "Everyone looks as grave as a tomb."
+				},
+				{
+					"text": "It's only natural, of course."
+				},
+				{
+					"text": "Believers just like us have been executed for simply offering prayers while trying to escape Queen Elizabeth's persecution."
+				},
+				{
+					"text": "Hiding believers, not to mention a priest, is a crime punishable by death."
+				},
+				{
+					"text": "I don't know under what charges today's execution is being carried out."
+				},
+				{
+					"text": "But I'm certain they couldn't have committed anything so atrocious as to warrant being slaughtered in front of a rabid crowd."
+				},
+				{
+					"text": "I'm sure everyone else here thinks the same."
+				},
+				{
+					"text": "Ed surveys the group."
+				},
+				{
+					"name": "Ed",
+					"text": "The times are changing, and the world along with it."
+				},
+				{
+					"text": "He starts talking in a clear, measured tone."
+				},
+				{
+					"name": "Ed",
+					"text": "We may needs to hide our faith and sneak like thieves in the night, but a pastor never leaves his flock unattended. I am certain that, in time, a wise, fair ruler who understands the holy spirit will come to guide men and women alike."
+				},
+				{
+					"name": "Ed",
+					"text": "We must weather this storm."
+				},
+				{
+					"name": "Ed",
+					"text": "Our steadfast perseverance will surely pave the way for those who come after us."
+				},
+				{
+					"text": "Ed's expression is calm, but his voice has a strength of will that makes the air in the room shiver."
+				},
+				{
+					"text": "His poise makes me realize that I could never make it as a priest."
+				},
+				{
+					"text": "I can't forgive this oppression."
+				},
+				{
+					"text": "I can't smile in the face of adversity like he does."
+				},
+				{
+					"text": "I want to see those who do these awful things pay."
+				},
+				{
+					"text": "...Maybe this is why everyone flocks to Ed."
+				},
+				{
+					"text": "His smile is our salvation in these trying times. It's a rock in the desert."
+				},
+				{
+					"text": "Ed places his hand atop the Bible and closes his eyes in prayer."
+				},
+				{
+					"text": "Everyone else does the same."
+				},
+				{
+					"text": "When Ed's sermon ends, we all leave the little hall."
+				},
+				{
+					"text": "We always go down to the pub afterwards to eat together."
+				},
+				{
+					"text": "Everyone looks cheerier now."
+				},
+				{
+					"text": "I'm sure the pub's atmosphere is helping to ease their minds."
+				},
+				{
+					"text": "This is exactly what the pub is for."
+				},
+				{
+					"text": "I love to stand behind the counter and watch everyone having a good time."
+				},
+				{
+					"text": "Even my dad is smiling."
+				},
+				{
+					"text": "The good times keep rolling, and one by one, people leave a little happier than they came."
+				},
+				{
+					"text": "In the end it's only Rob, Ed, Dad, and me."
+				},
+				{
+					"text": "The usual suspects."
+				},
+				{
+					"text": "The ale keeps flowing, and so does time."
+				},
+				{
+					"name": "Rob",
+					"text": "I'm glad we have this place."
+				},
+				{
+					"text": "Rob mutters, taking a sip from his cup."
+				},
+				{
+					"name": "Rob",
+					"text": "If it weren't for this here pub, I'm sure I would have lost it long ago."
+				},
+				{
+					"name": "Ed",
+					"text": "Being able to recognize your own weakness is the first step to forgiving weakness in others."
+				},
+				{
+					"name": "Rob",
+					"text": "..."
+				},
+				{
+					"name": "Ed",
+					"text": "Perhaps faith itself was born out of our weakness."
+				},
+				{
+					"name": "Rob",
+					"text": "Maybe, yeah."
+				},
+				{
+					"text": "Rob stares at the ale swaying inside his cup for a while, then takes the last swig."
+				},
+				{
+					"name": "Father",
+					"text": "Why, perhaps ale was born because of our weakness as well."
+				},
+				{
+					"name": "Will",
+					"text": "What?"
+				},
+				{
+					"name": "Father",
+					"text": "In other words, it would be morally right to let your old man wet his lips in these trying times."
+				},
+				{
+					"name": "Ed",
+					"text": "I feel like that's a bit of a leap of logic."
+				},
+				{
+					"name": "Father",
+					"text": "Oh, you think so?"
+				},
+				{
+					"name": "Will",
+					"text": "Yeah, you old coot. How many times do I need to tell you to give it a rest?"
+				},
+				{
+					"name": "Father",
+					"text": "Just one cup, please!"
+				},
+				{
+					"name": "Ed",
+					"text": "One becomes two, which in turn becomes three. Then you lose count."
+				},
+				{
+					"name": "Will",
+					"text": "He who has eyes, let them see."
+				},
+				{
+					"name": "Father",
+					"text": "Ah, shut it! You sticks in the mud!"
+				},
+				{
+					"name": "Will",
+					"text": "Who's the parent and who's the child here?"
+				},
+				{
+					"name": "Rob",
+					"text": "Oi, lad. How's the script coming along?"
+				},
+				{
+					"name": "Will",
+					"text": "Well enough. I pulled out one of my rough drafts and I'm fixing it up."
+				},
+				{
+					"name": "Rob",
+					"text": "Huh? Not using the story of the king from yesterday?"
+				},
+				{
+					"name": "Will",
+					"text": "I can't get that done in two days."
+				},
+				{
+					"name": "Ed",
+					"text": "What is this story you're working on about then?"
+				},
+				{
+					"name": "Will",
+					"text": "I'm basing it on a story Rob supposedly heard in Italy."
+				},
+				{
+					"name": "Rob",
+					"text": "Italy? Me? When did I tell this story, lad?"
+				},
+				{
+					"name": "Will",
+					"text": "About four years ago."
+				},
+				{
+					"name": "Ed",
+					"text": "So this was when I wasn't in Tenbridge, then."
+				},
+				{
+					"text": "As a priest, he moves towns regularly."
+				},
+				{
+					"text": "Staying in one place for too long attracts the attention of the Queen's men."
+				},
+				{
+					"text": "If memory serves right, he should be setting out for a new city this summer."
+				},
+				{
+					"text": "We'll miss him, but there are more Catholics all over the country who need the encouraging message of a priest like him."
+				},
+				{
+					"name": "Father",
+					"text": "Four years, eh? So around the time you started manning the counter."
+				},
+				{
+					"name": "Rob",
+					"text": "Can't say I remember. What story was that?"
+				},
+				{
+					"name": "Will",
+					"text": "You know, the one about the letter. The one that got switched."
+				},
+				{
+					"name": "Rob",
+					"text": "A letter? Ah!"
+				},
+				{
+					"name": "Rob",
+					"text": "Yes! I remember now! Hahah, that was a good one, all right!"
+				},
+				{
+					"name": "Ed",
+					"text": "I think I've had enough suspense for an evening. What story is this?"
+				},
+				{
+					"name": "Rob",
+					"text": "Let me tell you. It was a bit of hearsay that reached my ears over in Italy."
+				},
+				{
+					"name": "Will",
+					"text": "A rumor, you mean."
+				},
+				{
+					"name": "Father",
+					"text": "Rob has a lot of those."
+				},
+				{
+					"name": "Rob",
+					"text": "So it's a story about this beautiful lass and this handsome lad in Rome. They exchanged letters for over a year."
+				},
+				{
+					"name": "Ed",
+					"text": "Mhm."
+				},
+				{
+					"name": "Rob",
+					"text": "They spun poems and vows of love through the written word, fanning the flames of their love despite not having ever heard one another's voice."
+				},
+				{
+					"name": "Ed",
+					"text": "But they had seen each other, I assume?"
+				},
+				{
+					"name": "Rob",
+					"text": "Not quite. Their beauty was famed throughout the city. That's not the whole story, though."
+				},
+				{
+					"text": "Rob leans forward."
+				},
+				{
+					"name": "Rob",
+					"text": "Their letters were always delivered by a certain boy. This boy delivered their letters to another party."
+				},
+				{
+					"name": "Ed",
+					"text": "Oh?"
+				},
+				{
+					"name": "Rob",
+					"text": "To another pair of lovebirds that shared the same name as them."
+				},
+				{
+					"name": "Will",
+					"text": "In other words, two different men were exchanging letters with two different women."
+				},
+				{
+					"name": "Father",
+					"text": "For a whole year?!"
+				},
+				{
+					"name": "Will",
+					"text": "Pretty intriguing, isn't it?"
+				},
+				{
+					"name": "Rob",
+					"text": "It all started when the boy delivered the first letter from the man to the wrong lass. But by the time he noticed, it was too late. The woman was beside herself with joy after reading the letter."
+				},
+				{
+					"name": "Rob",
+					"text": "And that's how they began to exchange letters with the wrong person. Oh, how easy it would have been to correct his mistake early on."
+				},
+				{
+					"name": "Rob",
+					"text": "But the boy racked his brains to find a way to make things work. And thus, he delivered the woman's letters to another party as well."
+				},
+				{
+					"name": "Ed",
+					"text": "Oho."
+				},
+				{
+					"name": "Rob",
+					"text": "Any town is full of men looking to bag themselves such a beauty, so the boy found a man with the same name as the original handsome lad, and delivered the letter."
+				},
+				{
+					"name": "Ed",
+					"text": "So a new exchange was created."
+				},
+				{
+					"name": "Rob",
+					"text": "He figured they'd stop soon enough, and that'd be it. He could never have predicted that all four of them would develop such a passion for poems and exchanging vows of love."
+				},
+				{
+					"name": "Will",
+					"text": "An unwilling cupid, if you will."
+				},
+				{
+					"name": "Rob",
+					"text": "Quite."
+				},
+				{
+					"name": "Ed",
+					"text": "So they're sharing correspondence with the wrong person for over a year... We're talking about a comedy, I assume."
+				},
+				{
+					"name": "Will",
+					"text": "It's a tragedy, in a sense."
+				},
+				{
+					"name": "Rob",
+					"text": "The man the boy found was married."
+				},
+				{
+					"name": "Ed",
+					"text": "The plot thickens!"
+				},
+				{
+					"name": "Father",
+					"text": "This is no good. No good at all."
+				},
+				{
+					"name": "Rob",
+					"text": "With the roaring flames of love burning in his heart, the man decides to abandon his family and elope with this girl!"
+				},
+				{
+					"name": "Ed",
+					"text": "And then?"
+				},
+				{
+					"name": "Rob",
+					"text": "And then..."
+				},
+				{
+					"name": "Ed",
+					"text": "Go on."
+				},
+				{
+					"name": "Rob",
+					"text": "That's all I heard."
+				},
+				{
+					"name": "Ed",
+					"text": "What?!"
+				},
+				{
+					"name": "Father",
+					"text": "Why?!"
+				},
+				{
+					"name": "Rob",
+					"text": "Because it was hearsay, my good men."
+				},
+				{
+					"name": "Will",
+					"text": "The punchline in Rob's stories shines for its absence more often than not."
+				},
+				{
+					"name": "Ed",
+					"text": "Wonder what happened to them in the end."
+				},
+				{
+					"name": "Rob",
+					"text": "Remember this is all rumor. It's already up for debate whether any of this really happened."
+				},
+				{
+					"name": "Will",
+					"text": "Don't break the mystique, would you?"
+				},
+				{
+					"name": "Rob",
+					"text": "It's true that I heard about it, that I assure you!"
+				},
+				{
+					"name": "Ed",
+					"text": "No one's doubting you on that front."
+				},
+				{
+					"name": "Rob",
+					"text": "So, what are you doing with this story?"
+				},
+				{
+					"name": "Will",
+					"text": "The crux of this story is the burning passion these people develop for the wrong person, right?"
+				},
+				{
+					"name": "Will",
+					"text": "One of them even abandons his family to try and live out this fantasy of pure love."
+				},
+				{
+					"name": "Rob",
+					"text": "I guess any man could relate."
+				},
+				{
+					"name": "Will",
+					"text": "Yeah, a lot of people can relate to dreaming of a better life. It's a simple, universal concept."
+				},
+				{
+					"name": "Ed",
+					"text": "But this a play, isn't it?"
+				},
+				{
+					"name": "Rob",
+					"text": "Sounds boring if the whole thing is just a back and forth between letters."
+				},
+				{
+					"name": "Will",
+					"text": "Even if it takes a year for love to develop in real life, you only need three lines in a play."
+				},
+				{
+					"name": "Rob",
+					"text": "Just three?"
+				},
+				{
+					"name": "Will",
+					"text": "With the help of magic, for example."
+				},
+				{
+					"name": "Ed",
+					"text": "I see."
+				},
+				{
+					"name": "Rob",
+					"text": "So, what, the kid uses magic or something?"
+				},
+				{
+					"name": "Will",
+					"text": "What if the little miscreant who mixed up the letters was a fairy instead?"
+				},
+				{
+					"name": "Ed",
+					"text": "A fairy, you say?"
+				},
+				{
+					"name": "Will",
+					"text": "You have a pair of women and men."
+				},
+				{
+					"name": "Will",
+					"text": "And they end up falling for the wrong person thanks to the mischief of a little fairy."
+				},
+				{
+					"name": "Rob",
+					"text": "Huh, that doesn't sound half bad."
+				},
+				{
+					"name": "Will",
+					"text": "I'm framing it as a comedy to make people laugh and leave the theater with a smile on their faces."
+				},
+				{
+					"name": "Will",
+					"text": "And I'm planning for a happy end where, after the whole mess, everyone ends up with the right person."
+				},
+				{
+					"name": "Ed",
+					"text": "So this boy turned fairy assumes the role of a jester, then."
+				},
+				{
+					"name": "Rob",
+					"text": "Sounds good! You're a genius, lad!"
+				},
+				{
+					"name": "Will",
+					"text": "I quite like writing, and I actually enjoy coming up with stories."
+				},
+				{
+					"name": "Will",
+					"text": "But you're always hurrying me!"
+				},
+				{
+					"name": "Rob",
+					"text": "Still, it looks like you won't disappoint this time either!"
+				},
+				{
+					"name": "Will",
+					"text": "I'm not having an easy time, you know?!"
+				},
+				{
+					"name": "Will",
+					"text": "I gotta think about what to do with that fairy angle and there aren't enough characters to fill in the time."
+				},
+				{
+					"name": "Ed",
+					"text": "I'd say you're doing remarkably well. No playwright in the Lily Theater could work as fast as you."
+				},
+				{
+					"name": "Rob",
+					"text": "Speaking of the Lily Theater playwrights..."
+				},
+				{
+					"name": "Ed",
+					"text": "Notably, Christopher Marlowe, yes."
+				},
+				{
+					"name": "Rob",
+					"text": "That'd be Tenbridge's most popular playwright, yeah?"
+				},
+				{
+					"name": "Ed",
+					"text": "But Will is faster, and his stories strike me as having more depth."
+				},
+				{
+					"text": "Ed turns to me."
+				},
+				{
+					"name": "Ed",
+					"text": "You can win, my boy."
+				},
+				{
+					"name": "Will",
+					"text": "You think so?"
+				},
+				{
+					"name": "Rob",
+					"text": "Set your sights high! All right! I have just the thing to put some pep in your step!"
+				},
+				{
+					"name": "Will",
+					"text": "Huh?"
+				},
+				{
+					"name": "Rob",
+					"text": "Eheheh, it'll knock your socks right off."
+				},
+				{
+					"name": "Ed",
+					"text": "Mm?"
+				},
+				{
+					"text": "Rob rummages in his bag and produces a bit of something deep red in color."
+				},
+				{
+					"name": "Will",
+					"text": "Jerky?"
+				},
+				{
+					"name": "Rob",
+					"text": "Not just any jerky, my lad."
+				},
+				{
+					"name": "Ed",
+					"text": "Is that... venison?"
+				},
+				{
+					"name": "Rob",
+					"text": "You bet!"
+				},
+				{
+					"name": "Father",
+					"text": "Oooh!"
+				},
+				{
+					"name": "Will",
+					"text": "That's really fancy, isn't it?"
+				},
+				{
+					"name": "Father",
+					"text": "Fancy? Lad, that's a luxury."
+				},
+				{
+					"name": "Rob",
+					"text": "Get yerself a deer and sell all the meat off its bones, and I reckon you'd make three month's worth of the pub's earnings in one day."
+				},
+				{
+					"name": "Will",
+					"text": "Three months for just one deer? It's that expensive?"
+				},
+				{
+					"text": "I knew it was a luxury food, but goodness."
+				},
+				{
+					"text": "Three months? That's just ludicrous."
+				},
+				{
+					"text": "...Where can I even find deer?"
+				},
+				{
+					"name": "Rob",
+					"text": "Heheh, a gift from your most valued customers."
+				},
+				{
+					"name": "Will",
+					"text": "Whoa, really?"
+				},
+				{
+					"name": "Rob",
+					"text": "That Spencer guy keeps deer the way one would dogs."
+				},
+				{
+					"name": "Will",
+					"text": "Oh, I see now."
+				},
+				{
+					"text": "He keeps those expensive animals as pets?"
+				},
+				{
+					"name": "Rob",
+					"text": "I'm just sharing what I was so graciously given."
+				},
+				{
+					"name": "Ed",
+					"text": "Money certainly holds a different value to those nobles."
+				},
+				{
+					"name": "Rob",
+					"text": "Let's eat it together. I don't feel like eating alone today."
+				},
+				{
+					"text": "His tone sinks like a rock in water."
+				},
+				{
+					"text": "Perhaps he's remembering the ghastly sight of those in the square today."
+				},
+				{
+					"name": "Rob",
+					"text": "Gotta eat to live, eh? Here, Will."
+				},
+				{
+					"name": "Will",
+					"text": "Thanks."
+				},
+				{
+					"text": "I tear off a bite of the jerky."
+				},
+				{
+					"text": "Ed follows suit, as does Rob."
+				},
+				{
+					"name": "Rob",
+					"text": "Have some, Boss. It's venison. None of us see this often."
+				},
+				{
+					"name": "Father",
+					"text": "I've never had it before."
+				},
+				{
+					"name": "Ed",
+					"text": "Go right ahead."
+				},
+				{
+					"text": "Ed speaks around a mouthful."
+				},
+				{
+					"text": "I break off a bit of the meat and put it on my dad's palm."
+				},
+				{
+					"text": "He carefully picks it up between two fingers and slowly brings it to his mouth."
+				},
+				{
+					"name": "Father",
+					"text": "Well, don't mind if I do."
+				},
+				{
+					"text": "After a bit of chewing, he opens his unseeing eyes wide."
+				},
+				{
+					"name": "Father",
+					"text": "Hmm, this is rather good."
+				},
+				{
+					"name": "Rob",
+					"text": "I hear it's good for you. Eat up, old man. You've been getting thinner, and don't think I haven't noticed."
+				},
+				{
+					"name": "Father",
+					"text": "You've been telling them, Will? Don't burden the customers with stuff like that."
+				},
+				{
+					"name": "Will",
+					"text": "If you eat, I won't have to. No more ale for you."
+				},
+				{
+					"name": "Father",
+					"text": "Like hell! I'll drink in my grave!"
+				},
+				{
+					"text": "It's late at night, and Ed is the first to leave."
+				},
+				{
+					"text": "Right after that, Rob gets up from his seat as well."
+				},
+				{
+					"name": "Rob",
+					"text": "Well, Bard. I leave the script writing to you. Have it to me by tomorrow, as we agreed."
+				},
+				{
+					"name": "Will",
+					"text": "Yeah, got it."
+				},
+				{
+					"name": "Rob",
+					"text": "I'm looking forward to reading it meself."
+				},
+				{
+					"name": "Will",
+					"text": "Say, Rob."
+				},
+				{
+					"name": "Rob",
+					"text": "Huh?"
+				},
+				{
+					"name": "Will",
+					"text": "Do you think I could get more work writing plays?"
+				},
+				{
+					"name": "Rob",
+					"text": "...Money troubles?"
+				},
+				{
+					"text": "I nod."
+				},
+				{
+					"name": "Rob",
+					"text": "Hmm... You know it's no jest when I say that there's people eternally lined up in front of the theater in the hopes of becoming playwrights."
+				},
+				{
+					"name": "Rob",
+					"text": "The deadlines I give you are always so tight because they don't come knocking on my door unless some kind of problem popped up."
+				},
+				{
+					"name": "Will",
+					"text": "Yeah, I know."
+				},
+				{
+					"name": "Rob",
+					"text": "I suppose you could get picked up as a regular playwright in some theater if you keep doing good work, but you can't just abandon your main job here."
+				},
+				{
+					"name": "Will",
+					"text": "Yeah."
+				},
+				{
+					"name": "Rob",
+					"text": "It's a hard selI, I must admit. They won't take scripts from a peddler like me unless it's some kind of emergency."
+				},
+				{
+					"name": "Will",
+					"text": "I see..."
+				},
+				{
+					"name": "Rob",
+					"text": "Sorry, my lad. I'll make up for it by giving you good business."
+				},
+				{
+					"name": "Will",
+					"text": "Thanks, Rob."
+				},
+				{
+					"name": "Rob",
+					"text": "I know you're having it rough, lad."
+				},
+				{
+					"name": "Will",
+					"text": "Not so much. I have loyal clients that eat the crap I put on their plates, and I get to hear lots of stories."
+				},
+				{
+					"name": "Will",
+					"text": "I'm living a good life."
+				},
+				{
+					"name": "Rob",
+					"text": "That so? Heheh. I'll come buy out that crappy food so you guys don't go under."
+				},
+				{
+					"name": "Will",
+					"text": "You're gonna have a huge pot belly by the end."
+				},
+				{
+					"name": "Rob",
+					"text": "Hahah... Sorry for not being able to help. I could be your patron if only I was one of those nobles."
+				},
+				{
+					"name": "Will",
+					"text": "Don't apologize, you do a lot for us."
+				},
+				{
+					"name": "Rob",
+					"text": "It's been a long day."
+				},
+				{
+					"text": "Rob looks up at the night sky out the window."
+				},
+				{
+					"name": "Will",
+					"text": "Sure has."
+				},
+				{
+					"name": "Rob",
+					"text": "I wonder how long this will keep going on."
+				},
+				{
+					"name": "Will",
+					"text": "There's no evil that lasts a hundred years, nor a body that can endure it."
+				},
+				{
+					"text": "He turns back to me."
+				},
+				{
+					"name": "Will",
+					"text": "That's something Ed once told me."
+				},
+				{
+					"text": "He laughs heartily."
+				},
+				{
+					"name": "Rob",
+					"text": "Everyone's a poet now. I see how it is."
+				},
+				{
+					"name": "Will",
+					"text": "All the world's a stage."
+				},
+				{
+					"text": "He nods in response."
+				},
+				{
+					"name": "Rob",
+					"text": "Make sure you put some of that literary fire in the script, will you?"
+				},
+				{
+					"name": "Rob",
+					"text": "I'm counting on you, Bard."
+				},
+				{
+					"name": "Will",
+					"text": "No pressure or anything..."
+				}
+			]
+		},
+		{},
+		{
+			"texts": [
+				{
+					"text": "After staying up all night two days in a row, I manage to get the script in a presentable shape by the second morning."
+				},
+				{
+					"text": "I notice Dad hasn't touched his meal today either."
+				},
+				{
+					"text": "I go up to my room in the afternoon to catch some shut-eye before work."
+				},
+				{
+					"text": "Rob shows up to pick up the script just before it's time to open the pub, a little before sundown."
+				},
+				{
+					"text": "I'm not completely happy with it, but it's good enough for the time I was given."
+				},
+				{
+					"name": "Rob",
+					"text": "Thanks, lad! You're my savior!"
+				},
+				{
+					"name": "Will",
+					"text": "To be honest, there are a few parts that are still a bit rough. I don't mind if they feel like touching things up during rehearsal."
+				},
+				{
+					"name": "Rob",
+					"text": "No matter, lad. Mind if I give you the rest of the money when I get it from Spencer?"
+				},
+				{
+					"name": "Will",
+					"text": "Sure. Thanks."
+				},
+				{
+					"name": "Rob",
+					"text": "Huh? Where's the Boss?"
+				},
+				{
+					"name": "Will",
+					"text": "Still in bed. He should be getting up soon."
+				},
+				{
+					"name": "Rob",
+					"text": "Still not eating?"
+				},
+				{
+					"name": "Will",
+					"text": "Doesn't seem like it. He hasn't eaten a thing today."
+				},
+				{
+					"name": "Rob",
+					"text": "That's worrying."
+				},
+				{
+					"name": "Will",
+					"text": "He doesn't listen to me."
+				},
+				{
+					"name": "Will",
+					"text": "Lately, I think he's trying to act like everything's all right for my sake."
+				},
+				{
+					"name": "Rob",
+					"text": "The man can put up a brave front even while blind, eh? That's some resilience."
+				},
+				{
+					"name": "Will",
+					"text": "..."
+				},
+				{
+					"text": "It's been four years since his eyesight started worsening significantly."
+				},
+				{
+					"name": "Rob",
+					"text": "You got confidence in this thing?"
+				},
+				{
+					"text": "Rob asks, lightly tapping the script."
+				},
+				{
+					"name": "Will",
+					"text": "It's competent. The fairy character is well done, I think."
+				},
+				{
+					"name": "Will",
+					"text": "It's a good role, so I bet it could be popular if the actor nails the part."
+				},
+				{
+					"name": "Rob",
+					"text": "That's what I like to hear. Thanks, my lad."
+				},
+				{
+					"text": "After a while, my father slowly comes down the stairs."
+				},
+				{
+					"name": "Will",
+					"text": "Rise and shine. Rob's here, Dad."
+				},
+				{
+					"name": "Father",
+					"text": "Oh, that you, Rob? Skipping out on work again?"
+				},
+				{
+					"name": "Rob",
+					"text": "The first thing you do is slander me?! I'm turning your son's scripts into money so this place doesn't go out of business!"
+				},
+				{
+					"name": "Father",
+					"text": "Want a drink? I bet you do. Come and get some ale in you."
+				},
+				{
+					"name": "Rob",
+					"text": "I can't get drunk until I turn in this script!"
+				},
+				{
+					"name": "Father",
+					"text": "Aw, don't be coy."
+				},
+				{
+					"text": "Feeling as he goes with his white cane, Dad heads for his usual seat at the end of the counter."
+				},
+				{
+					"name": "Father",
+					"text": "Son, how about pouring your father some ale to wet his whistle?"
+				},
+				{
+					"name": "Will",
+					"text": "You know what the answer is."
+				},
+				{
+					"text": "He flashes an amused grin in my general direction."
+				},
+				{
+					"text": "To be honest, he doesn't look well enough to drink."
+				},
+				{
+					"text": "He's just overcompensating with banter."
+				},
+				{
+					"text": "I put out the 'open' sign after Rob leaves."
+				},
+				{
+					"text": "Though it's not like there's a huge line of people waiting to enter."
+				},
+				{
+					"name": "Father",
+					"text": "*Cough*"
+				},
+				{
+					"text": "Dad coughs a little, and it sounds bad enough for me to raise an eyebrow."
+				},
+				{
+					"name": "Will",
+					"text": "Are you sure you're feeling well?"
+				},
+				{
+					"name": "Father",
+					"text": "Yeah, same old."
+				},
+				{
+					"name": "Will",
+					"text": "Wanna eat something? I'll cook."
+				},
+				{
+					"name": "Father",
+					"text": "It's fine. The jerky from yesterday was enough."
+				},
+				{
+					"name": "Will",
+					"text": "But you'll feel better if you eat something."
+				},
+				{
+					"name": "Will",
+					"text": "Is there anything in particular you want? We're good for this month, so I can go buy something."
+				},
+				{
+					"name": "Father",
+					"text": "Wait until the end of the month. You still have to get paid, right?"
+				},
+				{
+					"name": "Will",
+					"text": "Yeah, but..."
+				},
+				{
+					"name": "Father",
+					"text": "Don't you worry. I don't move about a lot, so I don't need as much food."
+				},
+				{
+					"name": "Will",
+					"text": "..."
+				},
+				{
+					"name": "Father",
+					"text": "You've been working yourself to the bone these days. You should rest a bit. You gotta take care of yourself."
+				},
+				{
+					"name": "Will",
+					"text": "That's rich coming from you."
+				},
+				{
+					"name": "Father",
+					"text": "Hahah, touche."
+				},
+				{
+					"name": "Will",
+					"text": "I'll close up shop early tonight then head to bed."
+				},
+				{
+					"name": "Father",
+					"text": "Good."
+				},
+				{
+					"text": "At night, Ed shows up after work."
+				},
+				{
+					"text": "He nurses his cup of ale and treats me to one as well."
+				},
+				{
+					"name": "Ed",
+					"text": "I see Rob's not here."
+				},
+				{
+					"name": "Will",
+					"text": "Yeah. I wanted to ask if the script was well received."
+				},
+				{
+					"name": "Ed",
+					"text": "It'll be fine. Your work speaks of human nature itself."
+				},
+				{
+					"name": "Ed",
+					"text": "The people want to see real stories about the struggles we all face."
+				},
+				{
+					"name": "Will",
+					"text": "If that's the case, I have Rob to thank for feeding me rumors, and you for always asking the poignant questions."
+				},
+				{
+					"name": "Ed",
+					"text": "The rumors he definitely heard from people in countries he hasn't even been to, you mean?"
+				},
+				{
+					"text": "I laugh in response."
+				},
+				{
+					"text": "Ed echoes it with his own laughter."
+				},
+				{
+					"name": "Ed",
+					"text": "You think he really hears them from other people?"
+				},
+				{
+					"name": "Will",
+					"text": "If he comes up with all those stories on his own, he's a bloody genius."
+				},
+				{
+					"name": "Ed",
+					"text": "You're the one actually writing them down, though. And no one but you would have the memory to recall so much from years past."
+				},
+				{
+					"name": "Will",
+					"text": "Hmm... You think so?"
+				},
+				{
+					"text": "He nods firmly."
+				},
+				{
+					"name": "Ed",
+					"text": "You have talent. I've become able to spot such things after working at the Lily Theater for so long."
+				},
+				{
+					"name": "Will",
+					"text": "..."
+				},
+				{
+					"name": "Ed",
+					"text": "I've listened to what I've been assured are the best plays Tenbridge has to offer while preparing scones to sell to those in attendance."
+				},
+				{
+					"text": "He pauses for a moment then directs a broad smile at me."
+				},
+				{
+					"name": "Ed",
+					"text": "And I don't think your work has anything to envy in comparison."
+				},
+				{
+					"text": "Since he's a priest, Ed has to do a lot of odd jobs while in hiding."
+				},
+				{
+					"text": "From what I gather, the theater he works at is always at capacity."
+				},
+				{
+					"text": "And the playwright writing those scripts must be..."
+				},
+				{
+					"name": "Will",
+					"text": "Christopher Marlowe, yeah?"
+				},
+				{
+					"name": "Ed",
+					"text": "Yes."
+				},
+				{
+					"name": "Will",
+					"text": "Isn't it dangerous to work at the theater? You've been there for a long while now."
+				},
+				{
+					"name": "Will",
+					"text": "And there are always so many people around."
+				},
+				{
+					"name": "Ed",
+					"text": "No better place to hide a tree than the forest."
+				},
+				{
+					"name": "Will",
+					"text": "I suppose... But some people might start getting suspicious. It's best to err on the side of caution."
+				},
+				{
+					"name": "Ed",
+					"text": "Thanks for the concern."
+				},
+				{
+					"text": "Ed smiles and nods."
+				},
+				{
+					"text": "Just as it's a crime to shelter Catholics, there is a reward for denouncing them to the authorities."
+				},
+				{
+					"text": "In a sense, the whole city is his enemy."
+				},
+				{
+					"text": "Many people will jump at shadows for the chance of getting rewarded, so it's important to not raise any kind of suspicion."
+				},
+				{
+					"name": "Ed",
+					"text": "By the way, what's the title?"
+				},
+				{
+					"name": "Will",
+					"text": "Of the play, you mean?"
+				},
+				{
+					"text": "Ed nods."
+				},
+				{
+					"name": "Will",
+					"text": "A Midsummer Night's Dream."
+				},
+				{
+					"name": "Will",
+					"text": "A story of the events of one night disappearing like a dream."
+				},
+				{
+					"name": "Will",
+					"text": "It's a satirical comedy that I hope can touch people's hearts."
+				},
+				{
+					"name": "Ed",
+					"text": "A Midsummer Night's Dream, huh? It has a nice ring to it."
+				},
+				{
+					"text": "Ed murmurs, taking a swig of his ale."
+				},
+				{
+					"text": "I do the same."
+				},
+				{
+					"text": "..."
+				},
+				{
+					"text": "I feel like something's not quite right here."
+				},
+				{
+					"text": "Dad's not heckling."
+				},
+				{
+					"text": "I turn my gaze to his seat at the end of the bar."
+				},
+				{
+					"text": "He's slumped face down across the counter."
+				},
+				{
+					"name": "Will",
+					"text": "Uh, sorry, give me a minute."
+				},
+				{
+					"text": "Realizing the situation, Ed smiles and nods."
+				},
+				{
+					"name": "Will",
+					"text": "Dad, go upstairs if you wanna sleep."
+				},
+				{
+					"text": "But when I put my hand on his shoulder to rouse him, I realize something's wrong."
+				},
+				{
+					"text": "He's shivering."
+				},
+				{
+					"name": "Will",
+					"text": "Dad?"
+				},
+				{
+					"name": "Father",
+					"text": "S-So cold... My head..."
+				},
+				{
+					"name": "Will",
+					"text": "Are you in pain?! Dad?! Are you all right?!"
+				},
+				{
+					"text": "Ed quickly notices something's wrong and approaches."
+				},
+				{
+					"name": "Will",
+					"text": "Ed, Dad's..."
+				},
+				{
+					"text": "He puts one hand to his forehead and the other over the nape of his neck."
+				},
+				{
+					"name": "Ed",
+					"text": "He's cold, could be hypothermia. Can you close the pub?"
+				},
+				{
+					"name": "Will",
+					"text": "I'm on it."
+				},
+				{
+					"name": "Ed",
+					"text": "Carry him upstairs, carefully. We need to warm his armpits and thighs. Prepare hot water."
+				},
+				{
+					"name": "Will",
+					"text": "Got it."
+				},
+				{
+					"text": "I take my father upstairs and do as Ed instructed."
+				},
+				{
+					"text": "Apparently, the way to deal with mild hypothermia is to warm the person up and get nutrients into them."
+				},
+				{
+					"text": "I gather from Ed's quick thinking that this isn't the first time he's dealt with something like this."
+				},
+				{
+					"name": "Will",
+					"text": "Thank you. I wouldn't have known what to do if you weren't here."
+				},
+				{
+					"name": "Ed",
+					"text": "Think nothing of it. There are many who fall victim to the same condition wandering through the city at night."
+				},
+				{
+					"name": "Ed",
+					"text": "Needless to say, alcohol is out of the question. It's a diuretic, and that's not what he needs in his condition. Give him warm water to drink."
+				},
+				{
+					"name": "Will",
+					"text": "Okay."
+				},
+				{
+					"name": "Ed",
+					"text": "It would be preferable if he got his appetite back."
+				},
+				{
+					"name": "Will",
+					"text": "Yeah, but he's not been eating at all."
+				},
+				{
+					"name": "Ed",
+					"text": "Then we should contact an apothecary. I have an acquaintance we can call upon."
+				},
+				{
+					"name": "Will",
+					"text": "That'd be great, thank you."
+				},
+				{
+					"text": "I'm genuinely relieved for a moment, but then the implications of it dawn on me, and I feel my stomach turn into a piece of lead."
+				},
+				{
+					"text": "I don't have any money on me."
+				},
+				{
+					"text": "I haven't gotten the other half of my pay from Rob."
+				},
+				{
+					"text": "Perhaps noticing the gears turning in my head, Ed turns to me with a smile."
+				},
+				{
+					"name": "Ed",
+					"text": "No need to worry about money. I will foot the cost."
+				},
+				{
+					"name": "Will",
+					"text": "But I don't know when I'll be able to pay you back."
+				},
+				{
+					"text": "To be honest, even with the money Rob still has to give me, we can barely make ends meet."
+				},
+				{
+					"text": "This could quite literally push us into bankruptcy."
+				},
+				{
+					"text": "How much does an apothecary even charge for their services?"
+				},
+				{
+					"name": "Ed",
+					"text": "Then you can pay me when you become a successful playwright."
+				},
+				{
+					"text": "I give him a small, sheepish smile."
+				},
+				{
+					"name": "Will",
+					"text": "I don't expect to become a playwright anytime soon, if ever."
+				},
+				{
+					"name": "Ed",
+					"text": "You might very well make it. I believe in you."
+				},
+				{
+					"name": "Ed",
+					"text": "Don't worry. You're not alone."
+				},
+				{
+					"name": "Will",
+					"text": "I feel so pathetic."
+				},
+				{
+					"name": "Ed",
+					"text": "No, you're an upstanding young man."
+				},
+				{
+					"name": "Will",
+					"text": "Thank you. I'm really sorry about all this."
+				},
+				{
+					"name": "Ed",
+					"text": "John has always been there for me. He's a brave soul."
+				},
+				{
+					"name": "Ed",
+					"text": "And you're so very much like him."
+				},
+				{
+					"text": "He puts on a reassuring smile for me."
+				},
+				{
+					"name": "Ed",
+					"text": "I'll go call him. You stay by his side."
+				},
+				{
+					"name": "Will",
+					"text": "Thanks, Ed."
+				},
+				{
+					"name": "Ed",
+					"text": "Please, think nothing of it. I always enjoy a good meal here."
+				},
+				{
+					"text": "I go upstairs and sit by my father's bedside."
+				},
+				{
+					"text": "He still looks to be in a really bad way."
+				},
+				{
+					"name": "Father",
+					"text": "...Sorry."
+				},
+				{
+					"name": "Will",
+					"text": "Mhm."
+				},
+				{
+					"name": "Father",
+					"text": "I'm so pathetic."
+				},
+				{
+					"name": "Will",
+					"text": "It's not your fault."
+				},
+				{
+					"text": "I refresh the hot water, soak a cloth in it, and wrap it around his arm."
+				},
+				{
+					"name": "Will",
+					"text": "I know you have no appetite, but you need to eat something."
+				},
+				{
+					"name": "Will",
+					"text": "This is happening because of malnutrition."
+				},
+				{
+					"name": "Father",
+					"text": "I know that, but nothing stays down the hatch these days."
+				},
+				{
+					"name": "Will",
+					"text": "..."
+				},
+				{
+					"name": "Father",
+					"text": "But I'm useless just prostrated on a bed like this."
+				},
+				{
+					"name": "Will",
+					"text": "That's right. All our patrons only come by to see you."
+				},
+				{
+					"name": "Father",
+					"text": "Hahah..."
+				},
+				{
+					"name": "Will",
+					"text": "Ed's fetching an apothecary. He says they can make medicine for you."
+				},
+				{
+					"name": "Father",
+					"text": "An apothecary? No need! I can sleep this off, boy. Don't waste money like that."
+				},
+				{
+					"name": "Will",
+					"text": "It's fine. I just sold a script."
+				},
+				{
+					"name": "Father",
+					"text": "You didn't get paid a fortune for that, I'm sure. Use that for next month's payments."
+				},
+				{
+					"name": "Will",
+					"text": "It's fine! Ed went to call them just for you. It can't hurt to have them examine you."
+				},
+				{
+					"name": "Father",
+					"text": "I suppose..."
+				},
+				{
+					"name": "Will",
+					"text": "What is it?"
+				},
+				{
+					"name": "Father",
+					"text": "I'm sorry, Son."
+				},
+				{
+					"name": "Will",
+					"text": "I told you, it's fine."
+				},
+				{
+					"name": "Father",
+					"text": "I don't think I'd need an apothecary if I had some ale."
+				},
+				{
+					"name": "Will",
+					"text": "Well you can't be feeling that bad if you're cracking jokes."
+				},
+				{
+					"name": "Father",
+					"text": "I feel like I could get a lot better with some ale."
+				},
+				{
+					"name": "Will",
+					"text": "No, it's a diuretic. You'd just lose more heat."
+				},
+				{
+					"name": "Will",
+					"text": "No tea for you either."
+				},
+				{
+					"name": "Father",
+					"text": "Even if you were to give me something that fancy, I doubt it'd suit my common palate."
+				},
+				{
+					"name": "Will",
+					"text": "Your palate seemed to get on with that venison all right."
+				},
+				{
+					"name": "Father",
+					"text": "Yeah, I suppose that's pretty expensive too, huh?"
+				},
+				{
+					"name": "Will",
+					"text": "Try to get some sleep. Are you feeling cold?"
+				},
+				{
+					"name": "Father",
+					"text": "Nah, I'm okay."
+				},
+				{
+					"name": "Will",
+					"text": "I'll go tidy things up downstairs. I'll be back when Ed comes."
+				},
+				{
+					"name": "Father",
+					"text": "All right."
+				},
+				{
+					"text": "I get up from the wooden chair and glance at him one last time before leaving the room."
+				},
+				{
+					"text": "I return to the pub and clean up the dish and cup I used to serve Ed."
+				},
+				{
+					"text": "What Rob said yesterday comes back to me."
+				},
+				{
+					"text": "That Spencer guy keeps deer like one would dogs."
+				},
+				{
+					"text": "Spencer, huh?"
+				},
+				{
+					"text": "Harold Spencer."
+				},
+				{
+					"text": "The name has come up many times in my talks with Rob."
+				},
+				{
+					"text": "He said that the ones who wanted the script today were the Spencer troupe."
+				},
+				{
+					"text": "I wonder if we could make some kind of deal."
+				},
+				{
+					"text": "If just one of those deer found its way into my hands, I could slice it up, sell it off, and get my dad any food he wants."
+				},
+				{
+					"text": "I can't keep relying on Ed's good will forever."
+				},
+				{
+					"name": "Will",
+					"text": "..."
+				},
+				{
+					"text": "I sigh, my shoulders slumping."
+				},
+				{
+					"text": "How are we supposed to see the light at the end of this tunnel?"
+				},
+				{
+					"text": "My mind is miles away as I carry on tidying up the pub."
+				},
+				{
+					"text": "After a while, Ed shows up with the apothecary in tow."
+				},
+				{
+					"text": "All indicates that he's a Catholic as well."
+				},
+				{
+					"text": "He wouldn't be risking it coming here otherwise."
+				},
+				{
+					"text": "He examines my father, palpates him, and prepares a few days' worth of medicine for him."
+				},
+				{
+					"text": "It's to help raise his basal body temperature, apparently."
+				},
+				{
+					"text": "Thankfully, the amount Ed ends up paying the apothecary is a lot less than I imagined."
+				},
+				{
+					"text": "Perhaps it's because of Ed's good offices."
+				},
+				{
+					"text": "In any case, I think I could actually pay it back sooner rather than later."
+				},
+				{
+					"name": "Will",
+					"text": "Thank you for everything, Ed. Without you, I wouldn't have had a clue what to do."
+				},
+				{
+					"name": "Ed",
+					"text": "Don't even mention it."
+				},
+				{
+					"name": "Will",
+					"text": "When Rob comes with the payment for the script, I think I can pay you back."
+				},
+				{
+					"name": "Ed",
+					"text": "I really mean it when I say you can pay whenever it's convenient for you."
+				},
+				{
+					"name": "Will",
+					"text": "I can't do that. Let me pay you. It's money I got from writing scripts, anyway, so you could say I'm already being successful."
+				},
+				{
+					"name": "Ed",
+					"text": "Heh, touche."
+				},
+				{
+					"text": "He says, chuckling to himself."
+				},
+				{
+					"name": "Ed",
+					"text": "Well, I suppose I'll accept your payment from that script."
+				},
+				{
+					"name": "Will",
+					"text": "Yeah, Rob should be here soon."
+				},
+				{
+					"name": "Will",
+					"text": "Have some ale, on the house. Let's drink and wait for him."
+				},
+				{
+					"text": "I hand Ed a cup and serve some for myself as well."
+				},
+				{
+					"text": "He raises his cup up to me."
+				},
+				{
+					"name": "Will",
+					"text": "Thanks again."
+				},
+				{
+					"text": "I raise mine and clink it against his."
+				},
+				{
+					"text": "By the time the third bottle's empty, the sound of rain spattering against the roof is impossible to ignore."
+				},
+				{
+					"text": "Our eyes are drawn to the window."
+				},
+				{
+					"name": "Will",
+					"text": "Rob's not coming, eh?"
+				},
+				{
+					"text": "As I mutter to myself, the front door opens."
+				},
+				{
+					"text": "He stands at the door, his shoulders wet and heaving."
+				},
+				{
+					"name": "Will",
+					"text": "Oh, hey there!"
+				},
+				{
+					"text": "Rob smiles at me, but it looks awfully forced."
+				},
+				{
+					"text": "He's holding a bunched up parchment in his right hand that I imagined he tried to hide under his clothing."
+				},
+				{
+					"text": "It's the same script I gave him earlier."
+				},
+				{
+					"text": "I only notice that by the fact that it is not wet at all."
+				},
+				{
+					"text": "He takes a moment to recover his ragged breath."
+				},
+				{
+					"name": "Will",
+					"text": "..."
+				},
+				{
+					"text": "He scratches the back of his head awkwardly."
+				},
+				{
+					"name": "Rob",
+					"text": "Sorry, lad. I stuck around long as I could..."
+				},
+				{
+					"name": "Will",
+					"text": "They didn't take the script?"
+				},
+				{
+					"name": "Will",
+					"text": "I can rewrite it if they had complaints."
+				},
+				{
+					"name": "Rob",
+					"text": "That's not the problem. He didn't even show up."
+				},
+				{
+					"name": "Will",
+					"text": "Why not?"
+				},
+				{
+					"name": "Rob",
+					"text": "It seems like Spencer was attending a play today."
+				},
+				{
+					"name": "Will",
+					"text": "A play?"
+				},
+				{
+					"text": "In other words, he was out enjoying himself at the theater?"
+				},
+				{
+					"name": "Will",
+					"text": "But didn't they set the deadline for today?!"
+				},
+				{
+					"name": "Rob",
+					"text": "I was under the same impression, yeah."
+				},
+				{
+					"name": "Will",
+					"text": "Did they forget about it?!"
+				},
+				{
+					"name": "Rob",
+					"text": "No, uh, mm... Sorry. If for some reason they don't take the script in the end, I'll do something about your money."
+				},
+				{
+					"name": "Rob",
+					"text": "But I need to go to London tonight. I'm really sorry. I just need you to wait a little longer."
+				},
+				{
+					"name": "Will",
+					"text": "No, it's fine. I know it's not your fault. It's just that..."
+				},
+				{
+					"name": "Will",
+					"text": "I really need the money."
+				},
+				{
+					"name": "Ed",
+					"text": "Don't stress on my account, Will."
+				},
+				{
+					"name": "Rob",
+					"text": "What? Something happen?"
+				},
+				{
+					"text": "He exchanges glances with Ed."
+				},
+				{
+					"text": "I nod in response."
+				},
+				{
+					"name": "Ed",
+					"text": "John came down with something."
+				},
+				{
+					"name": "Rob",
+					"text": "The boss?! Say it's not so!"
+				},
+				{
+					"name": "Ed",
+					"text": "Malnutrition and hypothermia. His life is not in danger."
+				},
+				{
+					"name": "Will",
+					"text": "Ed called in an apothecary and footed the cost."
+				},
+				{
+					"name": "Rob",
+					"text": "Oh, for the love of.."
+				},
+				{
+					"text": "Rob trails off, and an awkward silence hangs over the room."
+				},
+				{
+					"name": "Will",
+					"text": "Heh, I suppose we've seen better days."
+				},
+				{
+					"text": "I break the silence."
+				},
+				{
+					"text": "Rob lifts his gaze to my face."
+				},
+				{
+					"name": "Will",
+					"text": "Can I have the script?"
+				},
+				{
+					"name": "Rob",
+					"text": "Huh? What are you gonna do?"
+				},
+				{
+					"name": "Will",
+					"text": "I'll hand it over to Spencer myself. I'll wait for him to get back home."
+				},
+				{
+					"name": "Rob",
+					"text": "I can't just let you do that. I'm the middleman here."
+				},
+				{
+					"name": "Rob",
+					"text": "If it's so urgent, I'll pay on their behalf for the time being."
+				},
+				{
+					"name": "Will",
+					"text": "I can't do that to you."
+				},
+				{
+					"name": "Will",
+					"text": "If I keep relying on you two for everything, I won't be able to live with myself."
+				},
+				{
+					"name": "Will",
+					"text": "I'll feel more at ease actually doing something for myself for once. Please."
+				},
+				{
+					"name": "Rob",
+					"text": "Well, you won't be able to enter the estate, so you'd have to wait outside."
+				},
+				{
+					"name": "Rob",
+					"text": "And the guy may not even show up until tomorrow."
+				},
+				{
+					"name": "Will",
+					"text": "It's fine. It'll just mean no mashed potato on the menu tomorrow."
+				},
+				{
+					"text": "Rob stares at me with an anxious look on his face."
+				},
+				{
+					"text": "After a tense moment, he sighs and hands over the script."
+				},
+				{
+					"name": "Rob",
+					"text": "Well, it is your script. If you want it back, then you'll have it back."
+				},
+				{
+					"name": "Will",
+					"text": "Half of it is mine, actually. The other half is already paid for."
+				},
+				{
+					"text": "I hold the parchment in my hand."
+				},
+				{
+					"name": "Will",
+					"text": "I'm sorry, but I think I need to close the pub for tonight."
+				},
+				{
+					"name": "Ed",
+					"text": "Worry not, son."
+				},
+				{
+					"name": "Rob",
+					"text": "Your pub, your rules."
+				},
+				{
+					"text": "I'm gripping the parchment so tightly that it's starting to wrinkle."
+				},
+				{
+					"text": "I didn't write this for fun."
+				},
+				{
+					"text": "I spun this story over two sleepless nights while taking care of the pub."
+				},
+				{
+					"text": "What the hell is going on?"
+				},
+				{
+					"text": "My dad falls sick, and they don't even have the decency to take the script they asked for in the first place?"
+				},
+				{
+					"text": "I couldn't make this up in one of my tragedies."
+				},
+				{
+					"text": "Far from letting up, the rain seems only to be increasing in intensity."
+				},
+				{
+					"text": "I roll up the manuscript and run through the rain in the direction Rob instructed me."
+				},
+				{
+					"text": "I enter the area where the nobles have their residences, and before long I find myself in front of the Spencer estate."
+				},
+				{
+					"name": "Will",
+					"text": "This is the place?"
+				},
+				{
+					"text": "It's a huge mansion."
+				},
+				{
+					"text": "How many pubs could I fit in here?"
+				},
+				{
+					"text": "I wonder if this Spencer guy and his peers keep deer in all of these huge gardens."
+				},
+				{
+					"text": "I sit on one of the stone steps leading up to the mansion."
+				},
+				{
+					"text": "A thicket of trees in the opulent garden offers a slight reprieve from the biting rain."
+				},
+				{
+					"name": "Will",
+					"text": "..."
+				},
+				{
+					"text": "Now all I can do is wait."
+				},
+				{
+					"text": "A thicket of trees in the opulent garden offers a slight reprieve from the biting rain."
+				},
+				{
+					"text": "But despite the bone-chilling cold, the rain is the last thing on my mind."
+				},
+				{
+					"text": "Rather, my thoughts are with the coming sunrise."
+				},
+				{
+					"text": "This is my third night in a row without sleep."
+				},
+				{
+					"text": "My head's starting to feel hazy with fatigue."
+				},
+				{
+					"text": "And what in the Lord's bones I am going to do after this?"
+				},
+				{
+					"text": "Unable to find an answer, my thoughts go round and round in circles."
+				},
+				{
+					"text": "I take out the little flask of alcohol I brought to keep myself sharp and take a big swig of it."
+				},
+				{
+					"text": "The clear, viscous liquid lights up my throat."
+				},
+				{
+					"text": "It goes down to my stomach, where it settles in a hot, bitter pool."
+				},
+				{
+					"text": "So many emotions swirl about in my head."
+				},
+				{
+					"text": "I'm being deprived of my faith, seeing fellow believers put to the blade."
+				},
+				{
+					"text": "I'm tired of managing a dead end pub, unable to even properly feed my only remaining family."
+				},
+				{
+					"text": "All while others joyfully enjoy nights out at the theater and fatten deer up in their opulent gardens."
+				},
+				{
+					"text": "The people living here lead a much better life than we do."
+				},
+				{
+					"text": "I bet they enjoy lavish dinners a thousand times better than anything my dad has ever eaten."
+				},
+				{
+					"text": "Are they really so much more noble than us?"
+				},
+				{
+					"name": "Will",
+					"text": "Is there a reason?"
+				},
+				{
+					"text": "They must have leftovers."
+				},
+				{
+					"text": "Surely they have too much here?"
+				},
+				{
+					"text": "Would it kill them to share some?"
+				},
+				{
+					"text": "They're the ones who broke their promise."
+				},
+				{
+					"text": "I take another swig of my flask."
+				},
+				{
+					"text": "And the guy may not even show up until tomorrow."
+				},
+				{
+					"text": "Rob's words ring in my head."
+				},
+				{
+					"text": "Isn't that convenient for me?"
+				},
+				{
+					"text": "I have to do what I can to make the best of a bad lot."
+				},
+				{
+					"text": "I don't have the luxury of choice."
+				},
+				{
+					"text": "If I do nothing, we'll simply starve to death by the wayside, our bodies to be picked at by the rats and the maggots."
+				},
+				{
+					"text": "I could steal some of what they don't need."
+				},
+				{
+					"text": "I bet they wouldn't notice if a single deer is missing."
+				},
+				{
+					"text": "Just one single deer."
+				},
+				{
+					"text": "It's not like it would ruin them, is it?"
+				},
+				{
+					"text": "It wouldn't affect them in the slightest."
+				},
+				{
+					"text": "No one would even notice."
+				},
+				{
+					"text": "And I could feed my dad."
+				},
+				{
+					"text": "The pub could stay open."
+				},
+				{
+					"text": "Why, yes."
+				},
+				{
+					"text": "It wouldn't even be theft."
+				},
+				{
+					"text": "I'd simply be ever so slightly adjusting this unbalanced distribution of wealth."
+				},
+				{
+					"text": "Isn't that right?"
+				},
+				{
+					"name": "Will",
+					"text": "...It is."
+				},
+				{
+					"text": "I put my flask away and get up."
+				},
+				{
+					"text": "Circling around the mansion, I come out into a clearing."
+				},
+				{
+					"name": "Will",
+					"text": "This is it."
+				},
+				{
+					"text": "Dozens of deer pace about inside a fenced off area."
+				},
+				{
+					"text": "I feel like one of them makes eye contact with me."
+				},
+				{
+					"text": "It stares at me for a moment, ears twitching, and then it loses interest and goes back to grazing."
+				},
+				{
+					"text": "I smash my flask on the fence."
+				},
+				{
+					"text": "The broken bottle gleams ominously under the moonlight."
+				},
+				{
+					"text": "Then I take a good scan of the fence from one of its ends to the other."
+				},
+				{
+					"text": "I see two guards in the distance."
+				},
+				{
+					"text": "Dad and I spend all our time trying to keep the pub afloat, and these rich bastards can pay for the same amount of people to just stand watch over deer?"
+				},
+				{
+					"text": "What's the damn difference between us?"
+				},
+				{
+					"text": "Why are we deprived of our faith and killed off like animals for the amusement of others?"
+				},
+				{
+					"text": "Is this just our lot in life? Is there nothing else for us?"
+				},
+				{
+					"text": "As self-pity balloons within me, any sense of guilt at the proposition of theft only diminishes."
+				},
+				{
+					"text": "I'm not wrong. There are too many deer here."
+				},
+				{
+					"text": "And a single person owns all of them?"
+				},
+				{
+					"text": "They didn't work for any of this. They didn't build this place up with their own hands."
+				},
+				{
+					"text": "They were simply born into a rich family and inherited this land."
+				},
+				{
+					"text": "There's a life out there that could be saved with only one of these deer."
+				},
+				{
+					"text": "Please, God, if you really are up there..."
+				},
+				{
+					"text": "I'm sure you'll forgive the transgression I'm about to commit."
+				},
+				{
+					"text": "The two guards turn their back on the fenced area and begin chatting among themselves."
+				},
+				{
+					"text": "Is this my chance?"
+				},
+				{
+					"text": "I lower myself to a crouch and grip the broken flask in my hand."
+				},
+				{
+					"text": "Then I soundlessly jump over the fence."
+				},
+				{
+					"name": "Will",
+					"text": "Hngh!"
+				},
+				{
+					"text": "I quickly make a beeline for the herd of deer."
+				},
+				{
+					"text": "But as I approach, the skittish creatures run away on swift hooves."
+				},
+				{
+					"text": "I manage to grab a deer that lags behind by the horns with my left hand."
+				},
+				{
+					"text": "I hold it firm and raise the broken flask aloft."
+				},
+				{
+					"text": "The deer turns its beady eyes towards me."
+				},
+				{
+					"text": "Its dark pupils stare right at me."
+				},
+				{
+					"text": "Suddenly, I freeze on the spot."
+				},
+				{
+					"text": "The deer keeps staring at me."
+				},
+				{
+					"text": "I screw my eyes shut and swing the sharp, broken flask down—"
+				},
+				{
+					"text": "But something strong and unyielding catches hold of my arm."
+				},
+				{
+					"text": "I look up to see a brawny, bearded man holding my arm in place."
+				},
+				{
+					"name": "Will",
+					"text": "..."
+				},
+				{
+					"text": "Unsurprisingly enough, I got caught."
+				},
+				{
+					"name": "Will",
+					"text": "..."
+				},
+				{
+					"text": "They tie my hands behind my back and throw me in some corner to wait for their boss to come home."
+				},
+				{
+					"text": "The rope is so tight, I can't move my hands at all."
+				},
+				{
+					"text": "But even in the case I could untie it, I wouldn't be able to overpower the guards."
+				},
+				{
+					"text": "I suppose I have no choice but to wait for judgement."
+				},
+				{
+					"text": "I can only hope even nobles have some kind of empathy."
+				},
+				{
+					"text": "If I explain my situation, maybe..."
+				},
+				{
+					"text": "But as I trudge through the thoughts in the bog of my mind, the main door opens."
+				},
+				{
+					"name": "Guard 1",
+					"text": "Lord Spencer!"
+				},
+				{
+					"name": "Guard 2",
+					"text": "Welcome home, milord!"
+				},
+				{
+					"name": "Spencer",
+					"text": "Hola, yes. What are you doing here? Who are you?"
+				},
+				{
+					"text": "A man in gaudy clothes steps in with a relaxed gait."
+				},
+				{
+					"text": "He carries himself with a leisure that feels otherworldly."
+				},
+				{
+					"text": "Is this..."
+				},
+				{
+					"text": "Harold Spencer?"
+				},
+				{
+					"name": "Guard 1",
+					"text": "This scoundrel here tried to steal one of your deer, milord."
+				},
+				{
+					"name": "Spencer",
+					"text": "Huh? My venados? Why? You like them?"
+				},
+				{
+					"name": "Will",
+					"text": "I..."
+				},
+				{
+					"name": "Spencer",
+					"text": "De todas maneras, who even are you people?"
+				},
+				{
+					"text": "Spencer turns to the guards and tilts his head to the side."
+				},
+				{
+					"name": "Guard 2",
+					"text": "Huh? W-We keep watch over the deer."
+				},
+				{
+					"name": "Spencer",
+					"text": "Okey."
+				},
+				{
+					"name": "Guard 1",
+					"text": "We also mow the grass, yes."
+				},
+				{
+					"name": "Spencer",
+					"text": "Huh. Riveting."
+				},
+				{
+					"name": "Guard 2",
+					"text": "And this thief tried to steal one of them!"
+				},
+				{
+					"name": "Spencer",
+					"text": "Perdonenme, but I fail to see the conexion between that and you two being here."
+				},
+				{
+					"name": "Guard 1",
+					"text": "Uh, err, well..."
+				},
+				{
+					"name": "Guard 2",
+					"text": "W-We wanted to have your judgment on what to do with this lowlife."
+				},
+				{
+					"name": "Spencer",
+					"text": "Juicio? From me? Why?"
+				},
+				{
+					"name": "Guard 1",
+					"text": "Lord, I..."
+				},
+				{
+					"name": "Guard 2",
+					"text": "This is your estate, and it's your deer, milord."
+				},
+				{
+					"name": "Spencer",
+					"text": "Indeed. They would be my venados, yes."
+				},
+				{
+					"text": "Spencer sounds plain bored by all this."
+				},
+				{
+					"text": "The white-haired woman next to him gazes off into the distance, obviously uninterested."
+				},
+				{
+					"name": "Spencer",
+					"text": "Do you have any ideas? Didn't this chico slip by your guard?"
+				},
+				{
+					"name": "Guard 1",
+					"text": "H-He dared enter your sacred domain!"
+				},
+				{
+					"name": "Spencer",
+					"text": "Mmh..."
+				},
+				{
+					"name": "Guard 1",
+					"text": "S-So I believe an execution would be fair retribution. His head must roll!"
+				},
+				{
+					"name": "Will",
+					"text": "What?!"
+				},
+				{
+					"name": "Will",
+					"text": "You want to kill me?! I didn't even do anything!"
+				},
+				{
+					"name": "Guard 2",
+					"text": "You shut up!"
+				},
+				{
+					"name": "Spencer",
+					"text": "Mmm, okey. Let's do that, then. This chico is rather handsome, so it'll be a waste, but oh well. Off with his head."
+				},
+				{
+					"name": "Spencer",
+					"text": "Let's get this over with. It's been a while since I last saw blood."
+				},
+				{
+					"name": "Will",
+					"text": "W-Wait! I came here because I was asked to deliver a script to you!"
+				},
+				{
+					"name": "Guard 2",
+					"text": "Heh, the guilty are audacious indeed."
+				},
+				{
+					"name": "Will",
+					"text": "And how do you have the right to decide to kill me on the spot?!"
+				},
+				{
+					"name": "Guard 1",
+					"text": "...Lad, do you know who this man is?"
+				},
+				{
+					"name": "Will",
+					"text": "Huh?! What?!"
+				},
+				{
+					"text": "Spencer looks down at me."
+				},
+				{
+					"text": "Again, he tilts his head to the side in confusion."
+				},
+				{
+					"text": "Like the deer from before, his gaze feels like it pierces right through me."
+				},
+				{
+					"name": "Will",
+					"text": "Listen to what I have to say! It's my life you're toying with here!"
+				},
+				{
+					"name": "Spencer",
+					"text": "You have something to say? Dimelo todo, let's hear it, then."
+				},
+				{
+					"name": "Will",
+					"text": "It was wrong of me to try to steal from you, I recognize that. I'm very sorry."
+				},
+				{
+					"name": "Will",
+					"text": "My name is William Shakespeare. Your troupe has bought my scripts before!"
+				},
+				{
+					"name": "Will",
+					"text": "I came here to deliver one of them!"
+				},
+				{
+					"text": "I try to not sound like a madman while fervently stating my case."
+				},
+				{
+					"name": "Spencer",
+					"text": "Troupe? Ah, yes."
+				},
+				{
+					"text": "Spencer glances at the woman beside him."
+				},
+				{
+					"name": "Spencer",
+					"text": "Is that so?"
+				},
+				{
+					"text": "The woman just gives him a faint smile."
+				},
+				{
+					"text": "Then she looks down at me."
+				},
+				{
+					"text": "The suspicion in her gaze is clear."
+				},
+				{
+					"text": "The guards exchange glances."
+				},
+				{
+					"name": "Will",
+					"text": "My father... He fell sick, and I..."
+				},
+				{
+					"name": "Spencer",
+					"text": "Para. Stop right there."
+				},
+				{
+					"text": "Spencer closes his eyes and cuts me off."
+				},
+				{
+					"name": "Spencer",
+					"text": "Are you truly a poeta? Sick parents, an unforgivable crime. I've heard it all a thousand times."
+				},
+				{
+					"name": "Spencer",
+					"text": "There is no beauty in it."
+				},
+				{
+					"name": "Spencer",
+					"text": "Your face is far more bella than anything that comes out of your mouth."
+				},
+				{
+					"name": "Will",
+					"text": "But I'm telling the tru—"
+				},
+				{
+					"name": "Spencer",
+					"text": "De ninguna manera. No way."
+				},
+				{
+					"name": "Spencer",
+					"text": "Rather than your sob story, I want you see your hermosa face fly off your shoulders."
+				},
+				{
+					"text": "I open my mouth to try and say something, but realize the noble is not seeing me at all. It's like he's looking down at dirt on his shoe."
+				},
+				{
+					"name": "Spencer",
+					"text": "Off with his head, ahora mismo."
+				},
+				{
+					"name": "Guard 1",
+					"text": "Y-Yes!"
+				},
+				{
+					"name": "Guard 2",
+					"text": "U-Understood!"
+				},
+				{
+					"name": "Spencer",
+					"text": "*Pant* *Pant* *Pant*"
+				},
+				{
+					"name": "Spencer",
+					"text": "It's been a while since I watched someone die. Gracias, chico. Thank you for being born."
+				},
+				{
+					"name": "Will",
+					"text": "Wait! No! Stop!"
+				},
+				{
+					"name": "Spencer",
+					"text": "*Pant* *Pant* *Pant* Hooh... Hooh..."
+				},
+				{
+					"text": "There's something wrong with this man!"
+				},
+				{
+					"text": "Is this seriously gonna be how my life ends?!"
+				},
+				{
+					"text": "No! Please!"
+				},
+				{
+					"text": "I don't wanna die!"
+				},
+				{
+					"name": "??",
+					"text": "Wait."
+				},
+				{
+					"name": "Spencer",
+					"text": "Hm? What is it, Olive?"
+				},
+				{
+					"name": "??",
+					"text": "Are you the same Shakespeare that wrote Richard III?"
+				},
+				{
+					"name": "Will",
+					"text": "..."
+				},
+				{
+					"text": "That's the name of a historical drama I wrote on Rob's request a while ago."
+				},
+				{
+					"name": "??",
+					"text": "You wrote that? Truly?"
+				},
+				{
+					"text": "I nod vigorously."
+				},
+				{
+					"text": "I feel like head will come loose from all the nodding before they can chop it off."
+				},
+				{
+					"name": "??",
+					"text": "Lord Spencer."
+				},
+				{
+					"name": "Spencer",
+					"text": "Yes?"
+				},
+				{
+					"name": "??",
+					"text": "This one is worth keeping alive."
+				},
+				{
+					"name": "Spencer",
+					"text": "Porque? Why?"
+				},
+				{
+					"name": "??",
+					"text": "He's a poet that can produce the most beautiful verses the world has ever seen."
+				},
+				{
+					"name": "??",
+					"text": "He penned The Taming of the Shrew. Isn't that right?"
+				},
+				{
+					"name": "Will",
+					"text": "Y-Yes! That's me!"
+				},
+				{
+					"text": "I wrote that on Rob's request as well."
+				},
+				{
+					"text": "He sold that to this Spencer guy too?"
+				},
+				{
+					"name": "Spencer",
+					"text": "De verdad?! I'll have you know that I thoroughly enjoyed the antics of that drunkard Sly."
+				},
+				{
+					"name": "Spencer",
+					"text": "Did you base that character off someone?"
+				},
+				{
+					"name": "Will",
+					"text": "Y-Yeah, I kind of run a pub. I see a lot of drunks, so he was a mixture of all of them."
+				},
+				{
+					"name": "Spencer",
+					"text": "*Gasp* Wow, what a thing!"
+				},
+				{
+					"name": "??",
+					"text": "Lord Spencer, I want to take this one for myself."
+				},
+				{
+					"name": "Spencer",
+					"text": "Huh? You'll take this chico?"
+				},
+				{
+					"name": "Spencer",
+					"text": "Aren't you getting ahead of yourself, my girl?"
+				},
+				{
+					"name": "??",
+					"text": "If he joins our troupe, I'll be able to show you true stories that move the hearts of all who see them."
+				},
+				{
+					"name": "Spencer",
+					"text": "True stories?"
+				},
+				{
+					"name": "Olivia",
+					"text": "Yes."
+				},
+				{
+					"name": "Spencer",
+					"text": "Well, well."
+				},
+				{
+					"name": "Spencer",
+					"text": "That is quite the alluring proposal."
+				},
+				{
+					"name": "??",
+					"text": "I am of the same mind."
+				},
+				{
+					"name": "Spencer",
+					"text": "All right. Do as you will, Olive. Just one thing, however."
+				},
+				{
+					"name": "Spencer",
+					"text": "I don't want to hear any rumors of unbecoming behavior, entendido?"
+				},
+				{
+					"name": "??",
+					"text": "Yes."
+				},
+				{
+					"name": "Spencer",
+					"text": "Chico, from now on, you are Olive's slave. Buena suerte."
+				},
+				{
+					"name": "Will",
+					"text": "I-I'm what?"
+				},
+				{
+					"name": "Spencer",
+					"text": "What a shame. I wanted to see that cute head fly. It would have been hermoso."
+				},
+				{
+					"name": "??",
+					"text": "If he makes me yawn with his verses, I assure you his head will roll in short order."
+				},
+				{
+					"name": "Will",
+					"text": "What?!"
+				},
+				{
+					"name": "Spencer",
+					"text": "How maravilloso!"
+				},
+				{
+					"name": "??",
+					"text": "You can leave things to me now."
+				},
+				{
+					"name": "Spencer",
+					"text": "All right. Buenas noches, all."
+				},
+				{
+					"name": "??",
+					"text": "Good night, Milord."
+				},
+				{
+					"text": "A slave? Me?"
+				},
+				{
+					"text": "My jaw is clenched so tight I can hear my teeth grinding together."
+				},
+				{
+					"text": "The woman just stands there, looking down at me."
+				},
+				{
+					"text": "Whether it's pity or contempt in her eyes, I can't tell."
+				},
+				{
+					"text": "But unlike Spencer, at least there's some emotion in them, which makes it infinitely easier to bear."
+				},
+				{
+					"text": "She turns her gaze to the pair of guards."
+				},
+				{
+					"name": "??",
+					"text": "Go back to your posts. I'll take it from here."
+				},
+				{
+					"name": "Guard 1",
+					"text": "B-But we can hardly leave you alone with this scoundrel, Lady Olivia."
+				},
+				{
+					"name": "Olivia",
+					"text": "Didn't you hear me?"
+				},
+				{
+					"name": "Guard 2",
+					"text": "But..."
+				},
+				{
+					"name": "Olivia",
+					"text": "Don't make me repeat myself."
+				},
+				{
+					"text": "Her voice lowers to a growl, and the guards cower behind me."
+				},
+				{
+					"name": "Guard 1",
+					"text": "Uh..."
+				},
+				{
+					"name": "Olivia",
+					"text": "Return any belongings he had with him."
+				},
+				{
+					"text": "The two men are staring at one another at a complete loss, and the woman apparently named Olivia sighs in exasperation."
+				},
+				{
+					"text": "The guards look genuinely unsure as to what to do."
+				},
+				{
+					"name": "Olivia",
+					"text": "Right now."
+				},
+				{
+					"text": "It sounds like she's at the end of her wits."
+				},
+				{
+					"text": "The guards nod, gives Olivia the parchment they took from me, and leave dejectedly."
+				},
+				{
+					"text": "Olivia then turns back in my direction."
+				},
+				{
+					"text": "Her gaze is set squarely upon me."
+				},
+				{
+					"name": "Olivia",
+					"text": "You are the William Shakespeare, yes?"
+				},
+				{
+					"name": "Will",
+					"text": "Huh?"
+				},
+				{
+					"text": "Her gaze feels like it's piercing right through me."
+				},
+				{
+					"text": "I slowly nod."
+				},
+				{
+					"text": "She unfolds the parchment and looks at the script within."
+				},
+				{
+					"name": "Olivia",
+					"text": "A Midsummer's Night Dream. Rather good title."
+				},
+				{
+					"name": "Will",
+					"text": "Thanks..."
+				},
+				{
+					"name": "Olivia",
+					"text": "Follow me."
+				},
+				{
+					"name": "Will",
+					"text": "Huh?"
+				},
+				{
+					"text": "Still looking down at my script, she turns and begins walking at a brisk pace."
+				},
+				{
+					"name": "Will",
+					"text": "H-Hey!"
+				},
+				{
+					"text": "Her white hair sways behind her as she goes."
+				},
+				{
+					"text": "Still with my hands tied behind my back, I chase after her."
+				},
+				{
+					"text": "It's a typically lively night in Tenbridge."
+				},
+				{
+					"text": "But Olivia strides ahead with fearless purpose."
+				},
+				{
+					"text": "Impressively, she still has her eyes on my script."
+				},
+				{
+					"text": "There aren't as many people to bump into in the middle of the night, but she's still going pretty darn fast."
+				},
+				{
+					"text": "I can barely keep up, tired and dazed as I am."
+				},
+				{
+					"text": "The looks the townspeople give me as I follow her sting."
+				},
+				{
+					"text": "It makes sense, I suppose."
+				},
+				{
+					"text": "If I saw a tied up man chasing after a girl in the middle of the night, I would stare too."
+				},
+				{
+					"text": "At this rate I'm gonna fall over, and getting up is not gonna be fun."
+				},
+				{
+					"text": "I don't care if it's a long walk, but I'd like to at least not be tied up."
+				},
+				{
+					"text": "Then, all of a sudden, I lose sight of her."
+				},
+				{
+					"name": "Will",
+					"text": "H-Huh?!"
+				},
+				{
+					"name": "Olivia",
+					"text": "This way."
+				},
+				{
+					"text": "I turn towards her voice."
+				},
+				{
+					"text": "I'm just in time to see Olivia stepping inside a huge building."
+				},
+				{
+					"text": "White outer walls curve before me, forming a circular building."
+				},
+				{
+					"name": "Will",
+					"text": "Whoa, this is..."
+				},
+				{
+					"text": "Looking back down at my feet, I go in after Olivia."
+				},
+				{
+					"text": "And when I finally take a breath and look up again, the audience seats spread across my peripheral vision."
+				},
+				{
+					"text": "It's the Globe Theater."
+				},
+				{
+					"text": "Tenbridge's greatest theater."
+				},
+				{
+					"text": "Even I know the name."
+				},
+				{
+					"name": "Olivia",
+					"text": "Is this your first time here?"
+				},
+				{
+					"text": "I look over at her."
+				},
+				{
+					"text": "She's standing in the middle of the theater, her form beautifully illuminated by the moonlight."
+				},
+				{
+					"name": "Will",
+					"text": "Uh..."
+				},
+				{
+					"text": "Dumbfounded, I stare at her while my sluggish mind tries to come up with an answer."
+				},
+				{
+					"text": "Her silky white hair flutters in the breeze."
+				},
+				{
+					"text": "Olivia looks over the empty seats."
+				},
+				{
+					"text": "I follow her gaze and get a good look at the vastness of the theater. Rows upon rows of empty seats march upwards toward the sky."
+				},
+				{
+					"name": "Will",
+					"text": "I've come here to see plays before, but..."
+				},
+				{
+					"text": "I look at the empty seats again."
+				},
+				{
+					"name": "Will",
+					"text": "It's my first time seeing it empty."
+				},
+				{
+					"name": "Olivia",
+					"text": "Yes. It's quite silent without the people, isn't it?"
+				},
+				{
+					"name": "Olivia",
+					"text": "Good place, isn't it?"
+				},
+				{
+					"name": "Will",
+					"text": "Yeah."
+				},
+				{
+					"text": "I take in the scenery and then turn to the stage."
+				},
+				{
+					"text": "On top of the wooden stage stands a pair of huge vermilion pillars."
+				},
+				{
+					"name": "Olivia",
+					"text": "We can house over two thousand spectators when we have a full house."
+				},
+				{
+					"name": "Olivia",
+					"text": "Even more if we pack in as many groundlings as we can."
+				},
+				{
+					"name": "Olivia",
+					"text": "Just imagining the pleasure of being bathed by the ovation of such an audience puts sex to shame."
+				},
+				{
+					"text": "My head snaps back to her on reflex."
+				},
+				{
+					"text": "Her fair cheeks glow under the moonlight like polished marble."
+				},
+				{
+					"text": "Her attention is focused on the square."
+				},
+				{
+					"text": "Forgetting to speak, or even breathe, I simply stare at her profile."
+				},
+				{
+					"text": "Something in her enraptured expression captivates me. It feels like I'm being pulled in by a force majeure."
+				},
+				{
+					"text": "How can there exist such a beautiful woman?"
+				},
+				{
+					"text": "Without warning, she turns back to me, and our gazes clash."
+				},
+				{
+					"name": "Olivia",
+					"text": "I'm buying you."
+				},
+				{
+					"name": "Will",
+					"text": "...Excuse me?"
+				},
+				{
+					"text": "Buying me? Like a pet?"
+				},
+				{
+					"text": "Or..."
+				},
+				{
+					"text": "Like a slave?"
+				},
+				{
+					"name": "Olivia",
+					"text": "I'll keep you as my slave."
+				},
+				{
+					"name": "Will",
+					"text": "A slave."
+				},
+				{
+					"text": "So both, really."
+				},
+				{
+					"text": "She's buying and enslaving me like an animal."
+				},
+				{
+					"name": "Olivia",
+					"text": "You'll write."
+				},
+				{
+					"name": "Will",
+					"text": "..."
+				},
+				{
+					"name": "Olivia",
+					"text": "For my troupe only."
+				},
+				{
+					"name": "Olivia",
+					"text": "Stories that will set Tenbridge's very heart ablaze and crush the paradigms with your prose."
+				},
+				{
+					"name": "Olivia",
+					"text": "You, and only you, can do this."
+				},
+				{
+					"name": "Will",
+					"text": "Wait a minute now..."
+				},
+				{
+					"name": "Olivia",
+					"text": "If you want to keep your head over your shoulders, you have no choice."
+				},
+				{
+					"name": "Olivia",
+					"text": "Write or die."
+				},
+				{
+					"name": "Olivia",
+					"text": "Your choice."
+				},
+				{
+					"name": "Will",
+					"text": "..."
+				},
+				{
+					"text": "Her tone is neutral and monotonous. She stares at me, her mouth set into a hard line."
+				},
+				{
+					"name": "Will",
+					"text": "So..."
+				},
+				{
+					"name": "Will",
+					"text": "If I write, I get to stay alive?"
+				},
+				{
+					"name": "Olivia",
+					"text": "You won't be suffered to live a second more if you don't."
+				},
+				{
+					"name": "Will",
+					"text": "..."
+				},
+				{
+					"name": "Will",
+					"text": "Did I even have a choice to begin with?"
+				},
+				{
+					"name": "Olivia",
+					"text": "I suppose not."
+				},
+				{
+					"name": "Olivia",
+					"text": "First, you'll fix this."
+				},
+				{
+					"text": "Olivia then pushes the script of A Midsummer Night's Dream onto me."
+				},
+				{
+					"name": "Will",
+					"text": "Fix what?"
+				},
+				{
+					"name": "Olivia",
+					"text": "It needs more characters and more scenes. It's written well, but people will ask for their money back if it's this short a play."
+				},
+				{
+					"name": "Will",
+					"text": "But I—"
+				},
+				{
+					"name": "Olivia",
+					"text": "They won't be able to judge whether it's good or not if the fun is over when it's barely started. Our main visitors are the common folk."
+				},
+				{
+					"name": "Olivia",
+					"text": "I'll wait until tomorrow for you to fix it. Write something bad and it's all over for you."
+				},
+				{
+					"name": "Olivia",
+					"text": "Swear it, right here and now."
+				},
+				{
+					"name": "Olivia",
+					"text": "Swear to me that you will never write stale verses."
+				},
+				{
+					"name": "Will",
+					"text": "...Okay, I'll fix this. I'll do what I can."
+				},
+				{
+					"name": "Olivia",
+					"text": "I won't accept such a lack of committal. You shall write stories that will go down in history together with me."
+				},
+				{
+					"name": "Will",
+					"text": "..."
+				},
+				{
+					"name": "Olivia",
+					"text": "Will you swear?"
+				},
+				{
+					"text": "I slowly nod."
+				},
+				{
+					"text": "Compelled by something besides my free will, I nod."
+				},
+				{
+					"name": "Will",
+					"text": "Olivia, I—"
+				},
+				{
+					"text": "Out of nowhere, she slaps me across the face."
+				},
+				{
+					"name": "Will",
+					"text": "Huh?"
+				},
+				{
+					"text": "The corners of her mouth quirk into a smug smile."
+				},
+				{
+					"name": "Olivia",
+					"text": "Lady Olivia, you meant?"
+				},
+				{
+					"name": "Olivia",
+					"text": "Let me remind you that you are my slave."
+				},
+				{
+					"name": "Will",
+					"text": "But..."
+				},
+				{
+					"name": "Will",
+					"text": "Ack!"
+				},
+				{
+					"name": "Will",
+					"text": "Hey!"
+				},
+				{
+					"name": "Will",
+					"text": "Stop!"
+				},
+				{
+					"text": "Dammit all."
+				},
+				{
+					"text": "This woman—"
+				},
+				{
+					"text": "She's a sadist!"
+				},
+				{
+					"name": "Olivia",
+					"text": "Yes?"
+				},
+				{
+					"name": "Will",
+					"text": "L-Lady Olivia..."
+				},
+				{
+					"name": "Will",
+					"text": "What now?!"
+				},
+				{
+					"name": "Olivia",
+					"text": "I can't hear you."
+				},
+				{
+					"name": "Will",
+					"text": "Lady Olivia!"
+				},
+				{
+					"name": "Olivia",
+					"text": "Yes. You are my slave, understood?"
+				},
+				{
+					"text": "I nod."
+				},
+				{
+					"text": "Should I really be nodding to this?"
+				},
+				{
+					"text": "Then again, do I really have a choice here?"
+				},
+				{
+					"text": "After all, I was the one who tried to steal."
+				},
+				{
+					"name": "Olivia",
+					"text": "You will write masterpieces for me even if you end up vomiting blood and having to write with it. You will swear that, won't you?"
+				},
+				{
+					"text": "I nod again."
+				},
+				{
+					"name": "Will",
+					"text": "Why are you still hitting me?!"
+				},
+				{
+					"name": "Olivia",
+					"text": "Because I heard no answer."
+				},
+				{
+					"name": "Will",
+					"text": "Yes, I swear!"
+				},
+				{
+					"name": "Olivia",
+					"text": "Good boy."
+				},
+				{
+					"text": "The rope binding my arms is cut."
+				},
+				{
+					"text": "I rub at my now free and itchy wrists."
+				},
+				{
+					"name": "Olivia",
+					"text": "Are you sure you have time to waste standing around here? Hurry home and write."
+				},
+				{
+					"name": "Will",
+					"text": "All right. Just give me the script."
+				},
+				{
+					"text": "She thrusts the script towards me."
+				},
+				{
+					"text": "I reach for it."
+				},
+				{
+					"text": "But when I pull, she doesn't let go."
+				},
+				{
+					"text": "I look up, and I'm immediately pierced by her intense gaze."
+				},
+				{
+					"name": "Olivia",
+					"text": "it must needs be remarked that while you wrote this, it is already the troupe's property. The rough draft is a very valuable article for us."
+				},
+				{
+					"name": "Will",
+					"text": "No, uh..."
+				},
+				{
+					"name": "Olivia",
+					"text": "Mm?"
+				},
+				{
+					"name": "Will",
+					"text": "I've only received half the payment for it."
+				},
+				{
+					"name": "Olivia",
+					"text": "Is that so? You need money?"
+				},
+				{
+					"name": "Will",
+					"text": "..."
+				},
+				{
+					"text": "I sullenly nod."
+				},
+				{
+					"name": "Olivia",
+					"text": "Okay. How much do you want?"
+				},
+				{
+					"text": "I tell her the amount Rob promised."
+				},
+				{
+					"name": "Olivia",
+					"text": "Wait right there."
+				},
+				{
+					"text": "Olivia goes to a room backstage and returns a moment later."
+				},
+				{
+					"name": "Will",
+					"text": "...Thanks."
+				},
+				{
+					"name": "Olivia",
+					"text": "This is the last time you will be remunerated with money. This script was produced before you were a slave, that's why I paid."
+				},
+				{
+					"name": "Olivia",
+					"text": "Understood?"
+				},
+				{
+					"text": "I nod."
+				},
+				{
+					"name": "Will",
+					"text": "Understood, Lady Olivia!"
+				},
+				{
+					"name": "Olivia",
+					"text": "Good boy."
+				},
+				{
+					"name": "Olivia",
+					"text": "Now this script belongs to my troupe. I'll have you know that taking the whole thing away with you is not something you'll be allowed to do very often."
+				},
+				{
+					"name": "Will",
+					"text": "Really?"
+				},
+				{
+					"name": "Olivia",
+					"text": "Scripts are a troupe's most important asset. What if it were to be stolen?"
+				},
+				{
+					"name": "Olivia",
+					"text": "Do take care of it."
+				},
+				{
+					"name": "Olivia",
+					"text": "I'll have you killed if you lose it. This is not a threat, it's a promise."
+				},
+				{
+					"name": "Will",
+					"text": "Yeah, I get it..."
+				},
+				{
+					"name": "Olivia",
+					"text": "I'm not playing games here. Promise me."
+				},
+				{
+					"name": "Will",
+					"text": "...Okay."
+				},
+				{
+					"name": "Olivia",
+					"text": "Tell me where you live, just in case."
+				},
+				{
+					"name": "Will",
+					"text": "I'm not gonna run away or—"
+				},
+				{
+					"name": "Will",
+					"text": "Gah!"
+				},
+				{
+					"name": "Olivia",
+					"text": "Do you perhaps enjoy being struck?"
+				},
+				{
+					"name": "Will",
+					"text": "For the love of... I get it already."
+				},
+				{
+					"text": "I give up and tell her where I live."
+				},
+				{
+					"name": "Olivia",
+					"text": "Ah, that sad little crumbling pub in the gloomy part of town."
+				},
+				{
+					"text": "I nod."
+				},
+				{
+					"name": "Will",
+					"text": "Pretty much, I guess."
+				},
+				{
+					"name": "Olivia",
+					"text": "I've taken a liking to the scripts you write. Don't you dare disappoint me."
+				},
+				{
+					"name": "Olivia",
+					"text": "That's the only meaning of your life now."
+				},
+				{
+					"name": "Olivia",
+					"text": "Make me sigh from boredom, and you'll stop breathing."
+				},
+				{
+					"name": "Will",
+					"text": "Maybe you should learn how to solve things with something other than murder."
+				},
+				{
+					"name": "Will",
+					"text": "Ugh!"
+				},
+				{
+					"name": "Olivia",
+					"text": "I believe I told you how to properly address me, didn't I?"
+				},
+				{
+					"text": "Do all these nobles just solve things by killing off everyone they don't like?"
+				},
+				{
+					"text": "Whatever, at least I can go home now. The wave of relief is helping me keep it together."
+				},
+				{
+					"name": "Will",
+					"text": "...Thanks. I needed the pay."
+				},
+				{
+					"name": "Olivia",
+					"text": "You're five hundred years as a slave short from being worthy of thanking me for anything."
+				},
+				{
+					"name": "Will",
+					"text": "You nobles are real pieces of work."
+				},
+				{
+					"text": "She looks puzzled for maybe half a second."
+				},
+				{
+					"text": "Then her mouth settles into a light smile, and she lets out a wry chuckle."
+				},
+				{
+					"name": "Olivia",
+					"text": "It seems that way, yes."
+				},
+				{
+					"name": "Will",
+					"text": "..."
+				},
+				{
+					"name": "Olivia",
+					"text": "The words you write are brimming with life."
+				},
+				{
+					"name": "Olivia",
+					"text": "Make me shiver in excitement, understood?"
+				},
+				{
+					"text": "I nod in response."
+				},
+				{
+					"name": "Olivia",
+					"text": "Bring the script here tomorrow before midnight."
+				},
+				{
+					"name": "Will",
+					"text": "Tomorrow?"
+				},
+				{
+					"text": "Right, I didn't sleep last night either."
+				},
+				{
+					"text": "I've been writing for the last three nights straight."
+				},
+				{
+					"text": "And now I have to do it again?"
+				},
+				{
+					"text": "I hope I don't pass out."
+				},
+				{
+					"name": "Will",
+					"text": "I'll do what I can. You want me to add more characters and scenes, right?"
+				},
+				{
+					"name": "Olivia",
+					"text": "Yes. If you also write something that can move me to tears while you're at it, that would be perfect."
+				},
+				{
+					"name": "Will",
+					"text": "Huh..."
+				},
+				{
+					"name": "Olivia",
+					"text": "But if a lowly slave such as you makes me cry, there will be hell to pay."
+				},
+				{
+					"name": "Will",
+					"text": "Are you mayhaps emotionally unstable, La—"
+				},
+				{
+					"name": "Will",
+					"text": "I'm very sorry for calling you emotionally unstable, Lady Olivia!"
+				},
+				{
+					"text": "Sighing, I roll up the parchment."
+				},
+				{
+					"name": "Will",
+					"text": "...I'll go back home and write."
+				},
+				{
+					"name": "Olivia",
+					"text": "Go along. I'm serious. Write something boring and you'll be dead. Understood?"
+				},
+				{
+					"name": "Will",
+					"text": "I get it. Can I go already?"
+				},
+				{
+					"text": "Olivia nods."
+				},
+				{
+					"text": "I turn my back on her and walk away."
+				},
+				{
+					"text": "The coins clink in my pocket."
+				},
+				{
+					"text": "At least I'll be able to pay Ed."
+				},
+				{
+					"text": "And we can manage to make it to the end of the month now."
+				},
+				{
+					"text": "That's something, something good."
+				},
+				{
+					"text": "Once I'm away from that Olivia woman, I heave a sigh of relief."
+				},
+				{
+					"text": "So I'm a slave now, huh?"
+				},
+				{
+					"text": "What even is my life right now?"
+				},
+				{
+					"text": "William Shakespeare leaves, his unkempt, golden mane of hair swaying as he goes."
+				},
+				{
+					"text": "Hair too long for a man."
+				},
+				{
+					"text": "He has no presence, no propriety."
+				},
+				{
+					"text": "In his eyes, the look of someone who thinks the world owes him something."
+				},
+				{
+					"text": "That fixation on money that so many commoners suffer from."
+				},
+				{
+					"text": "A simple slave, even before we met."
+				},
+				{
+					"text": "I wonder if that's how I used to be as well."
+				},
+				{
+					"text": "Have I behaved like a true noble would tonight?"
+				},
+				{
+					"text": "...It's fine. There's no problem."
+				},
+				{
+					"text": "I've known very well the scorn and indolence with which nobles treat the common folk."
+				},
+				{
+					"text": "\"You nobles are real pieces of work.\""
+				},
+				{
+					"text": "The words of Shakespeare still ring in my ears."
+				},
+				{
+					"text": "That's exactly right."
+				},
+				{
+					"text": "They're the privileged class."
+				},
+				{
+					"text": "Have-nots have no choice but to rise above their station with their own power alone."
+				},
+				{
+					"text": "I slowly turn my gaze upwards."
+				},
+				{
+					"text": "The circular theater has no ceiling."
+				},
+				{
+					"text": "I see the moon lazily hanging in the night sky."
+				},
+				{
+					"text": "It's a full, majestic moon tonight."
+				},
+				{
+					"text": "I've changed."
+				},
+				{
+					"text": "I rose above my station on account of my beauty."
+				},
+				{
+					"text": "But the moon is always constant and unchanging, unlike me."
+				},
+				{
+					"text": "When I squint, the contours of the beautiful sphere diffuse."
+				},
+				{
+					"text": "I notice a white glow creeping over the edge of the firmament."
+				},
+				{
+					"text": "It's almost dawn."
+				},
+				{
+					"text": "If I stay here until Spencer falls asleep, I'll be able to spend the night out of his bed."
+				},
+				{
+					"name": "Olivia",
+					"text": "..."
+				},
+				{
+					"text": "I sigh."
+				},
+				{
+					"text": "William Shakespeare."
+				},
+				{
+					"text": "He has talent."
+				},
+				{
+					"text": "More than probably anyone else alive."
+				},
+				{
+					"text": "Perhaps to be surpassed by no one else on this Earth, even after we're long gone."
+				},
+				{
+					"name": "Olivia",
+					"text": "..."
+				},
+				{
+					"text": "If you resent the world, then you must change it with your own two hands."
+				},
+				{
+					"text": "That's what I did."
+				},
+				{
+					"text": "...And so should you."
+				},
+				{
+					"text": "Cursing your circumstances will change nothing."
+				},
+				{
+					"text": "With William Shakespeare's quill, perhaps I can keep this troupe afloat without making use of Spencer's power."
+				},
+				{
+					"text": "If we are chosen to perform for the Queen's court and become the Lord Chamberlain's Men, we may have the opportunity to negotiate to change the laws themselves."
+				},
+				{
+					"text": "That way I could stand upon the stage as a woman without reserve."
+				},
+				{
+					"text": "Queen Elizabeth loves plays. Her reign is the greatest opportunity to try and enact change."
+				},
+				{
+					"text": "And above all..."
+				},
+				{
+					"text": "I could end my association with that sick hedonist. I could put an end to being violated every single day..."
+				},
+				{
+					"text": "I am an actress."
+				},
+				{
+					"text": "In this world that disallows women from taking to the stage, I will coin that word."
+				},
+				{
+					"text": "And I will do anything to make it happen."
+				},
+				{
+					"text": "I will roll in bed with that lurdane toad if I have to."
+				},
+				{
+					"text": "I will even enslave an innocent young man."
+				},
+				{
+					"text": "Because... I have nothing but this stage."
+				}
+			]
+		},
+		{},
+		{
+			"texts": [
+				{
+					"text": "I walk through the darkened city on my way to the pub."
+				},
+				{
+					"text": "The same streets I tottered my way through while chasing Olivia."
+				},
+				{
+					"text": "A phantom pain from the restraints still remains in my wrists."
+				},
+				{
+					"text": "I look up at the sky while I walk."
+				},
+				{
+					"text": "There's a full moon tonight."
+				},
+				{
+					"name": "Will",
+					"text": "..."
+				},
+				{
+					"text": "The view of Olivia's profile comes to mind."
+				},
+				{
+					"text": "The memory of those fair cheeks and her shining eyes is burned into my mind."
+				},
+				{
+					"text": "And the force of her slaps are still burning my cheeks."
+				},
+				{
+					"text": "Did she really need to hit me so damn much?"
+				},
+				{
+					"text": "She might be beautiful, but she's a violent and arrogant woman."
+				},
+				{
+					"text": "But she did save my life."
+				},
+				{
+					"text": "Were it not for her, I would have no head right about now."
+				},
+				{
+					"text": "Did she really take me as a slave just so I could write plays for her?"
+				},
+				{
+					"text": "I can't even believe this night was real."
+				},
+				{
+					"text": "Too many things happened, and I'm still reeling from all of it."
+				},
+				{
+					"text": "But..."
+				},
+				{
+					"name": "Olivia",
+					"text": "The words you write are brimming with life."
+				},
+				{
+					"name": "Olivia",
+					"text": "Make me shiver in excitement, understood?"
+				},
+				{
+					"text": "I've never had someone read my words with such passion, or had anyone expect anything from me."
+				},
+				{
+					"text": "Olivia's the first."
+				},
+				{
+					"text": "I clasp the parchment in my hands."
+				},
+				{
+					"text": "It's deeply scarred with different wrinkles from the ones it had when I set out to the Spencer estate."
+				}
+			]
+		},
+		{}
+	]
+}

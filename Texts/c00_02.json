@@ -1,0 +1,5439 @@
+{
+	"scenes": [
+		{},
+		{
+			"texts": [
+				{
+					"text": "The next morning, we meet in the middle side square, go see the people who assign work, and apologize."
+				},
+				{
+					"text": "At first, the nice old man gets mad at us."
+				},
+				{
+					"text": "But right after, he sighs and asks if we're going to school."
+				},
+				{
+					"text": "He says he was worried for a second that I'd dropped out after just one day, but then he laughs heartily and sends us off on our way."
+				},
+				{
+					"text": "Since meeting Yonagi, I've realized many things."
+				},
+				{
+					"text": "I thought that all lowsiders were looking to drag everyone down while trying to get to the middle side themselves, but I realized there are nice people who don't see life that way."
+				},
+				{
+					"text": "Rather, there's a curious sense of unity that comes from being looked down upon by the middle and topsiders."
+				},
+				{
+					"text": "And I realized that there are so many things that I haven't seen yet."
+				},
+				{
+					"text": "Once we arrive at school, Yonagi takes me straight to the library."
+				},
+				{
+					"name": "Kaito",
+					"text": "We don't have class today?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "No way. We don't get those lectures every day. Professor Asuma only comes around once a week."
+				},
+				{
+					"name": "Yonagi",
+					"text": "On all the other days, we lowsider students can study whatever we want."
+				},
+				{
+					"name": "Kaito",
+					"text": "I see."
+				},
+				{
+					"name": "Yonagi",
+					"text": "We're going to the library, got it?! You made us spend all day in the workshop yesterday."
+				},
+				{
+					"name": "Kaito",
+					"text": "Yeah, I know."
+				},
+				{
+					"name": "Kaito",
+					"text": "Whoa."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Hardly anyone comes here, you know?"
+				},
+				{
+					"text": "Yonagi leads me deeper and deeper into the library."
+				},
+				{
+					"text": "We can access the terminals with all the digitized lessons by the entrance, but there are also rows and rows of paper books stacked on the bookshelves in the back."
+				},
+				{
+					"name": "Kaito",
+					"text": "Wow..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "What do you wanna read? Those over there are Japanese novels, and these are English ones. There's history books, science books, cookery books, and—"
+				},
+				{
+					"name": "Kaito",
+					"text": "Are there any books for doctors?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Doctors? Why?"
+				},
+				{
+					"name": "Kaito",
+					"text": "I just want to read some. I wanna know more about medical stuff."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Medical, huh? Okay, I think there's some over here."
+				},
+				{
+					"text": "The bookshelf Yonagi guides me to has everything from introductory first aid guides to super specialized books."
+				},
+				{
+					"name": "Kaito",
+					"text": "Is there... something that has a list of illnesses?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Mm, maybe this?"
+				},
+				{
+					"text": "I open the book she hands me."
+				},
+				{
+					"text": "It's a book that lists a different condition and its symptoms on each page."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "I can read the letters, but there are a lot of words I don't understand."
+				},
+				{
+					"text": "Maybe these are words people used on the surface?"
+				},
+				{
+					"name": "Kaito",
+					"text": "I think I could use this, but it's kind of difficult to read."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Why not borrow it and give it a good read at home?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Borrow it? I can take it with me?!"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Just two at a time."
+				},
+				{
+					"name": "Kaito",
+					"text": "That's amazing."
+				},
+				{
+					"text": "Yonagi takes several novels, and I grab a few books that look like they might have information about Mommy's condition."
+				},
+				{
+					"text": "We sit at a circular desk with four chairs surrounding it."
+				},
+				{
+					"text": "Yonagi and I place our books on it and sit across from each other."
+				},
+				{
+					"name": "Kaito",
+					"text": "You really love novels, huh?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "You bet!"
+				},
+				{
+					"name": "Kaito",
+					"text": "Always have?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Yeah, I love stories! Reading them AND making them."
+				},
+				{
+					"name": "Kaito",
+					"text": "Making stories is amazing."
+				},
+				{
+					"text": "Yonagi nods and smiles at me."
+				},
+				{
+					"name": "Yonagi",
+					"text": "..."
+				},
+				{
+					"text": "All of a sudden, she falls silent and stares at me."
+				},
+				{
+					"name": "Kaito",
+					"text": "Huh?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Do you wanna hear?"
+				},
+				{
+					"name": "Kaito",
+					"text": "What?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "My story!"
+				},
+				{
+					"name": "Kaito",
+					"text": "Ah, sure."
+				},
+				{
+					"text": "She beams at me, her whole face blossoming like a flower."
+				},
+				{
+					"name": "Yonagi",
+					"text": "It's about a super cool lady!"
+				},
+				{
+					"name": "Kaito",
+					"text": "Go on."
+				},
+				{
+					"name": "Yonagi",
+					"text": "She's a beautiful love guru!"
+				},
+				{
+					"name": "Kaito",
+					"text": "Ooh."
+				},
+				{
+					"name": "Yonagi",
+					"text": "And she's super cute!"
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "The more she talks, the brighter her eyes sparkle."
+				},
+				{
+					"text": "Then, she scans the area carefully before turning back to me."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Hey, give me your hand."
+				},
+				{
+					"name": "Kaito",
+					"text": "What for?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Just do it!"
+				},
+				{
+					"text": "Filled with confusion and apprehension, I reach out to Yonagi."
+				},
+				{
+					"text": "She takes it in hers."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Now close your eyes."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Ta-daaah!"
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I'm Sumomo! Sumomo Momonouchi!"
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I'm the peachy Sumomo Momonouchi!"
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "So? Am I cute? Am I?"
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Am I super chic?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Say something!"
+				},
+				{
+					"name": "Kaito",
+					"text": "Wh-What?!"
+				},
+				{
+					"name": "Yonagi",
+					"text": "What do you think?!"
+				},
+				{
+					"name": "Kaito",
+					"text": "H-Huh? Can I talk in there?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "What?"
+				},
+				{
+					"name": "Kaito",
+					"text": "I mean, you made that place, right?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Huh? You can't talk in it?"
+				},
+				{
+					"name": "Kaito",
+					"text": "I don't know. Yesterday I could only watch."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Let's try it out! It'd be super fun if we could talk in there!"
+				},
+				{
+					"name": "Kaito",
+					"text": "Y-Yeah."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Yahoo!"
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "I want to respond to her."
+				},
+				{
+					"text": "But the words don't come out."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Oh? Yahoo! Hellooo? Kaitooo?"
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Mm?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "You can't talk?"
+				},
+				{
+					"name": "Kaito",
+					"text": "I really tried."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Hmm, that's too bad. If you could talk in there, I was thinking of having you act out roles for me."
+				},
+				{
+					"name": "Kaito",
+					"text": "Really?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Oh well, never mind. She was cute, wasn't she?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Huh?"
+				},
+				{
+					"text": "She puffs her cheeks out and pouts at me."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I'm talking about the super chic love guru Sumomo Momonouchi! Who else?!"
+				},
+				{
+					"name": "Kaito",
+					"text": "Ah, yeah... Mhm, she was."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Was she cute?"
+				},
+				{
+					"text": "I nod."
+				},
+				{
+					"text": "Yonagi smiles triumphantly."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Since I named her Sumomo, I made her hair a little pink. Like a peach!"
+				},
+				{
+					"name": "Kaito",
+					"text": "Like a peach?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Yep!"
+				},
+				{
+					"name": "Kaito",
+					"text": "Uh, what are those anyway?"
+				},
+				{
+					"text": "Her eyes bulge out in surprise at the question."
+				},
+				{
+					"name": "Yonagi",
+					"text": "What! You don't know what a peach is?!"
+				},
+				{
+					"name": "Kaito",
+					"text": "Uh, n-no..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Wait right there!"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Here, I think you should read this first."
+				},
+				{
+					"text": "She hands me a thick book."
+				},
+				{
+					"name": "Kaito",
+					"text": "E-Enchee..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Encyclopedia. It tells you about all of the food, creatures, and buildings people had on the surface."
+				},
+				{
+					"name": "Yonagi",
+					"text": "The topsider and midsider students study easier stuff than this, so if you just read this one book you'll know everything you need to know."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Read this first, and it'll be way easier to read stuff from the surface. All of the paper books around here are from when people were on the surface."
+				},
+				{
+					"name": "Kaito",
+					"text": "Thanks, I'll give it a go."
+				},
+				{
+					"text": "I look over the encyclopedia's cover."
+				},
+				{
+					"name": "Kaito",
+					"text": "I can only take two books, right?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Yeah, only us downsiders, though. I hear the others can take more."
+				},
+				{
+					"text": "Then I remember—"
+				},
+				{
+					"text": "Hah! You don't know?! Guess you don't go to school, that's why you're so stupid!"
+				},
+				{
+					"text": "You downsiders are all stupid."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "I remember Shachi."
+				},
+				{
+					"text": "All the bullying, all the mean words."
+				},
+				{
+					"text": "Then images of the broken car flash through my head."
+				},
+				{
+					"text": "It brings it all back, as painful and sad as it was in the moment."
+				},
+				{
+					"name": "Yonagi",
+					"text": "K-Kaito?!"
+				},
+				{
+					"name": "Kaito",
+					"text": "Huh?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "What's wrong?"
+				},
+				{
+					"text": "Only when I see the worry in Yonagi's expression do I realize that there are tears rolling down my face."
+				},
+				{
+					"name": "Kaito",
+					"text": "Ah, it's nothing. Sorry."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Okay?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Oh, so the students here all study about the surface like this?"
+				},
+				{
+					"name": "Kaito",
+					"text": "I'll read this. There's a lot I need to learn."
+				},
+				{
+					"text": "I pick up the encyclopedia and a book on surface medical conditions."
+				},
+				{
+					"name": "Kaito",
+					"text": "I'll take these."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Sure!"
+				},
+				{
+					"text": "Just before noon, we head to the middle square."
+				},
+				{
+					"text": "Since we skipped work yesterday, we want to make up for it today."
+				},
+				{
+					"text": "Other people might have needed to work more because we weren't there."
+				},
+				{
+					"text": "It's only right that we do a little more today to make it easier on them."
+				},
+				{
+					"name": "Kaito",
+					"text": "Mister, I wanna work double to make up for yesterday."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Me too!"
+				},
+				{
+					"name": "Chief",
+					"text": "Hmm... Guess I'll take you up on that."
+				},
+				{
+					"text": "He assigns me and Yonagi to clean the West Common Area and weed the North Common Area."
+				},
+				{
+					"name": "Chief",
+					"text": "That's two day's worth. Finish all that and you'll be good from now on, okay?"
+				},
+				{
+					"text": "Yonagi and I answer with a nod, stuff ourselves with tortillas, then hurry to the West Common Area."
+				},
+				{
+					"text": "I take care not to stand in front of Yonagi while she's eating her tortillas."
+				},
+				{
+					"text": "While we're cleaning up, Shachi and other students walk by after finishing their classes."
+				},
+				{
+					"name": "Shachi",
+					"text": "Hey, thief."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"name": "Shachi",
+					"text": "Don't bother coming to school. What do you even think you're doing there?"
+				},
+				{
+					"name": "Shachi",
+					"text": "Aren't you supposed to be working?"
+				},
+				{
+					"name": "Kaito",
+					"text": "I'm not a thief. I just picked up something that was thrown away."
+				},
+				{
+					"name": "Shachi",
+					"text": "Yeah, that's what all thieves say."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"name": "Shachi",
+					"text": "Don't come back to school."
+				},
+				{
+					"name": "Yonagi",
+					"text": "..."
+				},
+				{
+					"name": "Shachi",
+					"text": "Same goes for you, albino freak. You're always at the library, right? Stay away."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I'll keep going there every day. I like studying, and the library is free for everyone to use."
+				},
+				{
+					"name": "Shachi",
+					"text": "You downsiders don't need to study for the work you do!"
+				},
+				{
+					"name": "Shachi",
+					"text": "We're the only ones who have to study!"
+				},
+				{
+					"name": "Yonagi",
+					"text": "..."
+				},
+				{
+					"name": "Shachi",
+					"text": "Why study when you're a bunch of brainless idiots?!"
+				},
+				{
+					"name": "Kaito",
+					"text": "Yonagi's not stupid."
+				},
+				{
+					"text": "When I speak out, Shachi turns back to me."
+				},
+				{
+					"name": "Kaito",
+					"text": "And I'm not stupid either. I'm going to read books and learn more about the surface."
+				},
+				{
+					"name": "Shachi",
+					"text": "You should be working double for your stupid useless mom!"
+				},
+				{
+					"name": "Kaito",
+					"text": "No!"
+				},
+				{
+					"text": "I snap back in such a loud tone that I can barely believe it myself."
+				},
+				{
+					"name": "Kaito",
+					"text": "She's exempt from labor because of her condition. Yonagi taught me that, and she taught me that I can go to school!"
+				},
+				{
+					"name": "Shachi",
+					"text": "..."
+				},
+				{
+					"name": "Kaito",
+					"text": "I'm gonna read as many books as I can."
+				},
+				{
+					"name": "Kaito",
+					"text": "And I'll become a researcher someday!"
+				},
+				{
+					"name": "Shachi",
+					"text": "A researcher? A downsider?"
+				},
+				{
+					"text": "I nod emphatically."
+				},
+				{
+					"text": "After a marked moment of silence, Shachi's laugh booms in our ears. Immediately, the other midsider kids behind of him also start laughing loudly."
+				},
+				{
+					"name": "Shachi",
+					"text": "You're hilarious! No way a dirty downsider can become a researcher!"
+				},
+				{
+					"text": "He sneers at me."
+				},
+				{
+					"name": "Yonagi",
+					"text": "He'll become one! He's super smart."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Professor Asuma always says that anyone who's good enough can become a researcher."
+				},
+				{
+					"name": "Shachi",
+					"text": "And how's a stinky downsider that attends one class per day becoming a researcher? Are you seriously this stupid?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "There's a lot more ways to study."
+				},
+				{
+					"name": "Shachi",
+					"text": "There's not! You clowns! A downsider can't become a researcher!"
+				},
+				{
+					"text": "Shachi leaves after that, still laughing with his little posse in tow."
+				},
+				{
+					"text": "I notice the android he always has with him following closely behind."
+				},
+				{
+					"text": "It's so strange."
+				},
+				{
+					"text": "Today, Shachi wasn't as scary as he usually is."
+				},
+				{
+					"text": "And I'm not sad about him making fun of me anymore."
+				},
+				{
+					"text": "I'll do my best to become a researcher. Nothing anyone says matter."
+				},
+				{
+					"text": "No one will keep me from studying and learning how to cure Mommy."
+				},
+				{
+					"text": "I turn to Yonagi with a smile."
+				},
+				{
+					"name": "Kaito",
+					"text": "Let's get back to work. We've still gotta make up for yesterday."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Yeah, let's do it."
+				},
+				{
+					"text": "Just as we're finishing up the two days' worth of work together, the bell signaling the time for ration distribution rings."
+				},
+				{
+					"text": "We hurry to put the weeding tools back and get in line to receive our food."
+				},
+				{
+					"name": "Chief",
+					"text": "Mhm."
+				},
+				{
+					"text": "When it's our turn, the nice old man gives us more rations than usual."
+				},
+				{
+					"name": "Kaito",
+					"text": "Huh?"
+				},
+				{
+					"name": "Chief",
+					"text": "You worked double today, remember?"
+				},
+				{
+					"text": "Yonagi and I exchange glances."
+				},
+				{
+					"name": "Yonagi",
+					"text": "But we skipped work yesterday..."
+				},
+				{
+					"name": "Chief",
+					"text": "And did you get any food yesterday?"
+				},
+				{
+					"text": "Both of us shake our heads."
+				},
+				{
+					"name": "Chief",
+					"text": "Let me tell you kids one thing. We live in a world where those who put in the work get rewarded for it."
+				},
+				{
+					"name": "Chief",
+					"text": "The moment we forget that, this town is done for. You know why?"
+				},
+				{
+					"text": "Both of us stare up at him curiously."
+				},
+				{
+					"text": "He leans down, brings his face closer, and lowers his voice to almost a whisper."
+				},
+				{
+					"name": "Chief",
+					"text": "Because all the idiots living up there have forgotten already."
+				},
+				{
+					"text": "And then, his wrinkly face breaks into a jolly smile."
+				},
+				{
+					"text": "Yonagi and I look at each other again and grin."
+				},
+				{
+					"name": "Yonagi",
+					"text": "We got a whole bunch of food!"
+				},
+				{
+					"name": "Kaito",
+					"text": "Yeah."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Can I come eat at your house?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Sure. I think Mommy will like that too."
+				},
+				{
+					"text": "Yonagi said she lives alone."
+				},
+				{
+					"text": "So it'll be nicer if all three of us eat together."
+				},
+				{
+					"name": "Kaito",
+					"text": "Yonagi."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Mm?"
+				},
+				{
+					"name": "Kaito",
+					"text": "So, um, how did your parents, well... die and stuff?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "You wanna know?"
+				},
+				{
+					"text": "I think for a moment."
+				},
+				{
+					"text": "And then I nod."
+				},
+				{
+					"name": "Yonagi",
+					"text": "..."
+				},
+				{
+					"name": "Kaito",
+					"text": "I wanna know because... because I'm your friend."
+				},
+				{
+					"name": "Kaito",
+					"text": "I think that's why."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Mhm, thanks."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I'm really happy to hear that."
+				},
+				{
+					"name": "Yonagi",
+					"text": "But can we take it slow? I'm sure I'll tell you everything when I'm ready."
+				},
+				{
+					"name": "Yonagi",
+					"text": "But if you..."
+				},
+				{
+					"name": "Kaito",
+					"text": "No, that's okay."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Kaito."
+				},
+				{
+					"name": "Kaito",
+					"text": "Mm?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "I really mean it when I say I'm happy that you want to get to know me better."
+				},
+				{
+					"text": "I nod in response."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Thank you. Really."
+				},
+				{
+					"text": "Yonagi takes hold of my hand as she thanks me."
+				},
+				{
+					"text": "I squeeze her hand back and nod."
+				},
+				{
+					"name": "Kaito",
+					"text": "We're back."
+				},
+				{
+					"name": "Mom",
+					"text": "Ah, welcome home!"
+				},
+				{
+					"name": "Yonagi",
+					"text": "I'm here too!"
+				},
+				{
+					"name": "Mom",
+					"text": "Oh, Yonagi! Welcome back!"
+				},
+				{
+					"text": "Yonagi's face lights up when she realizes Mom's happy to see her as well."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Mhm! It's nice to be back!"
+				},
+				{
+					"name": "Kaito",
+					"text": "We got a lot of rations today."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Yeah! We got them for working double today!"
+				},
+				{
+					"name": "Mom",
+					"text": "That's wonderful! You must have worked so hard. Good job!"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Come on, let's eat! Then we can read Kaito's Adventure!"
+				},
+				{
+					"name": "Kaito",
+					"text": "I'll warm it up."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Let me help!"
+				},
+				{
+					"text": "We all eat dinner together."
+				},
+				{
+					"text": "Mom uses only her right hand to slowly eat the meal I set on top of her lap."
+				},
+				{
+					"text": "After that, I take \"Kaito's Adventure\" from the shelf."
+				},
+				{
+					"name": "Mom",
+					"text": "Mind if I start from the beginning, Kaito?"
+				},
+				{
+					"name": "Kaito",
+					"text": "It's okay. I'll turn the pages."
+				},
+				{
+					"name": "Mom",
+					"text": "Mhm, thank you."
+				},
+				{
+					"text": "I open the book to the first page for her."
+				},
+				{
+					"name": "Mom",
+					"text": "Once upon a time, there was a deep, deep chasm. Inside the chasm was a city, and for the people inside the city, the sky looked like a round, far away thing."
+				},
+				{
+					"name": "Mom",
+					"text": "The people in this city knew neither the sea nor the open sky. All of them were born and lived their entire lives inside the deep chasm."
+				},
+				{
+					"name": "Mom",
+					"text": "But there was one lone person among them who had seen the sea."
+				},
+				{
+					"name": "Mom",
+					"text": "That person was Kaito's father. His little son loved hearing the stories his father told him about the big blue sea and sky."
+				},
+				{
+					"name": "Mom",
+					"text": "The boy grew up dreaming of seeing the sea and the sky his father told him about for himself someday."
+				},
+				{
+					"text": "As Mommy keeps reading in her usual gentle tone, Yonagi's eyes sparkle."
+				},
+				{
+					"text": "Up until now, the reading time has just been Mommy and me."
+				},
+				{
+					"text": "But Yonagi's with us today."
+				},
+				{
+					"text": "That small change makes me happy."
+				},
+				{
+					"name": "Yonagi",
+					"text": "See you tomorrow, Mommy! And you, Kaito!"
+				},
+				{
+					"text": "Yonagi says, with a big smile on her face."
+				},
+				{
+					"text": "Mommy's eyes widen for a second, but she smiles happily one moment after."
+				},
+				{
+					"name": "Mom",
+					"text": "Yes. Good night, dear."
+				},
+				{
+					"text": "Like yesterday, I watch Yonagi walk off until she disappears into the fields."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"name": "Mom",
+					"text": "She went home?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Mhm..."
+				},
+				{
+					"text": "The thought of Yonagi going back to an empty house makes me a little sad."
+				},
+				{
+					"text": "It would be nice if we could all live together."
+				},
+				{
+					"text": "But..."
+				},
+				{
+					"text": "This house would be too small for all of us."
+				},
+				{
+					"name": "Mom",
+					"text": "She called me Mommy just now, heheh. She's such a ray of sunshine, isn't she?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Yeah."
+				},
+				{
+					"name": "Mom",
+					"text": "Kaito?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Mommy..."
+				},
+				{
+					"name": "Mom",
+					"text": "Mm?"
+				},
+				{
+					"name": "Kaito",
+					"text": "If I study a lot and the teachers at school see I'm smart, I could become a researcher even if I'm a downsider."
+				},
+				{
+					"text": "Mommy looks down at me attentively."
+				},
+				{
+					"name": "Kaito",
+					"text": "I'll study lots and become a researcher someday. Then we can live in the middle side."
+				},
+				{
+					"name": "Kaito",
+					"text": "So..."
+				},
+				{
+					"name": "Kaito",
+					"text": "Do you think you can wait until that happens?"
+				},
+				{
+					"text": "Smiling fondly, Mommy nods at me."
+				},
+				{
+					"name": "Mom",
+					"text": "Of course. I can't wait to see you achieve it."
+				},
+				{
+					"text": "After Yonagi's left and Mommy's gone to sleep, I lie awake, unable to sleep."
+				},
+				{
+					"text": "So many things happened today, and they're all still so vivid in my head."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "I get up slowly, careful not to wake Mommy."
+				},
+				{
+					"text": "Then I go to my bag and fish the heavy encyclopedia out of it."
+				},
+				{
+					"text": "On the cover are a bunch of men and a lot of things I don't recognize."
+				},
+				{
+					"text": "I open the cover."
+				},
+				{
+					"text": "Each page is dedicated to one topic. I feel like I can learn a lot by reading this."
+				},
+				{
+					"text": "I start reading from the very first page."
+				},
+				{
+					"text": "There are lots of words I don't know."
+				},
+				{
+					"text": "Each word has a detailed definition with examples."
+				},
+				{
+					"text": "I keep turning the pages, my mind greedily absorbing everything like a sponge."
+				},
+				{
+					"text": "It's been almost a week since I started going to school."
+				},
+				{
+					"text": "Over the last few days, I finished reading the encyclopedia I borrowed from the library."
+				},
+				{
+					"text": "After that, I was able to go through the medical books a little more easily."
+				},
+				{
+					"text": "The more I learn, the more books I can read."
+				},
+				{
+					"text": "I'm happy about that, but I was not happy to discover that the book didn't have any condition similar to Mommy's in it."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Wanna go to the workshop again? Don't you wanna build something else?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Oh, right... Hmm..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Mm?"
+				},
+				{
+					"name": "Kaito",
+					"text": "We can go to the library. I'm having fun reading right now."
+				},
+				{
+					"name": "Kaito",
+					"text": "It's really fun, learning all this new stuff little by little."
+				},
+				{
+					"name": "Kaito",
+					"text": "And I got to show the working car to Mommy thanks to you."
+				},
+				{
+					"text": "The experience Yonagi gave her was pretty much as though she were up there watching it with us."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Mhm, yeah. I'm glad. Let's go to the library then."
+				},
+				{
+					"text": "When we get there, I fish the encyclopedia out of my bag."
+				},
+				{
+					"name": "Kaito",
+					"text": "Hey, so how do I return this?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Huh?"
+				},
+				{
+					"text": "She stares at the thick encyclopedia for a moment."
+				},
+				{
+					"name": "Kaito",
+					"text": "What?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "You read it already? All of it?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Yeah."
+				},
+				{
+					"name": "Yonagi",
+					"text": "No way!"
+				},
+				{
+					"name": "Kaito",
+					"text": "Uh, I did..."
+				},
+				{
+					"name": "Kaito",
+					"text": "I couldn't sleep, so I just kept reading..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Whoa, you read all this so fast. You're like a scholar or something."
+				},
+				{
+					"name": "Kaito",
+					"text": "Really?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "What are you reading next? Another medical book?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Mhm, I wanna read something more detailed this time."
+				},
+				{
+					"name": "Yonagi",
+					"text": "You're so smart!"
+				},
+				{
+					"text": "While Yonagi chooses a novel, I pick up more medical books."
+				},
+				{
+					"text": "I also pick up one about celestial bodies, which was a topic that interested me in the encyclopedia."
+				},
+				{
+					"text": "It has a photo of a huge comet on the cover."
+				},
+				{
+					"text": "When I come back, Yonagi looks at the cover curiously."
+				},
+				{
+					"name": "Yonagi",
+					"text": "What's that comet?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Halley's Comet, I think."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Halley's Comet?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Huh? You don't know about it?"
+				},
+				{
+					"name": "Kaito",
+					"text": "It was in the encyclopedia you showed me."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Right. I read it before, but I guess I forgot."
+				},
+				{
+					"name": "Kaito",
+					"text": "Huh?"
+				},
+				{
+					"name": "Kaito",
+					"text": "You read it and forgot?"
+				},
+				{
+					"text": "Yonagi stares at me."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Huh?"
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "That's normal, isn't it? Right?"
+				},
+				{
+					"name": "Kaito",
+					"text": "I don't know, I..."
+				},
+				{
+					"name": "Kaito",
+					"text": "I never really forget anything."
+				},
+				{
+					"name": "Yonagi",
+					"text": "..."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Gimme me the encyclopedia."
+				},
+				{
+					"text": "A little nervous, I hand it over to her."
+				},
+				{
+					"name": "Kaito",
+					"text": "What?"
+				},
+				{
+					"text": "Yonagi flips through the pages and stops at a seemingly random one."
+				},
+				{
+					"name": "Yonagi",
+					"text": "What's a morning glory?"
+				},
+				{
+					"name": "Kaito",
+					"text": "It's the common name for a flower of the family Convolvulaceae. It blooms in summer. It was first recognized as a medicinal flower in Japan during the Nara era."
+				},
+				{
+					"name": "Yonagi",
+					"text": "No way."
+				},
+				{
+					"text": "Her eyes bulge out as she reads over the entry."
+				},
+				{
+					"text": "She keeps flipping through the pages."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Wh-What's a bear?!"
+				},
+				{
+					"name": "Kaito",
+					"text": "It was on a page with other brown animals. They're carnivoran mammals of the family Ursidae, and there are eight species. They have good sense of smell."
+				},
+				{
+					"name": "Yonagi",
+					"text": "A-A camera!"
+				},
+				{
+					"name": "Kaito",
+					"text": "A specialized tool for taking pictures. It uses a telephoto lens to capture images of distant objects. If you use a wide-angle lens, you can take pictures that are wider than a human's field of view."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Wha... You really do remember... So..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "What's an artificial pigeon?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Telecommunication devices modeled after pigeons. They grew old and died just like normal animals. They were made by a Japanese person named Izana Hazuki."
+				},
+				{
+					"text": "I recall that page in my mind."
+				},
+				{
+					"name": "Kaito",
+					"text": "From 2046 to 2061, they became uncontrollable, and all communications devices on the surface were rendered useless."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Isn't that like.... super weird?!"
+				},
+				{
+					"name": "Yonagi",
+					"text": "You really remember it all?!"
+				},
+				{
+					"name": "Kaito",
+					"text": "I only just read it..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "People normally forget!"
+				},
+				{
+					"name": "Kaito",
+					"text": "Really?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "I mean, what were the years again? Like, 2045 and 2061 or whatever! Is there any reason to remember the exact years?"
+				},
+				{
+					"text": "Yonagi checks the encyclopedia, still perplexed."
+				},
+				{
+					"name": "Kaito",
+					"text": "That's not true. The page about Halley's Comet also had the year 2061."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Huh?"
+				},
+				{
+					"text": "She flips through pages rapidly and stops somewhere in the middle of the thick book."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Whoa, you hit the nail..."
+				},
+				{
+					"name": "Kaito",
+					"text": "Hit the what?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "As in, you're right."
+				},
+				{
+					"name": "Kaito",
+					"text": "Oh, okay."
+				},
+				{
+					"name": "Kaito",
+					"text": "It appears every seventy-six years. Though there are only pictures of it up to 2137."
+				},
+				{
+					"name": "Yonagi",
+					"text": "D'you think that's because everyone was already underground by the time it came around next?"
+				},
+				{
+					"text": "I nod."
+				},
+				{
+					"text": "I figured that's what happened too."
+				},
+				{
+					"name": "Yonagi",
+					"text": "2061, huh? Sounds like that was one busy year."
+				},
+				{
+					"name": "Kaito",
+					"text": "Mhm."
+				},
+				{
+					"name": "Yonagi",
+					"text": "You're amazing, Kaito! You're a genius! I'm certain you'll become a researcher!"
+				},
+				{
+					"name": "Yonagi",
+					"text": "I actually think you have to! You NEED to be one!"
+				},
+				{
+					"name": "Kaito",
+					"text": "Huh? You think so?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Yep! If you keep learning stuff, I'm sure you can come up with something incredible someday!"
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "I look over the medical book I brought as I listen to Yonagi's cheerful support."
+				},
+				{
+					"text": "The cover reads \"The Link between Brain and Body.\""
+				},
+				{
+					"name": "Kaito",
+					"text": "Yeah, I'll do what I can."
+				},
+				{
+					"text": "The encyclopedia taught me that there are many things I want to learn."
+				},
+				{
+					"text": "Of course, I want to learn about stars and comets, but I also want to learn more about plants, and the oceans are fascinating too."
+				},
+				{
+					"text": "These two books aren't enough."
+				},
+				{
+					"text": "I want to read so much more."
+				},
+				{
+					"text": "After finishing school, I head to the middle side with Yonagi."
+				},
+				{
+					"text": "We check the assignments for afternoon work then head to the park to eat our lunch."
+				},
+				{
+					"name": "Kaito",
+					"text": "We're together again."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Yeah! Maybe they're putting us together on purpose. It's dandy by me, though! Let's get it done in a jiffy!"
+				},
+				{
+					"name": "Kaito",
+					"text": "Yeah."
+				},
+				{
+					"text": "We spend the afternoon focused on cleaning."
+				},
+				{
+					"text": "We got sent to the West Common Area today."
+				},
+				{
+					"text": "The monitor's displaying images of the surface again."
+				},
+				{
+					"text": "It looks like a rainforest."
+				},
+				{
+					"text": "I see a colorful bird perched on a branch, turning its little head around."
+				},
+				{
+					"text": "I learned about the rainforest and birds from the encyclopedia."
+				},
+				{
+					"name": "Kaito",
+					"text": "Mm?"
+				},
+				{
+					"text": "I squint at the screen."
+				},
+				{
+					"text": "It's usually quiet in the common areas."
+				},
+				{
+					"text": "But now..."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "I can hear a sound that's not coming from the monitor."
+				},
+				{
+					"text": "As I focus on it, I realize it's coming closer."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Kaito?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Shh."
+				},
+				{
+					"text": "I bring a finger to my lips and gesture for her to be quiet."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Mm?"
+				},
+				{
+					"text": "Keeping my attention on the faint noise, I push through the tall grass at the back of the common area."
+				},
+				{
+					"text": "And when we make it to the imposing concrete wall surrounding the middle side, we find a gaping hole in it with bare earth peeking through."
+				},
+				{
+					"name": "Kaito",
+					"text": "What's that?"
+				},
+				{
+					"text": "I crouch and stare into the hole."
+				},
+				{
+					"text": "Beyond the soil and roots, I see some faint streaks of light."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "I prick my ears again."
+				},
+				{
+					"text": "There's something in there."
+				},
+				{
+					"text": "I can hear something inside."
+				},
+				{
+					"name": "Yonagi",
+					"text": "What was that just now?"
+				},
+				{
+					"text": "Yonagi murmurs, standing close behind me."
+				},
+				{
+					"name": "Kaito",
+					"text": "I don't know."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Should we go and see?"
+				},
+				{
+					"text": "I nod and take a step into the hole."
+				},
+				{
+					"text": "The sensation of the soft soil under my feet reminds me of walking on the lower side."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I'm coming too."
+				},
+				{
+					"name": "Kaito",
+					"text": "Okay."
+				},
+				{
+					"text": "After I'm inside, I take Yonagi's hand and help her through after me."
+				},
+				{
+					"text": "Then we set off walking, holding hands in the dark."
+				},
+				{
+					"text": "Our footsteps are absorbed by the earthy walls of the narrow passage."
+				},
+				{
+					"text": "Our eyes gradually become used to the dimness as we move toward the faint light in the distance."
+				},
+				{
+					"text": "The passage seems to go on forever, but eventually we come to the end and find the source of the light."
+				},
+				{
+					"text": "And all around it, a blanket of blue."
+				},
+				{
+					"name": "Kaito",
+					"text": "It's the sky."
+				},
+				{
+					"text": "As I try to take a step forward towards the light, Yonagi holds my hand tight and pulls me back."
+				},
+				{
+					"name": "Kaito",
+					"text": "What?"
+				},
+				{
+					"text": "She shakes her head."
+				},
+				{
+					"name": "Kaito",
+					"text": "Yonagi?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "There's no ozone lens here."
+				},
+				{
+					"text": "I look up at the sky."
+				},
+				{
+					"name": "Kaito",
+					"text": "...Oh."
+				},
+				{
+					"text": "The lens protect us from the strong rays of the sun."
+				},
+				{
+					"text": "Unlike in the underground city, there's nothing to shield us from the direct sunlight here."
+				},
+				{
+					"text": "We keep ourselves hidden in the little passage leading up to the bright clearing."
+				},
+				{
+					"name": "Kaito",
+					"text": "Ah."
+				},
+				{
+					"text": "I catch sight of something small stirring in the grass ahead of us."
+				},
+				{
+					"text": "I squint my eyes, trying to see better."
+				},
+				{
+					"name": "Kaito",
+					"text": "It's a bird.... I think it's injured."
+				},
+				{
+					"text": "I run up to it."
+				},
+				{
+					"name": "Yonagi",
+					"text": "No!"
+				},
+				{
+					"text": "I hear Yonagi cry out behind me."
+				},
+				{
+					"text": "A few steps in, the light envelops me."
+				},
+				{
+					"text": "And the first thing that goes through my mind is..."
+				},
+				{
+					"text": "How warm it feels."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "The bird's little chest is heaving, and its eyes are closed."
+				},
+				{
+					"text": "Small stripes of red blood run down its ruffled torso."
+				},
+				{
+					"text": "It's the same color as human blood."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Kaito? Are you okay?"
+				},
+				{
+					"name": "Kaito",
+					"text": "I think the bird is hurt."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I'm talking about you! You're under the sunlight!"
+				},
+				{
+					"text": "I look at the palm of my hand."
+				},
+				{
+					"text": "The ozone lens is what protects us from the ultra violet rays."
+				},
+				{
+					"text": "Mommy taught me that."
+				},
+				{
+					"text": "But nothing seems different about the parts of my skin that are being touched by the light."
+				},
+				{
+					"text": "I take a look up."
+				},
+				{
+					"text": "The sun shining down on me is so bright that I can't keep my eyes open."
+				},
+				{
+					"name": "Kaito",
+					"text": "I think I'm okay for now."
+				},
+				{
+					"text": "I turn back to Yonagi."
+				},
+				{
+					"text": "She has an anxious look on her face."
+				},
+				{
+					"name": "Yonagi",
+					"text": "You're... fine?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Yeah, I think so."
+				},
+				{
+					"text": "I give her a thumbs up and then turn my attention back to the bird laying at my feet."
+				},
+				{
+					"name": "Kaito",
+					"text": "Maybe it fell all the way here from the surface?"
+				},
+				{
+					"text": "I reach out and timidly touch its round, feathered head."
+				},
+				{
+					"name": "Yonagi",
+					"text": "...It's bleeding."
+				},
+				{
+					"text": "I turn back to Yonagi standing next to me."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Think we could help it?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Let's take it to my house. Maybe we can stop the bleeding."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Okay."
+				},
+				{
+					"text": "I open my bag and pull out a cloth I use to wipe my hands."
+				},
+				{
+					"text": "I gently lift the bird and wrap the cloth around it."
+				},
+				{
+					"text": "Soon enough, a little red spot forms on the cloth."
+				},
+				{
+					"name": "Kaito",
+					"text": "Let's go."
+				},
+				{
+					"text": "We go back to the common area."
+				},
+				{
+					"text": "There's no one around."
+				},
+				{
+					"text": "The tools we were using to clean with are still where we left them."
+				},
+				{
+					"name": "Kaito",
+					"text": "Can you go pick up our rations?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Sure. I'll come to your house after I've got them."
+				},
+				{
+					"text": "I nod, then set off at a dash for the lower side."
+				},
+				{
+					"text": "I run through the fields, and the first thing I do after slamming the front door open is place the bird on the table."
+				},
+				{
+					"text": "When I unwrap the cloth, I see that the bleeding seems to have stopped."
+				},
+				{
+					"name": "Kaito",
+					"text": "Oh, I'm so glad."
+				},
+				{
+					"text": "I take our box of medicine and bandages from the shelf."
+				},
+				{
+					"text": "It's a little first aid kit that all houses are provided with."
+				},
+				{
+					"name": "Mom",
+					"text": "Kaito? What's wrong? Did you hurt yourself?"
+				},
+				{
+					"name": "Kaito",
+					"text": "It's not for me."
+				},
+				{
+					"text": "I grab the little disinfectant spray bottle."
+				},
+				{
+					"text": "Wait, is disinfectant for humans safe to use on birds?"
+				},
+				{
+					"text": "I have no idea."
+				},
+				{
+					"text": "I didn't read anything about it in the medical book or the encyclopedia."
+				},
+				{
+					"text": "The bird lets out a few sad chirps."
+				},
+				{
+					"name": "Mom",
+					"text": "What's that?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Give me a minute..."
+				},
+				{
+					"text": "After thinking for a moment, I decide against using it."
+				},
+				{
+					"text": "Instead, I just grab a clean cloth, dip it in water, and wipe the area around the wound."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Kaito!"
+				},
+				{
+					"text": "Yonagi comes through the still open door, out of breath and carrying the rations."
+				},
+				{
+					"name": "Mom",
+					"text": "Ah, welcome back, dear."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Hello, Mommy! Kaito, how's the bird?!"
+				},
+				{
+					"name": "Mom",
+					"text": "Bird?"
+				},
+				{
+					"text": "Yonagi comes closer and peers down from beside me."
+				},
+				{
+					"name": "Yonagi",
+					"text": "How is it doing?"
+				},
+				{
+					"name": "Kaito",
+					"text": "The bleeding's stopped."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Mhm."
+				},
+				{
+					"text": "Yonagi takes a closer look at the bird."
+				},
+				{
+					"name": "Yonagi",
+					"text": "..."
+				},
+				{
+					"name": "Kaito",
+					"text": "Yonagi?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Is it its leg? Is that where it's hurt?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Its leg?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Yeah, doesn't it look like it's trying to stand?"
+				},
+				{
+					"text": "On closer inspection, I see that the bird's right leg is twitching uselessly."
+				},
+				{
+					"name": "Kaito",
+					"text": "Oh, you're right."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Mhm."
+				},
+				{
+					"name": "Kaito",
+					"text": "What do we do? Can we make a splint?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Maybe with a toothpick? Do you have any?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Yeah."
+				},
+				{
+					"name": "Kaito",
+					"text": "Its legs are so thin."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Yeah, don't wrap it up too tight."
+				},
+				{
+					"name": "Kaito",
+					"text": "It's kinda difficult..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Maybe you should cut the bandage a little thinner?"
+				},
+				{
+					"name": "Mom",
+					"text": "Kaito? Can I take a look at it?"
+				},
+				{
+					"text": "Both Yonagi and I turn back to Mommy."
+				},
+				{
+					"name": "Mom",
+					"text": "I'll show you how to bind it up."
+				},
+				{
+					"text": "After exchanging a glance with Yonagi, I gently pick up the cloth with the bird atop it and carry it over to the window."
+				},
+				{
+					"name": "Mom",
+					"text": "This leg, right?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Yeah."
+				},
+				{
+					"name": "Mom",
+					"text": "Can you bring me the scissors?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Coming."
+				},
+				{
+					"name": "Mom",
+					"text": "Okay, cut the bandage a little thinner. Yes, that's it, pull it with your finger just like that."
+				},
+				{
+					"name": "Mom",
+					"text": "Looks like a thread, doesn't it?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Mhm."
+				},
+				{
+					"name": "Mom",
+					"text": "Make it long. Now, make a big, open knot on its leg."
+				},
+				{
+					"text": "I do a big, loose knot just like she says."
+				},
+				{
+					"name": "Mom",
+					"text": "Where's the toothpick?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Here."
+				},
+				{
+					"name": "Mom",
+					"text": "Okay, now slide that inside the knot."
+				},
+				{
+					"text": "I take the toothpick from Yonagi and slowly push it inside the knot."
+				},
+				{
+					"name": "Mom",
+					"text": "Yes, just like that. Now slowly pull the knot tight."
+				},
+				{
+					"text": "I carefully pull the little thread of bandage, tightening the knot."
+				},
+				{
+					"name": "Yonagi",
+					"text": "It worked!"
+				},
+				{
+					"name": "Mom",
+					"text": "It sure did. Well done."
+				},
+				{
+					"name": "Kaito",
+					"text": "Think it'll get better now?"
+				},
+				{
+					"name": "Mom",
+					"text": "We should make our little friend a comfy place to sleep."
+				},
+				{
+					"name": "Yonagi",
+					"text": "To sleep?"
+				},
+				{
+					"text": "Mommy nods, takes a look out the window, then leans in close to us."
+				},
+				{
+					"name": "Mom",
+					"text": "Can you go and fetch some corn leaves and the tassels?"
+				},
+				{
+					"name": "Mom",
+					"text": "I'll teach you how to make a little nest for our friend."
+				},
+				{
+					"name": "Kaito",
+					"text": "Whoa!"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Amazing!"
+				},
+				{
+					"text": "When we weave the corn leaves together just like Mommy taught us, we produce something like a green bowl."
+				},
+				{
+					"name": "Yonagi",
+					"text": "We put these inside of it, right?"
+				},
+				{
+					"name": "Mom",
+					"text": "Yes, dear."
+				},
+				{
+					"text": "Yonagi carefully spreads the corn tassels on the bottom of the leaf bowl."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I did it!"
+				},
+				{
+					"name": "Mom",
+					"text": "Let's put our little friend in here so it can sleep."
+				},
+				{
+					"text": "Mom gently picks up the bird with her right hand."
+				},
+				{
+					"text": "Then she places it in the soft, leafy bowl."
+				},
+				{
+					"name": "Mom",
+					"text": "I hope it helps the poor little thing."
+				},
+				{
+					"text": "As she murmurs to herself, Mommy puts the bowl on the window sill."
+				},
+				{
+					"name": "Mom",
+					"text": "This animal..."
+				},
+				{
+					"name": "Kaito",
+					"text": "It's called a bird."
+				},
+				{
+					"name": "Mom",
+					"text": "A bird... Where was it?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "We found a hole in the middle side wall. The bird was inside of it."
+				},
+				{
+					"name": "Mom",
+					"text": "I see."
+				},
+				{
+					"name": "Kaito",
+					"text": "Maybe it came from the surface?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "There are no birds anywhere in the middle or the top side."
+				},
+				{
+					"name": "Kaito",
+					"text": "Maybe..."
+				},
+				{
+					"name": "Mom",
+					"text": "From the surface..."
+				},
+				{
+					"name": "Kaito",
+					"text": "The hole goes all the way up to the surface."
+				},
+				{
+					"text": "For a moment, Mommy is stunned into silence."
+				},
+				{
+					"name": "Mom",
+					"text": "Are you okay?!"
+				},
+				{
+					"name": "Kaito",
+					"text": "Yeah, we just tried to help the bird."
+				},
+				{
+					"name": "Mom",
+					"text": "But what about the sunlight?"
+				},
+				{
+					"text": "I shake my head."
+				},
+				{
+					"name": "Kaito",
+					"text": "Nothing happened."
+				},
+				{
+					"name": "Mom",
+					"text": "..."
+				},
+				{
+					"text": "Yonagi takes a look at her own arms."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I wonder why..."
+				},
+				{
+					"name": "Kaito",
+					"text": "Maybe we were under the lens without realizing it."
+				},
+				{
+					"name": "Mom",
+					"text": "That's probably it..."
+				},
+				{
+					"text": "Yonagi's staring intently at the small bird on the window ledge."
+				},
+				{
+					"text": "Both Mommy and I follow her gaze."
+				},
+				{
+					"name": "Yonagi",
+					"text": "...I hope it gets better."
+				},
+				{
+					"text": "The bird is lying on the small makeshift bed with its eyes closed, not stirring at all."
+				},
+				{
+					"name": "Kaito",
+					"text": "Mm... Huh?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Uh..."
+				},
+				{
+					"text": "I wake up to someone knocking on the door."
+				},
+				{
+					"name": "Kaito",
+					"text": "Who could it be?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Kaaaitooo!"
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Come ooouuut! I know you're there!"
+				},
+				{
+					"name": "Mom",
+					"text": "..."
+				},
+				{
+					"text": "I look toward the window and see Mommy already awake and sitting up in bed."
+				},
+				{
+					"name": "Mom",
+					"text": "Heheh, think it may be Yonagi?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Kaaaitooo! Rise and shine!"
+				},
+				{
+					"text": "I look at the door, then back at Mommy."
+				},
+				{
+					"name": "Kaito",
+					"text": "...I think it's her."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Good morning! Did I wake you up?"
+				},
+				{
+					"name": "Kaito",
+					"text": "So that's what you were trying to do, huh?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Saw right through me, eh?"
+				},
+				{
+					"name": "Kaito",
+					"text": "I don't know when the last time I woke up this early was."
+				},
+				{
+					"name": "Yonagi",
+					"text": "How's the bird?!"
+				},
+				{
+					"name": "Mom",
+					"text": "It's awake."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Ah, it is! I'm so glad!"
+				},
+				{
+					"name": "Kaito",
+					"text": "Do you think it can fly yet?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "I don't know. Its wings don't look hurt or anything."
+				},
+				{
+					"name": "Mom",
+					"text": "I wonder what our little friend would like for breakfast."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I did some reading on it yesterday. We can grind up some dried corn and feed that to it."
+				},
+				{
+					"name": "Kaito",
+					"text": "Let's make some now."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Yep!"
+				},
+				{
+					"text": "I take a pinch of the corn feed we ground, put some on the palm on my hand, and bring it closer to the bird."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Go on, eat up."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "Still lying on the tassels, the bird looks at my hand and cocks its head."
+				},
+				{
+					"text": "After a moment, it begins pecking at the feed on the palm of my hand."
+				},
+				{
+					"name": "Yonagi",
+					"text": "It's eating!"
+				},
+				{
+					"name": "Mom",
+					"text": "Thank goodness!"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Ahahah! It's adorable!"
+				},
+				{
+					"name": "Kaito",
+					"text": "You think it'll be able to fly again soon?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Yeah, I just know it will!"
+				},
+				{
+					"name": "Kaito",
+					"text": "It's kind of tickling my hand."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Let me feed it! Please!"
+				},
+				{
+					"text": "I pull my hand back, then Yonagi timidly puts hers forward. In seconds, the bird is eating from her hand instead."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Ahah, it really tickles!"
+				},
+				{
+					"name": "Kaito",
+					"text": "Okay, we're off to school."
+				},
+				{
+					"name": "Mom",
+					"text": "Take care, you two!"
+				},
+				{
+					"name": "Yonagi",
+					"text": "I'll come by again tonight, Mommy."
+				},
+				{
+					"name": "Mom",
+					"text": "I'll be waiting, dear."
+				},
+				{
+					"name": "Yonagi",
+					"text": "The bird looked way better today!"
+				},
+				{
+					"name": "Kaito",
+					"text": "Yeah, I'm happy about that."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I hope it gets all better soon."
+				},
+				{
+					"text": "Yonagi and I walk side by side to the classroom."
+				},
+				{
+					"name": "Yonagi",
+					"text": "We have Professor Asuma's lesson today, right?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Yeah, I think he'll continue where he left off last week with that whole paraglucose thing."
+				},
+				{
+					"name": "Asuma",
+					"text": "I'm sure you're all familiar with the lens that covers the whole city."
+				},
+				{
+					"name": "Asuma",
+					"text": "Its technical name is an 'ozone lens.'"
+				},
+				{
+					"name": "Asuma",
+					"text": "But it is not made of ozone, as the name may imply. Ozone is an unstable molecule that consists of three oxygen atoms."
+				},
+				{
+					"name": "Asuma",
+					"text": "It had a somewhat absorbent effect, and it was one of the components making up the stratosphere."
+				},
+				{
+					"name": "Asuma",
+					"text": "This ozone layer absorbs ultraviolet rays. It protected humans from the most dangerous elements of the energy that radiates from the sun."
+				},
+				{
+					"name": "Asuma",
+					"text": "Since the lens we use today fulfills the same role, in time people came to call it the ozone lens."
+				},
+				{
+					"name": "Asuma",
+					"text": "In reality, the lens up there is made from reinforced plastic plates coated with a thin film of titanium oxide."
+				},
+				{
+					"name": "Asuma",
+					"text": "And this lens protects us from the sun's UV rays, just like the natural ozone layer did once upon a time."
+				},
+				{
+					"name": "Asuma",
+					"text": "If my memory serves me right, I ended the last class on the topic of how paraglucose mutated human genes."
+				},
+				{
+					"name": "Asuma",
+					"text": "It wasn't an overnight change, but one that accumulated over generations of genetic variations passed from parent to child."
+				},
+				{
+					"name": "Asuma",
+					"text": "As for what the change itself was: Human skin became extremely vulnerable to UV rays."
+				},
+				{
+					"name": "Asuma",
+					"text": "Skin exposed to those strong UV rays would develop malignant melanoma, which rapidly produced cancer cells that began to metastasize throughout the whole body within just forty-eight hours."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Whoa..."
+				},
+				{
+					"name": "Kaito",
+					"text": "Wha..."
+				},
+				{
+					"text": "Yonagi and the other students have the same reaction."
+				},
+				{
+					"text": "The buzz of the classroom dies down into a bunch of muffled whispers."
+				},
+				{
+					"name": "Asuma",
+					"text": "Before the discovery of paraglucose, melanoma was known to be a type of cancer with a high risk of becoming metastatic."
+				},
+				{
+					"name": "Asuma",
+					"text": "Normally, such metastasis would take months."
+				},
+				{
+					"name": "Asuma",
+					"text": "But due to the altered genes caused by the paraglucose, it became a deadly disease that advanced and killed the patients in a matter of hours."
+				},
+				{
+					"name": "Asuma",
+					"text": "Though each person is a different story, most people now run the risk of becoming paralyzed simply from brief exposure to direct sunlight."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "That word sticks with me: melanoma."
+				},
+				{
+					"text": "My eyes are glued to the projection of the corpse on the wall."
+				},
+				{
+					"text": "Yonagi knew all this."
+				},
+				{
+					"text": "That's why she tried to stop me."
+				},
+				{
+					"text": "But..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Why were we okay back then?"
+				},
+				{
+					"name": "Kaito",
+					"text": "I don't know..."
+				},
+				{
+					"text": "I stare down at the back of my hands, then at my palms as I turn them over."
+				},
+				{
+					"text": "I don't notice anything abnormal about them."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "And then I realize something."
+				},
+				{
+					"name": "Kaito",
+					"text": "The medical book I read didn't mention anything about this."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I don't think there were books about it yet. All the paper books in the library are stuff from the surface."
+				},
+				{
+					"name": "Kaito",
+					"text": "Oh, of course..."
+				},
+				{
+					"text": "So I'll have to study the new things that were discovered after we started living underground on my own."
+				},
+				{
+					"name": "Asuma",
+					"text": "It takes only a few minutes for the body to go into shock and become unresponsive. Once a person loses consciousness and is unable to move away from the UV rays, what follows is a prompt passing within a few hours."
+				},
+				{
+					"name": "Asuma",
+					"text": "Although unwittingly, that is the way humans have evolved thanks to paraglucose. It is our new life, and thus..."
+				},
+				{
+					"text": "The professor scans the classroom."
+				},
+				{
+					"name": "Asuma",
+					"text": "We have no choice but to stay underground."
+				},
+				{
+					"name": "Asuma",
+					"text": "There was a fifteen-year transition period in which all human settlements were relocated underground."
+				},
+				{
+					"name": "Asuma",
+					"text": "During that time, many methods to at least keep a presence on the surface were investigated."
+				},
+				{
+					"name": "Asuma",
+					"text": "But due to unforeseen accidents presenting themselves in all scenarios, it was decided that moving all of the remaining population underground was the only way to ensure the survival of the species."
+				},
+				{
+					"name": "Asuma",
+					"text": "This is what Japan looked like during its most prosperous era before humanity was forced below ground."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Whoa, it's so pretty."
+				},
+				{
+					"name": "Kaito",
+					"text": "Yeah..."
+				},
+				{
+					"name": "Asuma",
+					"text": "Of course, we haven't completely given up on the prospect of returning to the surface."
+				},
+				{
+					"name": "Asuma",
+					"text": "Life underground is harsh, as I'm sure all will agree—no matter which side you're from."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "My gaze wanders towards the front seats where the topsider students sit."
+				},
+				{
+					"text": "I notice they all have smiles playing around their lips."
+				},
+				{
+					"text": "I wondered if there was a common thread that transcended the layers. I wondered."
+				},
+				{
+					"name": "Asuma",
+					"text": "Various migration strategies are being formulated and tested in the research institutes of the middle side."
+				},
+				{
+					"name": "Asuma",
+					"text": "For example, the creation of personal protective wear, or building an artificial stratosphere using ozone lenses. And that's not all..."
+				},
+				{
+					"name": "Kaito",
+					"text": "Whoa..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "It's the sea!"
+				},
+				{
+					"name": "Asuma",
+					"text": "One of the more unique ideas proposes creating a simulation of life on the surface and moving the whole population there, even if only in mind."
+				},
+				{
+					"name": "Kaito",
+					"text": "In the mind?"
+				},
+				{
+					"name": "Asuma",
+					"text": "The idea proposes creating a surface city in the virtual space and transferring the minds of all the underground residents into it."
+				},
+				{
+					"name": "Asuma",
+					"text": "This approach would also allow those not physically healthy enough for life on the surface to experience it the same as everyone else."
+				},
+				{
+					"name": "Asuma",
+					"text": "The exertion on their bodies would be no different from merely sleeping."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "I gulped."
+				},
+				{
+					"text": "We could help Mommy move like this. It could work!"
+				},
+				{
+					"text": "Not in the middle side, or the topside either! All the way to the surface!"
+				},
+				{
+					"text": "I can't take my eyes off the beautiful vistas projected behind the professor."
+				},
+				{
+					"name": "Asuma",
+					"text": "In the meantime, researchers could proceed with devoting all their time to finding a way to establish a true city on the surface."
+				},
+				{
+					"name": "Asuma",
+					"text": "The population could await the achievement of this goal, all while getting acclimated to life on the surface and remembering how to coexist with nature."
+				},
+				{
+					"name": "Asuma",
+					"text": "Furthermore, in such a deep state of sleep, the body's metabolism slows down. This would lead to savings in both water and food."
+				},
+				{
+					"name": "Asuma",
+					"text": "This would be a temporary measure that would allow many to experience life on the surface, and would smooth out the transition to true surface life when the time came."
+				},
+				{
+					"name": "Asuma",
+					"text": "What's more, it would help us save on scarce resources. These three aspects make it a very attractive proposition."
+				},
+				{
+					"name": "Asuma",
+					"text": "Surely it would be the rational option to spend resources on such research before starting a real migration to the surface. What do you all think?"
+				},
+				{
+					"text": "I nod vehemently."
+				},
+				{
+					"name": "Kaito",
+					"text": "It's incredible!"
+				},
+				{
+					"name": "Asuma",
+					"text": "The actual costs of building the infrastructure for such a system are lower than other options as well. However, it is true that this is the most challenging method of them all."
+				},
+				{
+					"name": "Asuma",
+					"text": "Human minds are rather complex, to say the least. It is not a simple endeavor to create an environment that can fool the brain into believing it's real."
+				},
+				{
+					"name": "Asuma",
+					"text": "Why, then, did I just spend all this time explaining the most difficult option of all?"
+				},
+				{
+					"text": "A smile touches his lips for a moment."
+				},
+				{
+					"name": "Asuma",
+					"text": "Because it is, in fact, the subject of my own research."
+				},
+				{
+					"name": "Asuma",
+					"text": "I truly believe that this avenue has potential enough to give my life in service of doing the necessary research."
+				},
+				{
+					"text": "With that, the professor closes his computer."
+				},
+				{
+					"text": "Still dazed, I simply stare at him unblinkingly."
+				},
+				{
+					"text": "I want to participate in that research too."
+				},
+				{
+					"text": "No..."
+				},
+				{
+					"text": "I will participate in it someday."
+				},
+				{
+					"name": "Kaito",
+					"text": "Professor Asuma is amazing!"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Y-Yeah? I guess?"
+				},
+				{
+					"text": "After the class is over, we head over to the middle side square."
+				},
+				{
+					"name": "Kaito",
+					"text": "You saw his research! If it's successful, even people that can't move will be able to experience the surface!"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Ah, right. You mean Mommy!"
+				},
+				{
+					"text": "I nod in response."
+				},
+				{
+					"name": "Kaito",
+					"text": "Yes! It's amazing! I can't believe it... I want to help with that research!"
+				},
+				{
+					"name": "Yonagi",
+					"text": "That sounds great! Mhm!"
+				},
+				{
+					"text": "I can't help but smile as I look on ahead."
+				},
+				{
+					"name": "Kaito",
+					"text": "Yeah. I never even imagined we could move her mind somewhere else. That way she could move about while I find a way to heal her."
+				},
+				{
+					"name": "Kaito",
+					"text": "She could do whatever she wanted, even if it's just in a dream."
+				},
+				{
+					"name": "Kaito",
+					"text": "And if you don't know you're dreaming, then I suppose it would basically be the same as real life, right?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Mhm!"
+				},
+				{
+					"name": "Kaito",
+					"text": "Hey, what do you think?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "M-Me?"
+				},
+				{
+					"name": "Kaito",
+					"text": "The surface is way bigger than here! If researchers can make a virtual version, it would be super huge!"
+				},
+				{
+					"name": "Kaito",
+					"text": "I wonder if they have machines that can do that here underground. What do you think?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Well, I don't really know, but I guess they should?"
+				},
+				{
+					"name": "Kaito",
+					"text": "I wonder how the professor would solve that."
+				},
+				{
+					"name": "Kaito",
+					"text": "I wonder how big that virtual space he talked about would even be."
+				},
+				{
+					"name": "Kaito",
+					"text": "Would people be able to talk with each other in there?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "..."
+				},
+				{
+					"name": "Kaito",
+					"text": "Wait, maybe if..."
+				},
+				{
+					"text": "When I raise my head, I notice Yonagi staring straight at me."
+				},
+				{
+					"text": "She looks a little upset."
+				},
+				{
+					"text": "Did I do something wrong?"
+				},
+				{
+					"name": "Kaito",
+					"text": "What's wrong?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Could we talk about something else?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Why?!"
+				},
+				{
+					"name": "Yonagi",
+					"text": "If you care so much, why didn't you go and ask the professor yourself?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Like after class was over."
+				},
+				{
+					"name": "Kaito",
+					"text": "I can't just do that."
+				},
+				{
+					"name": "Kaito",
+					"text": "The topsiders sit in the front, and then there's the midsiders."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I don't think he cares about who's asking the questions."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I actually think he'd be really happy to see a kid who wants to know about his research."
+				},
+				{
+					"name": "Kaito",
+					"text": "But..."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"name": "Kaito",
+					"text": "I don't think I can."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Aw, but you totally want to!"
+				},
+				{
+					"name": "Kaito",
+					"text": "It's fine. It's more fun to try and figure things out on my own."
+				},
+				{
+					"name": "Yonagi",
+					"text": "It's just gonna end up like last time, though! You know, the whole thing about making the car work with the gears and all that."
+				},
+				{
+					"name": "Kaito",
+					"text": "Reinventing the wheel..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Yeah, that!"
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "Maybe Yonagi has a point."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Ah, recess is over."
+				},
+				{
+					"name": "Kaito",
+					"text": "We'd better go."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I wanna go check up on Mr. Birdie, so let's get work out of the way as quick as we can."
+				},
+				{
+					"name": "Kaito",
+					"text": "Yeah, same."
+				},
+				{
+					"name": "Kaito",
+					"text": "We're back!"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Hello, Mommy!"
+				},
+				{
+					"name": "Mom",
+					"text": "Welcome, dearies."
+				},
+				{
+					"name": "Yonagi",
+					"text": "How's Mr. Birdie?"
+				},
+				{
+					"name": "Mom",
+					"text": "He's been eyeing up the place all day. It's really funny, watching him look around at everything."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I wanna see!"
+				},
+				{
+					"name": "Kaito",
+					"text": "It's really funny how he turns his head."
+				},
+				{
+					"name": "Yonagi",
+					"text": "It's so cute! I wonder what he's looking at."
+				},
+				{
+					"name": "Kaito",
+					"text": "It moves kind of like a machine. The little cries sound like a motor running."
+				},
+				{
+					"name": "Yonagi",
+					"text": "You think so? I don't think I've heard him make a squeak."
+				},
+				{
+					"name": "Mom",
+					"text": "He does sometimes."
+				},
+				{
+					"name": "Kaito",
+					"text": "Really?"
+				},
+				{
+					"name": "Mom",
+					"text": "Keep quiet for a moment and we'll see..."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "..."
+				},
+				{
+					"name": "Mom",
+					"text": "..."
+				},
+				{
+					"name": "Mom",
+					"text": "There you go!"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Ahahah! It does sound like a machine!"
+				},
+				{
+					"name": "Kaito",
+					"text": "Right?"
+				},
+				{
+					"name": "Mom",
+					"text": "How was school today? Did you two have fun?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Yeah! We had our class with Professor Asuma!"
+				},
+				{
+					"name": "Mom",
+					"text": "Professor Asuma?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "He's the school's principal, and he works in the middle side research institute."
+				},
+				{
+					"name": "Mom",
+					"text": "Oh, I see."
+				},
+				{
+					"name": "Kaito",
+					"text": "Mommy, his research is amazing!"
+				},
+				{
+					"name": "Yonagi",
+					"text": "He hasn't shut up about it all day."
+				},
+				{
+					"name": "Kaito",
+					"text": "He's researching a system so that everyone here can experience what life is like on the surface!"
+				},
+				{
+					"name": "Kaito",
+					"text": "For everyone! Imagine that! Ah, err, maybe I should explain..."
+				},
+				{
+					"text": "I explain everything I heard in the class today to Mommy."
+				},
+				{
+					"name": "Kaito",
+					"text": "So his solution would let people live a life on the surface without having to worry about the UV rays hurting them!"
+				},
+				{
+					"name": "Kaito",
+					"text": "It's amazing! I can't believe you can just leave your body and transport your mind somewhere else!"
+				},
+				{
+					"name": "Mom",
+					"text": "Would that be like... a dream? Or..."
+				},
+				{
+					"text": "Mommy turns to Yonagi."
+				},
+				{
+					"name": "Mom",
+					"text": "Like that vision Yonagi showed us the other day?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Aah, maybe?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Maybe. We can't really move inside the visions Yonagi makes, but I think the professor wants to make it so everyone can move inside that virtual space."
+				},
+				{
+					"name": "Kaito",
+					"text": "That way it doesn't matter if someone's sick—everyone could be there."
+				},
+				{
+					"text": "I look up at Mommy."
+				},
+				{
+					"name": "Kaito",
+					"text": "We could live together on the surface!"
+				},
+				{
+					"text": "The beginning of a sweet smile starts to spread across her face."
+				},
+				{
+					"name": "Yonagi",
+					"text": "..."
+				},
+				{
+					"name": "Mom",
+					"text": "Mm? Is everything okay, dear?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Ah, well... I don't know if it's okay for me to ask."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I just, um... was wondering what kind of illness you have..."
+				},
+				{
+					"text": "Mommy and I look at each other."
+				},
+				{
+					"text": "Then she slowly turns back to Yonagi."
+				},
+				{
+					"name": "Mom",
+					"text": "I haven't been diagnosed by a doctor, so we don't really know."
+				},
+				{
+					"name": "Mom",
+					"text": "One day I just couldn't move my toes."
+				},
+				{
+					"name": "Mom",
+					"text": "From there, it slowly spread up through my body."
+				},
+				{
+					"name": "Mom",
+					"text": "This hand is the only part I can move now."
+				},
+				{
+					"text": "She says, raising her right hand for Yonagi."
+				},
+				{
+					"name": "Kaito",
+					"text": "Huh? But can't you move the fingers on your left hand?"
+				},
+				{
+					"text": "After a second, a shade of sadness covers her eyes and she shakes her head."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"name": "Kaito",
+					"text": "...Since when?"
+				},
+				{
+					"name": "Mom",
+					"text": "This morning."
+				},
+				{
+					"name": "Kaito",
+					"text": "Oh no..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "You don't know why it's happening?"
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I see... So that's why you're reading medical books."
+				},
+				{
+					"name": "Mom",
+					"text": "He is?"
+				},
+				{
+					"text": "Feeling a little shy, I nod."
+				},
+				{
+					"name": "Kaito",
+					"text": "But there's nothing like it in any of the books."
+				},
+				{
+					"name": "Yonagi",
+					"text": "..."
+				},
+				{
+					"name": "Mom",
+					"text": "Thank you, sweetie. It warms my heart to know how much you care about me."
+				},
+				{
+					"name": "Kaito",
+					"text": "No! I can't save you if I can't figure it out."
+				},
+				{
+					"name": "Kaito",
+					"text": "I won't stop until I find a solution. That's why I'm going to school."
+				},
+				{
+					"name": "Kaito",
+					"text": "I promise I'll save you."
+				},
+				{
+					"name": "Kaito",
+					"text": "I'm gonna do it, I swear."
+				},
+				{
+					"name": "Mom",
+					"text": "Mhm. I'll be waiting for you."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I'm really sorry."
+				},
+				{
+					"name": "Kaito",
+					"text": "Huh? For what?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "For making Mommy talk about her illness. Maybe I should have asked you when we were alone."
+				},
+				{
+					"name": "Kaito",
+					"text": "It's fine. I don't think she cares about that."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Mhm... It'd be nice if they got better. Mommy and Mr. Birdie, I mean."
+				},
+				{
+					"name": "Kaito",
+					"text": "Yeah."
+				},
+				{
+					"text": "Feeling a little sad, I look up at the round sky above us."
+				},
+				{
+					"text": "The perfectly circular black sky is covered in a mantle of stars."
+				},
+				{
+					"name": "Kaito",
+					"text": "I think the bird will want to go to the surface."
+				},
+				{
+					"name": "Kaito",
+					"text": "I think they're supposed to fly free in the sky. I don't think it likes being stuck in that small room."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Maybe, yeah. When it's better, let's take it back where we found it."
+				},
+				{
+					"name": "Kaito",
+					"text": "Mhm."
+				},
+				{
+					"text": "I can see the reflection of the ozone lens between us and the sky."
+				},
+				{
+					"text": "And the wire frame that separates the plates and holds them in place."
+				},
+				{
+					"text": "I remember that mysterious place where we found the bird."
+				},
+				{
+					"text": "I remember thinking that there couldn't have been an ozone lens between me and the sky there."
+				},
+				{
+					"text": "But nothing happened to me."
+				},
+				{
+					"text": "Or to Yonagi."
+				},
+				{
+					"text": "The image of that metastasized melanoma-ridden corpse from earlier flashes in my mind."
+				},
+				{
+					"text": "Why did nothing happen to us?"
+				},
+				{
+					"text": "If what the professor said was true, we shouldn't be standing here now."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Kaito?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Mm?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "No, nevermind. Can I come by tomorrow morning?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Sure you can."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Are you sure I'm not interrupting your time together?"
+				},
+				{
+					"text": "I shake my head."
+				},
+				{
+					"name": "Kaito",
+					"text": "You're not! I haven't seen Mommy so happy in a long time. I think it's because you started coming."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Thanks."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I'll come tomorrow at the same time, okay?"
+				},
+				{
+					"text": "Yonagi hangs her head and begins fidgeting with her fingers again."
+				},
+				{
+					"name": "Kaito",
+					"text": "Um..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Well, do you think Mommy would let me take her picture?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Huh?"
+				},
+				{
+					"text": "I think for a moment then remember the camera she showed me during my first day at school."
+				},
+				{
+					"name": "Kaito",
+					"text": "Oh, you mean with the polaroid camera?"
+				},
+				{
+					"text": "She looks a little surprised upon hearing that word."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Polaroid?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Cameras that process the photos on the spot like that are called polaroid cameras."
+				},
+				{
+					"name": "Kaito",
+					"text": "It was in the encyclopedia."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Oh, wow!"
+				},
+				{
+					"name": "Kaito",
+					"text": "I think she'd like that. Bring it tomorrow."
+				},
+				{
+					"text": "Yonagi smiles and bobs her head energetically."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Yeah! I'll take a picture of Mr. Birdie too!"
+				},
+				{
+					"name": "Kaito",
+					"text": "I'll have breakfast ready for you."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I can't wait! See you tomorrow! Sleep well!"
+				},
+				{
+					"name": "Kaito",
+					"text": "Mhm, good night."
+				},
+				{
+					"text": "Yonagi happily skips into the cornfields on her way back home."
+				},
+				{
+					"text": "I wake up to find that Mommy and the bird are already up."
+				},
+				{
+					"name": "Kaito",
+					"text": "Uh..."
+				},
+				{
+					"name": "Mom",
+					"text": "Good morning, dear."
+				},
+				{
+					"name": "Kaito",
+					"text": "You're up early."
+				},
+				{
+					"name": "Mom",
+					"text": "Well, Mr. Birdie here is an early bird indeed."
+				},
+				{
+					"name": "Kaito",
+					"text": "Mhm... *Yawn*"
+				},
+				{
+					"text": "I yawn and stretch out my sleepy limbs."
+				},
+				{
+					"text": "When I turn my bleary eyes back to Mommy, I see the bird resting on her right hand."
+				},
+				{
+					"name": "Kaito",
+					"text": "Whoa!"
+				},
+				{
+					"name": "Mom",
+					"text": "It's eating the feed you two made yesterday."
+				},
+				{
+					"name": "Kaito",
+					"text": "Ooh!"
+				},
+				{
+					"name": "Kaito",
+					"text": "Hahah, it's so cute when it eats."
+				},
+				{
+					"text": "I watch as the bird pecks at the feed, still sitting atop Mommy's right hand."
+				},
+				{
+					"name": "Mom",
+					"text": "..."
+				},
+				{
+					"text": "Just then, I catch a glimmer of something out of the corner of my eye."
+				},
+				{
+					"text": "It falls down onto the towel spread across Mommy's lap, leaving a little wet stain."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "I raise my face and look up at her."
+				},
+				{
+					"text": "It's only then that I realize what it was—a tear."
+				},
+				{
+					"name": "Kaito",
+					"text": "Mommy? What's wrong?"
+				},
+				{
+					"text": "She slowly shakes her head."
+				},
+				{
+					"name": "Mom",
+					"text": "It's nothing, dear, really..."
+				},
+				{
+					"name": "Kaito",
+					"text": "Um..."
+				},
+				{
+					"text": "All of a sudden, a flapping sound reaches my ears."
+				},
+				{
+					"text": "It can only mean one thing."
+				},
+				{
+					"name": "Kaito",
+					"text": "Ah!"
+				},
+				{
+					"text": "The bird flies through the air, circling around."
+				},
+				{
+					"text": "The beating of its wings echoes loudly in the small room."
+				},
+				{
+					"name": "Kaito",
+					"text": "It's so cool! Did you see that?!"
+				},
+				{
+					"name": "Mom",
+					"text": "...Kaito."
+				},
+				{
+					"name": "Kaito",
+					"text": "Mommy, the bird!"
+				},
+				{
+					"name": "Mom",
+					"text": "You're an incredible boy, Kaito. You're the kindest, smartest boy. I feel so blessed... for having an angel like you in my life."
+				},
+				{
+					"name": "Kaito",
+					"text": "Huh?"
+				},
+				{
+					"name": "Mom",
+					"text": "Remember this. You can accomplish anything you set your mind to."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "Her quiet voice overlaps with the sound of the bird's wings."
+				},
+				{
+					"text": "After a moment, the bird comes down and settles by the window."
+				},
+				{
+					"name": "Kaito",
+					"text": "Ah, it must be Yonagi."
+				},
+				{
+					"name": "Mom",
+					"text": "Yes. Let her in, dear."
+				},
+				{
+					"name": "Kaito",
+					"text": "Yeah!"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Good morning!"
+				},
+				{
+					"name": "Kaito",
+					"text": "Hey! The bird flew just now!"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Ah!"
+				},
+				{
+					"text": "Yonagi and I rush to Mommy's bedside."
+				},
+				{
+					"text": "The bird twists its neck to look at us, then immediately faces forward again."
+				},
+				{
+					"text": "It does that a few times, as though eyeing up something that's piqued its interest."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Huh? Mommy?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Ah!"
+				},
+				{
+					"text": "The bird hops around, turning its back on us."
+				},
+				{
+					"text": "The next instant, it flies out a gap in the window."
+				},
+				{
+					"name": "Kaito",
+					"text": "Look! It can fly! It's flying out!"
+				},
+				{
+					"name": "Mom",
+					"text": "Heheh. Kaito, go follow our little friend."
+				},
+				{
+					"name": "Kaito",
+					"text": "Yeah! Let's go, Yonagi!"
+				},
+				{
+					"text": "I rush out the front door."
+				},
+				{
+					"name": "Yonagi",
+					"text": "..."
+				},
+				{
+					"text": "The sound of his footsteps grows distant."
+				},
+				{
+					"text": "I turn and see Mommy looking out the window."
+				},
+				{
+					"text": "Kaito looked so happy."
+				},
+				{
+					"text": "He almost never smiles like that."
+				},
+				{
+					"text": "It was the same smile I felt like I wanted to keep on his face ever since the first time I saw it."
+				},
+				{
+					"text": "But something feels off. Even though I love seeing him smile..."
+				},
+				{
+					"text": "I can't turn away from Mommy right now."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Mommy?"
+				},
+				{
+					"text": "I try to sound happy, but my voice comes out more like a whisper."
+				},
+				{
+					"text": "But there's nothing else in the quiet room, so Mommy hears and turns to me."
+				},
+				{
+					"text": "She looks at me with that same kind smile she always has for me."
+				},
+				{
+					"text": "I realize that it's the same way she looks at Kaito."
+				},
+				{
+					"text": "The thought makes me happy."
+				},
+				{
+					"text": "I'm so happy to see her smile."
+				},
+				{
+					"text": "And even more so to have that smile aimed at me."
+				},
+				{
+					"name": "Mom",
+					"text": "Yonagi."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Yes?"
+				},
+				{
+					"text": "I approach slowly and sit by her bedside."
+				},
+				{
+					"name": "Mom",
+					"text": "Would it be okay if I asked you to look after Kaito for me?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Huh?"
+				},
+				{
+					"name": "Mom",
+					"text": "You know how much of a crybaby he is. If he had a strong girl like you to watch after him, it would give me so much peace of mind."
+				},
+				{
+					"name": "Yonagi",
+					"text": "..."
+				},
+				{
+					"name": "Mom",
+					"text": "Maybe it's a little too much to ask?"
+				},
+				{
+					"text": "I shake my head."
+				},
+				{
+					"name": "Yonagi",
+					"text": "No, I will! I promise!"
+				},
+				{
+					"text": "I..."
+				},
+				{
+					"text": "Even though I know I shouldn't say it, I just can't help myself."
+				},
+				{
+					"text": "But I don't think I'm making a mistake. I'm doing what feels right."
+				},
+				{
+					"text": "I want to do everything I can to see him happy."
+				},
+				{
+					"text": "I know I can do that."
+				},
+				{
+					"name": "Mom",
+					"text": "Thank you, love. You don't know how much of a relief it is to hear that."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Um, actually, I... Well..."
+				},
+				{
+					"name": "Mom",
+					"text": "Yes?"
+				},
+				{
+					"text": "I lean a little closer to her and whisper into her ear."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Mommy, I... I love him."
+				},
+				{
+					"text": "All of my courage comes out in a murmur."
+				},
+				{
+					"text": "I feel like my face is on fire as I finally say it."
+				},
+				{
+					"text": "Mommy's eyes widen in surprise, but then her expression settles back into the same kind smile."
+				},
+				{
+					"name": "Yonagi",
+					"text": "You can trust me! I'm gonna keep my promise, no matter what!"
+				},
+				{
+					"text": "She raises her eyebrows for a moment, then breaks into a little chuckle."
+				},
+				{
+					"name": "Mom",
+					"text": "Oh, Kaito is such a lucky boy."
+				},
+				{
+					"text": "Not really knowing what to say, I just nod along."
+				},
+				{
+					"name": "Mom",
+					"text": "Thank you so much, Yonagi. I am so very glad to have met you."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Me too!"
+				},
+				{
+					"text": "I can hear Kaito's voice from the other side of the window. He sounds like he's having fun."
+				},
+				{
+					"text": "He's shouting something as he chases after the bird."
+				},
+				{
+					"text": "His enthusiasm is so contagious that I can't help but laugh."
+				},
+				{
+					"text": "I see Kaito running ahead, his face the very image of joy."
+				},
+				{
+					"text": "Mommy does the same."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Oh, one more thing! Can I ask you something?"
+				},
+				{
+					"name": "Mom",
+					"text": "Yes?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "I kind of wanted to take a picture of you."
+				},
+				{
+					"name": "Mom",
+					"text": "A picture?"
+				},
+				{
+					"text": "I nod enthusiastically."
+				},
+				{
+					"text": "I pull out my polaroid camera, and her eyes are immediately drawn to it."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Um, with this camera here."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I wanna take pictures of people I love very much, so I never forget about them."
+				},
+				{
+					"name": "Mom",
+					"text": "..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "So I want to take your picture."
+				},
+				{
+					"text": "She stares at me for a moment."
+				},
+				{
+					"name": "Mom",
+					"text": "Heheh, I'm a little bit shy, but sure."
+				},
+				{
+					"name": "Mom",
+					"text": "Am I okay like this?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Yes!"
+				},
+				{
+					"name": "Mom",
+					"text": "Ah, but would you be a dear and wipe my face? If I take a picture like this, Kaito will know I was crying."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Right!"
+				},
+				{
+					"text": "I grab a kitchen cloth and present it to her."
+				},
+				{
+					"text": "But Mommy remains still, her smile growing a little sad."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Mommy?"
+				},
+				{
+					"name": "Mom",
+					"text": "I'm sorry, sweetie. Could you wipe my face for me? Just around my cheeks is fine."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Of course I can!"
+				},
+				{
+					"text": "I lean forward and wipe her cheeks gently."
+				},
+				{
+					"text": "Her skin looks so white from up close."
+				},
+				{
+					"text": "And it's... not soft at all."
+				},
+				{
+					"name": "Yonagi",
+					"text": "..."
+				},
+				{
+					"text": "In that moment, I realize just how strong of a woman Kaito's mom is."
+				},
+				{
+					"text": "I'm certain that up to this day..."
+				},
+				{
+					"text": "She's been keeping up that smile to reassure us. I understand now how much of an effort it must take for her to keep smiling like that."
+				},
+				{
+					"text": "I hope I can become as strong as her someday."
+				},
+				{
+					"name": "Yonagi",
+					"text": "...You're very pretty, Mommy."
+				},
+				{
+					"name": "Mom",
+					"text": "Oh, thank you."
+				},
+				{
+					"text": "I also realize that I should tell her the truth."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Mommy. I want to tell you the truth."
+				},
+				{
+					"name": "Mom",
+					"text": "Mm?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "...I won't be able to be with Kaito forever."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I don't think I'll be able to stay like I am for that long."
+				},
+				{
+					"name": "Mom",
+					"text": "..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "But I promise I will make him happy."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I'll make lots of happy memories with him. That way he'll be able to keep smiling forever."
+				},
+				{
+					"name": "Yonagi",
+					"text": "You don't need to worry! It'll be fine!"
+				},
+				{
+					"text": "I say those words as much for myself as for her, really."
+				},
+				{
+					"text": "Mommy looks down at me for a moment, then a happy smile parts her lips."
+				},
+				{
+					"name": "Mom",
+					"text": "In that case, I can rest easy."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Yes! You don't need to worry about a thing!"
+				},
+				{
+					"text": "Mommy gives me a small nod."
+				},
+				{
+					"text": "I slowly take a step back."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I'm gonna take the picture!"
+				},
+				{
+					"name": "Mom",
+					"text": "Okay, you better get my good side!"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Yes!"
+				},
+				{
+					"text": "I position the camera and press the shutter."
+				},
+				{
+					"text": "Bathed in the light coming through the window, she has that beautiful smile on her face."
+				},
+				{
+					"name": "Mom",
+					"text": "Now, I think you should go see Kaito doesn't get himself into trouble."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Yes! I'll take a picture of Mr. Birdie too!"
+				},
+				{
+					"text": "I head to the front door, then turn back to Mommy."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I'll go get him so we can all have breakfast before school! I'll be right back, Mommy!"
+				},
+				{
+					"text": "She sees me off with a smile and a nod."
+				},
+				{
+					"text": "I nod back at her."
+				},
+				{
+					"text": "I somehow know that this conversation with Mommy will be something I'll never forget."
+				},
+				{
+					"text": "A memory that will stay with me, always."
+				},
+				{
+					"text": "I feel I just received a baton of sorts from her."
+				},
+				{
+					"text": "That's why..."
+				},
+				{
+					"text": "I feel like I should go to Kaito now."
+				},
+				{
+					"text": "With a smile on my face, just like her."
+				},
+				{
+					"text": "No matter what's waiting for us."
+				},
+				{
+					"text": "I think that's what Mommy wants."
+				},
+				{
+					"text": "I'm sure Kaito will value our time together too."
+				},
+				{
+					"text": "But above all, I just want to be with him."
+				},
+				{
+					"text": "I smile, she nods again, and I turn to chase after Kaito's voice."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Kaito!"
+				},
+				{
+					"name": "Mom",
+					"text": "...Thank you, sweetie."
+				},
+				{
+					"name": "Mom",
+					"text": "Forgive me, Kaito."
+				},
+				{
+					"name": "Mom",
+					"text": "..."
+				},
+				{
+					"name": "Mom",
+					"text": "Be good, Kaito, Yonagi..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Kaaaiiitooo!"
+				},
+				{
+					"text": "Enraptured, I watch the bird fly over the cornfields, until I hear Yonagi call out to me."
+				},
+				{
+					"name": "Kaito",
+					"text": "What took you so long?! Look! It's over there!"
+				},
+				{
+					"text": "I shout, pointing at the bird as it flies about the middle side."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Whoa! It's flying so high!"
+				},
+				{
+					"text": "I run after it."
+				},
+				{
+					"text": "The bird is flying with so much more ease than back in the house."
+				},
+				{
+					"text": "When Yonagi starts running after us, the bird changes course and flies towards her."
+				},
+				{
+					"text": "It's like it wants to show itself off to her."
+				},
+				{
+					"name": "Yonagi",
+					"text": "So cool!"
+				},
+				{
+					"text": "The bird perches itself at the tip of a corn stalk."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Picture time! Let me take a picture, Mr. Birdie!"
+				},
+				{
+					"text": "Yonagi says, breathing heavily as she pulls out her camera."
+				},
+				{
+					"name": "Kaito",
+					"text": "Hurry! It's gonna fly away."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I know!"
+				},
+				{
+					"text": "Yonagi slowly approaches with the camera, then presses the shutter."
+				},
+				{
+					"text": "The bird stares curiously at the small black camera for a moment."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I took it!"
+				},
+				{
+					"name": "Kaito",
+					"text": "Let me see! How does it look?"
+				},
+				{
+					"text": "The form of the white bird slowly emerges on the glossy white paper."
+				},
+				{
+					"name": "Kaito",
+					"text": "It can go higher? Wow!"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Ah!"
+				},
+				{
+					"text": "Yonagi points at the bird."
+				},
+				{
+					"text": "It flaps its wings again and takes flight higher than ever before."
+				},
+				{
+					"text": "Laughing happily, we chase after the bird."
+				},
+				{
+					"text": "It soars higher and higher."
+				},
+				{
+					"text": "Soon the bird overlaps with the rays of sunlight seeping through the ozone lens."
+				},
+				{
+					"text": "When the light hits at that angle, its silhouette becomes darker."
+				},
+				{
+					"text": "I squint at it."
+				},
+				{
+					"text": "The bird and its spread wings are enveloped by the dazzling light."
+				},
+				{
+					"text": "I stare at the small shadow as it flies above."
+				},
+				{
+					"text": "...It's getting bigger."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Huh?"
+				},
+				{
+					"text": "Wait, no."
+				},
+				{
+					"text": "The shadow isn't getting bigger; it's coming towards us..."
+				},
+				{
+					"text": "Until it disappears from sight and drops to the ground with a weak thud."
+				},
+				{
+					"name": "Kaito",
+					"text": "Why?!"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Kaito!"
+				},
+				{
+					"text": "I run as fast as my legs can carry me."
+				},
+				{
+					"text": "The thump of my shoes hitting the ground drums in my ears."
+				},
+				{
+					"text": "From behind, I hear Yonagi running after me."
+				},
+				{
+					"text": "I break away from the small path and push my way through the stalks of corn."
+				},
+				{
+					"text": "The thick leaves slice at my hands and cheeks as I run by."
+				},
+				{
+					"text": "The stinging pain gets sharper, but I keep running."
+				},
+				{
+					"name": "Kaito",
+					"text": "Why?! No, no, no!"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Huff! Huff! Huff!"
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "..."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "Once we get to it, I understand at first glance."
+				},
+				{
+					"text": "The bird isn't there anymore, not really."
+				},
+				{
+					"text": "The little thing that rose to the sky just a moment ago..."
+				},
+				{
+					"text": "It's gone now."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Kaito, I..."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "It's happening again."
+				},
+				{
+					"text": "Like with the broken car."
+				},
+				{
+					"text": "It's just like back then."
+				},
+				{
+					"text": "I'm losing something important, right in front of my eyes."
+				},
+				{
+					"text": "There's nothing here anymore."
+				},
+				{
+					"text": "I feel my throat tighten."
+				},
+				{
+					"text": "The tears spill from my already wet eyes and patter onto the cold ground."
+				},
+				{
+					"text": "Just like back then, I don't think I can stop crying."
+				},
+				{
+					"text": "The tears just keep on coming."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I think... that he probably wanted to show us his last flight."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "That's what I think."
+				},
+				{
+					"name": "Kaito",
+					"text": "Mhm..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "It's no one's fault, Kaito. You know that..."
+				},
+				{
+					"name": "Kaito",
+					"text": "Y-Yeah... *Sob*"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Let's take him home. Then we can go and bury him back where we found him."
+				},
+				{
+					"name": "Kaito",
+					"text": "Yeah..."
+				},
+				{
+					"text": "I gently pick up the bird and cradle it with both hands."
+				},
+				{
+					"text": "Its little eyes are closed."
+				},
+				{
+					"name": "Kaito",
+					"text": "...It doesn't look like he was in pain."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Mhm."
+				},
+				{
+					"text": "I quietly open the door to the house."
+				},
+				{
+					"text": "Once we enter, the click it makes as it closes echoes through the room."
+				},
+				{
+					"name": "Kaito",
+					"text": "Mommy..."
+				},
+				{
+					"text": "My voice comes out as a murmur as I try to fight the tears back."
+				},
+				{
+					"text": "I look at her bed by the window."
+				},
+				{
+					"text": "Her head is hanging down, and she seems..."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "A chill runs through my bones, and my hairs stand on end."
+				},
+				{
+					"text": "I don't want to see."
+				},
+				{
+					"text": "I don't want to know."
+				},
+				{
+					"text": "I don't want to get closer."
+				},
+				{
+					"text": "But I'm unable to stop walking towards her."
+				},
+				{
+					"name": "Kaito",
+					"text": "No... No... Why..."
+				},
+				{
+					"text": "My hands quiver around the bird's corpse."
+				},
+				{
+					"text": "The only thing that keeps me from dropping it is Yonagi's hand on mine."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Kaito..."
+				},
+				{
+					"name": "Kaito",
+					"text": "Yonagi... Mommy, she..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Mhm..."
+				},
+				{
+					"text": "I wonder why my knees don't buckle."
+				},
+				{
+					"text": "I don't even know if I'm crying anymore."
+				},
+				{
+					"text": "It feels like my body's a thousand miles away, and I can't even think."
+				},
+				{
+					"text": "I simply blink again and again."
+				},
+				{
+					"text": "But no matter how many times I do it, I open my eyes to the same scene."
+				},
+				{
+					"text": "The image of Mommy leaning forward, like a withering flower that can no longer stay upright in the vase."
+				},
+				{
+					"text": "I realize that there's no life in there anymore."
+				},
+				{
+					"text": "There's still bird feed in her right palm."
+				},
+				{
+					"text": "And then I realize."
+				},
+				{
+					"text": "That's when she stopped being able to move that arm."
+				},
+				{
+					"name": "Yonagi",
+					"text": "*Sob* I'm sorry, Mommy, I... I know I have to be strong for him..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "But... I just..."
+				},
+				{
+					"text": "Yonagi's quiet sobs bring me back."
+				},
+				{
+					"text": "And I cry with her."
+				},
+				{
+					"text": "I place the dead bird on Mommy's lap."
+				},
+				{
+					"text": "Somehow, I feel like the moment that bird fell was when she breathed for the last time."
+				},
+				{
+					"text": "From the view of that bird flying high, the city must have looked like one single, uninterrupted space connected to the sky."
+				},
+				{
+					"text": "Low side, middle side, top side..."
+				},
+				{
+					"text": "It couldn't have seen any of the lines we draw to separate people."
+				},
+				{
+					"text": "I'm sure that bird is the one who took Mommy to the sky in the end."
+				},
+				{
+					"text": "Through the ozone lens..."
+				},
+				{
+					"text": "It took her life up to that blue endless sky."
+				},
+				{
+					"text": "I bawl inconsolably."
+				},
+				{
+					"text": "I cry out in sadness."
+				},
+				{
+					"text": "Both Yonagi and I cry for so long we lose track of time."
+				},
+				{
+					"text": "At some point, we started holding hands."
+				},
+				{
+					"text": "I don't know who started it."
+				},
+				{
+					"text": "I don't know how long we've been connected like this."
+				},
+				{
+					"text": "It's just what comes naturally to us."
+				},
+				{
+					"text": "Before me..."
+				},
+				{
+					"text": "Before us, the sky and the sea spread out endlessly."
+				},
+				{
+					"text": "All at once, I know."
+				},
+				{
+					"text": "Both of us are seeing the same thing."
+				},
+				{
+					"text": "Our hearts are connected, and we're seeing it together."
+				},
+				{
+					"text": "I see a single bird flying across the sky."
+				},
+				{
+					"text": "Towards the place where the blue sea and the blue sky meet at the horizon."
+				},
+				{
+					"text": "A briny breeze surges from below."
+				},
+				{
+					"text": "The bird flies freely, swaying gently from side to side as it glides on."
+				},
+				{
+					"text": "With tears still pouring down our faces, we watch it go."
+				},
+				{
+					"text": "But before long, the little bird becomes nothing but a dot that then disappears behind the clouds."
+				},
+				{
+					"text": "A simple hole in the bare earth wall of the low side."
+				},
+				{
+					"text": "That's all we lowsiders get for a grave."
+				},
+				{
+					"text": "Graves we might call them, but they're not much more than small holes in the dirt that we then cover the bodies of the deceased. And now, Mommy's in one of those."
+				},
+				{
+					"text": "We were exempt from work yesterday."
+				},
+				{
+					"text": "Some of the adults came with a stretcher made out of wood and cloth and carried Mommy out."
+				},
+				{
+					"text": "The nice old man that assigns us work was there too."
+				},
+				{
+					"text": "We both followed as they took Mommy away."
+				},
+				{
+					"text": "The encyclopedia I read listed several types of funerals they did back on the surface."
+				},
+				{
+					"text": "People long ago burned the dead out of fear they would come back to life, or buried them in weird positions, or left stones above their graves to keep them from getting up."
+				},
+				{
+					"text": "Maybe having a huge sky over their heads made their imaginations run wild."
+				},
+				{
+					"text": "Down here, we know it's just a corpse. It won't come back to life."
+				},
+				{
+					"text": "So we wrap them in a cloth, and then bury them deep inside a hole in the clay walls surrounding this side."
+				},
+				{
+					"text": "There's a lot of soil for that here in the low side."
+				},
+				{
+					"text": "The adults bury Mommy's body deep down in the earth."
+				},
+				{
+					"text": "Yonagi and I look down together at the small mound of soil covering her."
+				},
+				{
+					"text": "She holds my hand, and I hold hers back as we stand there."
+				},
+				{
+					"text": "As I'm leaving the spot where they buried her, I notice that one of the holes in the clay looks surprisingly neat and well maintained."
+				},
+				{
+					"text": "I don't see anyone around here."
+				},
+				{
+					"text": "But the way this hole has been dug out seems kind of strange."
+				},
+				{
+					"text": "What could it be?"
+				},
+				{
+					"text": "I stop and stare at the dark hole."
+				},
+				{
+					"name": "Chief",
+					"text": "Long ago..."
+				},
+				{
+					"text": "Suddenly, a familiar voice makes me turn around."
+				},
+				{
+					"text": "I see the nice old man standing behind me."
+				},
+				{
+					"name": "Chief",
+					"text": "I hear there used to be a topsider who worked hard to help the people down here in the low side."
+				},
+				{
+					"name": "Chief",
+					"text": "Stories of a doctor who did his best to help the sick, like your mom. People said he was like a god that came down and lifted up the poor lowsiders."
+				},
+				{
+					"name": "Kaito",
+					"text": "God..."
+				},
+				{
+					"text": "He nods."
+				},
+				{
+					"name": "Chief",
+					"text": "But that's an old story by now. There's no topsiders like that anymore."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "No."
+				},
+				{
+					"text": "There is no god."
+				},
+				{
+					"text": "A god would have helped Mommy."
+				},
+				{
+					"text": "So god doesn't exist."
+				},
+				{
+					"name": "Chief",
+					"text": "Just a little rumor I heard in the markets a few decades ago."
+				},
+				{
+					"name": "Chief",
+					"text": "Let's get you back, kid."
+				},
+				{
+					"name": "Kaito",
+					"text": "Mhm."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "And just like that, the funeral was over."
+				},
+				{
+					"text": "No time to stand there and say goodbye."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Kaito..."
+				},
+				{
+					"name": "Kaito",
+					"text": "Mhm."
+				},
+				{
+					"text": "But we already said our goodbye to Mommy."
+				},
+				{
+					"text": "The two of us saw her flying off over the endless sky."
+				},
+				{
+					"text": "Between the sea and the sky, like in the last chapter of Kaito's adventure. She loved that story."
+				},
+				{
+					"text": "The empty bed looks out of place now."
+				},
+				{
+					"text": "There's the small potted plant by the window, and the little nest we made for the bird."
+				},
+				{
+					"text": "It almost seems like a lie that they were still here just yesterday."
+				},
+				{
+					"name": "Yonagi",
+					"text": "We should bury him too."
+				},
+				{
+					"name": "Kaito",
+					"text": "Mhm, yeah."
+				},
+				{
+					"name": "Yonagi",
+					"text": "We should take him back there, right?"
+				},
+				{
+					"text": "I nod at her. Then I go fetch the nest, the potted plant, and a small shovel on our way out."
+				},
+				{
+					"name": "Kaito",
+					"text": "Let's go."
+				},
+				{
+					"text": "It feels like it's been weeks since I was last here, and it's still as bright as it was back then."
+				},
+				{
+					"name": "Yonagi",
+					"text": "We'll be okay, right?"
+				},
+				{
+					"text": "A little anxious, Yonagi holds my hand."
+				},
+				{
+					"text": "I nod back and take a step into the light."
+				},
+				{
+					"name": "Kaito",
+					"text": "I think it's okay."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Mhm."
+				},
+				{
+					"text": "We take a step forward together into the light and walk to the center of the little field of flower."
+				},
+				{
+					"text": "I crouch down and start digging a small hole."
+				},
+				{
+					"text": "It doesn't need to be as big as the hole that was dug for Mommy."
+				},
+				{
+					"text": "It doesn't even take me five minutes to finish digging deep enough."
+				},
+				{
+					"text": "A small hole, just big enough to bury these memories."
+				},
+				{
+					"text": "I place the corn leaf bowl the three of us made together into the hole, then lay the bird inside it."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Maybe we should've given Mr. Birdie a real name."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Not just Mr. Birdie... It would've been nice if we'd thought up a proper name for him."
+				},
+				{
+					"text": "Tears streak down her cheek."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Goodbye."
+				},
+				{
+					"text": "I use the same shovel to fill in the hole again."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "Once the bird is covered, I take the plant out of the pot and replant it in the mound of fresh soil."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "..."
+				},
+				{
+					"text": "Yonagi stares down at the plant."
+				},
+				{
+					"text": "I glance at her profile then get to my feet."
+				},
+				{
+					"name": "Kaito",
+					"text": "Let's come visit sometimes."
+				},
+				{
+					"name": "Kaito",
+					"text": "We can remember them both here."
+				},
+				{
+					"name": "Kaito",
+					"text": "We have to keep living, so we can remember them."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Yeah."
+				},
+				{
+					"text": "We pass through the small passage and come out into the middle side again."
+				},
+				{
+					"name": "Shachi",
+					"text": "What are you two doing?"
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "As we come out to the square, we find Shachi there."
+				},
+				{
+					"text": "It looks like he's on his way home from school."
+				},
+				{
+					"text": "Izumo's behind him as usual."
+				},
+				{
+					"name": "Shachi",
+					"text": "Come on. Where did you two pop out from? Aren't you supposed to be working?"
+				},
+				{
+					"name": "Kaito",
+					"text": "We weren't doing anything."
+				},
+				{
+					"name": "Shachi",
+					"text": "Yes you were! We're in the middle side! What the heck are you two worms doing here if you're not working?!"
+				},
+				{
+					"text": "Shachi stomps up to us and shoves me away."
+				},
+				{
+					"text": "I fall back into the bushes and land on my butt, pushing the shrubs apart and leaving the open hole in the wall in plain sight."
+				},
+				{
+					"name": "Shachi",
+					"text": "What? What the heck is that? I've never seen that there! Izumo!"
+				},
+				{
+					"name": "Izumo",
+					"text": "It is not in my data banks."
+				},
+				{
+					"name": "Shachi",
+					"text": "Whoa, you don't know?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Kaito! Are you okay?"
+				},
+				{
+					"text": "Ignoring Shachi, Yonagi helps me up."
+				},
+				{
+					"name": "Kaito",
+					"text": "Thanks. Yonagi."
+				},
+				{
+					"name": "Shachi",
+					"text": "What's in there?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Nothing."
+				},
+				{
+					"name": "Shachi",
+					"text": "Lying thief! You know what's in there!"
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"name": "Shachi",
+					"text": "Get in! You go first!"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Kaito..."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "Pushed on by Shachi, I enter the passage and head towards the light again."
+				},
+				{
+					"name": "Shachi",
+					"text": "What the heck is this? Is that... sunlight? This goes up to the surface?"
+				},
+				{
+					"name": "Shachi",
+					"text": "What were you doing here?!"
+				},
+				{
+					"text": "As soon as we enter the clearing, Shachi is startled by the bright light."
+				},
+				{
+					"name": "Shachi",
+					"text": "You were here, right? You were up to something! Why aren't you dead?!"
+				},
+				{
+					"name": "Kaito",
+					"text": "We don't know."
+				},
+				{
+					"text": "Out of nowhere, he gives me a shove from behind, pushing me into the beams of light."
+				},
+				{
+					"text": "I stagger but manage not to fall this time."
+				},
+				{
+					"name": "Shachi",
+					"text": "..."
+				},
+				{
+					"text": "I simply stare as it bathes in the sun."
+				},
+				{
+					"text": "Shachi timidly steps into the light too and looks up at the sky."
+				},
+				{
+					"name": "Shachi",
+					"text": "Nothing happens... It's okay!"
+				},
+				{
+					"name": "Shachi",
+					"text": "That's the sky, right?! And the damn sun?! Is this wind? Hey! This goes up to the surface, right?!"
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "Shachi turns to me, and I notice his eyes are bloodshot, his expression somewhat frightening."
+				},
+				{
+					"name": "Shachi",
+					"text": "You went up there?! You went to the surface?!"
+				},
+				{
+					"text": "I shake my head."
+				},
+				{
+					"name": "Yonagi",
+					"text": "We didn't do that."
+				},
+				{
+					"name": "Yonagi",
+					"text": "We... just made a grave here. That's all."
+				},
+				{
+					"name": "Shachi",
+					"text": "Are you stupid or what?!"
+				},
+				{
+					"text": "He shouts at us, then turns around and jumps onto the ivy growing over the walls of the clearing."
+				},
+				{
+					"name": "Shachi",
+					"text": "This is the best! I can't believe it! I can go to the surface, and I'll be okay! Pfft, what was with the whole ozone lens scare?!"
+				},
+				{
+					"name": "Shachi",
+					"text": "This rocks! I'm number one! I'll be the first! I'll be on the surface before everyone else!"
+				},
+				{
+					"name": "Shachi",
+					"text": "I'll be a hero! Everyone will remember me!"
+				},
+				{
+					"text": "Izumo's still hanging back in the passage, simply staring at the scene as it unfolds."
+				},
+				{
+					"text": "Shrouded in darkness, only her eyes shine a pale blue."
+				},
+				{
+					"text": "Yonagi and I watch helplessly as Shachi climbs the rocky wall."
+				},
+				{
+					"name": "Yonagi",
+					"text": "What do we do?"
+				},
+				{
+					"name": "Kaito",
+					"text": "...Just leave him."
+				},
+				{
+					"name": "Yonagi",
+					"text": "But..."
+				},
+				{
+					"name": "Kaito",
+					"text": "He can do whatever he wants. I don't see any reason to put ourselves in danger for his sake."
+				},
+				{
+					"name": "Kaito",
+					"text": "It's not like we can stop him."
+				},
+				{
+					"name": "Shachi",
+					"text": "*Huff*! *Huff* Hah! Hahah!"
+				},
+				{
+					"text": "I hold Yonagi's hand tight."
+				},
+				{
+					"text": "Only then do I notice that she's trembling."
+				},
+				{
+					"name": "Kaito",
+					"text": "Let's go."
+				},
+				{
+					"text": "Izumo glances at us with those pale eyes as we pass by her in the dark passage, then turns back to the light."
+				},
+				{
+					"name": "Shachi",
+					"text": "I'm number one! Me! I'm the best!"
+				},
+				{
+					"text": "We go back to the middle side and leave the hole in the wall behind."
+				},
+				{
+					"text": "This time no one sees us."
+				},
+				{
+					"text": "Yonagi keeps looking back nervously towards the hole."
+				},
+				{
+					"text": "Before long, we can't even hear Shachi's crazed shouting anymore."
+				},
+				{
+					"text": "We remain quiet even after we make it to the square."
+				},
+				{
+					"text": "We simply sit on a bench in a corner, holding hands and staying close together."
+				},
+				{
+					"text": "I put the shovel and the empty pot by my feet and watch the people walk by."
+				},
+				{
+					"text": "After a while, people begin to gather in the square."
+				},
+				{
+					"text": "One after the other, something draws their attention and they start to shout."
+				},
+				{
+					"text": "After a few moments, everyone in the square is looking up at the ozone lens."
+				},
+				{
+					"text": "There's someone doing some sort of dance on top of it."
+				},
+				{
+					"text": "It looks so surreal."
+				},
+				{
+					"text": "It's Shachi."
+				},
+				{
+					"text": "He skips about and spins around on top of the lens, spreading his arms out and throwing his head back up to the sky."
+				},
+				{
+					"text": "People keep gathering and the buzz turns into a horrified commotion."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Wha..."
+				},
+				{
+					"name": "Kaito",
+					"text": "It's him... He's dancing? He did it..."
+				},
+				{
+					"name": "Kaito",
+					"text": "He's on the surface."
+				},
+				{
+					"name": "Yonagi",
+					"text": "..."
+				},
+				{
+					"text": "But then something happens."
+				},
+				{
+					"text": "Shachi suddenly stops, like a wind-up toy that's run out."
+				},
+				{
+					"text": "And then, with his hands still raised, Shachi falls flat onto his back atop the lens."
+				},
+				{
+					"text": "The commotion in the square turns to cries of pure horror."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Kaito!"
+				},
+				{
+					"name": "Kaito",
+					"text": "Wha... Why?"
+				},
+				{
+					"text": "I've seen death face to face in the last two days."
+				},
+				{
+					"text": "I can tell that Shachi is not getting up again."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Is it melanoma?"
+				},
+				{
+					"name": "Kaito",
+					"text": "I can't see from here..."
+				},
+				{
+					"name": "Kaito",
+					"text": "But it must be."
+				},
+				{
+					"name": "Yonagi",
+					"text": "..."
+				},
+				{
+					"text": "I slowly nod, still looking up at the figure seemingly floating above the ozone lens."
+				},
+				{
+					"name": "Kaito",
+					"text": "He's... dead."
+				},
+				{
+					"text": "For a while after that, the whole city is a mess."
+				},
+				{
+					"text": "It isn't until a few days later that the turmoil starts to dissipate."
+				},
+				{
+					"text": "I don't think anyone could be calm after looking up to the sky and seeing a corpse."
+				},
+				{
+					"text": "I heard some adults in big white protective suits were sent to open up the lens and recover the body at some point."
+				},
+				{
+					"text": "It sounds like they did it during the night, but the people who saw it spread the news around town."
+				},
+				{
+					"text": "One week goes by, then the next."
+				},
+				{
+					"text": "Eventually, people in the lower side are able to resume work as usual."
+				},
+				{
+					"text": "And school finally starts again too."
+				},
+				{
+					"text": "When Professor Asuma enters the classroom, everyone goes silent."
+				},
+				{
+					"text": "Everyone's looking at him."
+				},
+				{
+					"name": "Asuma",
+					"text": "Recently, one of our students passed away."
+				},
+				{
+					"name": "Asuma",
+					"text": "The cause of death was organ failure caused by the rapid spread of cancer through his body."
+				},
+				{
+					"name": "Asuma",
+					"text": "It's still not known how he managed to get to the surface. That's still under investigation."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "..."
+				},
+				{
+					"text": "Yonagi and I glance at each other."
+				},
+				{
+					"name": "Asuma",
+					"text": "Some of the more privileged families in the top side have sun windows in their dwellings."
+				},
+				{
+					"name": "Asuma",
+					"text": "While they are not normally able to be opened, there is a chance he could have opened it through means that are still unclear."
+				},
+				{
+					"name": "Asuma",
+					"text": "We must learn from this sad incident. Let us not forget how fragile and precious our lives are."
+				},
+				{
+					"name": "Asuma",
+					"text": "We must never forget that the only thing separating us from an inhospitable world is the ozone lens. While the sky may seem near, we should stay isolated from it."
+				},
+				{
+					"name": "Asuma",
+					"text": "We researchers are working tirelessly to find a solution that will allow for the migration efforts to be fruitful."
+				},
+				{
+					"name": "Asuma",
+					"text": "While I understand the yearning to reach for the sky, none of us should aspire to follow his example."
+				},
+				{
+					"name": "Asuma",
+					"text": "Greed often leads to grief."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"name": "Asuma",
+					"text": "Lessons will resume from next week. Until then, let's all try to get things back to normal."
+				},
+				{
+					"text": "Yonagi and I are assigned to a group of adults today. We're supposed to do maintenance on the middle side walls."
+				},
+				{
+					"text": "Maybe they're looking for holes in the city walls after what happened."
+				},
+				{
+					"text": "Both of us have the same thought."
+				},
+				{
+					"text": "While the others wait for the cement to dry, we separately peel off from the group so as not to draw attention to ourselves."
+				},
+				{
+					"text": "We meet in front of the hole in the wall."
+				},
+				{
+					"name": "Yonagi",
+					"text": "That day..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Shachi was acting so weird and scary."
+				},
+				{
+					"name": "Kaito",
+					"text": "Yeah..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "If anyone else finds this, it could happen again, right?"
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Let's cover it up."
+				},
+				{
+					"text": "I nod in response."
+				},
+				{
+					"name": "Kaito",
+					"text": "I was thinking the same."
+				},
+				{
+					"text": "Though I know she's in pain, Yonagi smiles."
+				},
+				{
+					"text": "We grab stones from nearby and pile them up in the entrance to the passage."
+				},
+				{
+					"text": "We work slowly but steadily."
+				},
+				{
+					"text": "As I focus on the task, memories from the last few weeks come to my mind."
+				},
+				{
+					"text": "Meeting Yonagi."
+				},
+				{
+					"text": "Learning about her power."
+				},
+				{
+					"text": "Learning more about the world through books."
+				},
+				{
+					"text": "Finding that bird from the surface."
+				},
+				{
+					"text": "And saying goodbye."
+				},
+				{
+					"text": "When Yonagi came into our lives, Mommy seemed so much happier. Every day felt so fun and warm."
+				},
+				{
+					"text": "But..."
+				},
+				{
+					"text": "Now we'll never see Mommy again."
+				},
+				{
+					"text": "It's just the two of us now."
+				},
+				{
+					"text": "We'll have to keep living in the low side."
+				},
+				{
+					"text": "Maybe forever. Just piling up the days."
+				},
+				{
+					"text": "Like these rocks."
+				},
+				{
+					"text": "One by one, one top of the other."
+				},
+				{
+					"name": "Kaito",
+					"text": "Ah..."
+				},
+				{
+					"text": "The rocks finally cover the entire hole."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "If we just keep moving forward a little each day, maybe we'll reach something."
+				},
+				{
+					"text": "Perhaps a way to save the people of this city."
+				},
+				{
+					"text": "A new life that could make Yonagi happier."
+				},
+				{
+					"text": "I don't know much of anything right now."
+				},
+				{
+					"text": "But as the days go by, I'm sure we'll find something new. We just need to hold on."
+				},
+				{
+					"text": "We stand up, looking over the laid down small stones."
+				},
+				{
+					"name": "Kaito",
+					"text": "Let's use the cement."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Mhm."
+				},
+				{
+					"name": "Yonagi",
+					"text": "It's another wall now."
+				},
+				{
+					"name": "Kaito",
+					"text": "Yeah."
+				},
+				{
+					"name": "Yonagi",
+					"text": "It means we can't go visit the grave anymore, but this was the right thing to do, wasn't it?"
+				},
+				{
+					"name": "Kaito",
+					"text": "I..."
+				},
+				{
+					"name": "Kaito",
+					"text": "As long as we remember where it is, we can always break it open. All we'll need is a hammer."
+				},
+				{
+					"name": "Yonagi",
+					"text": "..."
+				},
+				{
+					"name": "Kaito",
+					"text": "Someday."
+				},
+				{
+					"text": "Staring at the fresh cement, I smile, a genuine smile that spreads across my whole face."
+				},
+				{
+					"name": "Kaito",
+					"text": "When we... When everyone finds a way to stop living like this, let's come here again. Together."
+				},
+				{
+					"name": "Kaito",
+					"text": "By that time, people won't be afraid of the sunlight or the sky anymore."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Yeah, let's do that."
+				},
+				{
+					"name": "Kaito",
+					"text": "We'll open up the hole again, so we can hear any birdies that have flown in there."
+				},
+				{
+					"name": "Kaito",
+					"text": "So, until then..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "..."
+				},
+				{
+					"name": "Kaito",
+					"text": "Let's live. Together."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Mhm."
+				},
+				{
+					"text": "After filling in the hole, we gather all the waste from our work and head to the dump."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Kaito. Can I stay at your house today?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Sure."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Kaito?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Mm?"
+				},
+				{
+					"text": "I turn around to see Yonagi looking down at her feet again."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I was alone before, and you're alone now, so why don't we live together?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Huh?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "It's fine if you don't want to."
+				},
+				{
+					"name": "Kaito",
+					"text": "No, I do. I'd like that a lot."
+				},
+				{
+					"text": "She looks up and smiles at me."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I'm so glad! I've been thinking about it, and I really wanna live in the house where Mommy was."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I'll bring my things over a bit at a time, okay?"
+				},
+				{
+					"text": "I nod, feeling my face break into a smile."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Mm? Kaito?"
+				},
+				{
+					"name": "Kaito",
+					"text": "What's that?"
+				},
+				{
+					"text": "I notice something behind Yonagi."
+				},
+				{
+					"text": "Something catches my eye in the mountain of trash from the top side."
+				},
+				{
+					"text": "Yonagi turns around and follows my gaze."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Ah..."
+				},
+				{
+					"text": "Her usually pristine clothes are dirty and grimy, and the eyes that shone with a pale blue light the last time I saw them look all glassy now."
+				},
+				{
+					"text": "She looks like a broken toy. Or, as the last few weeks have taught me... a corpse."
+				},
+				{
+					"name": "Yonagi",
+					"text": "It's her..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Did they throw her away?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Shachi's android..."
+				},
+				{
+					"name": "Kaito",
+					"text": "It's Izumo."
+				}
+			]
+		},
+		{}
+	]
+}

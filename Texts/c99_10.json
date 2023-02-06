@@ -1,0 +1,131 @@
+{
+	"scenes": [
+		{},
+		{},
+		{
+			"texts": [
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "When I wake up..."
+				},
+				{
+					"text": "There are tears moistening my eyes."
+				},
+				{
+					"text": "I scoop them up with my fingers and stare vacantly at them."
+				},
+				{
+					"text": "The end of Yonagi's dream."
+				},
+				{
+					"text": "When that time comes, I will know."
+				},
+				{
+					"text": "That's what Izumo said."
+				},
+				{
+					"name": "Kaito",
+					"text": "I see now."
+				},
+				{
+					"text": "The stories come to an end when Yonagi and I are separated."
+				},
+				{
+					"text": "I raise myself up and turn to Yonagi."
+				},
+				{
+					"text": "She's also shedding silent tears from her closed eyes."
+				},
+				{
+					"name": "Izumo",
+					"text": "Good morning."
+				},
+				{
+					"name": "Kaito",
+					"text": "Morning."
+				},
+				{
+					"name": "Shleep",
+					"text": "*Chirp*"
+				},
+				{
+					"name": "Izumo",
+					"text": "The mapping of this dream is complete. We need to send another sensory signal to Yonagi."
+				},
+				{
+					"name": "Izumo",
+					"text": "Two dreams are left."
+				},
+				{
+					"name": "Kaito",
+					"text": "My memories remained this time."
+				},
+				{
+					"name": "Izumo",
+					"text": "Yes. However, Yonagi's brain processes will switch once we input data originating from another dream."
+				},
+				{
+					"name": "Izumo",
+					"text": "This is necessary to ensure the plan is secure and maximize the results."
+				},
+				{
+					"name": "Kaito",
+					"text": "Which means?"
+				},
+				{
+					"name": "Izumo",
+					"text": "Her recovery may seem to have regressed, but it's just a superficial change."
+				},
+				{
+					"name": "Izumo",
+					"text": "Lastly, we will consolidate all the areas of her brain that are activated by each of the three dreams."
+				},
+				{
+					"name": "Kaito",
+					"text": "I see."
+				},
+				{
+					"name": "Kaito",
+					"text": "And that's the safest and most precise way to save Yonagi."
+				},
+				{
+					"name": "Kaito",
+					"text": "Or at least, that's what someone has judged to be the case."
+				},
+				{
+					"name": "Izumo",
+					"text": "Correct."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "I feel a bitter smile form on my face."
+				},
+				{
+					"text": "I have a pretty good idea of who that someone is by now."
+				},
+				{
+					"name": "Izumo",
+					"text": "Please choose the next dream."
+				},
+				{
+					"name": "Kaito",
+					"text": "...Okay."
+				}
+			]
+		},
+		{
+			"selects": [
+				"CASE-1　Hatano Rin",
+				"CASE-2　Olivia Berry",
+				"CASE-3　Momonouchi Sumomo"
+			]
+		},
+		{}
+	]
+}

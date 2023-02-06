@@ -1,0 +1,438 @@
+{
+	"scenes": [
+		{
+			"texts": [
+				{
+					"name": "Izumo",
+					"text": "I'm back."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Welcome back! You were out shopping, right? We're having Italian today?"
+				},
+				{
+					"name": "Izumo",
+					"text": "Yes. I also acquired this."
+				},
+				{
+					"text": "Izumo says as she pulls two bottles from her shopping bag and sets them on the table."
+				},
+				{
+					"name": "Kaito",
+					"text": "Oh, wine."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Wine? That's alcohol?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Yeah. You can only make it from plants with high sugar content, so we never could have had this back underground."
+				},
+				{
+					"name": "Yonagi",
+					"text": "So it's not like that corn whiskey thing."
+				},
+				{
+					"name": "Kaito",
+					"text": "That was just distilled liquor. This is fermented. You make it in a different way, and it certainly tastes different. I've never actually drunk any, though. I'm just reciting stuff from encyclopedias."
+				},
+				{
+					"name": "Izumo",
+					"text": "The owner of the new liquor store in the market is a wine connoisseur."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Wow!"
+				},
+				{
+					"name": "Izumo",
+					"text": "He heard the story of Hatano Rin here, and that kickstarted his new hobby."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Whoa!"
+				},
+				{
+					"name": "Kaito",
+					"text": "That's the part where Arishima gets mad, right? Don't think they ever got to drink that in the end, huh?"
+				},
+				{
+					"name": "Izumo",
+					"text": "Since this locale is plentiful in seafood, he recommended we try different types of white wine."
+				},
+				{
+					"name": "Yonagi",
+					"text": "That's great! Let's drink!"
+				},
+				{
+					"text": "Izumo nods as she sets three glasses on the table."
+				},
+				{
+					"name": "Yonagi",
+					"text": "It'll be my first time drinking wine!"
+				},
+				{
+					"text": "Izumo dexterously removes the cork from one of the bottles."
+				},
+				{
+					"text": "I can't help but stare as a thought crosses my mind."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Why the dour face, Kaito?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Err... Just wondering what could happen to Izumo if she drinks."
+				},
+				{
+					"text": "Izumo looks up and returns my gaze."
+				},
+				{
+					"text": "...Could she be offended?"
+				},
+				{
+					"name": "Izumo",
+					"text": "I have always had an inebriation function."
+				},
+				{
+					"name": "Yonagi",
+					"text": "A what?!"
+				},
+				{
+					"name": "Izumo",
+					"text": "Lonely topsider bachelors apparently liked to make drinking partners out of androids."
+				},
+				{
+					"name": "Kaito",
+					"text": "Makes sense. It doesn't sound very fun to get drunk on your own while your company is all sober."
+				},
+				{
+					"name": "Yonagi",
+					"text": "That's amazing! It means we can all get drunk together!"
+				},
+				{
+					"text": "Izumo nods and holds up the bottle."
+				},
+				{
+					"text": "She then pours an equal amount of wine into the three glasses."
+				},
+				{
+					"text": "The thin glasses condensate ever so slightly, frosting the honey-colored liquid as it settles."
+				},
+				{
+					"name": "Izumo",
+					"text": "Enjoy."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Thanks!"
+				},
+				{
+					"name": "Kaito",
+					"text": "Yeah, thank you."
+				},
+				{
+					"name": "Izumo",
+					"text": "Cheers."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Cheers!"
+				},
+				{
+					"name": "Izumo",
+					"text": "You two are awful! You still just see me as a friggin android, don't you?! You think I don't know?!"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Ahahahah! That's your drunk program? Man, what a drag!"
+				},
+				{
+					"name": "Izumo",
+					"text": "Now I'm the drag?! I'll have you know we all have the same bodies in this world! I'm not made out of metal!"
+				},
+				{
+					"name": "Yonagi",
+					"text": "We've never thought of you as a machine to begin with, silly! Right?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Huh? Uh, yeah."
+				},
+				{
+					"name": "Izumo",
+					"text": "Look how he faltered! He had to think about it! You think I'm blind or what!? I'm not stupid, you know?!"
+				},
+				{
+					"name": "Kaito",
+					"text": "No, Izumo, I..."
+				},
+				{
+					"text": "The inebriation feature is actually pretty good. Her cheeks are slightly red and all."
+				},
+				{
+					"text": "Someone would actually program this kind of personality for a drinking partner?"
+				},
+				{
+					"text": "I really don't know what goes through the mind of topsiders sometimes."
+				},
+				{
+					"name": "Izumo",
+					"text": "I can see it already! He's thinking something mighty rude about me again! By the Lord, I hope you're not having any dirty thoughts about me!"
+				},
+				{
+					"name": "Izumo",
+					"text": "I can see right through that clueless face of yours!"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Kaito's a creepy drunk like that?!"
+				},
+				{
+					"name": "Izumo",
+					"text": "Nah, nah, he's always been a dirty perv! I know better than anyone!"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Agreed."
+				},
+				{
+					"name": "Kaito",
+					"text": "I think you've had a little too much to drink, Izumo."
+				},
+				{
+					"name": "Izumo",
+					"text": "No such thing! It's impossible for me to drink too much! Though you wouldn't know that, would you? Not something you saw in one of your dumb encyclopedias, right?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Of course not..."
+				},
+				{
+					"name": "Izumo",
+					"text": "Aahahahahah!"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Pfft, what's that laughter?"
+				},
+				{
+					"name": "Izumo",
+					"text": "This guy's just a riot."
+				},
+				{
+					"name": "Kaito",
+					"text": "I feel like a clown."
+				},
+				{
+					"name": "Izumo",
+					"text": "And you wouldn't be wrong! Life in the virtual space sure is a riot with a clown like you around! Ahahahahah!"
+				},
+				{
+					"text": "Izumo downs the rest of her wine then proceeds to pour herself another generous glassful."
+				},
+				{
+					"name": "Yonagi",
+					"text": "She's so much fun! We should do this more often."
+				},
+				{
+					"name": "Kaito",
+					"text": "Y-Yeah... Very, very occasionally."
+				},
+				{
+					"name": "Izumo",
+					"text": "Stop that! Don't get chummy in front of me! I've had enough of your damn flirting! I live in this house too! Have some decency!"
+				},
+				{
+					"name": "Yonagi",
+					"text": "We're not! I swear!"
+				},
+				{
+					"name": "Izumo",
+					"text": "You are! You totally are!"
+				},
+				{
+					"name": "Kaito",
+					"text": "We're just talking about how we should drink together again."
+				},
+				{
+					"name": "Izumo",
+					"text": "Really? Is he telling the truth, Yonagi?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Yeah, for real! He said we can do this again sometime. Very occasionally, he said."
+				},
+				{
+					"name": "Kaito",
+					"text": "Excuse me?!"
+				},
+				{
+					"name": "Izumo",
+					"text": "Ahahahahah!"
+				},
+				{
+					"text": "She throws her head back and lets out a maniacal laugh before letting her head drop back down... all the way forward until it thunks sonorously against the table."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I-Izumo?"
+				},
+				{
+					"name": "Izumo",
+					"text": "Wh-What a riot... Heheh... Drinkin's fun..."
+				},
+				{
+					"name": "Izumo",
+					"text": "I love you all... Kaito, Yonagi, Wooleep..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Izumo?"
+				},
+				{
+					"name": "Kaito",
+					"text": "She fell asleep?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "I think this is the first time I've ever seen her sleep."
+				},
+				{
+					"name": "Kaito",
+					"text": "She never really slept back in the low side."
+				},
+				{
+					"text": "I fetch a blanket from a shelf and cover Izumo with it."
+				},
+				{
+					"name": "Yonagi",
+					"text": "She looked like she was having a blast, heheh."
+				},
+				{
+					"text": "I nod, feeling a conflicted smile forming on my face."
+				},
+				{
+					"name": "Kaito",
+					"text": "From an engineer's point of view, I'm really taken aback by how thorough the creator of this inebriation feature was."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Ahahah! Right! But it was fun. Izumo's such a good girl."
+				},
+				{
+					"name": "Kaito",
+					"text": "Yeah, that she is."
+				},
+				{
+					"name": "Yonagi",
+					"text": "The white wine's delicious too. Let's drink a bit more. Here."
+				},
+				{
+					"text": "Yonagi tips the mouth of the bottle towards me."
+				},
+				{
+					"text": "I drink the last bit of wine left in my glass and present it to her."
+				},
+				{
+					"text": "She carefully pours me another glass."
+				},
+				{
+					"text": "Then I do the same for her."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Here's to our precious family getting drunk together for the first time."
+				},
+				{
+					"text": "We raise our glasses and share a quiet moment."
+				},
+				{
+					"name": "Kaito",
+					"text": "Haah..."
+				},
+				{
+					"text": "Next morning."
+				},
+				{
+					"text": "We drank quite a lot yesterday."
+				},
+				{
+					"text": "In the end, Yonagi and I stayed up drinking until dawn."
+				},
+				{
+					"text": "We ended up passing out on the sofa."
+				},
+				{
+					"text": "I look next to me, my groggy eyes protesting against the light."
+				},
+				{
+					"text": "Yonagi is still sleeping away peacefully."
+				},
+				{
+					"text": "I give her head a light stroke and cover her bare shoulders with a blanket."
+				},
+				{
+					"text": "I need to drink some water."
+				},
+				{
+					"text": "I get up, my raw throat urging me on."
+				},
+				{
+					"text": "Izumo's still sprawled over the dinner table."
+				},
+				{
+					"text": "In the same position as we left her yesterday, worryingly enough."
+				},
+				{
+					"name": "Kaito",
+					"text": "Izumo?!"
+				},
+				{
+					"text": "But then, she stirs from her sleep."
+				},
+				{
+					"text": "She slowly raises her head, directing her expressionless gaze at me."
+				},
+				{
+					"name": "Kaito",
+					"text": "...Morning."
+				},
+				{
+					"name": "Izumo",
+					"text": "...Good morning."
+				},
+				{
+					"text": "Her voice sounds slightly more subdued than usual."
+				},
+				{
+					"name": "Kaito",
+					"text": "Uh, you okay?"
+				},
+				{
+					"text": "She shakes her head."
+				},
+				{
+					"name": "Izumo",
+					"text": "My head hurts."
+				},
+				{
+					"text": "We stay put for what seems like ten minutes, the only sounds in the room the hush of the tide outside and Yonagi's soft breathing."
+				},
+				{
+					"text": "Izumo keeps her gaze set steady on me the whole time."
+				},
+				{
+					"name": "Kaito",
+					"text": "You have a hangover function too?!"
+				}
+			]
+		}
+	]
+}

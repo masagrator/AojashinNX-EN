@@ -1,0 +1,2661 @@
+{
+	"scenes": [
+		{},
+		{
+			"texts": [
+				{
+					"name": "Yonagi",
+					"text": "Sorry, Izumo... Thanks for the help."
+				},
+				{
+					"name": "Izumo",
+					"text": "Don't mention it."
+				},
+				{
+					"text": "Izumo sits by Yonagi's side and feeds her the porridge."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "I look on absentmindedly."
+				},
+				{
+					"text": "I stare at Yonagi, her current state reminding me of my mother, wasting away in this same bed."
+				},
+				{
+					"text": "She slowly chews on her spoonful of porridge before swallowing."
+				},
+				{
+					"text": "When she's done, Izumo dutifully scoops up the next spoonful."
+				},
+				{
+					"text": "I watch as Yonagi brings her head slightly forward to meet the spoon halfway."
+				},
+				{
+					"text": "Then she slowly begins chewing again."
+				},
+				{
+					"text": "Izumo watches her attentively throughout the whole process."
+				},
+				{
+					"text": "Mom lost control of her toes first."
+				},
+				{
+					"text": "It gradually spread until she was confined to the bed."
+				},
+				{
+					"text": "At the end, the paralysis spread to her upper body, and she passed away."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "I bite down on my lip in frustration."
+				},
+				{
+					"text": "Is history repeating itself?"
+				},
+				{
+					"text": "Will the same thing happen to Yonagi?"
+				},
+				{
+					"text": "Or is this some kind of aftereffect from her repeated lobotomies?"
+				},
+				{
+					"text": "As of today, it's still just the five fingers on her right hand that are unresponsive."
+				},
+				{
+					"text": "But that's her dominant hand."
+				},
+				{
+					"text": "It's definitely affected her life immediately."
+				},
+				{
+					"text": "Even with Izumo's constant monitoring, the cause remains inconclusive."
+				},
+				{
+					"text": "I've thought it over a lot, and I know there's only one person who could speculate more precisely than I could on the cause."
+				},
+				{
+					"text": "Perhaps it would be like admitting defeat."
+				},
+				{
+					"text": "However..."
+				},
+				{
+					"text": "Yonagi's well-being is far more important than whatever scrap of pride I have left."
+				},
+				{
+					"name": "Kaito",
+					"text": "Yonagi."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Yes?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Let's go the middle side."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Really?"
+				},
+				{
+					"text": "I nod."
+				},
+				{
+					"name": "Kaito",
+					"text": "Let's go find out what's happening to you."
+				},
+				{
+					"text": "Izumo looks at me quietly."
+				},
+				{
+					"text": "I respond to her gaze with a nod."
+				},
+				{
+					"name": "Kaito",
+					"text": "We're going to see Asuma."
+				},
+				{
+					"name": "Izumo",
+					"text": "Be careful."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Asuma?"
+				},
+				{
+					"name": "Kaito",
+					"text": "The man who hurt you in the past... I won't let him do anything to you. I can go see what answers I can get out of him on my own if you want."
+				},
+				{
+					"text": "Yonagi's gaze lowers to the porridge in front of her."
+				},
+				{
+					"name": "Yonagi",
+					"text": "...No."
+				},
+				{
+					"text": "She takes a deep breath and looks back at me."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I'll come too."
+				},
+				{
+					"text": "I've never been to Asuma's home."
+				},
+				{
+					"text": "But when I was working with him, I saw his residential information on the list of institute personnel."
+				},
+				{
+					"text": "We walk through the researcher residential area, and I guide us to the location."
+				},
+				{
+					"text": "While most houses look vacant, there are clear signs of life in his house."
+				},
+				{
+					"text": "I nod and motion for Yonagi to follow me."
+				},
+				{
+					"text": "As we arrive at the door, the intercom immediately comes on."
+				},
+				{
+					"name": "Asuma",
+					"text": "I was waiting for you."
+				},
+				{
+					"name": "Kaito",
+					"text": "You were?"
+				},
+				{
+					"name": "Asuma",
+					"text": "I always believed you wouldn't just abandon everything halfway through."
+				},
+				{
+					"name": "Kaito",
+					"text": "This is not what you seem to think it is, Asuma. I'm not here to talk about the virtual space."
+				},
+				{
+					"name": "Kaito",
+					"text": "There's something I need to know about Yonagi. I'll be the one asking the questions."
+				},
+				{
+					"text": "For a moment, there's only silence on the intercom."
+				},
+				{
+					"name": "Asuma",
+					"text": "Come in."
+				},
+				{
+					"text": "The white door opens."
+				},
+				{
+					"text": "His are the only pair of shoes in the entryway, suggesting he's alone in the house."
+				},
+				{
+					"text": "I turn to Yonagi beside me."
+				},
+				{
+					"name": "Kaito",
+					"text": "Let's go, Yonagi."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Mhm."
+				},
+				{
+					"text": "Asuma stands in his living room. The layout of his house is exactly like ours, but in reverse."
+				},
+				{
+					"text": "They probably designed them all to fit inside the same dimensions."
+				},
+				{
+					"name": "Asuma",
+					"text": "You're looking better."
+				},
+				{
+					"text": "A hint of a smile appears at the corners of his mouth. All I do is look at him blankly."
+				},
+				{
+					"name": "Kaito",
+					"text": "I'm not here to make small talk. I came for a reason."
+				},
+				{
+					"name": "Asuma",
+					"text": "Let me brew us some coffee"
+				},
+				{
+					"name": "Kaito",
+					"text": "I'll pass."
+				},
+				{
+					"name": "Asuma",
+					"text": "All right."
+				},
+				{
+					"text": "He takes a seat. Yonagi and I sit across from him at the living room table."
+				},
+				{
+					"name": "Kaito",
+					"text": "I have some questions about Yonagi's physical condition."
+				},
+				{
+					"text": "Asuma glances at her, then nods."
+				},
+				{
+					"name": "Kaito",
+					"text": "She's recovered her ego. The rest of her brain is subbing in for the parts of the frontal lobe she lost."
+				},
+				{
+					"name": "Asuma",
+					"text": "You mapped the active parts of her brain, I suppose? That's what I would have done."
+				},
+				{
+					"name": "Kaito",
+					"text": "The memory regression that was affecting her before is advancing everywhere outside the parts of her brain doing the substitution."
+				},
+				{
+					"name": "Kaito",
+					"text": "She doesn't remember you, or our friends at Kaito Lab."
+				},
+				{
+					"name": "Asuma",
+					"text": "Yet she has her ego."
+				},
+				{
+					"name": "Asuma",
+					"text": "In a way, this could be the cruelest state for her to be in."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"name": "Asuma",
+					"text": "So?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Last week, she stopped being able to move the fingers on her right hand."
+				},
+				{
+					"name": "Kaito",
+					"text": "I determined that there's a high chance her primary motor cortex was damaged, or that the brain stem signals are being lost somehow. That's why I came to ask you."
+				},
+				{
+					"name": "Kaito",
+					"text": "How much of her brain did you excise?"
+				},
+				{
+					"name": "Kaito",
+					"text": "I assumed you hadn't touched her primary motor cortex since she was able to move independently even without her frontal lobe, but I'm not so sure now."
+				},
+				{
+					"name": "Asuma",
+					"text": "You said she can't move her fingers?"
+				},
+				{
+					"name": "Asuma",
+					"text": "And she was able to move them right after waking up?"
+				},
+				{
+					"text": "I nod in response."
+				},
+				{
+					"text": "She held my hand back at the start."
+				},
+				{
+					"name": "Asuma",
+					"text": "What were you doing a week before this started?"
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"name": "Asuma",
+					"text": "Was there a kind of change in her mental state that day?"
+				},
+				{
+					"name": "Kaito",
+					"text": "I don't see how that has anything to do with this. I'm the one asking the questions anyway."
+				},
+				{
+					"name": "Asuma",
+					"text": "I'm asking because I need to know in order to answer your question."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"name": "Asuma",
+					"text": "Yonagi..."
+				},
+				{
+					"name": "Asuma",
+					"text": "Did you accept your death, or were you repulsed by the events leading up to your death?"
+				},
+				{
+					"name": "Asuma",
+					"text": "Did you find contentment, or had you not yet given up?"
+				},
+				{
+					"text": "I shoot a glare at him."
+				},
+				{
+					"name": "Kaito",
+					"text": "What are you implying?"
+				},
+				{
+					"name": "Kaito",
+					"text": "You think this is psychogenic?"
+				},
+				{
+					"text": "He slowly shakes his head."
+				},
+				{
+					"name": "Asuma",
+					"text": "I could tell you, but it wouldn't help you. Or..."
+				},
+				{
+					"name": "Asuma",
+					"text": "Do you want to know the truth, when knowing it will just make you even more helpless?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Make me even more helpless?"
+				},
+				{
+					"text": "I repeat his words, rolling them around on my tongue."
+				},
+				{
+					"text": "His gaze meets mine straight on."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Kaito."
+				},
+				{
+					"text": "Yonagi quietly murmurs my name."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Let's hear him out."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I think..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I don't have much time left."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "I give her a small nod."
+				},
+				{
+					"text": "Then I turn back to Asuma."
+				},
+				{
+					"name": "Kaito",
+					"text": "Okay, talk."
+				},
+				{
+					"name": "Asuma",
+					"text": "All right. Come with me."
+				},
+				{
+					"text": "Asuma leaves his seat and sets out for the next room."
+				},
+				{
+					"text": "Yonagi and I exchange glances before following after him."
+				},
+				{
+					"text": "In the back room..."
+				},
+				{
+					"text": "There's a sleeping woman on a bed, hooked up to countless machines."
+				},
+				{
+					"text": "She appears to be about the same age as Asuma's actual age."
+				},
+				{
+					"text": "Perhaps a little younger."
+				},
+				{
+					"name": "Asuma",
+					"text": "This is my wife. She is suffering from the same condition your mother had."
+				},
+				{
+					"name": "Asuma",
+					"text": "Do you know what causes this disease?"
+				},
+				{
+					"name": "Asuma",
+					"text": "There is no external trauma nor any damage to the brain."
+				},
+				{
+					"name": "Asuma",
+					"text": "The body simply surrenders its ability to move, bit by bit."
+				},
+				{
+					"text": "Asuma looks away from the woman and back to us."
+				},
+				{
+					"name": "Asuma",
+					"text": "This is..."
+				},
+				{
+					"name": "Asuma",
+					"text": "The disease that imprisoned us underground."
+				},
+				{
+					"name": "Kaito",
+					"text": "Huh?"
+				},
+				{
+					"text": "His statement is in conflict with my memories."
+				},
+				{
+					"text": "Imprisoned us underground?"
+				},
+				{
+					"text": "Wasn't that because of paraglucose and UV rays?"
+				},
+				{
+					"name": "Asuma",
+					"text": "Base will deficiency. The brain works, but the motor cortex's output never reaches the nerves of the spine."
+				},
+				{
+					"name": "Asuma",
+					"text": "Eventually, the muscles and internal organs atrophy, leading to a quiet death."
+				},
+				{
+					"name": "Asuma",
+					"text": "It's as if the patients have simply lost all will to live, with nothing left but to wait for the inevitable. And indeed, death slowly overtakes them."
+				},
+				{
+					"text": "I turn his quiet words over in my mind."
+				},
+				{
+					"name": "Kaito",
+					"text": "I've never..."
+				},
+				{
+					"name": "Kaito",
+					"text": "There's nothing written about this."
+				},
+				{
+					"name": "Asuma",
+					"text": "Only the topsiders know of it."
+				},
+				{
+					"name": "Kaito",
+					"text": "What?"
+				},
+				{
+					"text": "Yonagi stares at the woman lying there in silence."
+				},
+				{
+					"name": "Kaito",
+					"text": "You're not making any sense."
+				},
+				{
+					"text": "Asuma puts a hand on one of the bulky machines at the woman's bedside."
+				},
+				{
+					"name": "Asuma",
+					"text": "The fastest way I have to impart this knowledge to you is this. It's a prototype I made when I was just starting my research on constructing the virtual space."
+				},
+				{
+					"name": "Asuma",
+					"text": "You can use it to live my experiences."
+				},
+				{
+					"name": "Kaito",
+					"text": "Aha."
+				},
+				{
+					"text": "Just as I did to make myself relive my own experiences. He wants me to enter his memory."
+				},
+				{
+					"name": "Asuma",
+					"text": "With information density set to maximum, it would only take ten minutes. It would take all night to explain otherwise."
+				},
+				{
+					"name": "Kaito",
+					"text": "All right."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Can I use it too?"
+				},
+				{
+					"text": "Asuma nods at her with a little smile on his face, then presents us with the equipment to connect to the machine."
+				},
+				{
+					"text": "It's easy to imagine that Asuma was trying to communicate with his paralyzed wife by using this device to meet her in the virtual space."
+				},
+				{
+					"text": "I might do the same thing in his place."
+				},
+				{
+					"name": "Asuma",
+					"text": "Fifteen minutes of REM sleep should suffice. Sit there."
+				},
+				{
+					"text": "The two of us sit on a sofa in a corner of the room and take the familiar old sleeping pills."
+				},
+				{
+					"text": "Twice a week."
+				},
+				{
+					"text": "That's how often I find myself down here in this dismal place."
+				},
+				{
+					"text": "Every time the elevator door opens to reveal the middle side square, I feel sick to my stomach."
+				},
+				{
+					"text": "That's what they call it, at least. This is supposed to be a square?"
+				},
+				{
+					"text": "The air feels diseased."
+				},
+				{
+					"text": "The dust and dirt of the low side manages to find its way here."
+				},
+				{
+					"text": "I hear the screeching of kids in the distance."
+				},
+				{
+					"text": "They laugh and shriek in a cacophony of sound."
+				},
+				{
+					"text": "It drills into my ears."
+				},
+				{
+					"text": "Their voices grow louder."
+				},
+				{
+					"text": "I'm not walking towards them."
+				},
+				{
+					"text": "They just happen to be in my way."
+				},
+				{
+					"text": "One of the merrily laughing children is accompanied by an android."
+				},
+				{
+					"text": "A topsider child acts like he owns the place."
+				},
+				{
+					"text": "He's with a few midsider children."
+				},
+				{
+					"text": "They're standing around a boy in dingy clothes who's curled up on the ground."
+				},
+				{
+					"name": "Asuma",
+					"text": "Could you move out of the way?"
+				},
+				{
+					"text": "I call out to the children."
+				},
+				{
+					"text": "Coming down here makes me sick enough as it is."
+				},
+				{
+					"text": "I don't need a sight like this making it worse."
+				},
+				{
+					"text": "The children look up at me, their smirks vanishing before they skitter away."
+				},
+				{
+					"text": "The lowsider boy raises his head, tears running down his face."
+				},
+				{
+					"text": "Immediately..."
+				},
+				{
+					"text": "His sour stench reaches my nose."
+				},
+				{
+					"text": "I avert my eyes from the boy and walk straight to the institute."
+				},
+				{
+					"name": "Asuma",
+					"text": "Good morning."
+				},
+				{
+					"text": "Several senior researchers turn to greet me back."
+				},
+				{
+					"text": "This is room set apart for topsider researchers in the middle side research institute."
+				},
+				{
+					"text": "Topside researchers are involved in an outdated system called induction training."
+				},
+				{
+					"text": "New researchers have a period where they're sent to this second-rate institute to perform maintenance and inspection on the city."
+				},
+				{
+					"text": "They talk about it like it's some noble duty, but in reality, it's simply the institute's higher ups forcing the new generation to suffer the same hardships they had to endure."
+				},
+				{
+					"text": "Topsiders place too much importance on such performative displays."
+				},
+				{
+					"text": "We're facing a crisis as species."
+				},
+				{
+					"text": "The best people we have, regardless of their backgrounds, should be focused on studying base will deficiency."
+				},
+				{
+					"text": "We don't have a second to lose."
+				},
+				{
+					"name": "Researcher",
+					"text": "Found anomaly in the middle side's eastern wall, sector 172. The deterioration in the inner wall could compromise the seal to the surface."
+				},
+				{
+					"name": "Asuma",
+					"text": "Have the repair crew take care of it tomorrow morning."
+				},
+				{
+					"text": "I give an instruction to one of the scientists working under me."
+				},
+				{
+					"text": "My responses are mechanical. Anyone with a manual on hand could do the same."
+				},
+				{
+					"name": "Researcher",
+					"text": "And the water quality is decreasing."
+				},
+				{
+					"name": "Asuma",
+					"text": "Display the components."
+				},
+				{
+					"name": "Researcher",
+					"text": "Yes, sir."
+				},
+				{
+					"name": "Asuma",
+					"text": "Yeah, the water quality is going down, huh? Send a pair to check the purification filters in the pumps pulling water from the Kanda source. Two topsider students from the engineering course will do."
+				},
+				{
+					"name": "Researcher",
+					"text": "Also, the topside institute has requested more organisms for experiments."
+				},
+				{
+					"name": "Asuma",
+					"text": "More? Don't they have model mice to work with?"
+				},
+				{
+					"name": "Researcher",
+					"text": "It seems like they want to do some trials on pigs."
+				},
+				{
+					"text": "I click my tongue and ponder for a moment."
+				},
+				{
+					"text": "Why do we keep diverting resources and effort away from the real problem?"
+				},
+				{
+					"text": "I'd give them a piece of my mind if I was in that lab."
+				},
+				{
+					"text": "There's literally no need to use pigs."
+				},
+				{
+					"text": "A vast amount of human genes has already been integrated into the model mice."
+				},
+				{
+					"text": "They should be more than capable of getting the results they need without all this waste."
+				},
+				{
+					"name": "Researcher",
+					"text": "What should we do?"
+				},
+				{
+					"name": "Asuma",
+					"text": "Well, I guess we'll have to catch some for them. Turn off the exterior lights in the middle side and below, and authorize five capture personnel to go out from 25:00 to 26:00."
+				},
+				{
+					"name": "Asuma",
+					"text": "Line that up with the Kanda river filter inspection while you're at it."
+				},
+				{
+					"name": "Researcher",
+					"text": "Understood."
+				},
+				{
+					"name": "Asuma",
+					"text": "No anomalies at the farm, I take it?"
+				},
+				{
+					"name": "Researcher",
+					"text": "No, nothing in particular."
+				},
+				{
+					"name": "Asuma",
+					"text": "Good."
+				},
+				{
+					"text": "We supply surface resources to the city in a stealthy way so the midsiders and lowsiders don't realize it."
+				},
+				{
+					"text": "This is the so-called noble duty of the topsiders."
+				},
+				{
+					"text": "All to prevent the evolutionary dead end that the base will deficiency represents."
+				},
+				{
+					"text": "We topsiders designed this city to suppress the spread of the disease."
+				},
+				{
+					"text": "And many of the associated jobs are simple labor that anyone could do."
+				},
+				{
+					"text": "It's not so different from what the lowsiders do."
+				},
+				{
+					"text": "Why did I even bother getting an education?"
+				},
+				{
+					"text": "Objectively speaking, I'm the closest to unraveling the problem."
+				},
+				{
+					"text": "But in the end, I'm just another cog in the city's system."
+				},
+				{
+					"text": "A cog can't fight the machine."
+				},
+				{
+					"text": "Above all..."
+				},
+				{
+					"text": "Letting go of this smoldering frustration and abandoning my ambition would bring me one step closer to contracting base will deficiency."
+				},
+				{
+					"text": "It's grunt work, but I've no choice other than seeing it through."
+				},
+				{
+					"text": "By the time my work is over, it's nighttime."
+				},
+				{
+					"text": "A 270 meter long sheet of solar panels separates the middle and top sides."
+				},
+				{
+					"text": "I take the elevator located inside and return home."
+				},
+				{
+					"name": "Asuma",
+					"text": "Hey there."
+				},
+				{
+					"name": "????",
+					"text": "Hey! Rough day?"
+				},
+				{
+					"name": "Asuma",
+					"text": "You bet. Funny how tiring this work is, considering anyone with a brain could do it."
+				},
+				{
+					"name": "????",
+					"text": "But it's a crucial part of keeping the city running, isn't it?"
+				},
+				{
+					"name": "Asuma",
+					"text": "The old fools who've lost their motivation to do research should be the ones doing it instead of calling the shots. It's inefficient to chain the new blood down to this when we're the ones with the innovation and new solutions."
+				},
+				{
+					"name": "Asuma",
+					"text": "Nobody in the upper ranks seems to grasp that we should be directing all our attention to dealing with the base will deficiency."
+				},
+				{
+					"text": "Rio brings dinner over, a wry smile on her face."
+				},
+				{
+					"text": "She serves roast chicken with green vegetables from the surface."
+				},
+				{
+					"name": "Rio",
+					"text": "Let's thank the surface for its blessings and enjoy dinner, okay?"
+				},
+				{
+					"name": "Asuma",
+					"text": "Mhm."
+				},
+				{
+					"text": "She says the same thing before every meal."
+				},
+				{
+					"text": "I suppose it's similar to the religion practices from humanity's days on the surface."
+				},
+				{
+					"text": "For some, the thought of enjoying a life like this while others suffer may be unbearable without something to ground yourself—something to believe in."
+				},
+				{
+					"text": "The fresh meat and vegetables from the surface are as delicious as ever."
+				},
+				{
+					"text": "Humankind's old structures have already been encroached upon by nature. It's kind of ironic that they are now the main hosts to these blessings of nature."
+				},
+				{
+					"name": "Rio",
+					"text": "Will you be going out tonight?"
+				},
+				{
+					"name": "Asuma",
+					"text": "No, I'll be in the study."
+				},
+				{
+					"name": "Asuma",
+					"text": "If I don't make use of my time, the real work won't get anywhere."
+				},
+				{
+					"name": "Rio",
+					"text": "Don't push yourself too hard, okay?"
+				},
+				{
+					"name": "Asuma",
+					"text": "My body can take some abuse. Thankfully I have my wife to keep me on a nutritious diet."
+				},
+				{
+					"name": "Asuma",
+					"text": "I've got my noble duty, remember?"
+				},
+				{
+					"name": "Rio",
+					"text": "Hahah, right."
+				},
+				{
+					"name": "Asuma",
+					"text": "What's so funny?"
+				},
+				{
+					"name": "Rio",
+					"text": "Nothing. I just think you must enjoy complaining."
+				},
+				{
+					"name": "Asuma",
+					"text": "I'd rather have nothing to complain about."
+				},
+				{
+					"name": "Rio",
+					"text": "All your dissatisfaction with how things are run is proof of how excellent a man you are. True noblesse oblige."
+				},
+				{
+					"name": "Asuma",
+					"text": "Nobility and excellence aren't necessarily the same thing."
+				},
+				{
+					"name": "Rio",
+					"text": "Ahahah! Here comes Mr. Nitpick!"
+				},
+				{
+					"name": "Asuma",
+					"text": "I'm a researcher, it's my job to pick things apart."
+				},
+				{
+					"name": "Rio",
+					"text": "Yeah, yeah."
+				},
+				{
+					"text": "Basic will deficiency..."
+				},
+				{
+					"text": "An incurable disease first reported in the year 2085."
+				},
+				{
+					"text": "The initial symptoms include a loss of mobility in the extremities."
+				},
+				{
+					"text": "It begins with the impairment of voluntary movement, and eventually leads to death due to organ failure."
+				},
+				{
+					"text": "The first patients reported in 2085 were all newborns."
+				},
+				{
+					"text": "Babies were born without making a sound, who expressed no desire whatsoever before slipping quietly away into death."
+				},
+				{
+					"text": "They simply faded away, with an expression of perfect peace and enlightenment."
+				},
+				{
+					"text": "The sudden outbreak of the disease in developed countries shocked the world."
+				},
+				{
+					"text": "No cure has ever been found."
+				},
+				{
+					"text": "On the contrary, no one has even been able to determine a direct cause."
+				},
+				{
+					"text": "However, it's clear that there have been irreversible changes to our germ cells as a result of the abuse of life-prolonging technology enabled by artificial genes."
+				},
+				{
+					"text": "The epidemiology reports determined that the outbreak was caused by those changes at the genetic level."
+				},
+				{
+					"text": "Although no cure has been found, the proposal decided on after many years of research was this underground system."
+				},
+				{
+					"text": "Base will deficiency develops when an individual's needs are fully met."
+				},
+				{
+					"text": "Thus, the city's system was designed so that the inhabitants always have a strong personal desire to aim for."
+				},
+				{
+					"text": "With the exception of a small group of managers who know the truth, all residents are told of the dangers of the surface, and their standard of living is determined by the social stratification system."
+				},
+				{
+					"text": "As a group, we yearn for the nature, the sky, the wind, and the water beyond the lens."
+				},
+				{
+					"text": "And as individuals, there's always someone close by who has a better life than us."
+				},
+				{
+					"text": "We have found some success in fending off a disease caused by a lack of desire, by creating a city in which everyone's always hungry for something more."
+				},
+				{
+					"text": "It is terribly ironic how the only people who succumb to base will deficiency are the kind souls who find happiness even in this unjust system, but it has successfully slowed the decline of the population."
+				},
+				{
+					"text": "The lowsiders and midsiders are unaware of the disease."
+				},
+				{
+					"text": "Humanity needs a desire to reach the surface, and a perpetual frustration from being denied it."
+				},
+				{
+					"text": "And so they came up with a lie involving reduced UV resistance caused by paraglucose."
+				},
+				{
+					"text": "The data on UV rays has been forged and its effects greatly exaggerated from the reality."
+				},
+				{
+					"text": "The middle side researchers take the UV ray data reported by the topsiders like it's gospel."
+				},
+				{
+					"text": "Of course they do; they only know what they're told."
+				},
+				{
+					"text": "That's why the middle side laboratories spend all of their time and resources on pointless research to increase resistance to UV rays."
+				},
+				{
+					"text": "It is true that paraglucose had mutagenic effects on the human genome."
+				},
+				{
+					"text": "And it's also true that those mutations weakened our skin cells."
+				},
+				{
+					"text": "But it isn't anything as drastic as what's fed to the general public."
+				},
+				{
+					"text": "The genetic changes caused by paraglucose just happened to be discovered around the same time as the first outbreak of base will deficiency."
+				},
+				{
+					"text": "That's why paraglucose was selected as the scapegoat for moving the population underground."
+				},
+				{
+					"text": "The truth should be obvious, of course. Paraglucose, along with its glycolytic system, is a natural element extracted from microorganisms found in the permafrost of Antarctica."
+				},
+				{
+					"text": "Any changes it could cause would be mild compared to the changes caused by the artificial and deliberate gene manipulation humankind engaged in."
+				},
+				{
+					"text": "But most people don't have the specialist knowledge required to realize that."
+				},
+				{
+					"text": "There's not even an interest in looking into it."
+				},
+				{
+					"text": "Most people were overly terrified of the effects of paraglucose, which was by the design of the contemporary media."
+				},
+				{
+					"text": "Jealousy towards the monopolies held by the companies that mass produced and sold the groundbreaking paraglucose technology might have motivated some of the frenzied reporting as well."
+				},
+				{
+					"text": "The lingering trauma of the people of that time helps to channel the lies about UV rays and paraglucose into a lasting fear of the surface hanging just above our heads."
+				},
+				{
+					"text": "But behind all that is the real threat; our real struggle, the base will deficiency."
+				},
+				{
+					"text": "And the only ones trying to combat it are the topsiders."
+				},
+				{
+					"text": "Aware that going to the surface represents no harm to our health, we must keep ourselves in check and manufacture our own things to strive for."
+				},
+				{
+					"text": "In actuality, most people who succumb to base will deficiency are topsiders."
+				},
+				{
+					"text": "The topsider population has stagnated as a result."
+				},
+				{
+					"text": "I want to put an end to this pointless battle."
+				},
+				{
+					"text": "I hate this irrational system."
+				},
+				{
+					"text": "I'm incensed at how policymakers have turned away from the biggest problem plaguing us and refuse to devote all resources to finding a real cure for the base will deficiency."
+				},
+				{
+					"text": "I will change that."
+				},
+				{
+					"text": "I will be the one to change this rotten city."
+				},
+				{
+					"text": "Humanity will never get out of this evolutionary dead end unless people like me channel our blood, sweat, and tears into solving the problem."
+				},
+				{
+					"text": "On the days I work at the topside institute, I try to be in the lab earlier than anyone else."
+				},
+				{
+					"text": "It's clear that the cause of the disease lies in a particular gene—someone only needs to figure out the culprit."
+				},
+				{
+					"text": "I dedicate all my time and effort into finding the gene responsible for all of this."
+				},
+				{
+					"text": "It's a grueling process of trial and error."
+				},
+				{
+					"text": "Which gene is it, and which therapy method is the correct one to rectify it?"
+				},
+				{
+					"text": "Day and night, I continue to perform gene therapy trials on model mice with the disease."
+				},
+				{
+					"text": "Only honest work and tenacity will open the doors of our future as a species."
+				},
+				{
+					"text": "That's my conviction."
+				},
+				{
+					"text": "When the clock strike ten, the other researchers finally decide to show up."
+				},
+				{
+					"text": "But all they do is gossip in the guise of work discussions."
+				},
+				{
+					"text": "The worst among them just go to the smoking area and don't come back."
+				},
+				{
+					"text": "They'll be developing base will deficiency for sure."
+				},
+				{
+					"text": "What else do they expect?"
+				},
+				{
+					"text": "We topsiders die off the second we give in to complacency."
+				},
+				{
+					"text": "Don't they realize that yet?"
+				},
+				{
+					"text": "The same old tired rumors go around the lab every single day."
+				},
+				{
+					"text": "Someone overhears that someone's wife has contracted the disease, and everyone wants to know more."
+				},
+				{
+					"text": "There is a sick irony in the fact that the people who enjoy such gossip tend to be the next ones to contract it."
+				},
+				{
+					"name": "Asuma",
+					"text": "..."
+				},
+				{
+					"text": "That night, over dinner with Rio, I let out a huge sigh."
+				},
+				{
+					"name": "Rio",
+					"text": "What's wrong? You wanted me to hear that one, right?"
+				},
+				{
+					"text": "I smile at her bitterly."
+				},
+				{
+					"name": "Asuma",
+					"text": "Just thinking that maybe the city..."
+				},
+				{
+					"name": "Asuma",
+					"text": "No, rather, humankind as a whole... might not be worth saving after all."
+				},
+				{
+					"name": "Rio",
+					"text": "Uh, what was the word for that? You know, when you only look at the bad side of things?"
+				},
+				{
+					"name": "Asuma",
+					"text": "Pessimism. And a pessimist is a person who feels that way."
+				},
+				{
+					"name": "Rio",
+					"text": "Yeah! That's pretty much what you sound like right now, dear!"
+				},
+				{
+					"text": "Now there's a little bit of self-derision mixed in with my smile."
+				},
+				{
+					"name": "Asuma",
+					"text": "I just wonder why I'm the only one who seems to even want to try doing anything about it."
+				},
+				{
+					"name": "Rio",
+					"text": "Really?"
+				},
+				{
+					"name": "Asuma",
+					"text": "I've begun researching base will deficiency as if my life depended on it. Because if someone doesn't, it really will be the end of humankind."
+				},
+				{
+					"name": "Asuma",
+					"text": "But there's simply no other researcher even interested in looking into it like I am. I don't know if everyone around me is crazy, or if I'm the crazy one."
+				},
+				{
+					"name": "Rio",
+					"text": "Mm..."
+				},
+				{
+					"name": "Rio",
+					"text": "You've got a bad case of pessimism, and nihilism to boot."
+				},
+				{
+					"name": "Asuma",
+					"text": "If you're not going to take me seriously, then forget it."
+				},
+				{
+					"name": "Rio",
+					"text": "Ahahah! Sorry, don't be like that! For real now... Maybe you need a change of pace?"
+				},
+				{
+					"name": "Asuma",
+					"text": "What do you mean?"
+				},
+				{
+					"name": "Rio",
+					"text": "You know, I once taught elementary school classes in the middle side school."
+				},
+				{
+					"text": "I feel my eyes widen."
+				},
+				{
+					"name": "Asuma",
+					"text": "Why? You teach secondary education here in the top side, right?"
+				},
+				{
+					"name": "Rio",
+					"text": "Yeah, but one of the lowsider teachers caught the deficiency and all that..."
+				},
+				{
+					"name": "Asuma",
+					"text": "A lowsider? That's strange."
+				},
+				{
+					"text": "Rio smiles at me and continues."
+				},
+				{
+					"name": "Rio",
+					"text": "That teacher was desperately looking for a substitute teacher in the middle side school."
+				},
+				{
+					"name": "Rio",
+					"text": "The lowsider children always looked forward to their weekly history class, so they really wanted to avoid having to cancel it."
+				},
+				{
+					"name": "Asuma",
+					"text": "Once a week? It's down to that little?"
+				},
+				{
+					"name": "Rio",
+					"text": "The classroom is full of lowsider and midsider kids, so they give them lots of free study periods. There's more midsider children than ever these days."
+				},
+				{
+					"name": "Asuma",
+					"text": "Is that so?"
+				},
+				{
+					"text": "I had no idea. They seem so close yet so far. Both middle and low side feel like different countries to me."
+				},
+				{
+					"name": "Rio",
+					"text": "When I was at school, we pretty much just read aloud from the textbooks we were given."
+				},
+				{
+					"text": "Rio sets her gaze squarely on me."
+				},
+				{
+					"name": "Rio",
+					"text": "But the lowsider children are incredible! They're so motivated, or rather... It's like they just have so much passion for life."
+				},
+				{
+					"name": "Rio",
+					"text": "I was so surprised! It kind of made me realize what humanity's ‘base will' should really look like."
+				},
+				{
+					"name": "Asuma",
+					"text": "..."
+				},
+				{
+					"name": "Rio",
+					"text": "Why don't you give it a try?"
+				},
+				{
+					"name": "Asuma",
+					"text": "Me? An elementary school teacher?"
+				},
+				{
+					"name": "Rio",
+					"text": "I think it'd be a very inspiring experience."
+				},
+				{
+					"text": "I recoil at the thought. It brings back the horrid stench of that lowsider boy I found crouching in the middle square."
+				},
+				{
+					"name": "Asuma",
+					"text": "But those kids don't even bathe, do they? I couldn't stand the smell."
+				},
+				{
+					"name": "Rio",
+					"text": "Huh? The smell? That's your hangup? Maybe you're not that desperate to solve the city's problems after all."
+				},
+				{
+					"name": "Asuma",
+					"text": "Of course I am!"
+				},
+				{
+					"name": "Rio",
+					"text": "Ahahah, I'm kidding! Don't get touchy, love!"
+				},
+				{
+					"name": "Asuma",
+					"text": "..."
+				},
+				{
+					"name": "Rio",
+					"text": "Really, though. I think that if you saw them, you couldn't ever say that this city isn't worth saving ever again."
+				},
+				{
+					"name": "Asuma",
+					"text": "..."
+				},
+				{
+					"name": "Rio",
+					"text": "How about you try letting go of that topsider pride for a bit?"
+				},
+				{
+					"name": "Asuma",
+					"text": "*Sigh*"
+				},
+				{
+					"text": "I heave a sigh of resignation and concede the point to her."
+				},
+				{
+					"text": "Rio just laughs as she clears away the dishes and brews us some coffee."
+				},
+				{
+					"text": "It's a usual evening for us."
+				},
+				{
+					"text": "Her coffee always soothes my nerves."
+				},
+				{
+					"text": "I've tried to make it like she does, but it never comes out the same."
+				},
+				{
+					"text": "How can it taste so different when we use the same ingredients and tools?"
+				},
+				{
+					"text": "It is truly a mystery to me."
+				},
+				{
+					"text": "Today is my second and last stint in the middle side for this week."
+				},
+				{
+					"text": "As usual, a sigh of frustration escapes my lips as the elevator doors open."
+				},
+				{
+					"text": "I feel like it's becoming a habit of mine."
+				},
+				{
+					"text": "I cross the middle side square on my way to the institute."
+				},
+				{
+					"text": "It'll be just another day of analyzing deterioration in the inner walls and dealing with broken water purification and farming robots."
+				},
+				{
+					"text": "As I look forward to wasting my whole day in that musty room, I notice a lowsider boy tinkering with some kind of electronics on a bench as I walk by."
+				},
+				{
+					"text": "Remembering my conversation with Rio yesterday, I slow my pace to take a closer look."
+				},
+				{
+					"text": "I realize that he's holding a primitive flashlight mechanism in his hands."
+				},
+				{
+					"text": "It seems like he's trying to fix it using spare parts."
+				},
+				{
+					"text": "As I slowly walk past, the cylinder falls from his hand and rolls up to my feet."
+				},
+				{
+					"name": "Asuma",
+					"text": "..."
+				},
+				{
+					"text": "The boy chases after the little cylinder, but stops as he comes within reach of me."
+				},
+				{
+					"text": "He then looks up at me, clearly unsure as to what to do."
+				},
+				{
+					"text": "I..."
+				},
+				{
+					"text": "I walk away from the cylinder and keep walking to the lab, sparing the boy no further glance."
+				},
+				{
+					"text": "Perhaps there's some truth to Rio's words."
+				},
+				{
+					"text": "But righting every small misfortune I encounter won't help anyone."
+				},
+				{
+					"text": "Improving the system itself is the only thing that will put a dent in the world's collective misery."
+				},
+				{
+					"text": "I live for my cause."
+				},
+				{
+					"text": "I can't be swept up by emotion."
+				},
+				{
+					"text": "The only way to really save anyone is to keep my focus on the big picture."
+				},
+				{
+					"text": "I finish the tedious busywork and go back home to where Rio is waiting."
+				},
+				{
+					"text": "By the time I get to the dinner table, she's mostly done setting the plates."
+				},
+				{
+					"name": "Rio",
+					"text": "Pork! It's been a while since we had some, right?"
+				},
+				{
+					"text": "She gleefully places the pork saute on the table."
+				},
+				{
+					"text": "I smile wryly at the meal."
+				},
+				{
+					"text": "It probably came from those pigs I arranged for."
+				},
+				{
+					"text": "No doubt they made the request on a whim, and after realizing they actually didn't have a use for them and couldn't care for them, ended up dumping them at the distribution station."
+				},
+				{
+					"name": "Rio",
+					"text": "I hear that pork is good for you!"
+				},
+				{
+					"name": "Asuma",
+					"text": "I've heard that too."
+				},
+				{
+					"name": "Rio",
+					"text": "All right, it's about that time of the night when I listen to my dear husband's complaints about the city."
+				},
+				{
+					"name": "Asuma",
+					"text": "I don't have any today, sorry to disappoint."
+				},
+				{
+					"name": "Rio",
+					"text": "You're such a bad liar. It's written all over your face."
+				},
+				{
+					"name": "Asuma",
+					"text": "Mm..."
+				},
+				{
+					"name": "Rio",
+					"text": "Let's thank the surface for its blessings and enjoy our meal."
+				},
+				{
+					"text": "She puts her hands together and repeats her usual chant."
+				},
+				{
+					"text": "Then the knife in her left hand slips out of her fingers."
+				},
+				{
+					"text": "It hits the edge of her plate and leaves a crack, then falls to the table."
+				},
+				{
+					"text": "I never thought a knife could make so much noise..."
+				},
+				{
+					"text": "I realize it's a curiously perfunctory thought."
+				},
+				{
+					"text": "My eyes gaze at the crack spiderwebbing from the plate's edge, then move up to Rio's face."
+				},
+				{
+					"text": "She's staring at her left hand, dumbfounded."
+				},
+				{
+					"name": "Asuma",
+					"text": "Rio?"
+				},
+				{
+					"text": "She slowly turns her gaze from her hand to me."
+				},
+				{
+					"name": "Rio",
+					"text": "My fingers..."
+				},
+				{
+					"name": "Rio",
+					"text": "I think... I can't move them..."
+				},
+				{
+					"text": "A few weeks later..."
+				},
+				{
+					"text": "Somehow, the other members of the laboratory caught word of Rio's symptoms appearing."
+				},
+				{
+					"text": "I don't know if the doctor that diagnosed her leaked it, or if word simply got out through the neighborhood."
+				},
+				{
+					"text": "Whatever the case, it doesn't matter."
+				},
+				{
+					"text": "I've refused to continue working in the middle side institute."
+				},
+				{
+					"text": "Now I'm devoting all of my time to identifying the gene causing base will deficiency."
+				},
+				{
+					"text": "I feel the cold stares from my colleagues."
+				},
+				{
+					"text": "Perhaps seeing me rooted to my desk dawn to dusk makes them uncomfortable."
+				},
+				{
+					"text": "Good thing I don't give a damn."
+				},
+				{
+					"text": "I continue my experiments with the model mice."
+				},
+				{
+					"text": "I have identified 615 causative genes."
+				},
+				{
+					"text": "But there are still factors I haven't been able to identify."
+				},
+				{
+					"text": "In order to identify where in the genomic sequence these factors might be found, I monopolize the institute's computers to run large-scale quantum chemistry simulations."
+				},
+				{
+					"text": "These simulations name potential culprits within the genomic sequence, which I then check against model mice demonstrating base will deficiency."
+				},
+				{
+					"text": "I keep them in automated feeder cages spanning the entirety of one of the lab's walls."
+				},
+				{
+					"text": "The intricate cluster of hexagonal cages reminds me of a honeycomb."
+				},
+				{
+					"text": "These cages house 2048 mice with base will deficiency, and I perform 2048 simulations every night."
+				},
+				{
+					"text": "And every night, I dispose of 2048 corpses."
+				},
+				{
+					"text": "I keep running my experiments, dreaming of finding the defining factor in their genome."
+				},
+				{
+					"text": "And I do it all alone."
+				},
+				{
+					"text": "And around the time Rio's motor impairment progresses to her right elbow..."
+				},
+				{
+					"text": "The day finally arrives."
+				},
+				{
+					"name": "Asuma",
+					"text": "Mm?"
+				},
+				{
+					"text": "I arrive at the topside institute early."
+				},
+				{
+					"text": "But as I face the wall and its 2048 cages, ready to dispose of the carcasses of the mice I used to test my gene therapy samples yesterday..."
+				},
+				{
+					"text": "I hear a sound of life from a single cage."
+				},
+				{
+					"name": "Asuma",
+					"text": "It's alive?"
+				},
+				{
+					"text": "Base will deficiency advances far more rapidly in mice than humans."
+				},
+				{
+					"text": "Once the symptoms are artificially induced, they die from multiple organ failure overnight."
+				},
+				{
+					"text": "The cages' green indicator lights go out when the mouse inside them dies."
+				},
+				{
+					"text": "But I can hardly believe my eyes."
+				},
+				{
+					"text": "Once green light is still glowing."
+				},
+				{
+					"text": "In that sea of 2047 pitch black cages, of 2047 corpses, it shines like a star."
+				},
+				{
+					"name": "Asuma",
+					"text": "It's alive..."
+				},
+				{
+					"text": "The tiny mouse bustles about its enclosure."
+				},
+				{
+					"name": "Asuma",
+					"text": "Hah... Hahah..."
+				},
+				{
+					"name": "Asuma",
+					"text": "Ahahah! Hahahah!"
+				},
+				{
+					"text": "I feel the corners of my mouth curl upwards, and my maniacal laughter booms out across the laboratory."
+				},
+				{
+					"text": "Euphoria courses through my body."
+				},
+				{
+					"text": "Finally."
+				},
+				{
+					"text": "I found the answer."
+				},
+				{
+					"text": "I finally did it."
+				},
+				{
+					"text": "I outwitted all those incompetent researchers just whiling the days away waiting to die."
+				},
+				{
+					"text": "I did it all on my own. I made the discovery that will save Rio and humanity."
+				},
+				{
+					"text": "I was right all along."
+				},
+				{
+					"text": "I was the only one right in this whole worthless city."
+				},
+				{
+					"text": "There in the empty testing facility, I cackle until my throat becomes sore."
+				},
+				{
+					"text": "I identified the causative gene for the disease plaguing our species."
+				},
+				{
+					"text": "As well as the remedy capable of curing it."
+				},
+				{
+					"text": "In a single afternoon, the news spreads throughout all of the top side."
+				},
+				{
+					"text": "They quickly petition me to open a lab in the topside institute to continue my research."
+				},
+				{
+					"text": "I'm appointed the youngest lab director in history."
+				},
+				{
+					"text": "But I still lack one thing..."
+				},
+				{
+					"text": "Another position I need in order to fulfill my purpose."
+				},
+				{
+					"name": "Asuma",
+					"text": "Make me director of the middle side institute."
+				},
+				{
+					"text": "The faces of the top brass are suitably surprised by my request."
+				},
+				{
+					"text": "Taking the position of director of the middle side institute..."
+				},
+				{
+					"text": "That is, in effect, a position given to topsider researchers who, for whatever reason, fall from grace and end up in the middle side. A literal demotion."
+				},
+				{
+					"text": "They simply stare at me, unable to decipher the intent behind my words."
+				},
+				{
+					"name": "Asuma",
+					"text": "Seeking a fundamental solution to base will deficiency..."
+				},
+				{
+					"name": "Asuma",
+					"text": "This is not a problem that affects only topsiders. It concerns the entirety of this city."
+				},
+				{
+					"name": "Asuma",
+					"text": "The fact that neither the midsiders nor the lowsiders are aware of the problem does not change that."
+				},
+				{
+					"name": "Asuma",
+					"text": "They cannot be blamed for their ignorance, for it is us who created this system."
+				},
+				{
+					"text": "My audience remains silent."
+				},
+				{
+					"name": "Asuma",
+					"text": "I want to ground myself, so I never forget that my position as a researcher was built upon the sacrifices of those in the low and middle sides."
+				},
+				{
+					"name": "Asuma",
+					"text": "The thing that made me realize how indebted we all are to them was my training twice a week in the middle side laboratory."
+				},
+				{
+					"name": "Asuma",
+					"text": "I abandoned that very same training to devote myself to this research. Even now, I regret shirking my duties."
+				},
+				{
+					"text": "Everyone listens to my words attentively."
+				},
+				{
+					"text": "I realize I might be buying into my own hype a little."
+				},
+				{
+					"name": "Asuma",
+					"text": "That's why I want to stand beside those who continue doing pointless research in our name as director of the middle side institute."
+				},
+				{
+					"name": "Asuma",
+					"text": "I want to stand with them on the soil that supports this city while I develop the treatment that will save our species from extinction."
+				},
+				{
+					"text": "As I bow to end my speech, I can tell I have the top brass in the palm of my hand."
+				},
+				{
+					"text": "It's the kind of beautiful platitude these people eat up."
+				},
+				{
+					"text": "I hear murmurs go around the room."
+				},
+				{
+					"text": "Voices are praising the system for creating such ethical researchers."
+				},
+				{
+					"text": "I tolerate it."
+				},
+				{
+					"text": "I've decided to be tolerant."
+				},
+				{
+					"text": "Protecting Rio's life is all that matters."
+				},
+				{
+					"text": "If I want to regain our calm dinner evenings..."
+				},
+				{
+					"text": "I must stop being a cog in the machine and start being one of its masters."
+				},
+				{
+					"name": "Asuma",
+					"text": "..."
+				},
+				{
+					"text": "I sit in my new director's office, looking over the map of the middle side institute."
+				},
+				{
+					"text": "The three upper floors of the central building are only for topsider researchers."
+				},
+				{
+					"text": "I want to get as far from there as I can."
+				},
+				{
+					"text": "The four above-ground floors of the research building contain labs for developing drugs to promote UV resistance."
+				},
+				{
+					"name": "Asuma",
+					"text": "Hmm? Wonder if the building has a basement..."
+				},
+				{
+					"text": "I look away from the institute map to a diagram of the middle side."
+				},
+				{
+					"text": "The stairs leading up from the low side are nearby."
+				},
+				{
+					"text": "The middle's power lines run under the central square."
+				},
+				{
+					"text": "Considering how much power the institute uses, there should be a hole for the huge electric cables."
+				},
+				{
+					"name": "Asuma",
+					"text": "Promising..."
+				},
+				{
+					"text": "I could have a passage built connecting the basement of this building with the low side."
+				},
+				{
+					"text": "I'll put it on the budget as a project to improve efficiency of the transportation of goods from the low side."
+				},
+				{
+					"text": "I'll make it so only the institute director is authorized on the basement floors, and if I make sure all the actual storage remains on the upper one, I can keep the second one sealed off."
+				},
+				{
+					"text": "With this..."
+				},
+				{
+					"text": "I'll be able to save Rio."
+				},
+				{
+					"text": "It'll take one year at the most."
+				},
+				{
+					"text": "That's the time I estimate it'll take me to save her."
+				},
+				{
+					"text": "It takes three months to build the passage connecting the low side with the institute, all behind closed doors."
+				},
+				{
+					"text": "In the meantime, I familiarize myself with the low side markets."
+				},
+				{
+					"text": "There, I learn about barter culture."
+				},
+				{
+					"text": "The only transactions made with real money nowadays are big cross-national exchanges."
+				},
+				{
+					"text": "Not even the midsiders are aware that trade with foreign countries continues in an extremely diminished manner, or that money still exists."
+				},
+				{
+					"text": "Rio was right, of course."
+				},
+				{
+					"text": "The people in the low side are truly brimming with a desire to live."
+				},
+				{
+					"text": "At the same, there are also a few who have grown inured to their lifestyle."
+				},
+				{
+					"text": "They are exactly what I'm looking for."
+				},
+				{
+					"text": "Lowsiders with the first signs of base will deficiency."
+				},
+				{
+					"text": "I buy their lives with shocking ease, simply by trading off the luxuries and necessities topsiders have access to."
+				},
+				{
+					"text": "If I waited for regular clinical trials, it would take two years for my treatment to reach fruition."
+				},
+				{
+					"text": "I don't have time for that."
+				},
+				{
+					"text": "I developed this cure to help Rio."
+				},
+				{
+					"text": "And that's why..."
+				},
+				{
+					"text": "I've decided to carry out my own human experiments."
+				},
+				{
+					"text": "I feel some degree of guilt."
+				},
+				{
+					"text": "Nothing that will keep me up at night, however."
+				},
+				{
+					"text": "These experiments will give hope to the lowsiders suffering from base will deficiency as well."
+				},
+				{
+					"text": "The experiments won't exacerbate their condition; at best it could cure them."
+				},
+				{
+					"text": "They're already as good as dead anyway."
+				},
+				{
+					"text": "I'm working to stop that."
+				},
+				{
+					"text": "Who could blame me for this?"
+				},
+				{
+					"text": "I go down to the basement room where the lowsiders I bought are being kept."
+				},
+				{
+					"text": "As soon as I enter the room, the patients begin calling out to me. There are just under ten of them."
+				},
+				{
+					"text": "They seem so grateful. My willingness to use my own resources to treat them for free must make me a saint in their eyes."
+				},
+				{
+					"name": "Asuma",
+					"text": "How do you feel? Can you move your fingers?"
+				},
+				{
+					"text": "I check each patient's symptoms and administer my gene therapy drugs to each of them."
+				},
+				{
+					"text": "Although there are individual differences for each case, all of them are headed in a positive direction."
+				},
+				{
+					"text": "It's going to work."
+				},
+				{
+					"text": "My conviction is only strengthened as the trials continue."
+				},
+				{
+					"text": "And one day..."
+				},
+				{
+					"text": "The voluntary motor disorders of each of the patients who cooperated with the experiments go into remission."
+				},
+				{
+					"text": "Convinced of the effectiveness of the treatment, I decide to administer it to Rio."
+				},
+				{
+					"text": "When I enter her bedroom, I find her laying in bed, staring up at the moon through the skylight."
+				},
+				{
+					"text": "She smiles at me before letting her gaze wander back out the window."
+				},
+				{
+					"name": "Rio",
+					"text": "The moon is right above us now."
+				},
+				{
+					"text": "I smile back at her and go to sit by her bedside."
+				},
+				{
+					"name": "Asuma",
+					"text": "Rio."
+				},
+				{
+					"name": "Rio",
+					"text": "Mhm?"
+				},
+				{
+					"text": "She looks up at the slivered arch of a moon, her immobilized right arm and left forearm splayed to the sides."
+				},
+				{
+					"name": "Asuma",
+					"text": "I did it."
+				},
+				{
+					"text": "She turns her eyes back to me."
+				},
+				{
+					"name": "Asuma",
+					"text": "The cure for the base will deficiency. I found it."
+				},
+				{
+					"name": "Rio",
+					"text": "But..."
+				},
+				{
+					"text": "I shake my head before she can formulate the question."
+				},
+				{
+					"name": "Asuma",
+					"text": "The institute recognizes how important it is to develop a cure. They put all our resources into speeding up the clinical trials."
+				},
+				{
+					"text": "Rio's eyes widen in amazement."
+				},
+				{
+					"name": "Asuma",
+					"text": "Believe in me, love."
+				},
+				{
+					"name": "Asuma",
+					"text": "I made this cure to save you."
+				},
+				{
+					"text": "A sweet smile spreads across her face, and she answers with a nod."
+				},
+				{
+					"text": "I administer the medicine to her."
+				},
+				{
+					"text": "She simply watches as I inject the drug into her limp arm."
+				},
+				{
+					"name": "Asuma",
+					"text": "You'll get better, I promise you."
+				},
+				{
+					"name": "Asuma",
+					"text": "Soon humanity will go back to the surface, and when the time comes..."
+				},
+				{
+					"text": "I look up at the skylight above us and see the soft glow of the moon."
+				},
+				{
+					"name": "Asuma",
+					"text": "Let's look at the stars together. All of them, not just this little window."
+				},
+				{
+					"name": "Asuma",
+					"text": "This underground life will be over very soon, my love."
+				},
+				{
+					"name": "Rio",
+					"text": "Mhm..."
+				},
+				{
+					"text": "As I finish my experiments on the lowsiders and Rio's symptoms stabilize, I gradually move my activities back to the topside institute."
+				},
+				{
+					"text": "The formal clinical trials continue apace there."
+				},
+				{
+					"text": "But they move at a tenth of the speed of my secret trials down in the middle side institute."
+				},
+				{
+					"text": "It's far too inefficient."
+				},
+				{
+					"text": "Far too cautious."
+				},
+				{
+					"text": "I made my own cure, pouring all my time into trial after trial and error after error."
+				},
+				{
+					"text": "I internally curse their laid-back approach as I listen to the reports of the seemingly infinite clinical trials being run one by one."
+				},
+				{
+					"name": "Asuma",
+					"text": "I'm back, love."
+				},
+				{
+					"text": "That day, I find Rio sleeping when I come home."
+				},
+				{
+					"text": "I stand at her bedside and look down fondly on her."
+				},
+				{
+					"text": "She sleeps placidly, her chest heaving slowly."
+				},
+				{
+					"text": "I take the chance to administer her nightly dose and brew myself some coffee."
+				},
+				{
+					"text": "Drinking my own coffee only makes me realize how much better I like Rio's."
+				},
+				{
+					"text": "If she can move her arms by tomorrow morning, we can celebrate by brewing some coffee."
+				},
+				{
+					"text": "That beautiful dream sends me right off to sleep."
+				},
+				{
+					"name": "Asuma",
+					"text": "..."
+				},
+				{
+					"text": "I wake up next to Rio."
+				},
+				{
+					"text": "The morning sunlight pours through the skylight, filling the room with its warmth."
+				},
+				{
+					"name": "Asuma",
+					"text": "Good morning, love."
+				},
+				{
+					"text": "But Rio..."
+				},
+				{
+					"text": "She's still sleeping."
+				},
+				{
+					"text": "Just like yesterday. It seems like she's barely moved."
+				},
+				{
+					"text": "Starting to grow concerned, I check her biometric data."
+				},
+				{
+					"name": "Asuma",
+					"text": "..."
+				},
+				{
+					"text": "She's the very picture of health."
+				},
+				{
+					"text": "But there's something off."
+				},
+				{
+					"name": "Asuma",
+					"text": "Rio? Rio!"
+				},
+				{
+					"text": "No matter how much I call out to her or shake her, she doesn't awaken."
+				},
+				{
+					"name": "Asuma",
+					"text": "What is it? What's happening to you?"
+				},
+				{
+					"text": "Ever since then..."
+				},
+				{
+					"text": "Rio became unable to stay awake more than two hours per day."
+				},
+				{
+					"text": "I gather all the necessities in the bedroom where she sleeps so we can spend all our time there."
+				},
+				{
+					"text": "I stop going to work at my lab and devote all my time to attending to her needs."
+				},
+				{
+					"text": "Until..."
+				},
+				{
+					"text": "One night, an ominous sound pierces my ears."
+				},
+				{
+					"name": "Asuma",
+					"text": "The cardiopulmonary monitor..."
+				},
+				{
+					"text": "The multiple organ failure seen in base will deficiency always begins in the heart and lungs."
+				},
+				{
+					"text": "I hook my wife up to the cardiopulmonary bypass machine I brought from the lab."
+				},
+				{
+					"text": "The sheer calm I feel as I hook her up surprises even me."
+				},
+				{
+					"text": "To be quite honest..."
+				},
+				{
+					"text": "I was prepared for this to happen."
+				},
+				{
+					"text": "But I couldn't admit it to myself until it finally stared me in the face."
+				},
+				{
+					"text": "I stand next to her fragile body in silence, a million thoughts racing through my head."
+				},
+				{
+					"text": "I... made a mistake. I must have."
+				},
+				{
+					"name": "Asuma",
+					"text": "..."
+				},
+				{
+					"text": "No..."
+				},
+				{
+					"text": "It's not over."
+				},
+				{
+					"text": "Whatever's happening to her body..."
+				},
+				{
+					"text": "Whatever's happening to my lowsider subjects..."
+				},
+				{
+					"text": "I have to find out what it is."
+				},
+				{
+					"text": "This isn't over yet."
+				},
+				{
+					"text": "I don't know for sure yet that I've made a mistake."
+				},
+				{
+					"text": "I return to my clinical trial room in the middle side institute, now empty, to investigate what's happening to the genes of the other subjects."
+				},
+				{
+					"text": "I need to find out what's happening to the causative gene I identified."
+				},
+				{
+					"text": "And then..."
+				},
+				{
+					"text": "Finally, despair takes over."
+				},
+				{
+					"name": "Asuma",
+					"text": "What the hell is this?"
+				},
+				{
+					"text": "The 616 causative genes I identified were satisfactorily rewritten using the cure I developed. It's all working as intended."
+				},
+				{
+					"text": "But the expression levels of other genes begin to change, as if to compensate for the alteration."
+				},
+				{
+					"text": "The genes..."
+				},
+				{
+					"text": "They changed to counteract the effects of the treatment."
+				},
+				{
+					"text": "As if the body itself was rejecting the cure."
+				},
+				{
+					"text": "The patients' bodies are mutating themselves to return to their previous state."
+				},
+				{
+					"text": "I..."
+				},
+				{
+					"text": "Did I merely unravel one knot of a deeper, more complicated tangle?"
+				},
+				{
+					"text": "Or perhaps..."
+				},
+				{
+					"text": "Is base will deficiency an intrinsic part of humanity's evolution?"
+				},
+				{
+					"name": "Asuma",
+					"text": "It's impossible... Even if I were to mutate each individual gene, there'd be no end to it..."
+				},
+				{
+					"text": "Not only did all my effort ring hollow..."
+				},
+				{
+					"text": "My approach itself was flawed."
+				},
+				{
+					"text": "I was wrong..."
+				},
+				{
+					"text": "I..."
+				},
+				{
+					"text": "..."
+				},
+				{
+					"text": "What I'm looking at is simply..."
+				},
+				{
+					"text": "The remains of a genetic code mutilated beyond recognition over generations, by a humanity seeking to prolong their lives and satisfy ephemeral desires."
+				},
+				{
+					"text": "I..."
+				},
+				{
+					"text": "I immediately apply for the suspension of Asuma Lab's research."
+				},
+				{
+					"text": "I know what the results of the clinical trials for the medicine will be. We don't need to waste years trying it out."
+				},
+				{
+					"text": "I may have made a mistake."
+				},
+				{
+					"text": "But I haven't abandoned my self-respect as a researcher."
+				},
+				{
+					"text": "I report to the topside management that an error was found in my research."
+				},
+				{
+					"text": "Now that my only achievement is gone, the topside management quickly wash their hands of me."
+				},
+				{
+					"text": "They had long been aware of my misappropriation of middle side institute funds."
+				},
+				{
+					"text": "Yet they had let me carry on."
+				},
+				{
+					"text": "It turned out that they were far more cunning that I, leaving me to delude myself with the thought that I was the one in control."
+				},
+				{
+					"text": "And then they tell me..."
+				},
+				{
+					"text": "We believe your feelings about the middle side institute to be genuine."
+				},
+				{
+					"text": "I'm officially demoted to midsider status, but remain director of the institute there."
+				},
+				{
+					"text": "And once I'm living in the middle side with my bedridden wife..."
+				},
+				{
+					"text": "To my surprise, my everyday life doesn't change much."
+				},
+				{
+					"text": "Our life was pretty much confined to those four walls anyway."
+				},
+				{
+					"text": "Life here is basically the same as it was in our topside mansion, just with less extra space we're not using."
+				},
+				{
+					"text": "Under these circumstances, I could just as well be a lowsider."
+				},
+				{
+					"text": "I deride myself."
+				},
+				{
+					"text": "I've gotten accustomed to the dust in the air already."
+				},
+				{
+					"text": "I wile the hours away stroking Rio's hair."
+				},
+				{
+					"text": "I can only watch as her organs fail one after the other."
+				},
+				{
+					"text": "Each time, I attach more equipment to prolong her life."
+				},
+				{
+					"text": "In the end..."
+				},
+				{
+					"text": "Perhaps I'm doing the same thing our ancestors did when they modified their genes to prolong their lives."
+				},
+				{
+					"name": "Asuma",
+					"text": "I need to go now. I'll be back."
+				},
+				{
+					"text": "It's become my daily habit to say goodbye to her before going to work, despite not once getting an answer."
+				},
+				{
+					"text": "While I'm nominally the director of the institute, I have hardly any work to do."
+				},
+				{
+					"text": "At the occasional debriefing session, it takes all I have just to muster up a fake little smile for some starry-eyed midsider researcher talking about his groundbreaking new UV resistance treatment."
+				},
+				{
+					"text": "If you went up to the surface, I think, the most you would get is a tan."
+				},
+				{
+					"text": "But I keep the sarcasm to myself."
+				},
+				{
+					"text": "One such stagnant day..."
+				},
+				{
+					"text": "A young man gives a particularly eccentric report."
+				},
+				{
+					"text": "Have any of you ever experienced a dream that felt real? he begins."
+				},
+				{
+					"text": "If we could expand upon that phenomenon, don't you think we could stop this mad scramble for the surface?"
+				},
+				{
+					"text": "He has long white hair and striking red eyes."
+				},
+				{
+					"text": "The androgynous youth faces the scathing questions of his colleagues with surprising ease."
+				},
+				{
+					"text": "He simply lets their hostility roll off his back with a smile on his face, and doesn't bother giving serious answers to their bad faith questions."
+				},
+				{
+					"text": "It's no use entertaining these idiots."
+				},
+				{
+					"text": "He doesn't say it aloud, but I can see the words going through his mind."
+				},
+				{
+					"text": "After the other researchers voice their negative opinions on his proposal, I fully approve the budget he requested and give him his own lab."
+				},
+				{
+					"text": "To the obvious surprise of the rest of directors sitting at the table."
+				},
+				{
+					"text": "For some reason, the white-haired young man laughs."
+				},
+				{
+					"text": "It was touch and go for a second there, he says."
+				},
+				{
+					"text": "He's grinning like a little boy."
+				},
+				{
+					"name": "Asuma",
+					"text": "I'm home..."
+				},
+				{
+					"text": "I call to Rio, not expecting a reply."
+				},
+				{
+					"text": "That new researcher... His name is Shiona."
+				},
+				{
+					"text": "He lent me one of his prototype machines. It can supposedly connect and share the dreams of people."
+				},
+				{
+					"text": "Try it out, he told me. If you feel like it has potential, you can take over my research."
+				},
+				{
+					"text": "I'm not that good at public speaking, as you saw today."
+				},
+				{
+					"text": "From start to finish, he was as carefree as a child."
+				},
+				{
+					"text": "Seeing him so purely devoted to his research, with seemingly no ulterior motive..."
+				},
+				{
+					"text": "I find myself quietly jealous."
+				},
+				{
+					"name": "Asuma",
+					"text": "Dreams, huh?"
+				},
+				{
+					"text": "As I absently run my hand over the device, I glance over at Rio's bio-monitor."
+				},
+				{
+					"text": "She has entered REM sleep."
+				},
+				{
+					"name": "Asuma",
+					"text": "..."
+				},
+				{
+					"text": "Those who manage to find a scrap of contentment, even in this underground city, succumb to the base will deficiency."
+				},
+				{
+					"text": "I wonder what Rio dreams about."
+				},
+				{
+					"text": "I use the device to connect us together."
+				},
+				{
+					"name": "Asuma",
+					"text": "..."
+				},
+				{
+					"text": "As the device starts working and shows me Rio's dreams..."
+				},
+				{
+					"text": "I find myself in a magical world where memories come and go, swirling together like a kaleidoscope."
+				},
+				{
+					"text": "But the thing that strikes me the most..."
+				},
+				{
+					"text": "...is that I'm in all of them."
+				},
+				{
+					"text": "In all her dreams, there I am."
+				},
+				{
+					"text": "There's me as I explain some pet theory to her with a satisfied smile on my face."
+				},
+				{
+					"text": "There's me as I complain about the city."
+				},
+				{
+					"text": "And me as I laugh and nod at her stories."
+				},
+				{
+					"name": "Asuma",
+					"text": "Rio... Rio..."
+				},
+				{
+					"text": "As I stand on the sidelines of the swirling show, my voice echoes around me."
+				},
+				{
+					"text": "Was this it?"
+				},
+				{
+					"text": "Was this the source of your contentment?"
+				},
+				{
+					"name": "Asuma",
+					"text": "But there's nothing here except you and me..."
+				},
+				{
+					"text": "You and this powerless, foolish man..."
+				},
+				{
+					"text": "How could you ever..."
+				},
+				{
+					"name": "Asuma",
+					"text": "Delicious, as ever."
+				},
+				{
+					"name": "Rio",
+					"text": "You think so?"
+				},
+				{
+					"name": "Asuma",
+					"text": "I just can't make it right like you can."
+				},
+				{
+					"text": "In her eyes, I take another sip of my coffee and smile."
+				},
+				{
+					"name": "Asuma",
+					"text": "You really do make the best coffee."
+				},
+				{
+					"name": "Rio",
+					"text": "It'd come out the same no matter who made it."
+				},
+				{
+					"name": "Rio",
+					"text": "Still, thanks."
+				},
+				{
+					"name": "Asuma",
+					"text": "Rio... Your dreams... are all about me..."
+				},
+				{
+					"name": "Asuma",
+					"text": "These... These trivial moments..."
+				},
+				{
+					"name": "Asuma",
+					"text": "These are the whole sum of your happiness?"
+				},
+				{
+					"name": "Asuma",
+					"text": "I never knew..."
+				},
+				{
+					"name": "Asuma",
+					"text": "I never knew that you..."
+				},
+				{
+					"name": "Asuma",
+					"text": "That you loved me this much..."
+				},
+				{
+					"text": "I collapse on the ground, weeping."
+				},
+				{
+					"text": "I bawl like a child, clinging to Rio's motionless body, hooked up to machines and devoid of the warmth and softness it once had."
+				},
+				{
+					"text": "I spend the whole night crying beside her..."
+				},
+				{
+					"text": "And when I wake up, I feel purged."
+				},
+				{
+					"text": "I'm standing in front of the mirror."
+				},
+				{
+					"text": "I'm in pretty bad shape."
+				},
+				{
+					"text": "My eyes are red and swollen from crying."
+				},
+				{
+					"text": "There are dark rings beneath them."
+				},
+				{
+					"text": "But I..."
+				},
+				{
+					"text": "I smile at myself."
+				},
+				{
+					"text": "I look back in the direction of the bedroom."
+				},
+				{
+					"name": "Asuma",
+					"text": "I'm going now, love."
+				},
+				{
+					"text": "As I cross the middle side square on my way to the institute..."
+				},
+				{
+					"text": "I hear the cries of children."
+				},
+				{
+					"text": "Again, I realize they are not the joyful cries of children playing."
+				},
+				{
+					"text": "Some of them resound with malice, and some of them with pain and grief."
+				},
+				{
+					"text": "I stop dead in my tracks."
+				},
+				{
+					"text": "Then I turn and walk towards the children."
+				},
+				{
+					"name": "Asuma",
+					"text": "Are you having fun?"
+				},
+				{
+					"text": "The midsider children all snap upright as I approach them, and slowly back away from the lowside boy they've cornered."
+				},
+				{
+					"name": "Asuma",
+					"text": "Does beating up on him make you feel better?"
+				},
+				{
+					"name": "Asuma",
+					"text": "Do you get anything out of it? Do you?"
+				},
+				{
+					"text": "The midsider boys exchange awkward glances and scuttle away with their heads hanging low."
+				},
+				{
+					"text": "I look down at the small boy still shivering on the ground."
+				},
+				{
+					"text": "He regards me fearfully as he slowly stands up."
+				},
+				{
+					"text": "This is how life is in this city."
+				},
+				{
+					"text": "There are many others in the low side receiving the same treatment."
+				},
+				{
+					"text": "I kneel by his side and look him straight in the eye."
+				},
+				{
+					"text": "The boy's clothes have a marked smell of soil and sweat."
+				},
+				{
+					"name": "Asuma",
+					"text": "Are you okay now?"
+				},
+				{
+					"text": "The boy nods at me."
+				},
+				{
+					"text": "Seeing the glint in that boy's eyes..."
+				},
+				{
+					"text": "I realize for the first time what Rio was speaking of."
+				},
+				{
+					"text": "In his eyes I see hunger for life."
+				},
+				{
+					"text": "She was right."
+				},
+				{
+					"text": "Having seen such a thing, I can no longer say this city is not worth saving."
+				},
+				{
+					"text": "I stand up, pat the boy on the head, then head to the middle side institute."
+				},
+				{
+					"text": "I don't go to my office, but to the lab I assigned to that bright young man."
+				},
+				{
+					"text": "When I come into the room, I find him sprawled across the sofa, mouth wide open and snoring away."
+				},
+				{
+					"text": "A wry smile comes onto my face."
+				},
+				{
+					"text": "That's a real scientist."
+				},
+				{
+					"text": "That's when it comes to me."
+				},
+				{
+					"text": "A new approach."
+				},
+				{
+					"text": "A way for all the people in this city to find happiness and wait until a real cure for base will deficiency can be found."
+				},
+				{
+					"text": "A way for Rio, and the people who entrusted me with their lives, to not die in vain."
+				},
+				{
+					"text": "A way for them to experience the life on the surface we all dreamed of."
+				},
+				{
+					"text": "In this little lab, a new hope called the virtual space is about to be born."
+				}
+			]
+		},
+		{}
+	]
+}

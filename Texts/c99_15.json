@@ -1,0 +1,83 @@
+{
+	"scenes": [
+		{},
+		{},
+		{
+			"texts": [
+				{
+					"name": "Izumo",
+					"text": "Good morning."
+				},
+				{
+					"name": "Kaito",
+					"text": "Morning."
+				},
+				{
+					"name": "Kaito",
+					"text": "Is Yonagi eating?"
+				},
+				{
+					"text": "Izumo nods."
+				},
+				{
+					"name": "Kaito",
+					"text": "It's curious how she's fallen into a pattern."
+				},
+				{
+					"name": "Izumo",
+					"text": "Generally speaking, most human behavior is dictated by habit."
+				},
+				{
+					"name": "Izumo",
+					"text": "One could say that this predictable behavior is a sign of her recovery."
+				},
+				{
+					"name": "Kaito",
+					"text": "I see."
+				}
+			]
+		},
+		{
+			"texts": [
+				{
+					"name": "Yonagi",
+					"text": "That was fun."
+				},
+				{
+					"name": "Kaito",
+					"text": "Glad to hear it."
+				},
+				{
+					"text": "After playing together to exhaustion, I put Yonagi to bed. I sit by her bedside and look down at her."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Let's play again, Kaito..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "When we wake up..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Let's play..."
+				},
+				{
+					"name": "Kaito",
+					"text": "Yeah."
+				},
+				{
+					"text": "Smiling at me, she falls into a placid slumber."
+				},
+				{
+					"name": "Kaito",
+					"text": "It's time, then."
+				},
+				{
+					"text": "I get up and go to my own bed."
+				}
+			]
+		},
+		{}
+	]
+}
