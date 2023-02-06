@@ -21,4 +21,4 @@ Requirements:
 - Some name labels were changed to make them shorter
 - One CG was removed from Switch version, it was bringed back in this mod, though you cannot see it in CG mode. 
 - There were some small changes to scenario. The biggest one is in Prologue. Changes that were not typo fixes can be found [here](https://docs.google.com/spreadsheets/d/1e-P8xpzcSfnCgOXtp0_RX9rhB42Zchpd07Ou0jmHfq4/edit?usp=sharing)
-- Switch version is using `KiriKiri Z` engine while original PC release is using `CatSystem2`. It seems converting scenario from one engine to another produced some bugs to scene switches in Interlude, it's not an issue introduced with mod.
+- Switch version is using `KiriKiri Z` engine while original PC release is using `CatSystem2`. It seems converting scenario from one engine to another produced some bugs to scene switches in Interlude, it's not an issue introduced with mod. Blame devs for not fixing them.
