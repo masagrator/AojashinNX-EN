@@ -4,8 +4,8 @@ import glob
 from pathlib import Path
 import shutil
 
-files = glob.glob("Applied/*.json")
 resx = glob.glob("scn/*.resx.json")
+files = glob.glob("Applied/*.json")
 filtered = []
 
 for i in range(len(resx)):
