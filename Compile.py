@@ -5,7 +5,11 @@ from pathlib import Path
 import shutil
 
 files = glob.glob("Applied/*.json")
+resx = glob.glob("scn/*.resx.json")
 filtered = []
+
+for i in range(len(resx)):
+    shutil.copy(resx[i], "Applied/%s.json" % Path(resx[i]).stem)
 
 for i in range(len(files)):
 	if files[i].find("resx") == -1:

@@ -5,7 +5,7 @@ from pathlib import Path
 import glob
 import pyvips
 
-font_name = "Source Han Sans JP Regular"
+font_name = "font/SourceHanSansJP-Regular.otf"
 
 Translations = glob.glob(f"Texts/*.json")
 
@@ -54,7 +54,7 @@ for i in range(len(Translations)):
 					# I am nulling it because I am not bothered by names not fitting in text window
 					SCENARIO["scenes"][x]["texts"][y][1][0][0] = None
 			try:
-				img = pyvips.Image.text(TRANSLATION["scenes"][x]["texts"][y]["text"].replace("\\&", "&amp;"), dpi=159, font=font_name)
+				img = pyvips.Image.text(TRANSLATION["scenes"][x]["texts"][y]["text"].replace("\\&", "&amp;"), dpi=159,fontfile=font_name)
 			except Exception as exc:
 				print("Something went wrong!")
 				print("Text to print:")
