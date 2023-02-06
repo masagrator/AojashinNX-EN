@@ -1,5 +1,5 @@
 # AojashinNX-EN
-English Translation Mod for Nintendo Switch version of game `Hakuchuumu no Aojashin: The girl who's called the world` (Japanese title) / `Cyanotype Daydream -The Girl Who Dreamed the World-` (English title)
+English Translation Mod for Nintendo Switch version of game<br>`Hakuchuumu no Aojashin: The girl who's called the world` (Japanese title)<br>`Cyanotype Daydream -The Girl Who Dreamed the World-` (English title)
 
 # Compiling scenario files
 Requirements:
