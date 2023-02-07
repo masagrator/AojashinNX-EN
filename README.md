@@ -1,6 +1,14 @@
 # AojashinNX-EN
 English Translation Mod for Nintendo Switch version of game<br>`Hakuchuumu no Aojashin: The girl who's called the world` (Japanese title)<br>`Cyanotype Daydream -The Girl Who Dreamed the World-` (English title)
 
+# Installation
+1. Download package from Releases
+2. Copy folder to `atmosphere/contents/`
+3. Play game
+
+It should work with all game versions, mod is based on version 1.0.2
+It should work with any emulator, but for installation process seek help in emulators help sections or support (like dedicated Discords)
+
 # Compiling scenario files
 Requirements:
 - Windows 7+
@@ -16,10 +24,12 @@ Requirements:
 6. New scn files can be found in `Compiled` folder
 
 # Notes
-- English textures are included with game originally, so mod reuses as much English textures as possible in story, but in CG Mode they are not changed. Some of those textures include typos that you can find in `Notes.txt`
-- Apply.py injects break lines based on font file from `font` folder, thus why it takes much more time to finish. If you plan to replace font in game, you need to compile scripts with new font to fix break lines. Apply.py includes limitations aborting process if rendered text will take too much lines, which would result in text being unreadable.
+- English textures are included with game originally, so mod reuses as much English textures as possible in story, but in CG Mode they are not changed. Some of those textures include typos (and in case of boot screen wrong translation of one sentence). You can find typos related to scenario in `Notes.txt`
+- Apply.py injects break lines based on font file from `font` folder, thus why it takes much more time to finish. If you plan to replace font in game, you need to compile scripts with new font to fix break lines. Apply.py includes limitations aborting process if rendered text will take too much lines, which would otherwise result in text being unreadable.
 - Some name labels were changed to make them shorter
 - One CG was removed from Switch version, it was bringed back in this mod, though you cannot see it in CG mode. 
 - There were some small changes to scenario. The biggest one is in Prologue. Any new line was machine translated. Changes that were not typo fixes can be found [here](https://docs.google.com/spreadsheets/d/1e-P8xpzcSfnCgOXtp0_RX9rhB42Zchpd07Ou0jmHfq4/edit?usp=sharing)
-- Switch version is using `KiriKiri Z` engine while original PC release is using `CatSystem2`. It seems converting scenario from one engine to another produced some bugs to scene switches in Interlude, it's not an issue introduced with mod. Blame devs for not fixing them.
-- CASE-2 chapter 5 has some lines using wrong `meswintype`. This mod fixes them
+- Fixed many typos and wrongly translated lines introduced in original scenario files
+- Game has some bugs that were not introduced with mod, this includes:
+> - CASE-2 chapter 5 has some lines using wrong `meswintype` (fixed)
+> - In "Interlude" scene switches related to branching paths have weird cuts
