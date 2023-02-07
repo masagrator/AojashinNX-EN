@@ -34,4 +34,4 @@ Requirements:
 - Fixed many typos and wrongly translated lines introduced in original scenario files
 - Game has some bugs that were not introduced with mod, this includes:
 > - CASE-2 chapter 5 has some lines using wrong `meswintype` (fixed)
-> - In "Interlude" scene switches related to branching paths have weird cuts
+> - In "Interlude" scene switches related to branching paths have weird cuts (no plans to fix them)
