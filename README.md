@@ -10,6 +10,8 @@ It should work with all game versions, mod is based on version 1.0.2<br>
 It should work with any emulator, but for installation process seek help in emulators help sections or support (like dedicated Discords)
 
 # Compiling scenario files
+This section is only for people who want to use this repo as base for their translation or introduce changes.
+
 Requirements:
 - Windows 7+
 - Python 3.10+
