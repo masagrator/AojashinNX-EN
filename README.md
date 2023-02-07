@@ -6,7 +6,7 @@ English Translation Mod for Nintendo Switch version of game<br>`Hakuchuumu no Ao
 2. Copy folder to `atmosphere/contents/`
 3. Play game
 
-It should work with all game versions, mod is based on version 1.0.2
+It should work with all game versions, mod is based on version 1.0.2<br>
 It should work with any emulator, but for installation process seek help in emulators help sections or support (like dedicated Discords)
 
 # Compiling scenario files
