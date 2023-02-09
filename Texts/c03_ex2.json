@@ -1,0 +1,317 @@
+{
+	"scenes": [
+		{
+			"texts": [
+				{
+					"name": "Sumomo",
+					"text": "Oh? You're back early today?"
+				},
+				{
+					"name": "Kanna",
+					"text": "Yeah, today's shoot got cancelled."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Huh? But why?"
+				},
+				{
+					"name": "Kanna",
+					"text": "Err, some kind of weird epidemic, I think?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "You okay?"
+				},
+				{
+					"name": "Kanna",
+					"text": "Yeah, the model from yesterday was acting weird all morning."
+				},
+				{
+					"name": "Sumomo",
+					"text": "That sounds bad. Were they okay?"
+				},
+				{
+					"name": "Kanna",
+					"text": "Apparently they looked fine, but their speech was kind of strange."
+				},
+				{
+					"name": "Sumomo",
+					"text": "What do you mean?"
+				},
+				{
+					"name": "Kanna",
+					"text": "But there's no one who speaks funny like that in our office."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Mm..."
+				},
+				{
+					"name": "Kanna",
+					"text": "My maestro had no clue who it could be. I had no idea what was going on either."
+				},
+				{
+					"name": "Sumomo",
+					"text": "How so?"
+				},
+				{
+					"name": "Kanna",
+					"text": "I mean, there's no one who speaks gracioso around us. No one at all!"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Kanna?!"
+				},
+				{
+					"name": "Kanna",
+					"text": "Hmm?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "You know you're not holding a camera right now, right?"
+				},
+				{
+					"name": "Kanna",
+					"text": "Camera? I don't, porque?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "You're doing that on purpose! No, this can't be happening! We're not at work!"
+				},
+				{
+					"name": "Kanna",
+					"text": "Me? I am being my usual self, like always?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Is this a pandemic? Is the weird talk spreading in the air?"
+				},
+				{
+					"name": "Kanna",
+					"text": "Oh well. Anyway, I got a libre day now. How about we go out for a good almuerzo?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "I can't do this... I can't go outside with him like this... Okay, I need to call Azuki."
+				},
+				{
+					"name": "Kanna",
+					"text": "Azuki?"
+				},
+				{
+					"name": "Azuki",
+					"text": "Hey, hey! What's up, duraznos? Why the sudden llamada? You surprise me!"
+				},
+				{
+					"name": "Sumomo",
+					"text": "You're the model that got sick?!"
+				},
+				{
+					"name": "Kanna",
+					"text": "Hola, Azuki."
+				},
+				{
+					"name": "Azuki",
+					"text": "Hola, amigo."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Maybe it's about time I joined the ranks of the crazies. Being sane is only bad for my health anyway."
+				},
+				{
+					"name": "Azuki",
+					"text": "Ah, something happen at work, Dulce?"
+				},
+				{
+					"name": "Kanna",
+					"text": "Oh? Didn't you come to advertirnos of the weird disease?"
+				},
+				{
+					"name": "Azuki",
+					"text": "Nah, that wasn't me? My manager hurried to come and tell me. He told me to take the dia off, and then Duraznos here called me."
+				},
+				{
+					"name": "Kanna",
+					"text": "Ya veo."
+				},
+				{
+					"name": "Sumomo",
+					"text": "The heck's going on here?! You two don't realize?!"
+				},
+				{
+					"name": "Azuki",
+					"text": "What do you mean?"
+				},
+				{
+					"name": "Kanna",
+					"text": "You are acting rather rara, Sumomo."
+				},
+				{
+					"name": "Azuki",
+					"text": "Fastidiosa too."
+				},
+				{
+					"name": "Sumomo",
+					"text": "What is this? How can I make it end? Yeah, Kanna gets like that when he has a camera, so maybe if I give him a camera to hold..."
+				},
+				{
+					"name": "Kanna",
+					"text": "Hmm?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Kanna, can you take a picture of me? It's been a while!"
+				},
+				{
+					"name": "Kanna",
+					"text": "Really? Sure."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Come on, take the camera."
+				},
+				{
+					"name": "Kanna",
+					"text": "Mhm."
+				},
+				{
+					"name": "Sumomo",
+					"text": "How do I look?!"
+				},
+				{
+					"name": "Kanna",
+					"text": "How? You're adorable, like siempre."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Damn it!"
+				},
+				{
+					"name": "Azuki",
+					"text": "Man, you sure life a feliz life, Duraznos!"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Oh, could you shut up?!"
+				},
+				{
+					"name": "Kanna",
+					"text": "Ahahahah!"
+				},
+				{
+					"name": "Sumomo",
+					"text": "You're pissing me off!"
+				},
+				{
+					"name": "Sumomo",
+					"text": "What do I do now? They don't sell medicine for this, do they? Do I just wait for it to wear off? No, I don't think my mind can take it..."
+				},
+				{
+					"name": "Kanna",
+					"text": "What's wrong, Ciruela?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Ciruela? I'm Sumomo! Me hablas a mi?!"
+				},
+				{
+					"name": "Azuki",
+					"text": "Ahahah! Was that spanish? You're talking like Spencer now, Duraznos!"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Are you listening to yourself?!"
+				},
+				{
+					"name": "Sumomo",
+					"text": "You've been talking like freaks this whole time!"
+				},
+				{
+					"name": "Kanna",
+					"text": "Hahahah!"
+				},
+				{
+					"name": "Azuki",
+					"text": "Ahahah!"
+				},
+				{
+					"name": "Sumomo",
+					"text": "What kind disease is this?! I'm gonna record this nonsense! Give me the camera!"
+				},
+				{
+					"name": "Kanna",
+					"text": "The cam, right?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Oh, shut up!"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Okay, you two talk again now!"
+				},
+				{
+					"name": "Azuki",
+					"text": "Talk? About what?"
+				},
+				{
+					"name": "Kanna",
+					"text": "Hmm, I'm not too used to being on the other side of the lens."
+				},
+				{
+					"name": "Sumomo",
+					"text": "...Are you for real right now?"
+				},
+				{
+					"name": "Azuki",
+					"text": "Huh?"
+				},
+				{
+					"name": "Kanna",
+					"text": "Mm?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "It's gone?! So it goes away when you point the camera at them? This Spencer disease is a huge pain, huh?"
+				},
+				{
+					"name": "Azuki",
+					"text": "What's gone?"
+				},
+				{
+					"name": "Kanna",
+					"text": "What are you talking about?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "You two were talking all weird like Spencer just now!"
+				},
+				{
+					"name": "Azuki",
+					"text": "Nah, don't talk crazy."
+				},
+				{
+					"name": "Kanna",
+					"text": "Not even I can imitate how he speaks completely. You know it's too embarrassing for me to do outside of work."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Oh wow, you got a sense of propriety?"
+				},
+				{
+					"name": "Azuki",
+					"text": "Well, whatever. We haven't had a day off in a while, so why not go out and eat at a nice place?"
+				},
+				{
+					"name": "Kanna",
+					"text": "My thoughts exactly."
+				},
+				{
+					"name": "Sumomo",
+					"text": "I'm so tired already. I think I need a drink, actually."
+				}
+			]
+		},
+		{}
+	]
+}

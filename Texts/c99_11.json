@@ -1,0 +1,104 @@
+{
+	"scenes": [
+		{},
+		{},
+		{
+			"texts": [
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "I raise myself up as I open my eyes."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Kaito... Good morning."
+				},
+				{
+					"name": "Kaito",
+					"text": "Morning."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Did you sleep well?"
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "My silence is met with a confused tilt of her head."
+				},
+				{
+					"text": "I see Izumo and Wooleep come into the room, but I raise my hand at Izumo to keep her from speaking up."
+				},
+				{
+					"text": "Izumo said that Yonagi would regress, but to me, it looks like she's displaying more emotion than before."
+				},
+				{
+					"text": "I must be imagining things."
+				},
+				{
+					"text": "I decide to try something we've done before to see how she reacts."
+				},
+				{
+					"text": "If she really is regressing, then..."
+				},
+				{
+					"name": "Kaito",
+					"text": "...Yonagi."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Yes?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Do you wanna play?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Yeah!"
+				},
+				{
+					"name": "Kaito",
+					"text": "What do you wanna do?"
+				}
+			]
+		},
+		{
+			"texts": [
+				{
+					"text": "After finishing our meal and going back to the room, Yonagi falls asleep."
+				},
+				{
+					"text": "The contents of the dream seem to align with what she wanted us to play."
+				},
+				{
+					"text": "It'll probably be the same with the last one too."
+				},
+				{
+					"text": "According to Izumo, the next big change will come..."
+				},
+				{
+					"name": "Kaito",
+					"text": "When we finish the three dreams, huh?"
+				},
+				{
+					"text": "Soon, we'll arrive at the end she spoke of."
+				},
+				{
+					"text": "And the most efficient way to get there remains the same:"
+				},
+				{
+					"text": "Keep sleeping."
+				},
+				{
+					"text": "I lay down on the bed and close my eyes again."
+				}
+			]
+		},
+		{}
+	]
+}

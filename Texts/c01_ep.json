@@ -1,0 +1,1714 @@
+{
+	"scenes": [
+		{},
+		{
+			"texts": [
+				{
+					"text": "The new semester has begun."
+				},
+				{
+					"text": "As soon as I arrived, I received a thorough reprimand from my manager in the faculty room."
+				},
+				{
+					"text": "But since he's had the summer break to cool off, his rebuke isn't so severe."
+				},
+				{
+					"text": "In the end, the whole thing was resolved with an earnest apology; no need for a formal reprimand, thankfully."
+				},
+				{
+					"name": "Watanabe",
+					"text": "Well, at least you got off easy."
+				},
+				{
+					"name": "Arishima",
+					"text": "Sorry for worrying you."
+				},
+				{
+					"name": "Watanabe",
+					"text": "You sure did, heh."
+				},
+				{
+					"name": "Watanabe",
+					"text": "So, what floor?"
+				},
+				{
+					"name": "Arishima",
+					"text": "First. Got a group of second years."
+				},
+				{
+					"name": "Watanabe",
+					"text": "Oh, I'm on the second floor. See you at lunch break."
+				},
+				{
+					"name": "Arishima",
+					"text": "Sure."
+				},
+				{
+					"text": "Strangely enough, the second year group I have for my first lecture happens to be Rin's group."
+				},
+				{
+					"text": "I take a deep breath before entering the classroom."
+				},
+				{
+					"text": "I've gotta act normal when I see her."
+				},
+				{
+					"text": "I can't let anything show on my face."
+				},
+				{
+					"text": "This is neither fun nor thrilling."
+				},
+				{
+					"text": "If I'm not careful, I could ruin her life."
+				},
+				{
+					"text": "I steel myself and enter the classroom."
+				},
+				{
+					"name": "Arishima",
+					"text": "..."
+				},
+				{
+					"text": "But her seat is empty."
+				},
+				{
+					"text": "Is she late? Did she feel bad after I left?"
+				},
+				{
+					"text": "Trying not to let how much the vacant seat affects me show, I begin the lecture."
+				},
+				{
+					"name": "Arishima",
+					"text": "..."
+				},
+				{
+					"text": "Lunch break."
+				},
+				{
+					"text": "I don't find Rin at her usual spot in the cafeteria either."
+				},
+				{
+					"text": "I wonder whether I should message her or not."
+				},
+				{
+					"text": "There's the chance someone might have seen us interacting on campus."
+				},
+				{
+					"text": "But she didn't say anything when I left home this morning."
+				},
+				{
+					"text": "Was she in an accident?"
+				},
+				{
+					"text": "Did she excuse herself early?"
+				},
+				{
+					"text": "I vaguely watch the smoke rise, my thoughts occupied completely by Rin."
+				},
+				{
+					"text": "And then..."
+				},
+				{
+					"text": "The wooden door of the smoking area creaks as Watanabe slams it open in a hurry."
+				},
+				{
+					"name": "Watanabe",
+					"text": "Did you hear?!"
+				},
+				{
+					"name": "Arishima",
+					"text": "What's the hurry, man?"
+				},
+				{
+					"text": "He sits next to me, huffing and out of breath."
+				},
+				{
+					"name": "Watanabe",
+					"text": "I heard something in the faculty room just now."
+				},
+				{
+					"name": "Arishima",
+					"text": "More rumors about someone's love life?"
+				},
+				{
+					"name": "Watanabe",
+					"text": "Not exactly. It's about a second-year student."
+				},
+				{
+					"text": "Keeping my expression neutral, I turn to Watanabe."
+				},
+				{
+					"name": "Watanabe",
+					"text": "I heard Hatano Rin dropped out today."
+				},
+				{
+					"name": "Arishima",
+					"text": "What?"
+				},
+				{
+					"name": "Watanabe",
+					"text": "You know anything about that?"
+				},
+				{
+					"name": "Arishima",
+					"text": "..."
+				},
+				{
+					"text": "Dropped out?"
+				},
+				{
+					"text": "Rin?"
+				},
+				{
+					"text": "But why?"
+				},
+				{
+					"text": "Why didn't she tell me anything?"
+				},
+				{
+					"name": "Watanabe",
+					"text": "Uh?"
+				},
+				{
+					"name": "Arishima",
+					"text": "I'm sorry, Watanabe."
+				},
+				{
+					"name": "Watanabe",
+					"text": "Huh?"
+				},
+				{
+					"name": "Arishima",
+					"text": "I need to go."
+				},
+				{
+					"name": "Watanabe",
+					"text": "Wait, what? Why?!"
+				},
+				{
+					"name": "Arishima",
+					"text": "Tell the manager I'm leaving early."
+				},
+				{
+					"name": "Watanabe",
+					"text": "Wha?! Wait a—"
+				},
+				{
+					"text": "It must be bizarre to see someone my age just run off like that."
+				},
+				{
+					"text": "I have a bad feeling."
+				},
+				{
+					"text": "What's wrong?"
+				},
+				{
+					"text": "What the hell is going on?"
+				},
+				{
+					"text": "Is Rin safe?"
+				},
+				{
+					"text": "Did she really drop out of the academy? Was it her who told the faculty?"
+				},
+				{
+					"text": "I don't even bother to pick up my things. I run to the main gate, flag down a taxi, and give the driver the location of Rin's apartment."
+				},
+				{
+					"name": "Arishima",
+					"text": "Rin!"
+				},
+				{
+					"text": "I run up to the living room, but find no one."
+				},
+				{
+					"text": "She isn't in the bedroom, or the study, or what used to be Shuho's room."
+				},
+				{
+					"text": "I let my exhausted self slump onto a chair in the living room."
+				},
+				{
+					"text": "That's when I notice a white envelope on the desk and a sheaf of A4 copy paper."
+				},
+				{
+					"text": "The envelope reads \"Professor.\""
+				},
+				{
+					"text": "A feeling of doom assails me."
+				},
+				{
+					"text": "I realize instantly that there's nothing good in that letter."
+				},
+				{
+					"text": "I slowly reach out and open it."
+				},
+				{
+					"text": "The letter is way shorter than I expected."
+				},
+				{
+					"text": "Professor."
+				},
+				{
+					"text": "If this keeps going any longer, I'll steal your whole life from you."
+				},
+				{
+					"text": "I don't want to ruin someone's life again. I can't bear the thought of taking everything from you."
+				},
+				{
+					"text": "I'm sorry."
+				},
+				{
+					"text": "I lied to you. Just once."
+				},
+				{
+					"text": "I did write my story."
+				},
+				{
+					"text": "I wrote about my mother."
+				},
+				{
+					"text": "But in the end, I never had the courage to let you read it in front of me."
+				},
+				{
+					"text": "So this is goodbye."
+				},
+				{
+					"text": "You're stronger now."
+				},
+				{
+					"text": "You'll be fine."
+				},
+				{
+					"text": "I will love you, forever and ever."
+				},
+				{
+					"text": "Our summer together is my most precious, irreplaceable memory. No matter what happens, I'll never forget it."
+				},
+				{
+					"text": "But you should forget it."
+				},
+				{
+					"text": "I'll remember for the both of us, so please forget about me and live on."
+				},
+				{
+					"text": "Always yours, Hatano Rin."
+				},
+				{
+					"text": "That's all she wrote."
+				},
+				{
+					"name": "Arishima",
+					"text": "What the hell?"
+				},
+				{
+					"text": "I read the letter again and again."
+				},
+				{
+					"text": "And then, something in the text clicks."
+				},
+				{
+					"text": "I don't want to ruin someone's life again. I can't bear the thought of taking everything from you."
+				},
+				{
+					"text": "Again? Then there must have been a first time, which means..."
+				},
+				{
+					"name": "Arishima",
+					"text": "The first time was... Shuho?"
+				},
+				{
+					"text": "She still thinks that it's her fault that Shuho didn't want to get married? Does she think that her mere existence is what ruined her dad's life?"
+				},
+				{
+					"text": "And if this is the second time, she must be talking about me."
+				},
+				{
+					"name": "Arishima",
+					"text": "Ruin my life? How could she ever do that?"
+				},
+				{
+					"text": "And..."
+				},
+				{
+					"name": "Arishima",
+					"text": "She wrote about her mother?"
+				},
+				{
+					"text": "I pick up the stack of papers."
+				},
+				{
+					"text": "It's a manuscript written by her."
+				},
+				{
+					"text": "The title simply reads \"Mother.\""
+				},
+				{
+					"text": "From all of this, I can only deduce one thing."
+				},
+				{
+					"text": "Suddenly, the first time we made love flashes across my mind."
+				},
+				{
+					"name": "Arishima",
+					"text": "She's pregnant...?"
+				},
+				{
+					"text": "If that's the case..."
+				},
+				{
+					"text": "I need to find her as soon as possible."
+				},
+				{
+					"text": "She may be..."
+				},
+				{
+					"text": "Trying to do something about it on her own."
+				},
+				{
+					"name": "Arishima",
+					"text": "Why didn't you talk to me?"
+				},
+				{
+					"text": "I spit out the words, unable to contain the rush of emotion."
+				},
+				{
+					"text": "Just then, my phone rings."
+				},
+				{
+					"text": "Thinking it might be Rin, I hurry to pick it up."
+				},
+				{
+					"text": "But it's a call from Watanabe."
+				},
+				{
+					"name": "Watanabe",
+					"text": "Arishima? Thank goodness, you actually picked up this time."
+				},
+				{
+					"name": "Watanabe",
+					"text": "Where are you, man?! You left your bag in the faculty and all. I told them you had a medical emergency."
+				},
+				{
+					"text": "I try to think while Watanabe talks."
+				},
+				{
+					"text": "No, I have no time to think."
+				},
+				{
+					"text": "The only thing I know for sure is that Rin has gone away somewhere."
+				},
+				{
+					"text": "If there are clues to be found, they must be in this house."
+				},
+				{
+					"name": "Arishima",
+					"text": "Can you come meet me? I'll give you the address."
+				},
+				{
+					"text": "I tell him the address of the apartment complex."
+				},
+				{
+					"name": "Arishima",
+					"text": "This is a giant emergency, the biggest I've ever had. Please help me."
+				},
+				{
+					"name": "Watanabe",
+					"text": "Huh? I don't really get what's going on, but I just gotta go there, right? Uh, I don't think I'll remember the place from memory. Can you message me the address?"
+				},
+				{
+					"name": "Arishima",
+					"text": "All right."
+				},
+				{
+					"text": "Watanabe arrives at the entrance about thirty minutes later."
+				},
+				{
+					"text": "During that time I search the room but find nothing of use."
+				},
+				{
+					"text": "On the way from the entrance of the complex to the apartment, I explain the situation to Watanabe as quickly as I can."
+				},
+				{
+					"name": "Watanabe",
+					"text": "Is this seriously Hatano Rin's home?"
+				},
+				{
+					"name": "Arishima",
+					"text": "Yeah."
+				},
+				{
+					"name": "Watanabe",
+					"text": "And you were living here all summer? Together with her?"
+				},
+				{
+					"name": "Arishima",
+					"text": "I'll let you chew me out on ethics later if you want, but right now I need to find Rin. As soon as possible."
+				},
+				{
+					"name": "Arishima",
+					"text": "She may be pregnant."
+				},
+				{
+					"text": "Watanabe freezes on the spot."
+				},
+				{
+					"name": "Watanabe",
+					"text": "Oh, brother..."
+				},
+				{
+					"name": "Arishima",
+					"text": "I think she may be trying to abort."
+				},
+				{
+					"text": "Watanabe chokes out a little gasp."
+				},
+				{
+					"name": "Arishima",
+					"text": "I'll respect whatever she decides to do, but I at least want to have the chance to tell her how I feel about it."
+				},
+				{
+					"name": "Arishima",
+					"text": "I need to tell her that I'd like her to have the baby."
+				},
+				{
+					"text": "Eyes wide open, Watanabe stares right at me and sighs."
+				},
+				{
+					"name": "Watanabe",
+					"text": "Haah... Okay."
+				},
+				{
+					"name": "Watanabe",
+					"text": "But you seriously have to give me the whole story later. From start to finish, all the details."
+				},
+				{
+					"text": "I give him a quick nod in response."
+				},
+				{
+					"name": "Watanabe",
+					"text": "Let me think... Oh, you were living here, right? Show me your phone."
+				},
+				{
+					"name": "Arishima",
+					"text": "Huh?"
+				},
+				{
+					"text": "I give him my phone immediately."
+				},
+				{
+					"name": "Watanabe",
+					"text": "Ah, we're in luck, it's connected to the wi-fi network. You know the password?"
+				},
+				{
+					"name": "Arishima",
+					"text": "What?"
+				},
+				{
+					"name": "Watanabe",
+					"text": "Oh, did she set it up for you? Hmm..."
+				},
+				{
+					"name": "Watanabe",
+					"text": "Do you know where the wi-fi router is?"
+				},
+				{
+					"name": "Arishima",
+					"text": "Router? I don't really know?"
+				},
+				{
+					"name": "Watanabe",
+					"text": "Let's see..."
+				},
+				{
+					"text": "Watanabe scans the living room wall."
+				},
+				{
+					"name": "Watanabe",
+					"text": "Ah, there it is. There should be a bunch of letters and numbers written on the back of that box over there. Can you read them out for me?"
+				},
+				{
+					"text": "Watanabe says, as he sits down and pulls a laptop out of his bag."
+				},
+				{
+					"name": "Watanabe",
+					"text": "There we go. The search history's stored on the router."
+				},
+				{
+					"name": "Arishima",
+					"text": "What are you doing?"
+				},
+				{
+					"name": "Watanabe",
+					"text": "Okay, so simply put, I can see the records of whatever sites were visited using this network."
+				},
+				{
+					"name": "Arishima",
+					"text": "Okay?"
+				},
+				{
+					"name": "Watanabe",
+					"text": "Mmh... What's this? Wonder why she looked up so many tutorials about preparing horse mackerel."
+				},
+				{
+					"name": "Arishima",
+					"text": "Probably has nothing to do with this. Can you check more recent stuff?"
+				},
+				{
+					"name": "Watanabe",
+					"text": "Okay. Hmm, it looks like she visited the website of a maternity clinic last week."
+				},
+				{
+					"name": "Arishima",
+					"text": "Really?"
+				},
+				{
+					"name": "Watanabe",
+					"text": "This one."
+				},
+				{
+					"text": "Watanabe shows the clinic's website to me."
+				},
+				{
+					"text": "He opens the page about the institution."
+				},
+				{
+					"text": "A line on the site makes the alarms in my head go off."
+				},
+				{
+					"text": "To maintain confidentiality, this clinic does not require patients to register with us in order to receive treatment."
+				},
+				{
+					"name": "Arishima",
+					"text": "Rin..."
+				},
+				{
+					"name": "Arishima",
+					"text": "Shinjuku!"
+				},
+				{
+					"name": "Watanabe",
+					"text": "Wait, man. You gotta calm down."
+				},
+				{
+					"text": "Watanabe returns to the search history screen."
+				},
+				{
+					"name": "Watanabe",
+					"text": "Looks like she checked out a bunch of properties after that."
+				},
+				{
+					"name": "Arishima",
+					"text": "What do you mean?"
+				},
+				{
+					"name": "Watanabe",
+					"text": "Shinjuku, Nikotama, Higashi-Koganei, Tokorozawa, Odawara, Atami..."
+				},
+				{
+					"name": "Arishima",
+					"text": "But why?"
+				},
+				{
+					"name": "Watanabe",
+					"text": "This is just my hunch here, but maybe she wants to have the baby?"
+				},
+				{
+					"name": "Arishima",
+					"text": "Huh?"
+				},
+				{
+					"name": "Watanabe",
+					"text": "Don't you think she may be looking for a place to live where she won't run into you?"
+				},
+				{
+					"name": "Watanabe",
+					"text": "She was looking at weekly apartments too."
+				},
+				{
+					"name": "Arishima",
+					"text": "Damn it. It was that day?"
+				},
+				{
+					"text": "I told her a lot of stuff after my day dealing with real estate agents."
+				},
+				{
+					"name": "Watanabe",
+					"text": "And the last thing she looked up was..."
+				},
+				{
+					"name": "Watanabe",
+					"text": "Websites of maternity clinics in the Atami area."
+				},
+				{
+					"name": "Arishima",
+					"text": "How are you doing all this?"
+				},
+				{
+					"name": "Watanabe",
+					"text": "I'm not doing magic over here. Anyone that knows their way around a computer can do this kind of stuff."
+				},
+				{
+					"name": "Watanabe",
+					"text": "The fact you two are a little clueless about tech makes this easier."
+				},
+				{
+					"name": "Arishima",
+					"text": "..."
+				},
+				{
+					"name": "Watanabe",
+					"text": "So, what are you gonna do?"
+				},
+				{
+					"name": "Arishima",
+					"text": "Can you give me the info of those maternity clinics in Atami that she was looking it?"
+				},
+				{
+					"name": "Watanabe",
+					"text": "Okay. There's three of them."
+				},
+				{
+					"name": "Arishima",
+					"text": "Send them all. I'll wait."
+				},
+				{
+					"name": "Watanabe",
+					"text": "Sure. All of them open up at 9 a.m. tomorrow. You can make it on the first train."
+				},
+				{
+					"name": "Arishima",
+					"text": "No, I'm going now. Maybe I can find her nearby."
+				},
+				{
+					"name": "Watanabe",
+					"text": "Geez, what even is your life right now?"
+				},
+				{
+					"name": "Watanabe",
+					"text": "It's like a damn soap opera."
+				},
+				{
+					"name": "Arishima",
+					"text": "Thanks for all the help. You're a real lifesaver."
+				},
+				{
+					"name": "Watanabe",
+					"text": "Yeah, yeah. But you better call in to the faculty yourself tomorrow. You can make up excuses on your own."
+				},
+				{
+					"name": "Arishima",
+					"text": "I'll do it if I remember. You know, I think I might just quit."
+				},
+				{
+					"name": "Watanabe",
+					"text": "Yeah, I figured."
+				},
+				{
+					"name": "Watanabe",
+					"text": "The smoking area will be lonely without you."
+				},
+				{
+					"name": "Arishima",
+					"text": "I'll call you."
+				},
+				{
+					"text": "I flag down a taxi and get in."
+				},
+				{
+					"name": "Watanabe",
+					"text": "Be well, boss."
+				},
+				{
+					"name": "Arishima",
+					"text": "Boss?"
+				},
+				{
+					"name": "Watanabe",
+					"text": "We'll, you're not a professor anymore, and you're going for your princess. That's a boss move, if I've ever seen one."
+				},
+				{
+					"name": "Arishima",
+					"text": "Oh, stop it."
+				},
+				{
+					"text": "Watanabe cackles and waves me off."
+				},
+				{
+					"name": "Watanabe",
+					"text": "Give Hatano my regards."
+				},
+				{
+					"name": "Arishima",
+					"text": "Will do."
+				},
+				{
+					"name": "Arishima",
+					"text": "Thank you for everything, really."
+				},
+				{
+					"text": "I close the door and the taxi's engine revs up."
+				},
+				{
+					"text": "I look out the window from my back seat."
+				},
+				{
+					"text": "All the streets I walked with Rin pass by."
+				},
+				{
+					"text": "Rin..."
+				},
+				{
+					"text": "You haven't stolen my life."
+				},
+				{
+					"text": "You're the one who gave it to me."
+				},
+				{
+					"text": "Please..."
+				},
+				{
+					"text": "Don't let me be too late."
+				},
+				{
+					"text": "While I'm on the train, I use my phone to make a reservation at a business hotel in Atami."
+				},
+				{
+					"text": "Once I arrive, I check out the addresses of the clinics that Watanabe gave me."
+				},
+				{
+					"text": "All of them are already closed for the day."
+				},
+				{
+					"text": "Even if they were open, I doubt any of them would give me Rin's information if I asked."
+				},
+				{
+					"text": "And it'll only make it harder to find Rin if I make myself look suspicious."
+				},
+				{
+					"text": "After confirming the locations, I head to the hotel."
+				},
+				{
+					"text": "By the time I check in, I finally feel a little more calm."
+				},
+				{
+					"text": "I take off my jacket and sit at the small desk in my room."
+				},
+				{
+					"text": "It's so cramped that the chair touches the bed when I pull it to sit."
+				},
+				{
+					"text": "Sitting on the hard, wooden chair, I try reading Rin's novel."
+				},
+				{
+					"text": "Even the woman who left me made the decision to give birth to me."
+				},
+				{
+					"text": "It took me too long to realize something so obvious."
+				},
+				{
+					"text": "Can I become a mother?"
+				},
+				{
+					"text": "Should I become someone's mother?"
+				},
+				{
+					"text": "It wasn't until these questions occupied my mind that I started to think about how my own mother, the woman I hated so much, might have felt."
+				},
+				{
+					"name": "Arishima",
+					"text": "A mother..."
+				},
+				{
+					"text": "Losing track of the time entirely, I keep reading her novel."
+				},
+				{
+					"text": "Despite the urgency of the situation, I'm unable to keep from admiring her writing."
+				},
+				{
+					"text": "Her words cast a spell over me."
+				},
+				{
+					"text": "There is something in her prose that moves the heart."
+				},
+				{
+					"text": "Despite myself, I smile."
+				},
+				{
+					"name": "Arishima",
+					"text": "Damn... You're too much, Rin..."
+				},
+				{
+					"text": "I feel like she has breathed life into me once again."
+				},
+				{
+					"text": "My worries about an abortion..."
+				},
+				{
+					"text": "About her running off on her own and doing something she might regret later..."
+				},
+				{
+					"text": "They're all gone now."
+				},
+				{
+					"text": "Because..."
+				},
+				{
+					"text": "This novel clearly depicts Rin's feelings as she decides to become a mother."
+				},
+				{
+					"text": "The person who wrote this wasn't desperate."
+				},
+				{
+					"text": "It's made to reassure the reader and give them peace."
+				},
+				{
+					"name": "Arishima",
+					"text": "You wrote this for me..."
+				},
+				{
+					"text": "I mutter to myself in the empty room."
+				},
+				{
+					"text": "Rin knows my weaknesses better than anyone."
+				},
+				{
+					"text": "She doesn't want me to blame myself."
+				},
+				{
+					"text": "She wanted our summer together to remain a precious memory."
+				},
+				{
+					"text": "Rin's compassion toward me reminds me of a mother's love."
+				},
+				{
+					"name": "Arishima",
+					"text": "You'll make a great mother, Rin..."
+				},
+				{
+					"text": "I open the curtain and look down at the port town facing Sagami Bay."
+				},
+				{
+					"text": "Is Rin under one of these sparse lights dotting the streets?"
+				},
+				{
+					"text": "After looking over Atami's cityscape, I sit down again and reread Rin's novel from the start."
+				},
+				{
+					"text": "The next day..."
+				},
+				{
+					"text": "I'm keeping a close eye from afar on the entrance of the second maternity clinic that Watanabe pointed me to."
+				},
+				{
+					"text": "Just as the sun begins to set..."
+				},
+				{
+					"text": "Out of the corner of my eye, I see Rin."
+				},
+				{
+					"text": "My heart almost jumps out of my mouth."
+				},
+				{
+					"text": "She's wearing the T-shirt I bought for her in Sakuragicho."
+				},
+				{
+					"text": "She moves like she's just another face in the crowd."
+				},
+				{
+					"text": "I get up hurriedly and run toward her."
+				},
+				{
+					"name": "Arishima",
+					"text": "Rin!"
+				},
+				{
+					"text": "The people around throw glances my way."
+				},
+				{
+					"text": "Ignoring them, I keep on calling her name."
+				},
+				{
+					"name": "Rin",
+					"text": "Why...?"
+				},
+				{
+					"text": "She's completely stunned."
+				},
+				{
+					"text": "By the time I'm in front of her, I'm all out of breath."
+				},
+				{
+					"name": "Arishima",
+					"text": "...I'm sorry."
+				},
+				{
+					"text": "With my shoulders heaving and my breath ragged, I apologize."
+				},
+				{
+					"name": "Rin",
+					"text": "What? Why are you apologizing?"
+				},
+				{
+					"name": "Arishima",
+					"text": "...It's mine, isn't it?"
+				},
+				{
+					"name": "Rin",
+					"text": "..."
+				},
+				{
+					"text": "She stares at me in silence."
+				},
+				{
+					"name": "Rin",
+					"text": "...... How did you find out about this place?"
+				},
+				{
+					"text": "Despite the short distance, that little run took a whole lot out of me."
+				},
+				{
+					"text": "I rest my hands on my knees and regain my breath."
+				},
+				{
+					"text": "Rin stands still in front of me, just waiting."
+				},
+				{
+					"name": "Arishima",
+					"text": "I'm sorry. I kind of let Watanabe into your house."
+				},
+				{
+					"text": "Her eyes widen again."
+				},
+				{
+					"name": "Arishima",
+					"text": "He found your internet search history using some kind of doohickey that was on the wall."
+				},
+				{
+					"name": "Rin",
+					"text": "Does that mean Professor Watanabe knows about..."
+				},
+				{
+					"name": "Arishima",
+					"text": "It doesn't matter. The jig is up. I'm quitting my job anyway."
+				},
+				{
+					"text": "Still a little shaken up, I straighten myself out and face her."
+				},
+				{
+					"text": "She's still frozen in place."
+				},
+				{
+					"name": "Arishima",
+					"text": "I'm sorry for not noticing."
+				},
+				{
+					"name": "Rin",
+					"text": "No, you didn't do anything wrong."
+				},
+				{
+					"text": "Rin's voice is shaky as she struggles to speak."
+				},
+				{
+					"name": "Rin",
+					"text": "Didn't I tell you to forget? I wrote it all there..."
+				},
+				{
+					"text": "She says, on the verge of breaking down into tears."
+				},
+				{
+					"name": "Arishima",
+					"text": "You didn't get an abortion, did you?"
+				},
+				{
+					"text": "She looks up at me."
+				},
+				{
+					"text": "Her eyes swim with unshed tears."
+				},
+				{
+					"name": "Arishima",
+					"text": "It's your life, and I'll respect whatever decision you come to, but..."
+				},
+				{
+					"text": "She looks up at me, her gaze unwavering."
+				},
+				{
+					"name": "Arishima",
+					"text": "I'd like you to have the baby."
+				},
+				{
+					"name": "Rin",
+					"text": "..."
+				},
+				{
+					"name": "Rin",
+					"text": "But..."
+				},
+				{
+					"name": "Arishima",
+					"text": "If you want to have the baby, then I want you to go ahead with it. I'll do whatever I can to support you."
+				},
+				{
+					"name": "Rin",
+					"text": "But your life..."
+				},
+				{
+					"name": "Rin",
+					"text": "I thought I was gonna ruin it, that's why I..."
+				},
+				{
+					"text": "I watch as the tears begin rolling down her face."
+				},
+				{
+					"name": "Rin",
+					"text": "I thought about aborting it, but..."
+				},
+				{
+					"name": "Rin",
+					"text": "I just couldn't, because..."
+				},
+				{
+					"name": "Rin",
+					"text": "It's our baby. It's not their fault. They don't know anything yet."
+				},
+				{
+					"name": "Arishima",
+					"text": "I'm glad. I'm so glad you didn't do it."
+				},
+				{
+					"text": "I walk up to Rin and take her into my arms."
+				},
+				{
+					"name": "Arishima",
+					"text": "I'm sorry you felt forced into doing this. I should have realized. I'm sure you already know this, but I suck at being an adult."
+				},
+				{
+					"name": "Rin",
+					"text": "..."
+				},
+				{
+					"name": "Arishima",
+					"text": "I'll move here with you. I'm quitting my job. I'll look for something new here."
+				},
+				{
+					"text": "Rin shakes her head."
+				},
+				{
+					"name": "Rin",
+					"text": "No, you can't."
+				},
+				{
+					"name": "Arishima",
+					"text": "I made love to you knowing this could happen."
+				},
+				{
+					"name": "Arishima",
+					"text": "Just like you've decided to have this baby, I'll decide what to do with myself from now on."
+				},
+				{
+					"name": "Arishima",
+					"text": "Besides, I really hated that stupid job."
+				},
+				{
+					"name": "Rin",
+					"text": "..."
+				},
+				{
+					"text": "I hold her closer and stroke her head."
+				},
+				{
+					"name": "Arishima",
+					"text": "Let's get married. Let's meet this little baby as husband and wife."
+				},
+				{
+					"name": "Rin",
+					"text": "..."
+				},
+				{
+					"name": "Rin",
+					"text": "Professor?"
+				},
+				{
+					"name": "Arishima",
+					"text": "Yes?"
+				},
+				{
+					"name": "Rin",
+					"text": "Do you think I can become a good mother?"
+				},
+				{
+					"name": "Rin",
+					"text": "I mean, I'm so young, I..."
+				},
+				{
+					"name": "Arishima",
+					"text": "You're not gonna be raising this child alone."
+				},
+				{
+					"name": "Arishima",
+					"text": "Besides, they're the one who's going to make you into a mom as soon as they're born."
+				},
+				{
+					"name": "Arishima",
+					"text": "No one else can do that."
+				},
+				{
+					"name": "Arishima",
+					"text": "But you'll be a good parent. I could bet my life on that."
+				},
+				{
+					"name": "Rin",
+					"text": "..."
+				},
+				{
+					"name": "Arishima",
+					"text": "At least, that's the impression I get after reading your debut work."
+				},
+				{
+					"name": "Rin",
+					"text": "...Thanks."
+				},
+				{
+					"text": "She timidly wraps her arms around me and holds me back."
+				},
+				{
+					"text": "I can feel her warmth again, and it's never felt better."
+				},
+				{
+					"name": "Arishima",
+					"text": "I'll get ready to become a dad too."
+				},
+				{
+					"name": "Rin",
+					"text": "Are you sure?"
+				},
+				{
+					"name": "Rin",
+					"text": "Is this really what you want?"
+				},
+				{
+					"text": "I nod in response."
+				},
+				{
+					"name": "Arishima",
+					"text": "Today..."
+				},
+				{
+					"name": "Arishima",
+					"text": "This is the happiest day of my life."
+				},
+				{
+					"text": "I feel warmth spread within me, steady and strong. It's my love for Rin, growing stronger and renewed."
+				},
+				{
+					"text": "I made the woman I love feel so sad. I make a solemn promise in my mind never to make that same mistake again."
+				},
+				{
+					"name": "Arishima",
+					"text": "I won't leave you alone ever again."
+				},
+				{
+					"name": "Rin",
+					"text": "Mhm..."
+				},
+				{
+					"text": "We hug in the middle of the street."
+				},
+				{
+					"text": "I won't ever forget this warmth."
+				},
+				{
+					"text": "I'm sure the baby will love Rin's warmth like I do."
+				},
+				{
+					"text": "I've no doubt in my mind."
+				},
+				{
+					"text": "As the usual waiter brings my coffee, the person I'm waiting for arrives."
+				},
+				{
+					"name": "Watanabe",
+					"text": "Hey there."
+				},
+				{
+					"name": "Arishima",
+					"text": "Long time no see."
+				},
+				{
+					"name": "Watanabe",
+					"text": "Atami sure looks like a nice place. Is it nice?"
+				},
+				{
+					"name": "Arishima",
+					"text": "Yeah. It's pretty quiet out here."
+				},
+				{
+					"name": "Watanabe",
+					"text": "How's the wife and kid? Holding up well?"
+				},
+				{
+					"name": "Arishima",
+					"text": "Yeah, and I've got you to thank for that. We're all doing well. We owe you a lot."
+				},
+				{
+					"name": "Watanabe",
+					"text": "Yeah, you can say that again!"
+				},
+				{
+					"text": "He laughs out loud."
+				},
+				{
+					"name": "Watanabe",
+					"text": "But I didn't have such a bad time that day. It was my first time searching for someone like that. Made me feel like a true detective."
+				},
+				{
+					"name": "Watanabe",
+					"text": "Can we smoke here?"
+				},
+				{
+					"text": "Watanabe idly pulls a pack of cigarettes from his chest pocket."
+				},
+				{
+					"name": "Arishima",
+					"text": "Maybe... Sorry, I stopped smoking."
+				},
+				{
+					"name": "Watanabe",
+					"text": "No way, Jose!"
+				},
+				{
+					"name": "Arishima",
+					"text": "I figured it wouldn't be good for Rin or the baby."
+				},
+				{
+					"name": "Watanabe",
+					"text": "You a dad or something?! Wait, you are!"
+				},
+				{
+					"name": "Arishima",
+					"text": "You're the same as ever."
+				},
+				{
+					"name": "Watanabe",
+					"text": "Yeah, unlike you, my life isn't a roller coaster."
+				},
+				{
+					"text": "Defeated, I nod in deference."
+				},
+				{
+					"name": "Watanabe",
+					"text": "The book's selling like hotcakes, eh?"
+				},
+				{
+					"name": "Arishima",
+					"text": "Yeah, it's downright scary."
+				},
+				{
+					"text": "I strongly urged Rin to try and get her novel published in some form."
+				},
+				{
+					"text": "Her work has a universal conflict and appeal that anyone who has a mother figure can sympathize and engage with in some way."
+				},
+				{
+					"text": "It's a piece of literature that can appeal to pretty much everyone."
+				},
+				{
+					"text": "It seems like she published it on the internet."
+				},
+				{
+					"text": "I'm not too well versed in that kind of thing."
+				},
+				{
+					"text": "But it quickly caught the attention of many people, and she was contacted by at least four publishers."
+				},
+				{
+					"text": "Her novel was commercialized at almost record speed."
+				},
+				{
+					"text": "The digital edition was released first, shortly followed by the print version. It's still growing in popularity even now."
+				},
+				{
+					"name": "Watanabe",
+					"text": "Man, I'm green with envy. You think this whole genius thing is hereditary?"
+				},
+				{
+					"name": "Arishima",
+					"text": "No, it's all down to her own ability and effort. She's learned a lot, and she had a story to tell."
+				},
+				{
+					"name": "Arishima",
+					"text": "Her story came from the unique perspective that her upbringing gave her."
+				},
+				{
+					"name": "Arishima",
+					"text": "Though I suppose that's what you could call talent."
+				},
+				{
+					"name": "Watanabe",
+					"text": "Are you writing together with her?"
+				},
+				{
+					"text": "I shake my head."
+				},
+				{
+					"name": "Arishima",
+					"text": "I'm her editor. I give my opinion, but I don't write."
+				},
+				{
+					"name": "Watanabe",
+					"text": "Hah..."
+				},
+				{
+					"name": "Watanabe",
+					"text": "But I thought you were writing again too. Are you sure you wanna hang up the jacket when you just put it back on?"
+				},
+				{
+					"text": "I shake my head."
+				},
+				{
+					"name": "Arishima",
+					"text": "There's no other job for me. I've found my vocation as an editor."
+				},
+				{
+					"name": "Arishima",
+					"text": "My wife's work is a given, but I also like reading other people's stuff."
+				},
+				{
+					"name": "Watanabe",
+					"text": "That's you, all right."
+				},
+				{
+					"name": "Watanabe",
+					"text": "Now, level with me for a minute. How much are you guys earning, for real?"
+				},
+				{
+					"name": "Arishima",
+					"text": "You really wanna know?"
+				},
+				{
+					"name": "Watanabe",
+					"text": "Damn right."
+				},
+				{
+					"name": "Arishima",
+					"text": "Well, after tax, I guess we'd have about 100 million left."
+				},
+				{
+					"text": "Watanabe's jaw drops to the floor."
+				},
+				{
+					"name": "Watanabe",
+					"text": "Uh, is this coffee, like, super expensive?! You're paying, right?!"
+				},
+				{
+					"name": "Arishima",
+					"text": "Of course. What do you take me for?"
+				},
+				{
+					"name": "Watanabe",
+					"text": "Man, maybe I should write a novel myself? Nah, forget it."
+				},
+				{
+					"name": "Arishima",
+					"text": "This business can be hell if you don't take it seriously."
+				},
+				{
+					"name": "Watanabe",
+					"text": "I'm fine as a part-time teacher, thank you very much."
+				},
+				{
+					"name": "Watanabe",
+					"text": "Think she's almost done?"
+				},
+				{
+					"name": "Arishima",
+					"text": "Yeah."
+				},
+				{
+					"text": "This cafe is right near the maternity clinic that Rin goes to."
+				},
+				{
+					"text": "I always wait here during her regular checkups, and before I knew it, I was already a regular."
+				},
+				{
+					"text": "The coffee is good, and it's a nice place."
+				},
+				{
+					"name": "Watanabe",
+					"text": "Ah, isn't that her?"
+				},
+				{
+					"text": "I follow Watanabe's gaze and look out the window. Rin's standing there, waiting."
+				},
+				{
+					"text": "She's smiling and waving at us."
+				},
+				{
+					"name": "Watanabe",
+					"text": "Let's go."
+				},
+				{
+					"name": "Arishima",
+					"text": "Yeah."
+				},
+				{
+					"name": "Watanabe",
+					"text": "Hey! Long time no see!"
+				},
+				{
+					"name": "Rin",
+					"text": "It's nice to see you, Professor."
+				},
+				{
+					"name": "Watanabe",
+					"text": "Haah, hearing you call me 'professor' only drives home how messed up Arishima is in the head."
+				},
+				{
+					"name": "Rin",
+					"text": "Ahahah! Now, isn't that the truth."
+				},
+				{
+					"name": "Arishima",
+					"text": "Never gonna live this down, am I?"
+				},
+				{
+					"name": "Rin",
+					"text": "I don't think so. People notice the gap between us and start wondering."
+				},
+				{
+					"name": "Rin",
+					"text": "That there's some kind of story there, I mean."
+				},
+				{
+					"name": "Arishima",
+					"text": "No way around it."
+				},
+				{
+					"name": "Rin",
+					"text": "Have you been well?"
+				},
+				{
+					"name": "Watanabe",
+					"text": "As fit as a fiddle. The second years are getting nervous over the upcoming exams already."
+				},
+				{
+					"name": "Arishima",
+					"text": "Oh, it's that time of the year, huh? Brings back memories."
+				},
+				{
+					"name": "Watanabe",
+					"text": "Yeah. Not sure what kind of memories for you, though."
+				},
+				{
+					"name": "Rin",
+					"text": "Kaoru, why don't you guys stay out and chat a little longer? He came all the way from Kanagawa, right?"
+				},
+				{
+					"name": "Watanabe",
+					"text": "Oh, don't you worry. I'm just stopping by on my way somewhere else. I'm on a weekend trip."
+				},
+				{
+					"name": "Rin",
+					"text": "Oh, I see."
+				},
+				{
+					"name": "Arishima",
+					"text": "You're going to Shizuoka, right?"
+				},
+				{
+					"name": "Watanabe",
+					"text": "Yeah, some kind of inn where you can pick tea leaves or something."
+				},
+				{
+					"name": "Rin",
+					"text": "Hmm, that sounds like a lovely time."
+				},
+				{
+					"name": "Arishima",
+					"text": "Alone?"
+				},
+				{
+					"name": "Watanabe",
+					"text": "No way in hell! With a girl. We've been dating for a while now."
+				},
+				{
+					"name": "Rin",
+					"text": "A student?"
+				},
+				{
+					"name": "Watanabe",
+					"text": "I'd appreciate it if you didn't lump me in with your husband. She's an office worker."
+				},
+				{
+					"name": "Rin",
+					"text": "How wholesome."
+				},
+				{
+					"text": "Rin looks up at me and shoots me an affable leer."
+				},
+				{
+					"name": "Arishima",
+					"text": "Wholesome means different things for different people."
+				},
+				{
+					"name": "Watanabe",
+					"text": "Sorry for calling you guys out like this while you're expecting a baby and all that."
+				},
+				{
+					"name": "Rin",
+					"text": "Don't worry, I'm in my second trimester now, so I'm getting used to it. It doesn't show that much just yet, does it?"
+				},
+				{
+					"name": "Watanabe",
+					"text": "Yeah, I almost forgot and all."
+				},
+				{
+					"text": "Watanabe turns to me."
+				},
+				{
+					"name": "Watanabe",
+					"text": "No wedding ceremony, right?"
+				},
+				{
+					"name": "Arishima",
+					"text": "Nah. You're the only one we could invite."
+				},
+				{
+					"name": "Rin",
+					"text": "Heh, right."
+				},
+				{
+					"name": "Watanabe",
+					"text": "Hahah! Well, it looks like you're cut from the same cloth. What's important is that you're happy together, I'd say."
+				},
+				{
+					"text": "Rin smiles proudly and nods."
+				},
+				{
+					"name": "Watanabe",
+					"text": "I'll get going now, boss. Get in contact if you're ever around, you hear? I'll do the same."
+				},
+				{
+					"name": "Arishima",
+					"text": "Gotcha."
+				},
+				{
+					"name": "Rin",
+					"text": "Have a nice weekend."
+				},
+				{
+					"name": "Watanabe",
+					"text": "Will do."
+				},
+				{
+					"text": "Watanabe walks back to the station, waving goodbye before he slips out of view."
+				},
+				{
+					"name": "Rin",
+					"text": "You have a good friend there."
+				},
+				{
+					"name": "Arishima",
+					"text": "Yeah, I think he's a really good guy."
+				},
+				{
+					"name": "Arishima",
+					"text": "After all, only a saint would befriend an unwholesome maniac who puts the moves on his student."
+				},
+				{
+					"name": "Rin",
+					"text": "Oh, someone's mad."
+				},
+				{
+					"name": "Arishima",
+					"text": "Well, it's not like I can argue with the truth."
+				},
+				{
+					"name": "Rin",
+					"text": "Ahahah!"
+				},
+				{
+					"text": "We begin to walk our way back home, side by side."
+				},
+				{
+					"name": "Rin",
+					"text": "What did you two talk about?"
+				},
+				{
+					"name": "Arishima",
+					"text": "Just small talk. About work and stuff."
+				},
+				{
+					"name": "Rin",
+					"text": "Mhm."
+				},
+				{
+					"name": "Arishima",
+					"text": "He asked if I was sure I didn't want to keep writing."
+				},
+				{
+					"name": "Rin",
+					"text": "..."
+				},
+				{
+					"name": "Arishima",
+					"text": "I bet he remembers how big of a deal it was for me when I first wrote something for you to read."
+				},
+				{
+					"name": "Rin",
+					"text": "I see. I think the same, though. You should write. I wanna read your stories again."
+				},
+				{
+					"name": "Arishima",
+					"text": "I'm not so sure. I don't think I'm one of the chosen ones."
+				},
+				{
+					"name": "Arishima",
+					"text": "My life's full of stuff more important than writing anyway. Even I can see the writing on the wall."
+				},
+				{
+					"name": "Rin",
+					"text": "More important than writing?"
+				},
+				{
+					"text": "I nod."
+				},
+				{
+					"name": "Arishima",
+					"text": "Like spending time together and supporting your writing career."
+				},
+				{
+					"name": "Arishima",
+					"text": "My life has never felt more fulfilling, and I'd rather not waste any of the time I could spend with you on writing."
+				},
+				{
+					"text": "Rin looks up at me and positively beams."
+				},
+				{
+					"name": "Rin",
+					"text": "Our baby..."
+				},
+				{
+					"text": "She puts her hand over the little bump of her stomach."
+				},
+				{
+					"name": "Rin",
+					"text": "I hope we can give them as happy a life as yours is right now."
+				},
+				{
+					"name": "Arishima",
+					"text": "Yeah."
+				},
+				{
+					"name": "Arishima",
+					"text": "Let's be good parents. Together."
+				},
+				{
+					"name": "Rin",
+					"text": "Yes."
+				}
+			]
+		},
+		{}
+	]
+}

@@ -1,0 +1,68 @@
+{
+	"scenes": [
+		{},
+		{},
+		{
+			"texts": [
+				{
+					"name": "Yonagi",
+					"text": "I wished I could forget all my past too."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Having things you'd rather forget constantly in your mind must be rough."
+				},
+				{
+					"name": "Yonagi",
+					"text": "That's why I'm writing about myself now. See, I finally started writing."
+				},
+				{
+					"name": "Yonagi",
+					"text": "A story about a lonely girl whose father failed to truly see her."
+				}
+			]
+		},
+		{
+			"texts": [
+				{
+					"name": "Yonagi",
+					"text": "...I am happy."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I want you to know me on a deeper level, Kaito."
+				},
+				{
+					"name": "Yonagi",
+					"text": "And I want to know you too."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I've decided. I don't want to wait anymore."
+				}
+			]
+		},
+		{
+			"texts": [
+				{
+					"name": "Yonagi",
+					"text": "I just know it."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Someday, I'm sure you'll make something even more amazing."
+				},
+				{
+					"name": "Yonagi",
+					"text": "So please, don't cry."
+				},
+				{
+					"name": "Yonagi",
+					"text": "...Did you know? I love you."
+				}
+			]
+		},
+		{},
+		{}
+	]
+}

@@ -1,0 +1,3840 @@
+{
+	"scenes": [
+		{},
+		{
+			"texts": [
+				{
+					"text": "Despite all my hopes and best efforts..."
+				},
+				{
+					"text": "Finding the place Mom's sketch is depicting in a book isn't proving easy."
+				},
+				{
+					"text": "But I've figured out a possible hint."
+				},
+				{
+					"text": "Mom really loved nature."
+				},
+				{
+					"text": "Mountains, forests, flowers, all that stuff."
+				},
+				{
+					"text": "She might have drawn that sketch after seeing those things crumbling around her in Nariyama due to the pigeons."
+				},
+				{
+					"text": "As far as I remember, the place we three visited the most together was..."
+				},
+				{
+					"text": "A conifer forest in Fukushima."
+				},
+				{
+					"text": "It's an area of private land with a forest and a lake."
+				},
+				{
+					"text": "That's where Mom fell out of the canoe."
+				},
+				{
+					"text": "I often dream about one time the car broke down on our way there."
+				},
+				{
+					"text": "Back then..."
+				},
+				{
+					"text": "We were heading to that very place when she told me that she'd already picked the spot."
+				},
+				{
+					"text": "Her smug smile makes more sense now."
+				},
+				{
+					"text": "In the end, Sumomo keeps coming to the library with me every day."
+				},
+				{
+					"text": "She spends a lot of time reading the magazines that strike her fancy, though."
+				},
+				{
+					"text": "But whenever she finds an article about my mom, she always makes sure to tell me about it."
+				},
+				{
+					"text": "And some of what she shows me is stuff I never knew, so it's certainly a big help to have her here."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Hey, Kanna, do you know this person?"
+				},
+				{
+					"name": "Kanna",
+					"text": "Hm?"
+				},
+				{
+					"text": "She shows me a magazine published this very month."
+				},
+				{
+					"text": "There on the page is a man wearing a flashy shirt."
+				},
+				{
+					"text": "The ARTE of LA FOTOGRAFIA is a PASION!"
+				},
+				{
+					"text": "The headline reads in big, bold letters, making me think for a second."
+				},
+				{
+					"name": "Kanna",
+					"text": "Spencer Arashiyama? Of course I know him."
+				},
+				{
+					"text": "He's a famous photographer who appears frequently in various specialist magazines. No one knows his real age, and he speaks Spanish a lot."
+				},
+				{
+					"text": "His style and speech astound many, but no one can doubt his skill."
+				},
+				{
+					"name": "Kanna",
+					"text": "He's probably the most famous photographer in Japan, after Mom died."
+				},
+				{
+					"name": "Sumomo",
+					"text": "It says here that he had a good relationship with Anna and her family."
+				},
+				{
+					"name": "Kanna",
+					"text": "Really?! Are we talking about the same person?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Look, he talks about Anna here. Maybe he knows your daddy too?"
+				},
+				{
+					"name": "Kanna",
+					"text": "..."
+				},
+				{
+					"text": "I turn my eyes to the article Sumomo points to."
+				},
+				{
+					"text": "Photographers with the PASION that Anna had are far and few between."
+				},
+				{
+					"text": "She was simply overflowing with PASION for cars and nature."
+				},
+				{
+					"text": "I also had the pleasure of getting to know her FAMILIA."
+				},
+				{
+					"text": "Her TIMIDO and DULCE ESPOSO, as well as their little CHICO."
+				},
+				{
+					"text": "I shortly came to learn that her ESPOSO possessed a most CALIENTE FUEGO in his heart that rivaled even hers."
+				},
+				{
+					"text": "Meeting them, I learned that FUEGO in one's ALMA isn't always readily apparent."
+				},
+				{
+					"name": "Kanna",
+					"text": "..."
+				},
+				{
+					"text": "There's Spanish mixed in the text, so I have to read it over three times, even if it's admittedly easy to understand."
+				},
+				{
+					"name": "Kanna",
+					"text": "You're right. It looks like he knew us."
+				},
+				{
+					"name": "Sumomo",
+					"text": "The 'chico' he's talking about must be you, right?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "And he had a lot of praise for your daddy."
+				},
+				{
+					"name": "Kanna",
+					"text": "...Yeah."
+				},
+				{
+					"text": "I see."
+				},
+				{
+					"text": "It's shouldn't be a surprise to me that Dad and Mom have friendships I'm not privy to."
+				},
+				{
+					"text": "Still, it kind of feels like I'm seeing a new side to them that I never knew about before."
+				},
+				{
+					"text": "I flip through the magazine."
+				},
+				{
+					"text": "Then I stop on a page that catches my attention."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Oh..."
+				},
+				{
+					"text": "It's a group interview featuring Mom, Dad, that Spencer friend of theirs..."
+				},
+				{
+					"text": "And that young man named TAKUMA."
+				},
+				{
+					"name": "Sumomo",
+					"text": "..."
+				},
+				{
+					"text": "I try to keep my expression as neutral as possible as I turn the pages."
+				},
+				{
+					"text": "\"When I saw your FOTOGRAFIA, I felt your AMOR for nature in a strong way.\""
+				},
+				{
+					"text": "\"Why, it's very close to the PASION I see in Anna's art.\""
+				},
+				{
+					"text": "He does have a pretty unique speech pattern."
+				},
+				{
+					"text": "I will send this young man to Yale very soon."
+				},
+				{
+					"name": "Kanna",
+					"text": "..."
+				},
+				{
+					"text": "I feel the gulf between us growing larger and larger."
+				},
+				{
+					"text": "The realization that I haven't done anything as remarkable as him starts sinking in."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Sorry, I didn't notice."
+				},
+				{
+					"name": "Kanna",
+					"text": "It's fine. Don't worry about me."
+				},
+				{
+					"text": "I turn the page again."
+				},
+				{
+					"text": "Their dialogue continues across six more pages of the magazine."
+				},
+				{
+					"name": "Kanna",
+					"text": "Hm?"
+				},
+				{
+					"text": "But on the very last page..."
+				},
+				{
+					"text": "There's an advertisement encouraging readers to send in their pictures for Spencer to critique."
+				},
+				{
+					"text": "I want you to thoroughly burn me with your PASION!"
+				},
+				{
+					"text": "Or so it reads."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Are you upset again?"
+				},
+				{
+					"name": "Kanna",
+					"text": "No..."
+				},
+				{
+					"name": "Kanna",
+					"text": "Let's buy a copy of this magazine on our way home."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Huh?"
+				},
+				{
+					"name": "Kanna",
+					"text": "I..."
+				},
+				{
+					"name": "Kanna",
+					"text": "Never mind. Let's get going."
+				},
+				{
+					"text": "We stop by a bookstore and pick up a copy of the magazine along with an envelope."
+				},
+				{
+					"text": "This magazine is published at the end of the month, so I just barely have time to send in my submission."
+				},
+				{
+					"text": "I don't have time to photograph anything new."
+				},
+				{
+					"text": "I cut off the proof of purchase from the magazine, which is necessary to apply for Spencer's critique."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Oh? You're not gonna read it?"
+				},
+				{
+					"name": "Kanna",
+					"text": "Nope. People who purchase the magazine can submit photos for critique."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Huh? You're gonna do that?"
+				},
+				{
+					"text": "When I nod, Sumomo beams."
+				},
+				{
+					"name": "Sumomo",
+					"text": "That's incredible! Which photos are you sending?"
+				},
+				{
+					"name": "Kanna",
+					"text": "I'm going to pick some now."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Let me choose them with you!"
+				},
+				{
+					"text": "We choose the best of my pictures and print them out."
+				},
+				{
+					"name": "Azuki",
+					"text": "Hm? What are you guys doing?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "He's sending his photos to a professional photographer so he can look at them."
+				},
+				{
+					"name": "Azuki",
+					"text": "Oh?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "He's so cool when he's proactive, isn't he?"
+				},
+				{
+					"name": "Azuki",
+					"text": "So a professional, huh?"
+				},
+				{
+					"text": "Azuki picks up the magazine from the sofa and begins flipping through the pages."
+				},
+				{
+					"name": "Azuki",
+					"text": "This guy? Spencer Arashiyama?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Apparently he's a friend of Kanna's parents."
+				},
+				{
+					"name": "Azuki",
+					"text": "That so? Then why don't you ask your dad to show them to him?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "You just don't get it! He wants to try and make it on his own first! Right?"
+				},
+				{
+					"name": "Kanna",
+					"text": "Well, I think he might recognize the name on the letter."
+				},
+				{
+					"name": "Sumomo",
+					"text": "That's fine! I'm sure he'll realize you didn't wanna use your parents and acknowledge how gutsy and upfront you are!"
+				},
+				{
+					"name": "Sumomo",
+					"text": "You'll make a way better impression than by trying to use your parent's name like other people do."
+				},
+				{
+					"name": "Azuki",
+					"text": "Heh, you really are a cunning peach, eh?"
+				},
+				{
+					"name": "Kanna",
+					"text": "Mmh..."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Oh, that's Halley's Comet."
+				},
+				{
+					"name": "Kanna",
+					"text": "I took it at the camp."
+				},
+				{
+					"text": "I pick up the shot of the comet."
+				},
+				{
+					"name": "Sumomo",
+					"text": "It's so pretty!"
+				},
+				{
+					"name": "Kanna",
+					"text": "I wasn't really feeling much when I took it."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Really?"
+				},
+				{
+					"text": "I also pick up the picture of the sunset sky I took from inside the cave."
+				},
+				{
+					"text": "I was thinking of the composition of the sketch, so it kind of looks like it."
+				},
+				{
+					"name": "Sumomo",
+					"text": "That's the one from the cave."
+				},
+				{
+					"name": "Kanna",
+					"text": "If I send this..."
+				},
+				{
+					"name": "Kanna",
+					"text": "If he knows about the sketch, this might speak to him in some way."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Huh, makes sense."
+				},
+				{
+					"text": "That kind of feels like cheating, though."
+				},
+				{
+					"text": "These pictures will probably reach Spencer right after the comet is closest to Earth, or possibly right before."
+				},
+				{
+					"text": "And by then, I should have my answer about the place, regardless of what happens."
+				},
+				{
+					"text": "Ultimately, I can still ask Dad if I need to."
+				},
+				{
+					"text": "But that's my true last resort."
+				},
+				{
+					"name": "Kanna",
+					"text": "..."
+				},
+				{
+					"text": "I can only send one picture for him to critique."
+				},
+				{
+					"text": "It's no wonder."
+				},
+				{
+					"text": "Barring stuff like contests, it's rare for an active and famous photographer to offer critique like this."
+				},
+				{
+					"name": "Azuki",
+					"text": "Oooh!"
+				},
+				{
+					"text": "Azuki seems entertained by something in the magazine."
+				},
+				{
+					"name": "Azuki",
+					"text": "Look at this brat! He's riding an SR! That's some good taste for someone so young."
+				},
+				{
+					"text": "I glance her way and recognize those pages. It's the discussion between Spencer and TAKUMA."
+				},
+				{
+					"name": "Azuki",
+					"text": "And it has a custom suspension system. Man, this kid is pretty cool."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Azuki!"
+				},
+				{
+					"name": "Azuki",
+					"text": "Huh? What?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Don't read that!"
+				},
+				{
+					"text": "Sumomo rips the magazine out of her hands."
+				},
+				{
+					"name": "Azuki",
+					"text": "Why not?!"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Because!"
+				},
+				{
+					"name": "Azuki",
+					"text": "Eh?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Boys are sensitive!"
+				},
+				{
+					"name": "Kanna",
+					"text": "It's fine, Sumomo."
+				},
+				{
+					"name": "Azuki",
+					"text": "Huh? Oh, you know him or something?"
+				},
+				{
+					"name": "Kanna",
+					"text": "Not at all."
+				},
+				{
+					"name": "Sumomo",
+					"text": "But they're the same age. I get why he'd feel self-conscious about him."
+				},
+				{
+					"name": "Azuki",
+					"text": "Really? But you two are totally different people. Why're you getting self-conscious because of him?"
+				},
+				{
+					"name": "Azuki",
+					"text": "You like bikes and mountains now?"
+				},
+				{
+					"name": "Kanna",
+					"text": "..."
+				},
+				{
+					"name": "Azuki",
+					"text": "You're more the indoor type, aren't you?"
+				},
+				{
+					"name": "Kanna",
+					"text": "Yeah, I guess."
+				},
+				{
+					"name": "Azuki",
+					"text": "Hmm?"
+				},
+				{
+					"name": "Kanna",
+					"text": "I don't feel self-conscious because of him. Sumomo's the one with that idea."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Ouch."
+				},
+				{
+					"text": "In the end, I decide to send the picture of the comet I took at the camp."
+				},
+				{
+					"text": "I also attach a brief letter."
+				},
+				{
+					"text": "It was really nice to read what you had to say about my mom in that article. I'm also aiming to become a photographer like her."
+				},
+				{
+					"text": "I would be grateful to read your comments on this photo of the starry sky. I took it while looking for the location of a sketch my mom left behind."
+				},
+				{
+					"text": "Yours sincerely, Amei Kanna."
+				},
+				{
+					"name": "Kanna",
+					"text": "Okay."
+				},
+				{
+					"name": "Sumomo",
+					"text": "It's ready?"
+				},
+				{
+					"name": "Kanna",
+					"text": "Yeah, I'll go mail it."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Sure thing! Be careful out there!"
+				},
+				{
+					"name": "Azuki",
+					"text": "He's around that age, eh?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Right? He's totally self-conscious about that other guy."
+				},
+				{
+					"name": "Azuki",
+					"text": "Yup, no doubt about it."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Well, I get how it feels."
+				},
+				{
+					"text": "I flip through the magazine's pages."
+				},
+				{
+					"text": "Both the young photographer Kanna is self-conscious about and the apparently super famous one are good looking, but neither of them have that special something."
+				},
+				{
+					"name": "Sumomo",
+					"text": "I wonder why he's so worried about him. Kanna's way cooler and better looking."
+				},
+				{
+					"name": "Azuki",
+					"text": "Huh? You mean our Candy?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Is it kinda creepy for me to say? You know... I kind of really like Kanna, to be honest."
+				},
+				{
+					"name": "Azuki",
+					"text": "Eh?"
+				},
+				{
+					"name": "Azuki",
+					"text": "Wait, what? You mean as in he's kinda nice to look at? Or as in, like, you wanna get it on?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Ahahah! You a virgin or something?"
+				},
+				{
+					"name": "Azuki",
+					"text": "I'm not a fucking virgin!"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Well... I guess I would be lying if I said I'm not attracted to him in that way."
+				},
+				{
+					"name": "Sumomo",
+					"text": "He's just so cute. I can't get him out of my mind."
+				},
+				{
+					"name": "Azuki",
+					"text": "Uh... You sure that's a good idea? I mean, the age gap is kind of..."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Yeah, you don't need to tell me."
+				},
+				{
+					"name": "Azuki",
+					"text": "You like younger guys?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Nope."
+				},
+				{
+					"name": "Sumomo",
+					"text": "I've always dated older men, never anyone younger than me. Though I guess I might've had a few one-night stands."
+				},
+				{
+					"name": "Azuki",
+					"text": "Uh, how many guys have you been with?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Huh? How about you?"
+				},
+				{
+					"name": "Azuki",
+					"text": "Err, I don't think I can count them all."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Ahahah! You're a crappy liar!"
+				},
+				{
+					"name": "Sumomo",
+					"text": "I bet you can count them with just one hand."
+				},
+				{
+					"name": "Azuki",
+					"text": "I can't! One hand's not nearly enough!"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Jackpot! Ahahah, you're a treasure!"
+				},
+				{
+					"name": "Azuki",
+					"text": "It doesn't matter how many people I've been with!"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Yep, we're on the same page there."
+				},
+				{
+					"name": "Sumomo",
+					"text": "But then again... I wonder if Kanna thinks I'm a slut or something."
+				},
+				{
+					"name": "Azuki",
+					"text": "Then why the heck did you talk about that in front of him? That's not the kind of stuff you bring up in front of the guy you like."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Really?"
+				},
+				{
+					"name": "Azuki",
+					"text": "Really!"
+				},
+				{
+					"name": "Sumomo",
+					"text": "But I always just say whatever comes to mind."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Haah, guess dating is off the table, huh?"
+				},
+				{
+					"name": "Azuki",
+					"text": "Heh, it's that dumbass we're talking about. Don't you think he might be a little wet behind the ears when it comes to girls?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Ahahah! Maybe."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Hey, Azuki."
+				},
+				{
+					"name": "Azuki",
+					"text": "Now what?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "How long are you planning to stay here? The car's almost fixed, right?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "And when he takes his picture of the comet, I don't think there'll be any point to us sticking around anymore."
+				},
+				{
+					"name": "Azuki",
+					"text": "Mmh, guess not."
+				},
+				{
+					"name": "Sumomo",
+					"text": "He's keeping us secret from his daddy too. I don't think we can stay much later than the end of August."
+				},
+				{
+					"name": "Azuki",
+					"text": "The heat is starting to get serious in here too."
+				},
+				{
+					"name": "Azuki",
+					"text": "Why is Candy even living in the garage anyway? He doesn't get along with his dad?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Nah, I don't think it's that. His daddy just worries about him. He's a pretty serious guy."
+				},
+				{
+					"name": "Azuki",
+					"text": "That so? We haven't even met, now that I think about it."
+				},
+				{
+					"name": "Sumomo",
+					"text": "And we're nearing the end of July."
+				},
+				{
+					"name": "Azuki",
+					"text": "Being honest, I guess that's about the time we should bounce."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Right."
+				},
+				{
+					"name": "Sumomo",
+					"text": "So we have like one week left."
+				},
+				{
+					"name": "Sumomo",
+					"text": "We have one last camping trip together, right?"
+				},
+				{
+					"name": "Azuki",
+					"text": "Hm?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Let's make sure we have tons of fun with it."
+				},
+				{
+					"text": "It's been a week since we camped out near Nariyama."
+				},
+				{
+					"text": "And during that whole time, my thinking hasn't shifted."
+				},
+				{
+					"text": "The more I think about it, the more I'm certain this must be the place I'm looking for."
+				},
+				{
+					"text": "It's the place I visited with my parents the most."
+				},
+				{
+					"text": "The owner of the land let us camp there since he was a fan of my mom, and I never saw anyone else around."
+				},
+				{
+					"text": "And most of the pictures in our albums are from that place."
+				},
+				{
+					"text": "Not to mention the lake surrounded by conifer forests."
+				},
+				{
+					"text": "If this is the place, I can understand my mom's smug smile when she told me about it."
+				},
+				{
+					"text": "It's outside of the prefecture."
+				},
+				{
+					"text": "So we can't exactly walk there."
+				},
+				{
+					"text": "However..."
+				},
+				{
+					"text": "Since it's in a different prefecture, I can be fairly certain that the forest is still there."
+				},
+				{
+					"text": "And on July 25th, the starter that Azuki ordered finally arrived."
+				},
+				{
+					"name": "Kanna",
+					"text": "It's on!"
+				},
+				{
+					"name": "Azuki",
+					"text": "Scrap Hunter for the win!"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Ahahah! What's that supposed to be? Your war cry?"
+				},
+				{
+					"name": "Azuki",
+					"text": "Geez! Can you let me celebrate in peace?! What's your problem?!"
+				},
+				{
+					"name": "Sumomo",
+					"text": "No way! You say that often?"
+				},
+				{
+					"name": "Azuki",
+					"text": "No, I don't!"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Ahahah! You're cuckoo, girl!"
+				},
+				{
+					"name": "Azuki",
+					"text": "Shut it!"
+				},
+				{
+					"name": "Kanna",
+					"text": "This is incredible! Thank you, Azuki! Thank you so much!"
+				},
+				{
+					"name": "Azuki",
+					"text": "Heheh."
+				},
+				{
+					"name": "Kanna",
+					"text": "It's working! We made it in time!"
+				},
+				{
+					"name": "Azuki",
+					"text": "If I say it'll be fixed, fixed it'll be!"
+				},
+				{
+					"name": "Kanna",
+					"text": "It's amazing! You're amazing, Azuki!"
+				},
+				{
+					"name": "Azuki",
+					"text": "Scrap hunter for the win?"
+				},
+				{
+					"text": "I nod."
+				},
+				{
+					"name": "Kanna",
+					"text": "Scrap hunters for the win!"
+				},
+				{
+					"text": "Azuki nods enthusiastically."
+				},
+				{
+					"name": "Azuki&Kanna",
+					"text": "Aww yeah! Scrap hunters forever!"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Ahahah! You two are losing it!"
+				},
+				{
+					"name": "Azuki",
+					"text": "So, do we have a destination?"
+				},
+				{
+					"text": "I nod and show them both a picture of the place."
+				},
+				{
+					"name": "Kanna",
+					"text": "It's a private property in Fukushima. I think this should be the spot."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Yeah? Why?"
+				},
+				{
+					"name": "Kanna",
+					"text": "The old man at the reception the last time we came camping said the ecosystem around here had collapsed and the natural state had changed."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Yeah, right."
+				},
+				{
+					"name": "Azuki",
+					"text": "Oh, so it's about the pigeons? It's true that we get a lot of 'em around here."
+				},
+				{
+					"name": "Kanna",
+					"text": "I think she drew this sketch when nature around here started changing. And this is the place we visited the most after that."
+				},
+				{
+					"name": "Kanna",
+					"text": "And there's a conifer forest here too."
+				},
+				{
+					"name": "Azuki",
+					"text": "Conifers, huh? Sounds legit."
+				},
+				{
+					"name": "Azuki",
+					"text": "It doesn't sound impossible, I guess."
+				},
+				{
+					"name": "Sumomo",
+					"text": "So our next stop is Fukushima! How long is the trip?"
+				},
+				{
+					"name": "Azuki",
+					"text": "Four or five hours, give or take?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Whoo, long trip! But hey, we got the car now! We're just gonna drive there, right?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Maybe I can just go to sleep in the back and we'll be there by the time I wake up?"
+				},
+				{
+					"name": "Kanna",
+					"text": "We can't be in the camper while the car is running. It's the backseat for us."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Gotcha. Well, it'll be fun either way."
+				},
+				{
+					"name": "Azuki",
+					"text": "When are we going? You want to catch the comet on the 28th, right?"
+				},
+				{
+					"name": "Azuki",
+					"text": "You wanna go a day or two before?"
+				},
+				{
+					"name": "Kanna",
+					"text": "Yeah, we should arrive two days in advance, just to be sure."
+				},
+				{
+					"name": "Kanna",
+					"text": "If it turns out it isn't the right place, we can come back after staying the night and ask my dad about it."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Huh? Are you sure you wanna do that?"
+				},
+				{
+					"name": "Kanna",
+					"text": "There's not enough time, and I'd rather not miss a once-in-76-years chance over being stubborn."
+				},
+				{
+					"name": "Azuki",
+					"text": "What if it's a place that can't be reached by car?"
+				},
+				{
+					"name": "Kanna",
+					"text": "Mmm..."
+				},
+				{
+					"name": "Kanna",
+					"text": "She said it's a place I know, so I'm sure we can drive there in a day of travel."
+				},
+				{
+					"name": "Kanna",
+					"text": "Awh yeah! Scrap hunters forever!"
+				},
+				{
+					"name": "Azuki",
+					"text": "I see. Got it. So we leave tomorrow and either stay one night or two in a row."
+				},
+				{
+					"text": "I nod."
+				},
+				{
+					"name": "Kanna",
+					"text": "Unlike last time, this is gonna be properly in the mountains, so we have to bring all our camping equipment."
+				},
+				{
+					"name": "Sumomo",
+					"text": "We're going pretty far in the car this time, right? Are you sure you don't need to tell your daddy?"
+				},
+				{
+					"name": "Kanna",
+					"text": "..."
+				},
+				{
+					"text": "I ponder for a bit and then nod."
+				},
+				{
+					"name": "Kanna",
+					"text": "He's not on vacation yet. I think it'll be okay if we leave and come back while he's at work."
+				},
+				{
+					"name": "Sumomo",
+					"text": "You sure you want to hide this from him?"
+				},
+				{
+					"name": "Kanna",
+					"text": "It's fine. I'm not a kid anymore."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Really? You think so?"
+				},
+				{
+					"name": "Azuki",
+					"text": "I'd say we've all been there. Right, Sumomo?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Right."
+				},
+				{
+					"text": "At 10 a.m. on July 26th, the three of us pile into my mom's Hachimaru and drive off."
+				},
+				{
+					"name": "Kanna",
+					"text": "..."
+				},
+				{
+					"text": "I'm in the passenger seat."
+				},
+				{
+					"text": "It's been so long since I felt Hachimaru's motor running."
+				},
+				{
+					"name": "Azuki",
+					"text": "It purrs like a kitten. And there's nothing like the shudder you get from a diesel engine."
+				},
+				{
+					"name": "Azuki",
+					"text": "Ain't it nice, Candy? I bet you could get hooked on this."
+				},
+				{
+					"name": "Kanna",
+					"text": "Yeah!"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Yahoo! Fukushima, here we cooome!"
+				},
+				{
+					"name": "Azuki",
+					"text": "Why the heck don't you have a license, Peach?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Huh? I never really needed one? I always had someone to drive me around."
+				},
+				{
+					"name": "Azuki",
+					"text": "What the?! I can't believe you let a bunch of men turn you into a backseat potato!"
+				},
+				{
+					"name": "Sumomo",
+					"text": "I don't care, I put my efforts elsewhere. It takes work to look like the kinda girl suckers just wanna drive around, you know?"
+				},
+				{
+					"name": "Azuki",
+					"text": "Yeah, I get it, you huge slut."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Good, you granny."
+				},
+				{
+					"name": "Azuki",
+					"text": "Who're you calling a granny?!"
+				},
+				{
+					"name": "Kanna",
+					"text": "Eyes on the road, please."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Ahahah! It's almost time! I hope we find the place in the sketch."
+				},
+				{
+					"name": "Azuki",
+					"text": "We won't know till we're there."
+				},
+				{
+					"name": "Sumomo",
+					"text": "I'm just saying it's nice to be here, all three of us, searching for something together."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Right, Kanna?"
+				},
+				{
+					"name": "Kanna",
+					"text": "Huh? Sure."
+				},
+				{
+					"name": "Sumomo",
+					"text": "You want to take your pictures in that place for Anna, right? It's more about the journey, I'd say."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Granny Azuki really has no tact at all. She doesn't take her baths either."
+				},
+				{
+					"name": "Azuki",
+					"text": "I've been bathing every day lately! And I smell like the pretty, feminine flower I am! I even use soap!"
+				},
+				{
+					"name": "Azuki",
+					"text": "Right, Candy? Ain't that right?"
+				},
+				{
+					"name": "Kanna",
+					"text": "Err, yeah. You also smell like cigarettes, though."
+				},
+				{
+					"name": "Azuki",
+					"text": "It's the scent of a real woman!"
+				},
+				{
+					"name": "Kanna",
+					"text": "Yeah, uh, whatever..."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Hey, guys, can't we play, like, music? You know, something for the ride."
+				},
+				{
+					"name": "Kanna",
+					"text": "There should be some cassettes somewhere."
+				},
+				{
+					"name": "Azuki",
+					"text": "Cassettes?! I've never seen those in real life! They work?! That's crazy!"
+				}
+			]
+		},
+		{
+			"texts": [
+				{
+					"name": "Sumomo",
+					"text": "This is so fun! It's like the car's our own private bubble!"
+				},
+				{
+					"name": "Azuki",
+					"text": "You finally see the light! This is what I've been talking about!"
+				},
+				{
+					"name": "Azuki",
+					"text": "Get yourself a license, girl. Cars are hecking fun."
+				},
+				{
+					"name": "Sumomo",
+					"text": "It might be fun if I could drive a retro car like this, yeah."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Who used to drive when your mom was alive?"
+				},
+				{
+					"name": "Kanna",
+					"text": "Dad, most of the time. Mom was usually in the passenger seat, or the back seat."
+				},
+				{
+					"name": "Azuki",
+					"text": "Oh, so she didn't drive? I had her pegged as the type that couldn't hand others the wheel."
+				},
+				{
+					"name": "Kanna",
+					"text": "She drove herself when she was out working on her own, but it was mostly my dad driving every time we went out all together."
+				},
+				{
+					"name": "Azuki",
+					"text": "So your pa likes cars, then?"
+				},
+				{
+					"name": "Kanna",
+					"text": "Probably."
+				},
+				{
+					"name": "Azuki",
+					"text": "You were raised by two car enthusiasts yet you're not into them yourself?"
+				},
+				{
+					"name": "Kanna",
+					"text": "I guess. I like riding in them, though."
+				},
+				{
+					"name": "Sumomo",
+					"text": "I know the feel. Sometimes it's nice just being driven around."
+				}
+			]
+		},
+		{
+			"texts": [
+				{
+					"text": "We drive on down the highway, stopping once at a rest area, and make it to Fukushima before sundown."
+				},
+				{
+					"text": "We drive through the rural landscape for a while. It kind of reminds of Nariyama City."
+				},
+				{
+					"name": "Azuki",
+					"text": "We almost there?"
+				},
+				{
+					"name": "Kanna",
+					"text": "Yeah. Go left at the next turn."
+				},
+				{
+					"name": "Azuki",
+					"text": "Aye, sir."
+				},
+				{
+					"name": "Kanna",
+					"text": "Ah, it's here. At least I think it is."
+				},
+				{
+					"text": "I vaguely remember this mountain trail and the private house just off to the side of it."
+				},
+				{
+					"name": "Kanna",
+					"text": "Wait here. I'll go say hi."
+				},
+				{
+					"name": "Azuki",
+					"text": "Roger that."
+				}
+			]
+		},
+		{
+			"texts": [
+				{
+					"text": "The married couple that owns the land still remember me."
+				},
+				{
+					"text": "It's actually the first time I've seen them since my mom's passing."
+				},
+				{
+					"text": "After some small talk, I ask them for permission to stay on the mountain for a day or two."
+				},
+				{
+					"text": "The couple gleefully welcome me and give me a bunch of edible wild plants from the mountains and a bottle of sake from their home brewery."
+				},
+				{
+					"text": "They tell me it's because \"both of them loved our sake.\" I figure they're talking about Mom and Dad. They probably expect me to be traveling with him."
+				},
+				{
+					"text": "I nod, thank them for the hospitality, and go back to the car."
+				},
+				{
+					"text": "I didn't lie to them. I simply chose what information to divulge."
+				},
+				{
+					"name": "Azuki",
+					"text": "What's that?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Booze?"
+				},
+				{
+					"name": "Kanna",
+					"text": "Sake. And they gave us some wild vegetables, too."
+				},
+				{
+					"name": "Azuki",
+					"text": "Oooh!"
+				},
+				{
+					"name": "Sumomo",
+					"text": "We're in heaven!"
+				},
+				{
+					"name": "Azuki",
+					"text": "You can say that again! I've half a mind to build my next hideout around these parts."
+				},
+				{
+					"name": "Kanna",
+					"text": "I don't think they'd be too happy about that."
+				}
+			]
+		},
+		{
+			"texts": [
+				{
+					"text": "After we enter the mountain's dirt road, Azuki slows down Hachimaru."
+				},
+				{
+					"name": "Azuki",
+					"text": "How far are we going?"
+				},
+				{
+					"name": "Kanna",
+					"text": "Just a bit further ahead. There's a river where the road opens up, so we always parked near that."
+				},
+				{
+					"name": "Azuki",
+					"text": "A river, gotcha."
+				},
+				{
+					"text": "We park the car near our watering spot and lose no time in putting up the tent."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Is it just me or does this place seem much rougher than the last?"
+				},
+				{
+					"name": "Azuki",
+					"text": "This is real camping now. Last time was baby's first outing."
+				},
+				{
+					"name": "Sumomo",
+					"text": "For real? I think I like baby camping."
+				},
+				{
+					"name": "Azuki",
+					"text": "Those who don't work won't get any sake later."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Can't you see I'm working?! Didn't you see me hammering this stake thingie down?!"
+				},
+				{
+					"name": "Azuki",
+					"text": "Why did you come wearing those clothes anyway? We're in the middle of the mountain, not a damn runway."
+				},
+				{
+					"name": "Sumomo",
+					"text": "I decided to make up for all those teacher training days looking like crap by dressing as fashionably as I want."
+				},
+				{
+					"name": "Azuki",
+					"text": "You had enough of that dumpy little suit, eh?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "I'd rather have a hard time moving then look like a lame-o. It's my choice!"
+				},
+				{
+					"name": "Kanna",
+					"text": "I'll go get some water."
+				},
+				{
+					"name": "Azuki",
+					"text": "You handle yourself well, Candy. Glad to see one of you's an experienced camper."
+				},
+				{
+					"name": "Azuki",
+					"text": "Candy, you gotta look for your spot, right? Get going before it gets dark."
+				},
+				{
+					"name": "Kanna",
+					"text": "Uh, but we still gotta—"
+				},
+				{
+					"name": "Azuki",
+					"text": "Worry not. We're done with the big stuff. We fixed the car and drove all the way here for you. Don't fumble it now."
+				},
+				{
+					"name": "Kanna",
+					"text": "...Thanks."
+				},
+				{
+					"name": "Azuki",
+					"text": "You go with him, Peach. I wanna smoke."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Yippee! I'm coming!"
+				},
+				{
+					"name": "Azuki",
+					"text": "Take your time."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Are you looking for some kind of landmark?"
+				},
+				{
+					"name": "Kanna",
+					"text": "Not really. I don't really know my way around here that well."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Mmh, the trees do look kind of strange."
+				},
+				{
+					"name": "Kanna",
+					"text": "..."
+				},
+				{
+					"text": "We walk through the conifer forest, but I keep my eyes up on the sky."
+				},
+				{
+					"text": "The sun wanes before long."
+				},
+				{
+					"text": "The comet comes into view as the sky darkens."
+				},
+				{
+					"name": "Sumomo",
+					"text": "This is a really nice place, I gotta say."
+				},
+				{
+					"name": "Kanna",
+					"text": "Yeah, I like it too."
+				},
+				{
+					"text": "Walking through the forest brings back memories."
+				},
+				{
+					"text": "Memories of me and Mom exploring these woods together."
+				},
+				{
+					"text": "I haven't felt the excitement I used to feel back then in a long while."
+				},
+				{
+					"text": "Maybe that emotion is the reason my mom loved nature so much."
+				},
+				{
+					"name": "Sumomo",
+					"text": "I'm, like, really happy."
+				},
+				{
+					"name": "Kanna",
+					"text": "Hm?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "You have a lot of memories with your Mom here, right?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "It's nice to be here, knowing it means so much to you. Plus the air is clean, and it's quiet."
+				},
+				{
+					"name": "Kanna",
+					"text": "...Yeah."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Makes me feel really glad to be here, even if it's just for a short while."
+				},
+				{
+					"name": "Kanna",
+					"text": "...Isn't it kinda like this?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Hm?"
+				},
+				{
+					"text": "Staring up at the sky, I superimpose the sketch over the view."
+				},
+				{
+					"text": "The tall conifers form a rough circle with Halley's Comet in the middle."
+				},
+				{
+					"text": "It's very similar."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Oh, is this the place?!"
+				},
+				{
+					"name": "Kanna",
+					"text": "I don't know."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Why not take a picture?"
+				},
+				{
+					"name": "Kanna",
+					"text": "Good idea."
+				},
+				{
+					"text": "I attach the wide-angle lens to my SLR camera."
+				},
+				{
+					"text": "It's the same kind of lens that TAKUMA guy uses."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Oh, this is so exciting!"
+				},
+				{
+					"name": "Kanna",
+					"text": "I took it."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Show me! Come on!"
+				},
+				{
+					"text": "I show her the picture on the camera display."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Oooh! It's just like the sketch!"
+				},
+				{
+					"name": "Kanna",
+					"text": "...Yeah."
+				},
+				{
+					"name": "Sumomo",
+					"text": "So this is it? This is the picture you wanted to take, right?"
+				},
+				{
+					"name": "Kanna",
+					"text": "..."
+				},
+				{
+					"text": "I tilt my head to the side slightly."
+				},
+				{
+					"name": "Kanna",
+					"text": "Honestly?"
+				},
+				{
+					"name": "Kanna",
+					"text": "I'm not really feeling much."
+				},
+				{
+					"name": "Sumomo",
+					"text": "How about we wait until it's a little darker? We can't even see the stars yet."
+				},
+				{
+					"name": "Kanna",
+					"text": "Yeah, right."
+				},
+				{
+					"text": "Somehow I don't think that's the problem."
+				},
+				{
+					"text": "This is..."
+				},
+				{
+					"text": "Just not what I want to photograph."
+				},
+				{
+					"text": "Together, we wait for night to fall, listening to the sounds of nature and breathing in the clean air."
+				},
+				{
+					"text": "What did I come here looking for?"
+				},
+				{
+					"text": "I had Azuki fix the car and drive me here, and I had Sumomo help me find this place."
+				},
+				{
+					"text": "And in the end..."
+				},
+				{
+					"text": "Is it just going to end with me taking this picture and feeling empty?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Take a look at that!"
+				},
+				{
+					"name": "Kanna",
+					"text": "Hm?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "It's so pretty."
+				},
+				{
+					"text": "I follow her gaze."
+				},
+				{
+					"text": "A blanket of stars twinkle in the sky like a box of gemstones."
+				},
+				{
+					"text": "And in the center, like a crown jewel, Halley's Comet arcing through the sky."
+				},
+				{
+					"name": "Sumomo",
+					"text": "I'm so happy to be here! I never knew the night sky could look this pretty!"
+				},
+				{
+					"text": "Instead of the night sky, I find myself staring at her instead."
+				},
+				{
+					"text": "The way the moonlight illuminates her rosy cheeks."
+				},
+				{
+					"text": "I..."
+				},
+				{
+					"text": "I point my camera toward Sumomo's profile."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Ah, you took a picture of me?"
+				},
+				{
+					"name": "Kanna",
+					"text": "...Yeah."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Did I look cute?"
+				},
+				{
+					"name": "Kanna",
+					"text": "You always do."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Oooh, I like it when the proactive Kanna comes out to play."
+				},
+				{
+					"name": "Kanna",
+					"text": "..."
+				},
+				{
+					"text": "This time, I aim my camera up at the sky."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Did you get a good picture?"
+				},
+				{
+					"name": "Kanna",
+					"text": "..."
+				},
+				{
+					"text": "I bring up the picture on the display. It looks just like the sketch's composition."
+				},
+				{
+					"name": "Sumomo",
+					"text": "This is it! It's beautiful!"
+				},
+				{
+					"name": "Kanna",
+					"text": "Nah..."
+				},
+				{
+					"text": "Then I display the photo I captured of Sumomo looking up at the sky."
+				},
+				{
+					"text": "It's the figure of an angel waiting for the night, and of her eyes sparkling at the sheer beauty of the sky above her."
+				},
+				{
+					"name": "Kanna",
+					"text": "...Why did I never notice something so obvious?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Huh?"
+				},
+				{
+					"name": "Kanna",
+					"text": "Your picture is far more beautiful..."
+				},
+				{
+					"name": "Kanna",
+					"text": "More beautiful than Halley's Comet."
+				},
+				{
+					"name": "Sumomo",
+					"text": "..."
+				},
+				{
+					"text": "I feel the touch of something soft on my forehead as I look down at the screen, but the next instant it's gone."
+				},
+				{
+					"name": "Kanna",
+					"text": "Huh?"
+				},
+				{
+					"text": "When I raise my head, I see Sumomo smiling at me with an enraptured expression on her face."
+				},
+				{
+					"text": "She's blushing slightly."
+				},
+				{
+					"text": "I've never seen her like this before."
+				},
+				{
+					"text": "Her smile reminds me that she's a much more mature woman than she usually lets on."
+				},
+				{
+					"name": "Sumomo",
+					"text": "That's to thank you for saying the most beautiful thing I've heard in my whole life."
+				},
+				{
+					"name": "Kanna",
+					"text": "..."
+				},
+				{
+					"text": "I point my camera at her again to capture this new smile."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Ahahah, there you go again."
+				},
+				{
+					"name": "Kanna",
+					"text": "Yeah."
+				},
+				{
+					"text": "Now her smile has a tinge of embarrassment to it."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Ahahah! Stop it, geez!"
+				},
+				{
+					"text": "Her expressions change so fast."
+				},
+				{
+					"text": "And I keep taking pictures for each new one."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Don't get too ahead of yourself."
+				},
+				{
+					"name": "Sumomo",
+					"text": "That's the only kiss you're getting, for now at least."
+				},
+				{
+					"name": "Kanna",
+					"text": "..."
+				},
+				{
+					"text": "What did she just say?"
+				},
+				{
+					"text": "Now I realize what it was I felt on my forehead."
+				},
+				{
+					"name": "Azuki",
+					"text": "Oh, there you are. Did you get your picture?"
+				},
+				{
+					"name": "Kanna",
+					"text": "Yeah."
+				},
+				{
+					"name": "Azuki",
+					"text": "Well, come on and show it to me."
+				},
+				{
+					"text": "I show her the picture of Halley's Comet I took in the little clearing."
+				},
+				{
+					"name": "Azuki",
+					"text": "Oh, this is pretty good. So this is the place?"
+				},
+				{
+					"name": "Kanna",
+					"text": "I don't know."
+				},
+				{
+					"name": "Azuki",
+					"text": "Huh?"
+				},
+				{
+					"name": "Kanna",
+					"text": "I don't know, and that's okay."
+				},
+				{
+					"name": "Kanna",
+					"text": "I finally realized what it is I really wanted to photograph."
+				},
+				{
+					"name": "Azuki",
+					"text": "Eh?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "His ears are dry, I checked."
+				},
+				{
+					"name": "Azuki",
+					"text": "..."
+				},
+				{
+					"text": "Azuki gasps for some reason."
+				},
+				{
+					"name": "Azuki",
+					"text": "Don't tell me you..."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Of course not. What do you take me for?"
+				},
+				{
+					"name": "Azuki",
+					"text": "Right, I know."
+				},
+				{
+					"name": "Kanna",
+					"text": "Uh, what are you guys talking about?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Never you mind. Now let's drink that sake you got!"
+				},
+				{
+					"name": "Azuki",
+					"text": "Count me in!"
+				},
+				{
+					"text": "I toast with soda, and the two of them with sake."
+				},
+				{
+					"name": "Azuki",
+					"text": "Man, it sure is cooler around here."
+				},
+				{
+					"name": "Sumomo",
+					"text": "I know! The sake is delicious too. This rocks!"
+				},
+				{
+					"name": "Kanna",
+					"text": "I really wanna thank you two."
+				},
+				{
+					"name": "Kanna",
+					"text": "Azuki, you fixed my car like you promised, and Sumomo, you helped me all those days in the library."
+				},
+				{
+					"name": "Azuki",
+					"text": "Don't forget I drove us all the way here too."
+				},
+				{
+					"text": "I smile and nod."
+				},
+				{
+					"name": "Kanna",
+					"text": "If I was alone, I probably would've found myself crushed under the weight of it all."
+				},
+				{
+					"name": "Kanna",
+					"text": "I..."
+				},
+				{
+					"name": "Kanna",
+					"text": "I'm sorry I couldn't take a picture of the comet that'd capture people's hearts in the same way Mom's would have."
+				},
+				{
+					"name": "Azuki",
+					"text": "Really?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "I think your photo's plenty pretty."
+				},
+				{
+					"text": "I shake my head."
+				},
+				{
+					"name": "Kanna",
+					"text": "I can tell the difference. I know Mom would've taken a way different picture."
+				},
+				{
+					"name": "Kanna",
+					"text": "But..."
+				},
+				{
+					"name": "Kanna",
+					"text": "This time..."
+				},
+				{
+					"name": "Kanna",
+					"text": "I realized that the journey of getting here was more important than the destination."
+				},
+				{
+					"name": "Kanna",
+					"text": "And I learned more than just that."
+				},
+				{
+					"text": "Both of you became my friends."
+				},
+				{
+					"text": "At least, that's what I want to say, but I can't find the courage to voice it out loud."
+				},
+				{
+					"text": "I'm too embarrassed."
+				},
+				{
+					"text": "I can tell them another time."
+				},
+				{
+					"text": "Because I'm certain."
+				},
+				{
+					"text": "No matter how much time passes while we're apart, I'll meet with them again."
+				},
+				{
+					"text": "I just know it."
+				},
+				{
+					"text": "I notice both of their smiles widening as I trail off."
+				},
+				{
+					"name": "Azuki",
+					"text": "Well, if you're happy, then that's all there is to it."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Yep, that's it! We're just happy you brought us along for a fun camping trip."
+				},
+				{
+					"name": "Azuki",
+					"text": "I don't think you two could've hauled all that camping equipment in and out of the car on your own."
+				},
+				{
+					"name": "Sumomo",
+					"text": "So, are are going to stay two night? Or go back tomorrow?"
+				},
+				{
+					"name": "Kanna",
+					"text": "Either is fine by me. But it was a long trip to get here, so we might as well enjoy it a little longer."
+				},
+				{
+					"name": "Azuki",
+					"text": "Huh? You really gonna let the 28th just pass by? Isn't it a big day for you?"
+				},
+				{
+					"name": "Kanna",
+					"text": "For my mom, yeah. I already took the picture of the comet that I wanted to take."
+				},
+				{
+					"name": "Kanna",
+					"text": "And I had my realization while I was taking it."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Then we might as well leave tomorrow."
+				},
+				{
+					"name": "Azuki",
+					"text": "Yeah, I'd say one day is more than enough. Need to get back and take a proper bath."
+				},
+				{
+					"name": "Sumomo",
+					"text": "I'm sure you could live without one."
+				},
+				{
+					"name": "Azuki",
+					"text": "I doubt you could, though."
+				},
+				{
+					"name": "Sumomo",
+					"text": "I guess I could rinse my hair in the river, at the very least. I did bring my stuff."
+				},
+				{
+					"name": "Azuki",
+					"text": "You'd do that? Maybe you're more suited to the great outdoors than you think."
+				},
+				{
+					"text": "We roast the food we brought and enjoy a long, relaxing dinner."
+				},
+				{
+					"text": "Time slips by peacefully."
+				},
+				{
+					"text": "Azuki and Sumomo have a blast drinking."
+				},
+				{
+					"text": "Watching them both, I realize that people get drunk differently depending on how they drink."
+				},
+				{
+					"name": "Azuki",
+					"text": "Hey, Candy. What's the thing you want to photograph?"
+				},
+				{
+					"name": "Kanna",
+					"text": "Huh?"
+				},
+				{
+					"text": "Azuki directs a question my way as she eats the cooked vegetables and noodles we prepared."
+				},
+				{
+					"name": "Azuki",
+					"text": "You said you realized what you want to photograph, remember?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "I wanna know too!"
+				},
+				{
+					"text": "Both of them turn to me, their eyes inquisitive."
+				},
+				{
+					"text": "I look down at the cup in my hands."
+				},
+				{
+					"text": "I watch the leftover orange juice at the bottom sloshing around."
+				},
+				{
+					"name": "Kanna",
+					"text": "People, I guess."
+				},
+				{
+					"name": "Sumomo&Azuki",
+					"text": "People?"
+				},
+				{
+					"name": "Kanna",
+					"text": "You said it before, Azuki."
+				},
+				{
+					"name": "Kanna",
+					"text": "I don't like cars and bikes in the same way you do."
+				},
+				{
+					"name": "Kanna",
+					"text": "And I don't have a lick of fashion sense, like Sumomo does."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Ahahah."
+				},
+				{
+					"name": "Kanna",
+					"text": "In the same way..."
+				},
+				{
+					"name": "Kanna",
+					"text": "I'm a different person than my mom."
+				},
+				{
+					"name": "Kanna",
+					"text": "I kind of realized I can't drive the car around like she did and take beautiful pictures of the stars like her. It's just not me."
+				},
+				{
+					"name": "Azuki",
+					"text": "I see now."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Mhm."
+				},
+				{
+					"name": "Kanna",
+					"text": "But..."
+				},
+				{
+					"name": "Kanna",
+					"text": "I did have fun taking pictures of Sumomo."
+				},
+				{
+					"name": "Kanna",
+					"text": "When I saw her expressions react to what I said, I felt something I never had before."
+				},
+				{
+					"name": "Kanna",
+					"text": "For the first time, I felt that I was actually taking good pictures."
+				},
+				{
+					"name": "Sumomo",
+					"text": "..."
+				},
+				{
+					"name": "Kanna",
+					"text": "So..."
+				},
+				{
+					"name": "Kanna",
+					"text": "I figure maybe what I really wanna photograph is people."
+				},
+				{
+					"name": "Azuki",
+					"text": "Hold that thought for a second, now..."
+				},
+				{
+					"name": "Azuki",
+					"text": "Hasn't it occurred to you that maybe it's not that you like photographing people, but Peach specifically?"
+				},
+				{
+					"name": "Kanna",
+					"text": "..."
+				},
+				{
+					"name": "Azuki",
+					"text": "Simply put, doesn't that basically mean you like her?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Really?!"
+				},
+				{
+					"name": "Kanna",
+					"text": "No, uh, I..."
+				},
+				{
+					"name": "Sumomo",
+					"text": "..."
+				},
+				{
+					"name": "Kanna",
+					"text": "I haven't photographed anyone besides her, so I don't really know."
+				},
+				{
+					"name": "Azuki",
+					"text": "Why not just come out and say you like her already, boyo?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "No, hold up, I kinda like whatever this is."
+				},
+				{
+					"name": "Kanna",
+					"text": "Well..."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Well?"
+				},
+				{
+					"name": "Kanna",
+					"text": "I do think she might, uh, mean something to me."
+				},
+				{
+					"name": "Azuki",
+					"text": "Oh boy. Why am I even here?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Ahahah! If we trace it back, you came to steal the car, right?"
+				},
+				{
+					"name": "Azuki",
+					"text": "Slander! He's the one who asked me to come look at it first!"
+				},
+				{
+					"name": "Kanna",
+					"text": "Oh, I did that, huh?"
+				},
+				{
+					"name": "Kanna",
+					"text": "Whoa, it's been a hot minute..."
+				},
+				{
+					"text": "I remember the day I sent the letter to Azuki, asking that mysterious mechanic to come take a look at the car."
+				},
+				{
+					"name": "Kanna",
+					"text": "It hasn't even been three weeks since then."
+				},
+				{
+					"name": "Sumomo",
+					"text": "For real?! It feels like we've been together for three months."
+				},
+				{
+					"name": "Azuki",
+					"text": "Word."
+				},
+				{
+					"name": "Kanna",
+					"text": "Have you two thought about what to do after this?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "After?"
+				},
+				{
+					"text": "I nod."
+				},
+				{
+					"name": "Kanna",
+					"text": "You're gonna go somewhere else when summer ends, right?"
+				},
+				{
+					"text": "Both of them exchange glances."
+				},
+				{
+					"name": "Azuki",
+					"text": "I suppose so, yeah. It's not like we can stay in the garage forever."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Where will you go, Azuki?"
+				},
+				{
+					"name": "Azuki",
+					"text": "I dunno. But it's gotta be a place where the roads are wide, so nowhere near Tokyo."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Maybe I'll follow you around for a while."
+				},
+				{
+					"name": "Azuki",
+					"text": "Huh? Don't you have stuff to do? I mean, you're a college student, right?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Yeah, but I kinda wanna spend my time doing what I wanna do."
+				},
+				{
+					"name": "Sumomo",
+					"text": "If I stick with you and visit lots of different places, maybe I'll find something."
+				},
+				{
+					"name": "Azuki",
+					"text": "Fat chance, I reckon."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Huh? Really?"
+				},
+				{
+					"name": "Kanna",
+					"text": "Yeah, why not?"
+				},
+				{
+					"name": "Azuki",
+					"text": "You gotta sit down and think until you find it. I know you hate doing nothing, but that's the only way. You've gotta ask yourself."
+				},
+				{
+					"name": "Azuki",
+					"text": "You only go and look outside after taking a long, hard look at yourself. It's the kind of stuff you can only find the answer to inside of you."
+				},
+				{
+					"name": "Azuki",
+					"text": "It has nothing to do with where you are."
+				},
+				{
+					"name": "Sumomo",
+					"text": "..."
+				},
+				{
+					"text": "Sumomo stares at Azuki in disbelief."
+				},
+				{
+					"name": "Azuki",
+					"text": "What?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Azuki, you..."
+				},
+				{
+					"name": "Azuki",
+					"text": "Hm?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "You can totally tell you're in your thirties."
+				},
+				{
+					"name": "Azuki",
+					"text": "I'm gonna throw you in the river!"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Ahahah! Relax, it's a compliment! I mean it in a good way!"
+				},
+				{
+					"name": "Kanna",
+					"text": "You're not going back to college? What about your teaching license? Aren't you going to qualify?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Mmh, I don't know, but I don't think I'll need it anyway."
+				},
+				{
+					"name": "Kanna",
+					"text": "Really?"
+				},
+				{
+					"text": "With the same pleasant smile gracing her face, she nods. Then she takes a sip of sake and heaves a huge sigh of satisfaction."
+				},
+				{
+					"text": "I wonder if alcohol tastes as good as they make it seem."
+				},
+				{
+					"name": "Sumomo",
+					"text": "You're the one who helped me realize that, you know?"
+				},
+				{
+					"name": "Kanna",
+					"text": "I did?!"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Remember that photo you gave me? The one of me in Terminal 1?"
+				},
+				{
+					"text": "I nod."
+				},
+				{
+					"name": "Sumomo",
+					"text": "I really love that picture."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Seeing myself all happy and smiling in it made me realize that I just wanna be who I really am."
+				},
+				{
+					"name": "Sumomo",
+					"text": "And I think my mom would prefer to see me like that too."
+				},
+				{
+					"name": "Sumomo",
+					"text": "I know she just wants me to be happy."
+				},
+				{
+					"name": "Kanna",
+					"text": "Right."
+				},
+				{
+					"name": "Sumomo",
+					"text": "What I'm trying to say is that, thanks to you taking my picture, I discovered something inside of myself."
+				},
+				{
+					"name": "Sumomo",
+					"text": "I realized something important, all thanks to your photo."
+				},
+				{
+					"name": "Sumomo",
+					"text": "You're already changing people's lives with them!"
+				},
+				{
+					"name": "Sumomo",
+					"text": "And that's incredible! It's why I'm certain you'll become a great photographer."
+				},
+				{
+					"name": "Kanna",
+					"text": "..."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Do your best. I'll always be cheering you on."
+				},
+				{
+					"text": "Suddenly, her smile looks a little more desolate."
+				},
+				{
+					"name": "Azuki",
+					"text": "The hell do you guys think you're doing, getting all sappy on me?! I'm kind of feeling like a third wheel here, if I do say so myself!"
+				},
+				{
+					"text": "I wash the dishes we used yesterday and hand them to Sumomo."
+				},
+				{
+					"text": "She thoroughly wipes each one dry with a towel and puts them back in their box."
+				},
+				{
+					"text": "While we're doing that, Azuki dismantles the tent in no time."
+				},
+				{
+					"text": "Morning up in the mountains is fresh and cool, and the air is as clean as ever."
+				},
+				{
+					"text": "The blue sky spreads above us and the sun shines brightly."
+				},
+				{
+					"text": "We pack up quickly with the cicadas cries as our soundtrack."
+				},
+				{
+					"name": "Azuki",
+					"text": "All done. You sure we're good to go back?"
+				},
+				{
+					"name": "Kanna",
+					"text": "Yeah, it's fine."
+				},
+				{
+					"name": "Azuki",
+					"text": "Okay, then."
+				},
+				{
+					"name": "Sumomo",
+					"text": "You sure you didn't drink too much yesterday? You gonna be okay?"
+				},
+				{
+					"name": "Azuki",
+					"text": "I never get hangovers!"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Oh, so you're one of those people who just goes wild for the night."
+				},
+				{
+					"name": "Azuki",
+					"text": "I don't get drunk in the first place, you damn nag."
+				},
+				{
+					"name": "Sumomo",
+					"text": "So she says, Kanna."
+				},
+				{
+					"name": "Kanna",
+					"text": "She wasn't that bad last night. I'm sure it'll be fine."
+				}
+			]
+		},
+		{
+			"texts": [
+				{
+					"name": "Azuki",
+					"text": "You wanna go say goodbye on our way out, right?"
+				},
+				{
+					"text": "I nod."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Make sure to thank them for the sake, okay? It was sooo good!"
+				},
+				{
+					"name": "Kanna",
+					"text": "Yeah."
+				},
+				{
+					"text": "After thanking the old couple, we leave the mountain behind."
+				},
+				{
+					"text": "Once we've driven through the countryside and arrived back on the highway, Sumomo falls asleep in the backseat."
+				},
+				{
+					"name": "Kanna",
+					"text": "She's asleep."
+				},
+				{
+					"name": "Azuki",
+					"text": "Talk about shameless."
+				},
+				{
+					"name": "Kanna",
+					"text": "Hm?"
+				},
+				{
+					"name": "Azuki",
+					"text": "Peach."
+				},
+				{
+					"name": "Kanna",
+					"text": "Oh, right."
+				},
+				{
+					"name": "Azuki",
+					"text": "I'd say a woman like Peach is perfect for a sweet, quiet guy like you."
+				},
+				{
+					"name": "Kanna",
+					"text": "...She doesn't see me that way."
+				},
+				{
+					"text": "With her hands still firmly on the wheel, she glances at me for a second then sighs."
+				},
+				{
+					"name": "Azuki",
+					"text": "You still have a ways to go, Candy."
+				},
+				{
+					"name": "Kanna",
+					"text": "What?"
+				},
+				{
+					"text": "The road back to Chiba was actually a little more congested than on the way to Fukushima."
+				},
+				{
+					"text": "Thankfully, though, we arrive back at the garage before night falls."
+				},
+				{
+					"text": "During the week, Dad gets home pretty late."
+				},
+				{
+					"text": "This way he won't notice the car was ever gone."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Can I take a bath already? I wanna drop dead."
+				},
+				{
+					"name": "Azuki",
+					"text": "Go right ahead. I'm off to bed."
+				},
+				{
+					"name": "Sumomo",
+					"text": "What? But you didn't take a bath yesterday! How can you sleep with yourself?!"
+				},
+				{
+					"name": "Azuki",
+					"text": "It's a survival skill, that's all."
+				},
+				{
+					"name": "Kanna",
+					"text": "..."
+				},
+				{
+					"text": "I yawn as I listen to them yapping at each other as usual."
+				},
+				{
+					"text": "Azuki's right. The trip was so tiring I could fall asleep on my feet."
+				},
+				{
+					"text": "But when I turn my drowsy eyes to the little wooden table..."
+				},
+				{
+					"text": "What I see there wakes me right up."
+				},
+				{
+					"text": "Come to the house when you get back."
+				},
+				{
+					"text": "Never before has a note made me so nervous."
+				},
+				{
+					"name": "Kanna",
+					"text": "Why did he come in here?"
+				},
+				{
+					"text": "No, that's not the problem right now."
+				},
+				{
+					"text": "He must have come into the garage while we weren't here, which means..."
+				},
+				{
+					"text": "He would have noticed Hachimaru was gone."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Oh? What's wrong, Kanna? Are you tired?"
+				},
+				{
+					"name": "Kanna",
+					"text": "It looks like Dad dropped by."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Huh?"
+				},
+				{
+					"name": "Azuki",
+					"text": "While we were away? Why?"
+				},
+				{
+					"name": "Kanna",
+					"text": "I don't know. But he must have seen that Hachimaru was gone."
+				},
+				{
+					"name": "Sumomo",
+					"text": "That's bad, right?"
+				},
+				{
+					"name": "Azuki",
+					"text": "What did you tell him?"
+				},
+				{
+					"name": "Kanna",
+					"text": "I told him some friends were gonna be staying, and asked him to stay out."
+				},
+				{
+					"name": "Azuki",
+					"text": "Friends? Like, from the academy?"
+				},
+				{
+					"text": "All three of us are silent for a moment, before Sumomo speaks up."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Want us to go in with you?"
+				},
+				{
+					"name": "Kanna",
+					"text": "No."
+				},
+				{
+					"text": "That would just make it more complicated."
+				},
+				{
+					"name": "Kanna",
+					"text": "I'll explain things to him. You two wait here."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Are you sure? It won't end up in a fight like last time?"
+				},
+				{
+					"name": "Kanna",
+					"text": "I don't know."
+				},
+				{
+					"name": "Kanna",
+					"text": "But I have to try."
+				},
+				{
+					"name": "Kanna",
+					"text": "..."
+				},
+				{
+					"text": "My mind races as I try to figure out what to tell him."
+				},
+				{
+					"text": "How do I even begin to explain?"
+				},
+				{
+					"text": "Do I tell him someone got sick and we had to rush them to hospital in the car?"
+				},
+				{
+					"text": "No, they're supposed to be friends from the academy. He'd ask who was driving."
+				},
+				{
+					"text": "Maybe a brother or a sister of one of my friends?"
+				},
+				{
+					"text": "Or their parents?"
+				},
+				{
+					"text": "Any answer I can think of is convoluted at best."
+				},
+				{
+					"text": "I guess I just need to come clean."
+				},
+				{
+					"text": "Bracing myself, I open the front door and step inside."
+				},
+				{
+					"name": "Kanna",
+					"text": "Huh?"
+				},
+				{
+					"text": "I see my dad sitting at the table."
+				},
+				{
+					"text": "When he notices me, his expression hardens."
+				},
+				{
+					"text": "He's angry."
+				},
+				{
+					"text": "It's plain to see."
+				},
+				{
+					"text": "And sitting in front of my dad..."
+				},
+				{
+					"text": "There's a man I recognize right away."
+				},
+				{
+					"name": "Dad",
+					"text": "Where have you been?"
+				},
+				{
+					"name": "Kanna",
+					"text": "..."
+				},
+				{
+					"name": "Spencer Arashiyama",
+					"text": "Whoa, you've grown! You look just like Anna. How lindo."
+				},
+				{
+					"name": "Dad",
+					"text": "Stay out of this, would you?"
+				},
+				{
+					"name": "Kanna",
+					"text": "Spencer Arashiyama? What are you doing here?"
+				},
+				{
+					"name": "Spencer Arashiyama",
+					"text": "You sent me your foto, right? It got me nostalgico, you see. So I came by to reminiscence."
+				},
+				{
+					"name": "Dad",
+					"text": "We can talk about that later. Kanna, you fixed the car? Don't tell me you've been driving without a license."
+				},
+				{
+					"name": "Kanna",
+					"text": "I haven't. I had my friend who has a license do the driving."
+				},
+				{
+					"name": "Dad",
+					"text": "So those friends you told me about aren't from the academy?"
+				},
+				{
+					"name": "Kanna",
+					"text": "Er, well..."
+				},
+				{
+					"text": "I stumble on my words and look down at my feet."
+				},
+				{
+					"name": "Kanna",
+					"text": "No, they're not."
+				},
+				{
+					"name": "Dad",
+					"text": "..."
+				},
+				{
+					"text": "He lets out a huge sigh."
+				},
+				{
+					"name": "Dad",
+					"text": "I thought you said were going to dedicate yourself to photography this summer? What have you been doing back there?"
+				},
+				{
+					"name": "Kanna",
+					"text": "It was all for that. I can explain."
+				},
+				{
+					"text": "I tell him how Azuki stayed over to repair Hachimaru."
+				},
+				{
+					"text": "And how my teacher finished her training and is now staying as well."
+				},
+				{
+					"text": "I also tell him that we all went out in the car together to photograph Halley's Comet."
+				},
+				{
+					"text": "I decide not to mention how Azuki stole the car, and I burned down her bus by trying to drive without a license."
+				},
+				{
+					"text": "I kind of twist the story into Sumomo introducing her mechanic friend to me after seeing that Hachimaru wasn't working."
+				},
+				{
+					"name": "Dad",
+					"text": "So that teacher in training, huh?"
+				},
+				{
+					"name": "Kanna",
+					"text": "But I went back to the academy thanks to her. She did all that for me."
+				},
+				{
+					"name": "Spencer Arashiyama",
+					"text": "Remarkable. This is truly excelente, Take."
+				},
+				{
+					"name": "Dad",
+					"text": "Be quiet. This is an issue between father and son."
+				},
+				{
+					"name": "Spencer Arashiyama",
+					"text": "Not quite. Just a minute ago, you were practically begging me to listen to what your chico has to say, remember?"
+				},
+				{
+					"name": "Dad",
+					"text": "The situation has changed."
+				},
+				{
+					"name": "Kanna",
+					"text": "..."
+				},
+				{
+					"text": "He did what?"
+				},
+				{
+					"text": "He wanted him to listen to what his chico has to say?"
+				},
+				{
+					"text": "..."
+				},
+				{
+					"text": "Chico?"
+				},
+				{
+					"text": "Uhhh..."
+				},
+				{
+					"text": "Oh, right, it means \"son.\" That's me."
+				},
+				{
+					"name": "Spencer Arashiyama",
+					"text": "It hasn't changed at all. The pasion of this chico here to snap a picture of the comet managed to gain him the support of two more amigos."
+				},
+				{
+					"name": "Spencer Arashiyama",
+					"text": "Truly, you are Anna's chico. I read your carta."
+				},
+				{
+					"name": "Spencer Arashiyama",
+					"text": "Let me ask you one thing. Think hard, and try to be as honesto as you can in your answer."
+				},
+				{
+					"name": "Kanna",
+					"text": "Okay."
+				},
+				{
+					"name": "Spencer Arashiyama",
+					"text": "The foto you sent. Was that your best one?"
+				},
+				{
+					"name": "Kanna",
+					"text": "..."
+				},
+				{
+					"text": "Slowly, I shake my head."
+				},
+				{
+					"name": "Spencer Arashiyama",
+					"text": "Okey. Then we can keep talking. Are you able to prepare your best foto for me right now?"
+				},
+				{
+					"name": "Spencer Arashiyama",
+					"text": "If you can, I'll take a look at it. It's the least I can do after this grumpy old hombre here practically prostrated himself before me on your behalf."
+				},
+				{
+					"name": "Dad",
+					"text": "I see you're still prone to running your mouth."
+				},
+				{
+					"name": "Spencer Arashiyama",
+					"text": "Foto en mano vale mas que cien volando, my friend."
+				},
+				{
+					"name": "Dad",
+					"text": "I have no idea what you're saying."
+				},
+				{
+					"text": "Spencer turns to me after having a chuckle at my dad's expense."
+				},
+				{
+					"name": "Spencer Arashiyama",
+					"text": "So? Will you show me your most preciosa piece?"
+				},
+				{
+					"name": "Kanna",
+					"text": "Y-Yes!"
+				},
+				{
+					"name": "Spencer Arashiyama",
+					"text": "Go on then, ahora mismo. Get to it."
+				},
+				{
+					"name": "Kanna",
+					"text": "I-I'll be back right away!"
+				},
+				{
+					"name": "Azuki",
+					"text": "Oh? Back so soon?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Was he mad?"
+				},
+				{
+					"name": "Kanna",
+					"text": "I-I'll explain later! Give me a moment!"
+				},
+				{
+					"text": "In a rush, I grab the photo of Sumomo I printed for myself."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Huh? Is that my picture? What are you doing? Are you showing that to your daddy right now? Why?!"
+				},
+				{
+					"name": "Kanna",
+					"text": "Spencer Arashiyama's here!"
+				},
+				{
+					"name": "Azuki",
+					"text": "Who?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Th-The photographer?"
+				},
+				{
+					"name": "Kanna",
+					"text": "He asked me to show him my best photo, so I'm showing him this!"
+				},
+				{
+					"name": "Sumomo",
+					"text": "What is even happening anymore? Is this real life?"
+				},
+				{
+					"name": "Azuki",
+					"text": "Who's this Spencer Arashiyama guy? His name sucks."
+				},
+				{
+					"name": "Sumomo",
+					"text": "So does yours."
+				},
+				{
+					"name": "Kanna",
+					"text": "H-Here it is."
+				},
+				{
+					"name": "Spencer Arashiyama",
+					"text": "Hm..."
+				},
+				{
+					"text": "Spencer stares at the photo for what feels like a lifetime."
+				},
+				{
+					"name": "Kanna",
+					"text": "..."
+				},
+				{
+					"name": "Spencer Arashiyama",
+					"text": "Chico."
+				},
+				{
+					"name": "Kanna",
+					"text": "Yes?"
+				},
+				{
+					"text": "That must be me."
+				},
+				{
+					"name": "Spencer Arashiyama",
+					"text": "Not bad. Not bad at all."
+				},
+				{
+					"name": "Spencer Arashiyama",
+					"text": "To be honesto, I came here after looking at the foto you sent to tell you that perhaps you should give up on becoming a fotografo."
+				},
+				{
+					"name": "Spencer Arashiyama",
+					"text": "There was nothing of worth in the one you sent. So if that was the very best you could offer, bueno..."
+				},
+				{
+					"name": "Spencer Arashiyama",
+					"text": "You wouldn't amount to much more than simply being Anna's chico."
+				},
+				{
+					"name": "Kanna",
+					"text": "I know..."
+				},
+				{
+					"text": "He's right."
+				},
+				{
+					"text": "I'm the one who got myself into that situation."
+				},
+				{
+					"name": "Spencer Arashiyama",
+					"text": "It made me feel a poquito sorry for you, so I came to tell you to your face. For the sake of the good amistad I share with your parents."
+				},
+				{
+					"name": "Kanna",
+					"text": "...Right."
+				},
+				{
+					"name": "Spencer Arashiyama",
+					"text": "But..."
+				},
+				{
+					"name": "Spencer Arashiyama",
+					"text": "You are hopelessly in love with this chica here, aren't you? I can see it as clear as day in this foto."
+				},
+				{
+					"name": "Spencer Arashiyama",
+					"text": "Why do you point your camera to the cielos when you have such a magnificent subject? You should be photographing people."
+				},
+				{
+					"name": "Spencer Arashiyama",
+					"text": "We're same, you and I. Personas rather than things."
+				},
+				{
+					"name": "Dad",
+					"text": "Does he show promise?"
+				},
+				{
+					"name": "Spencer Arashiyama",
+					"text": "Sadly for you, he does. He has talento, or at least a measure of it."
+				},
+				{
+					"name": "Kanna",
+					"text": "..."
+				},
+				{
+					"text": "I have talent?"
+				},
+				{
+					"text": "I can feel my heart beating faster."
+				},
+				{
+					"text": "I'm so happy."
+				},
+				{
+					"text": "My photo's been recognized by a photographer on the same level as mom was."
+				},
+				{
+					"name": "Dad",
+					"text": "Don't praise him too much, it'll go to his head."
+				},
+				{
+					"name": "Spencer Arashiyama",
+					"text": "You've become a proper papi. Truly, Anna was always right putting her trust in you."
+				},
+				{
+					"name": "Spencer Arashiyama",
+					"text": "Chico."
+				},
+				{
+					"name": "Kanna",
+					"text": "Y-Yes?"
+				},
+				{
+					"name": "Spencer Arashiyama",
+					"text": "Would you like to come and be my asistente? If you get a firsthand look at how a pro photographer works, no doubt you'll improve quickly."
+				},
+				{
+					"name": "Kanna",
+					"text": "Y-Yes! I'd love to!"
+				},
+				{
+					"name": "Dad",
+					"text": "Hey, he's still a student."
+				},
+				{
+					"name": "Spencer Arashiyama",
+					"text": "Then how about just the fin de semana? Weekends should be fine."
+				},
+				{
+					"name": "Dad",
+					"text": "..."
+				},
+				{
+					"name": "Kanna",
+					"text": "Dad, can I?"
+				},
+				{
+					"text": "After closing his eyes in silence for a long moment, he sighs deeply."
+				},
+				{
+					"name": "Dad",
+					"text": "You'll go to class on weekdays. And I don't want to see your grades drop any further."
+				},
+				{
+					"name": "Kanna",
+					"text": "I promise."
+				},
+				{
+					"name": "Spencer Arashiyama",
+					"text": "Now, I'll issue some homework for you."
+				},
+				{
+					"name": "Kanna",
+					"text": "Homework?"
+				},
+				{
+					"name": "Spencer Arashiyama",
+					"text": "I'm sure as Anna's chico, you are well aware of what day tomorrow is."
+				},
+				{
+					"text": "I nod."
+				},
+				{
+					"name": "Kanna",
+					"text": "The day Halley's Comet is the closest to Earth. It only happens once every 76 years."
+				},
+				{
+					"name": "Spencer Arashiyama",
+					"text": "Exactamente! So you will photograph it."
+				},
+				{
+					"name": "Kanna",
+					"text": "..."
+				},
+				{
+					"name": "Spencer Arashiyama",
+					"text": "El jubilo on the faces of the people looking up at it, that is."
+				},
+				{
+					"name": "Spencer Arashiyama",
+					"text": "The most wonderful thing about the estrellas isn't their own brilliance, but that of the people looking up at the sky."
+				},
+				{
+					"name": "Spencer Arashiyama",
+					"text": "If their sparkle alone was enough, fluorescent lights would do the job."
+				},
+				{
+					"name": "Kanna",
+					"text": "I'll do it."
+				},
+				{
+					"name": "Spencer Arashiyama",
+					"text": "Buena suerte."
+				},
+				{
+					"text": "He stands up as he wishes me luck."
+				},
+				{
+					"name": "Dad",
+					"text": "I'm sorry for taking up your time like this."
+				},
+				{
+					"name": "Spencer Arashiyama",
+					"text": "Why, it's nothing. I can't say I had a bad time. After all, I got an excellent estudiante out of it."
+				},
+				{
+					"name": "Dad",
+					"text": "He's in your hands."
+				},
+				{
+					"name": "Spencer Arashiyama",
+					"text": "Leave it to me. He's yours and Anna's chico. I'll whip him into shape with as much amor as though he were my own."
+				},
+				{
+					"name": "Dad",
+					"text": "That's good to hear."
+				},
+				{
+					"text": "My new teacher boards the taxi waiting for him in front of the house and leaves. I suppose I didn't notice it in my hurry."
+				},
+				{
+					"name": "Kanna",
+					"text": "You asked him to come?"
+				},
+				{
+					"name": "Dad",
+					"text": "Hm?"
+				},
+				{
+					"name": "Kanna",
+					"text": "Spencer, I mean."
+				},
+				{
+					"name": "Dad",
+					"text": "I know next to nothing about photography. After being with Anna for so long, I know how useless the opinion of an amateur is."
+				},
+				{
+					"name": "Kanna",
+					"text": "I thought you were against it."
+				},
+				{
+					"name": "Dad",
+					"text": "If I don't support your dream, Anna will never let me hear the end of it when we meet again."
+				},
+				{
+					"name": "Kanna",
+					"text": "..."
+				},
+				{
+					"name": "Dad",
+					"text": "But this doesn't mean that I'm giving you permission to do whatever you want. Got it?"
+				},
+				{
+					"text": "I nod."
+				},
+				{
+					"name": "Dad",
+					"text": "Let me go say hello to your teacher. She's been looking after you, right? Is she in the garage right now?"
+				},
+				{
+					"name": "Kanna",
+					"text": "Uh, err, yeah, but..."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Kanna!"
+				},
+				{
+					"name": "Azuki",
+					"text": "Did you get yelled at?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "*Gasp*!"
+				},
+				{
+					"name": "Azuki",
+					"text": "Eep!"
+				},
+				{
+					"name": "Dad",
+					"text": "Oh? Where's your teacher?"
+				},
+				{
+					"text": "I glance over at my dad."
+				},
+				{
+					"text": "I realize he never really met this Sumomo. He only saw her in that suit and wig."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Um, it's me. It's been a while."
+				},
+				{
+					"name": "Dad",
+					"text": "Huh? That was you? You're the one who came to our house that time?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Yes, I-I..."
+				},
+				{
+					"text": "Sumomo quickly goes to her bag and plucks the wig out of it."
+				},
+				{
+					"name": "Sumomo",
+					"text": "See?"
+				},
+				{
+					"name": "Dad",
+					"text": "...Oh."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Ahahah, I'm sorry to intrude in your home."
+				},
+				{
+					"name": "Dad",
+					"text": "Oh, don't be. I hear you've helped my son a great deal. Your friend is a mechanic, from what I hear?"
+				},
+				{
+					"name": "Azuki",
+					"text": "Eh?! Uh, yes... Though I prefer the term scrap hunter... Actually, yeah, mechanic is fine."
+				},
+				{
+					"name": "Dad",
+					"text": "You managed to get the car working?"
+				},
+				{
+					"name": "Azuki",
+					"text": "Yeah. I changed the starter and replaced the parts that were wearing out."
+				},
+				{
+					"name": "Dad",
+					"text": "Did you now?"
+				},
+				{
+					"name": "Azuki",
+					"text": "...Yes, Sir."
+				},
+				{
+					"name": "Sumomo",
+					"text": "..."
+				},
+				{
+					"name": "Dad",
+					"text": "Kanna, you three have been sleeping out here?"
+				},
+				{
+					"name": "Kanna",
+					"text": "No, uh... Yeah."
+				},
+				{
+					"name": "Kanna",
+					"text": "They sleep on the sofa and me in a sleeping bag."
+				},
+				{
+					"name": "Dad",
+					"text": "It was rude of you to make them stay out here like that. I'm very sorry. It can't have been comfortable."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Oh, no, it's nothing! We're the ones who insisted on staying because we had no place to live. Kanna was nice enough to help us out. Right, Azuki?!"
+				},
+				{
+					"name": "Azuki",
+					"text": "Eh? Y-Yeah, right."
+				},
+				{
+					"name": "Azuki",
+					"text": "That's right. Candy was nice enough to lend us the place."
+				},
+				{
+					"name": "Dad",
+					"text": "Candy?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Um, we're leaving now, anyway."
+				},
+				{
+					"name": "Kanna",
+					"text": "What?"
+				},
+				{
+					"name": "Kanna",
+					"text": "Today?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Yeah."
+				},
+				{
+					"name": "Kanna",
+					"text": "Why?!"
+				},
+				{
+					"name": "Azuki",
+					"text": "Well, we've done what we set out to do. We were already planning to leave today."
+				},
+				{
+					"name": "Kanna",
+					"text": "You didn't tell me anything about that."
+				},
+				{
+					"name": "Dad",
+					"text": "It's late. If you'd like, please feel free to stay another night. Kanna, you go sleep in your own room, okay?"
+				},
+				{
+					"name": "Kanna",
+					"text": "...Okay."
+				},
+				{
+					"name": "Dad",
+					"text": "I'll be back in the house."
+				},
+				{
+					"name": "Kanna",
+					"text": "Okay."
+				},
+				{
+					"text": "Dad bows to Azuki and Sumomo then returns to the house."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Guess the jig is up."
+				},
+				{
+					"name": "Azuki",
+					"text": "It's a miracle we weren't thrown out onto the street for trespassing, so I'd say we came out on top."
+				},
+				{
+					"name": "Sumomo",
+					"text": "I think so too. Your daddy's a really kind man, Kanna."
+				},
+				{
+					"name": "Kanna",
+					"text": "What are you two gonna do now?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "Good question. I knew I couldn't live here forever, but I haven't really figured anything else out."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Maybe going back to Tokyo would be the right choice."
+				},
+				{
+					"name": "Kanna",
+					"text": "And you, Azuki?"
+				},
+				{
+					"name": "Azuki",
+					"text": "I'll manage, one way or another. You worry about yourself, sweetie."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Oh, right! What happened with that Spencer guy?"
+				},
+				{
+					"name": "Kanna",
+					"text": "I showed him your picture."
+				},
+				{
+					"name": "Sumomo",
+					"text": "And?"
+				},
+				{
+					"name": "Kanna",
+					"text": "He said I'm not bad and asked me to come work as his assistant. Only during weekends, though."
+				},
+				{
+					"name": "Sumomo",
+					"text": "For real?! That's amazing! You did it! We should celebrate!"
+				},
+				{
+					"name": "Azuki",
+					"text": "So this Spencer guy or whatever. Is he, like, good?"
+				},
+				{
+					"name": "Kanna",
+					"text": "He's the most famous photographer in Japan. He has to be good."
+				},
+				{
+					"name": "Sumomo",
+					"text": "He even appeared in that magazine!"
+				},
+				{
+					"name": "Azuki",
+					"text": "Mhm. Good for you."
+				},
+				{
+					"name": "Kanna",
+					"text": "Yeah, but..."
+				},
+				{
+					"name": "Kanna",
+					"text": "You don't even have a way to get around yet, do you, Azuki? I'll ask my dad to let you stay for longer."
+				},
+				{
+					"name": "Azuki",
+					"text": "That'd be nice, but..."
+				},
+				{
+					"text": "Both of them stay silent for a moment."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Kanna, your daddy was really considerate to us just now. We can't just do that to him."
+				},
+				{
+					"name": "Sumomo",
+					"text": "It'd be really stressful for everyone if he ended up being forced to tell us to leave, so we have to go on our own. We gotta be responsible adults for once."
+				},
+				{
+					"name": "Azuki",
+					"text": "Way to pick a time to be responsible after staying in someone's garage without permission for weeks."
+				},
+				{
+					"name": "Sumomo",
+					"text": "We're in the same boat, dummy."
+				},
+				{
+					"name": "Kanna",
+					"text": "..."
+				},
+				{
+					"text": "These two..."
+				},
+				{
+					"text": "They're pulling the adult card now?"
+				},
+				{
+					"text": "It feels like they're just using it an excuse to decide everything without me."
+				},
+				{
+					"text": "It makes me feel so frustrated."
+				},
+				{
+					"name": "Kanna",
+					"text": "But why? Weren't we having fun together? You can still stay. I'm the only one using the garage anyway."
+				},
+				{
+					"name": "Azuki",
+					"text": "Candy, you know as well as we do. We just can't."
+				},
+				{
+					"name": "Azuki",
+					"text": "Your pa owns this place, remember? Eventually he's gonna tell us we have to leave, and that'll be his right."
+				},
+				{
+					"name": "Kanna",
+					"text": "But..."
+				},
+				{
+					"name": "Azuki",
+					"text": "Thanks for everything, sweetie."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Yeah, I'll never forget the time we spent together."
+				},
+				{
+					"text": "Both of them smile at me."
+				},
+				{
+					"name": "Kanna",
+					"text": "Why are you guys ending it like this?"
+				},
+				{
+					"name": "Kanna",
+					"text": "We were just getting into a groove."
+				},
+				{
+					"name": "Kanna",
+					"text": "We can go visit tons more places in August."
+				},
+				{
+					"name": "Kanna",
+					"text": "Hachimaru's working again and all."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Kanna, let's have a final photo session tomorrow."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Something to remember all the good clean fun we've had together these last few weeks."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Let's have fun... all the way to the end."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Okay?"
+				},
+				{
+					"text": "Sumomo comes closer and gently strokes my head."
+				},
+				{
+					"name": "Kanna",
+					"text": "..."
+				},
+				{
+					"name": "Sumomo",
+					"text": "And then we can all watch Halley's Comet together. You can call your daddy to join us too."
+				},
+				{
+					"name": "Kanna",
+					"text": "Why would I ask him to join?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "I want to say goodbye properly and thank him for letting us stay."
+				},
+				{
+					"name": "Sumomo",
+					"text": "And it'll take even more time for you two to make up if you pull away from him again now."
+				},
+				{
+					"name": "Sumomo",
+					"text": "I'm sure Anna would've loved to see the comet with her family. And I'm sure she'll be smiling down on you two from Heaven if you spend it together."
+				},
+				{
+					"name": "Kanna",
+					"text": "..."
+				},
+				{
+					"text": "I feel like what she's saying is right."
+				},
+				{
+					"name": "Azuki",
+					"text": "Yeah, a bird doesn't shit up the nest when it's about to leave. And we scrap hunters are like birds, flying from place to place."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Ahahah! I bet that sounded cooler in your head!"
+				},
+				{
+					"name": "Azuki",
+					"text": "I'm not lame, for the love of God!"
+				},
+				{
+					"name": "Kanna",
+					"text": "...I'll tell Dad."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Okay. We still have some sake left over from the last camp, so tell him we can drink that together. I'll put it in the fridge."
+				},
+				{
+					"name": "Kanna",
+					"text": "Okay."
+				},
+				{
+					"text": "I leave the garage, and the two of them, behind."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Aww, we got busted. We did something bad, huh?"
+				},
+				{
+					"name": "Azuki",
+					"text": "To who?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "To Kanna and his daddy."
+				},
+				{
+					"text": "Flopping down onto the sofa, I stare up at the ceiling."
+				},
+				{
+					"name": "Sumomo",
+					"text": "What are we gonna do now?"
+				},
+				{
+					"name": "Azuki",
+					"text": "What d'you mean? We gotta leave. There's no way around that."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Yeah, but Kanna looked really down."
+				},
+				{
+					"name": "Sumomo",
+					"text": "He wasn't even going to class before we came around. You think he'll be okay?"
+				},
+				{
+					"name": "Azuki",
+					"text": "Hang on, I thought you were done with the whole teaching thing?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "I'm not saying it as his teacher! I'm worried because I like him."
+				},
+				{
+					"name": "Sumomo",
+					"text": "Will things get worse between him and his dad? Will it be my fault again?"
+				},
+				{
+					"name": "Azuki",
+					"text": "His dad seems like a good guy. I mean, he raised that little guy well."
+				},
+				{
+					"name": "Sumomo",
+					"text": "He sure did. Kanna's really fortunate."
+				},
+				{
+					"name": "Azuki",
+					"text": "Hopefully he realizes that himself soon."
+				},
+				{
+					"name": "Sumomo",
+					"text": "*Sigh*"
+				},
+				{
+					"text": "Summer memories flash before my eyes."
+				},
+				{
+					"text": "None of them are memories from before I came to the garage, and that makes me realize..."
+				},
+				{
+					"text": "I really had a lot of fun here, huh?"
+				},
+				{
+					"name": "Sumomo",
+					"text": "I wonder if Kanna will remember the time we spent together fondly."
+				},
+				{
+					"name": "Azuki",
+					"text": "Whoa, you're way more pure-hearted than I thought."
+				},
+				{
+					"name": "Sumomo",
+					"text": "I told you, I'm a genuine pretty gal. Though I'm just a pretty gal."
+				},
+				{
+					"name": "Azuki",
+					"text": "How about just telling him already? Might as well hit on him, while you're at it."
+				},
+				{
+					"name": "Sumomo",
+					"text": "That's a crime! Think of poor little Kanna. He'd have a heart attack."
+				},
+				{
+					"name": "Azuki",
+					"text": "Come on, make your move. No one will know."
+				},
+				{
+					"name": "Sumomo",
+					"text": "You think so?"
+				},
+				{
+					"name": "Azuki",
+					"text": "Go for it, girl!"
+				},
+				{
+					"name": "Sumomo",
+					"text": "...Guess I might just do that."
+				},
+				{
+					"text": "When I enter the living room, I see Dad washing dishes in the kitchen."
+				},
+				{
+					"name": "Kanna",
+					"text": "Dad."
+				},
+				{
+					"name": "Dad",
+					"text": "What is it?"
+				},
+				{
+					"name": "Kanna",
+					"text": "About tomorrow night..."
+				},
+				{
+					"text": "He looks up at me."
+				},
+				{
+					"name": "Kanna",
+					"text": "Sumomo asked if you'd like to watch the comet with us from the garage."
+				},
+				{
+					"name": "Dad",
+					"text": "Sumomo?"
+				},
+				{
+					"name": "Kanna",
+					"text": "The teacher. She said she wanted to say a proper goodbye before leaving."
+				},
+				{
+					"name": "Dad",
+					"text": "I see. All right."
+				},
+				{
+					"name": "Dad",
+					"text": "But you got an assignment from Arashiyama, didn't you? Don't you need to go out to take photographs?"
+				},
+				{
+					"name": "Kanna",
+					"text": "I'll go take some nearby. I think people will be gathering at the academy to see the comet, too, since it's got great views of the sky."
+				},
+				{
+					"name": "Dad",
+					"text": "Okay. Tomorrow night, then. I'll see you there."
+				},
+				{
+					"name": "Kanna",
+					"text": "Also..."
+				},
+				{
+					"name": "Dad",
+					"text": "Hm?"
+				},
+				{
+					"name": "Kanna",
+					"text": "There's something else I wanted to talk to you about."
+				},
+				{
+					"name": "Kanna",
+					"text": "Haah..."
+				},
+				{
+					"text": "After speaking with Dad, I got ready for bed and headed to my room."
+				},
+				{
+					"text": "Even though I'm in my own room, I can't relax."
+				},
+				{
+					"text": "Strangely enough, I'm already used to the sweltering heat of the garage and the hard, cramped floor of the camper."
+				},
+				{
+					"text": "I look out the window to the garage."
+				},
+				{
+					"text": "I can see light shining from the skylight."
+				},
+				{
+					"text": "Sumomo and Azuki must still be up."
+				},
+				{
+					"text": "I wonder what they're talking about."
+				},
+				{
+					"text": "By tomorrow, they'll both be gone."
+				},
+				{
+					"text": "I close the window screen and lay on my bed."
+				},
+				{
+					"text": "The room is cold from the night breeze."
+				},
+				{
+					"text": "I stare at the ceiling and think about what happened today."
+				},
+				{
+					"text": "Dad called that man, Spencer Arashiyama, for me."
+				},
+				{
+					"text": "This whole time I lived in the garage, Dad was looking out for me in his own way."
+				},
+				{
+					"text": "The sadness I saw in his eyes the first time Sumomo came to the house flashes in my mind."
+				},
+				{
+					"text": "It's just as he said."
+				},
+				{
+					"text": "I've been such a child."
+				},
+				{
+					"text": "Why didn't I ever try to be honest with the person who has always cared about me?"
+				},
+				{
+					"text": "I can't help but wonder what went through his mind after he went out of his way to call Spencer Arashiyama here and learned I invited strangers to his garage."
+				},
+				{
+					"text": "Disappointment, most likely."
+				},
+				{
+					"text": "No, perhaps sadness again."
+				},
+				{
+					"text": "It's no use thinking about it."
+				},
+				{
+					"text": "As my gaze wanders out the window, I see the comet streaking the sky."
+				},
+				{
+					"text": "Tomorrow will be the day the comet is closest to Earth, finally."
+				},
+				{
+					"text": "The last day the three of us spend together."
+				},
+				{
+					"text": "\"You are hopelessly in love with this chica here, aren't you? I can see it as clear as day in this foto.\""
+				},
+				{
+					"text": "I recall Spencer's words, and they make me think of her."
+				},
+				{
+					"text": "I think of all the expressions Sumomo has shown me."
+				},
+				{
+					"text": "She has taught me something I feel I should have known all along."
+				},
+				{
+					"text": "Watching her just be herself despite everything, no matter what anyone says."
+				},
+				{
+					"name": "Kanna",
+					"text": "El jubilo on people's faces, huh?"
+				},
+				{
+					"text": "It's just like he said."
+				},
+				{
+					"text": "Azuki also spoke of it once."
+				},
+				{
+					"text": "I do love her."
+				}
+			]
+		},
+		{}
+	]
+}

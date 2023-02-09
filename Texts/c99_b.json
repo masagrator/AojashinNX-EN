@@ -1,0 +1,492 @@
+{
+	"scenes": [
+		{},
+		{},
+		{
+			"texts": [
+				{
+					"text": "After eating the porridge made for us by Izumo, Yonagi and I head to the recreation room."
+				},
+				{
+					"text": "Yonagi goes over to one of the shelves and comes back with a pen and notebook in hand."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I am writing a novel."
+				},
+				{
+					"name": "Kaito",
+					"text": "Really?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Yes."
+				},
+				{
+					"name": "Kaito",
+					"text": "What kind of novel?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Hmm... I'm not sure."
+				},
+				{
+					"text": "I can see the gears turning in her head as she looks at the blank page with a smile playing around her lips."
+				},
+				{
+					"name": "Yonagi",
+					"text": "So there's a boy and a girl. They're both sleeping in a white room."
+				},
+				{
+					"name": "Kaito",
+					"text": "Okay."
+				},
+				{
+					"name": "Yonagi",
+					"text": "And the girl..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "She wants to talk to the boy, but she can't talk very well."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "What she's describing..."
+				},
+				{
+					"text": "Is our situation right now."
+				},
+				{
+					"name": "Kaito",
+					"text": "Why?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Hm?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Why can't the girl talk?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Didn't you hear me? They're sleeping in the white room."
+				},
+				{
+					"name": "Kaito",
+					"text": "Huh?"
+				},
+				{
+					"name": "Kaito",
+					"text": "But the boy's sleeping in that room too, right? Why can't they talk?"
+				},
+				{
+					"text": "She slowly shakes her head."
+				},
+				{
+					"name": "Yonagi",
+					"text": "The girl is sleeping in a much whiter place much, muuuch deeper down."
+				},
+				{
+					"name": "Yonagi",
+					"text": "She's not really in the room."
+				},
+				{
+					"name": "Yonagi",
+					"text": "She can see a lot of things from there, but she can't get out."
+				},
+				{
+					"name": "Yonagi",
+					"text": "...She can't do anything but watch."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "That's the story."
+				},
+				{
+					"name": "Kaito",
+					"text": "Is it a sad story?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Mhm..."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "Yonagi keeps staring at the notebook, deep in thought."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Only the end is sad. But the whole story before that is happy. Very happy."
+				},
+				{
+					"name": "Kaito",
+					"text": "I see."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Will you write something too?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Me?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Yes."
+				},
+				{
+					"name": "Kaito",
+					"text": "I... don't think I could."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Really?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Somehow, I don't think I've ever written before."
+				},
+				{
+					"name": "Yonagi",
+					"text": "But it's fun."
+				},
+				{
+					"text": "She says, pressing the end of the pen to her lips and jiggling her legs up and down."
+				},
+				{
+					"name": "Kaito",
+					"text": "You're having fun?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Yeah."
+				},
+				{
+					"name": "Kaito",
+					"text": "I'm glad."
+				}
+			]
+		},
+		{
+			"texts": [
+				{
+					"text": "After eating the porridge made for us by Izumo, Yonagi and I head to the recreation room."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Kaito, sit there."
+				},
+				{
+					"name": "Kaito",
+					"text": "Here?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Yes, you are the customer."
+				},
+				{
+					"name": "Kaito",
+					"text": "Oh, okay."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Welcome! Welcome!"
+				},
+				{
+					"name": "Kaito",
+					"text": "Hm? Isn't this supposed to be a play?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "We have alcohol, and we also have food if you want."
+				},
+				{
+					"name": "Kaito",
+					"text": "Oh, so you're the owner."
+				},
+				{
+					"name": "Yonagi",
+					"text": "What would you like to drink?"
+				},
+				{
+					"name": "Kaito",
+					"text": "One cup of water, please."
+				},
+				{
+					"name": "Yonagi",
+					"text": "The water here is bad, though."
+				},
+				{
+					"name": "Kaito",
+					"text": "I see."
+				},
+				{
+					"text": "The same as the dream, then."
+				},
+				{
+					"name": "Kaito",
+					"text": "Then I'll have a cup of ale."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Coming right up."
+				},
+				{
+					"text": "Yonagi pulls a cylindrical object out of the toybox."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Glug glug glug."
+				},
+				{
+					"name": "Kaito",
+					"text": "Ah, you're serving the ale?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Yes, it's done. Here you go."
+				},
+				{
+					"name": "Kaito",
+					"text": "Thank you very much. Glug glug..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Don't drink it yet!"
+				},
+				{
+					"name": "Kaito",
+					"text": "Oh, okay?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "You look like a horse stepped on your face today."
+				},
+				{
+					"name": "Kaito",
+					"text": "What?!"
+				},
+				{
+					"name": "Yonagi",
+					"text": "You want to tell me about your bad day, right?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Not really, no..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Come on, out with it. It'll help you feel better."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "You got problems, right?!"
+				},
+				{
+					"name": "Kaito",
+					"text": "Uh..."
+				},
+				{
+					"text": "Problems, huh?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Um, well, I kind of can't remember who I am or where I am."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Ah, so you've lost yourself."
+				},
+				{
+					"name": "Kaito",
+					"text": "I suppose that's one way to put it, yeah."
+				},
+				{
+					"name": "Yonagi",
+					"text": "All you can do in moments like this is drink."
+				},
+				{
+					"name": "Kaito",
+					"text": "R-Really?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Drink up!"
+				},
+				{
+					"name": "Kaito",
+					"text": "Oh, I can drink now?"
+				},
+				{
+					"text": "She bobs her head."
+				},
+				{
+					"name": "Kaito",
+					"text": "Glug glug."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Whoa, you drink like a fish. Here, have another."
+				},
+				{
+					"name": "Kaito",
+					"text": "Thank you very much."
+				},
+				{
+					"text": "We repeat the same exchange until I finish \"drinking\" my eighth cup of ale."
+				},
+				{
+					"text": "After being told I've lost sight of myself eight times in a row, I feel like it's actually happening."
+				}
+			]
+		},
+		{
+			"texts": [
+				{
+					"text": "After eating the porridge made for us by Izumo, Yonagi and I head to the recreation room."
+				},
+				{
+					"text": "Yonagi drags a chair into the middle of the room."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Sit."
+				},
+				{
+					"name": "Kaito",
+					"text": "Hm?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "This is Yonagi's beauty salon."
+				},
+				{
+					"name": "Kaito",
+					"text": "Oh, I'm the client?"
+				},
+				{
+					"text": "Yonagi nods."
+				},
+				{
+					"name": "Kaito",
+					"text": "All right, thanks."
+				},
+				{
+					"text": "I sit down on the chair, and Yonagi wraps a colorful cloth around my neck."
+				},
+				{
+					"name": "Yonagi",
+					"text": "How do you want your hair?"
+				},
+				{
+					"name": "Kaito",
+					"text": "I wanna feel fresh."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Oookay."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Chop chop chop."
+				},
+				{
+					"name": "Yonagi",
+					"text": "There, I cut it a little. Do you feel refreshed?"
+				},
+				{
+					"name": "Kaito",
+					"text": "I sure do."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I'll do your makeup now."
+				},
+				{
+					"name": "Kaito",
+					"text": "Huh? Really?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "You're a pretty girl right now."
+				},
+				{
+					"name": "Kaito",
+					"text": "Oh, okay."
+				},
+				{
+					"name": "Yonagi",
+					"text": "And I'll make you even prettier."
+				},
+				{
+					"name": "Kaito",
+					"text": "Th-Thanks."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I'll put the eyeliner on you now. Close your eyes, please."
+				},
+				{
+					"name": "Kaito",
+					"text": "Okay."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Now I'll put on the lipstick."
+				},
+				{
+					"name": "Kaito",
+					"text": "Okay."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Ah, don't open your mouth."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Understood?"
+				},
+				{
+					"name": "Kaito",
+					"text": "...Yeah."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I told you not to open your mouth, remember?"
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Understood?!"
+				},
+				{
+					"text": "Please, have mercy."
+				}
+			]
+		},
+		{},
+		{}
+	]
+}

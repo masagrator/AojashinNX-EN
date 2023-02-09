@@ -1,0 +1,2231 @@
+{
+	"scenes": [
+		{},
+		{
+			"texts": [
+				{
+					"name": "Kaito",
+					"text": "And this is?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "The Globe theater! I read this was the theater where Shakespeare's troupe performed."
+				},
+				{
+					"name": "Kaito",
+					"text": "I see."
+				},
+				{
+					"text": "I see her research on Shakespeare for her next novel is going well."
+				},
+				{
+					"text": "I approach her and bring my face closer to Olivia."
+				},
+				{
+					"text": "The scent of roses tickles my nose as I breathe in."
+				},
+				{
+					"name": "Olivia (Yonagi)",
+					"text": "Has a nice scent to it, does it not? That's the scent of roses."
+				},
+				{
+					"name": "Kaito",
+					"text": "Mhm, it's captivating."
+				},
+				{
+					"name": "Olivia (Yonagi)",
+					"text": "Now, don't sniff if you know what's good for you."
+				},
+				{
+					"text": "I take a few steps back."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "The scent of roses weakens accordingly."
+				},
+				{
+					"text": "There's nothing strange about the way the scent disperses."
+				},
+				{
+					"text": "This is a big breakthrough."
+				},
+				{
+					"text": "We were able to reproduce the dispersion of scent particles according to the laws of physics."
+				},
+				{
+					"text": "Everything's going as I theorized so far."
+				},
+				{
+					"text": "I thought we might experience a delay due to the processing calculations, but there's been no lag I can detect."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Earth to Kaito! What do you think?"
+				},
+				{
+					"text": "Her voice sounds as it should at this distance."
+				},
+				{
+					"name": "Kaito",
+					"text": "Mm, it seems fine. I believe it's going well."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Ooh!"
+				},
+				{
+					"text": "This dreamscape has both Yonagi's and my thoughts in it, so I've come to call it a compound dreamscape."
+				},
+				{
+					"text": "It's no longer a world shaped after Yonagi's cognition and thoughts alone."
+				},
+				{
+					"text": "While she is the one building this world, the data is sent to and managed by Wooleep."
+				},
+				{
+					"text": "Yonagi and I are participants in the dream, and we communicate with each other and the world through Wooleep."
+				},
+				{
+					"text": "Yonagi definitely created the world itself on her own, but now it's being shared in equal measure to all the participants connected to Wooleep."
+				},
+				{
+					"text": "If I were to draw a conceptual diagram, the only difference now is that Wooleep is acting as a middleman between us, but it changes quite a lot."
+				},
+				{
+					"text": "The biggest change of them all is the fact that Wooleep is accumulating the raw data of the world Yonagi is building up."
+				},
+				{
+					"text": "If we develop the data from her dreamscape even further, maybe it could help to solve the problems that the professor's lab is facing right now."
+				},
+				{
+					"name": "Kaito",
+					"text": "This is a big step forward. Maybe it could produce something that the professor was never able to."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Ooh!"
+				},
+				{
+					"name": "Kaito",
+					"text": "Izumo, project the data from that session onto the monitor."
+				},
+				{
+					"name": "Izumo",
+					"text": "Displaying now."
+				},
+				{
+					"text": "Izumo broadcasts her data to the terminal in my hand."
+				},
+				{
+					"text": "It's a record of our sensory information while in the dreamscape."
+				},
+				{
+					"text": "Wooleep is equipped with the sensory feedback manipulation app provided by the professor, and he's able to transfer data back to Izumo."
+				},
+				{
+					"text": "The information displayed shows a staggering amount of detailed information compared to the bio monitoring function that Izumo's equipped with."
+				},
+				{
+					"name": "Kaito",
+					"text": "It's amazing. We can see exactly which actions stimulate which parts of the brain. It's literally all here."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Think it could be useful?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Yeah. At the very least it's a huge step in the right direction."
+				},
+				{
+					"text": "I learn several things from analyzing the data."
+				},
+				{
+					"text": "About both Yonagi's dreamscape and the professor's virtual space."
+				},
+				{
+					"text": "There is only one difference between the experience of the participants: the stimulus of the sense of smell."
+				},
+				{
+					"text": "And yet..."
+				},
+				{
+					"text": "The parts of the brain being stimulated are completely different in both."
+				},
+				{
+					"text": "When I'm inside Yonagi's dreamscape, it's not only my thalamus being stimulated, but every single part of my limbic system."
+				},
+				{
+					"text": "Moreover, which parts of it are reacting varies wildly depending on the situation."
+				},
+				{
+					"text": "To put it simply, while the motor commands produced by the brain are not being transmitted to the muscles through the brain stem, the brain still behaves as if the body were actually moving in reality."
+				},
+				{
+					"text": "But at the same time..."
+				},
+				{
+					"text": "Those neurological reactions change depending on the person's psychological state."
+				},
+				{
+					"text": "For example, the parts of my brain reacting were different when I was in the theater, facing Yonagi, or making sure the scents worked as intended."
+				},
+				{
+					"text": "The curiousness of exploring an unfamiliar place, talking, and reacting to what I see. All of these stimulate different areas of the brain."
+				},
+				{
+					"text": "This means that the state of mind and cognition of each participant will become the parameters needed for the construction of the dreamscape."
+				},
+				{
+					"name": "Kaito",
+					"text": "Which means..."
+				},
+				{
+					"text": "Does this mean we have to separately tune the stimulus signals that the dreamscape sends to each brain depending on the person?"
+				},
+				{
+					"text": "That can't be."
+				},
+				{
+					"text": "It would take several lifetimes to do such a thing on a large scale."
+				},
+				{
+					"text": "If more participants are added to the mix, communication between them will also occur."
+				},
+				{
+					"text": "Not to mention states of semi-communication in which a person reaches towards another and waits for an answer."
+				},
+				{
+					"text": "The depth of human interaction is not a mere binary concept. It's something that's always in flux."
+				},
+				{
+					"text": "Each action makes the brain react a certain way, and not everyone reacts to the same stimuli the same way."
+				},
+				{
+					"name": "Kaito",
+					"text": "It's a whole different beast..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Did something go wrong?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Your dreamscape and the professor's virtual space are very similar, but... Now I understand that they're completely different on the inside."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Whoa..."
+				},
+				{
+					"name": "Kaito",
+					"text": "Your dreamscape is a hundred—no, thousands of times more complicated."
+				},
+				{
+					"name": "Kaito",
+					"text": "At the very least, I can't even tell how many brain process patterns there are or how they all relate to each other just yet."
+				},
+				{
+					"name": "Yonagi",
+					"text": "So I'm the best, then? Good to know!"
+				},
+				{
+					"text": "I shake my head."
+				},
+				{
+					"name": "Kaito",
+					"text": "I don't think we should be happy about it."
+				},
+				{
+					"name": "Kaito",
+					"text": "This means that it's impossible to build the lab's vision of a virtual space, at least for the time being."
+				},
+				{
+					"name": "Yonagi",
+					"text": "What? It's that different?"
+				},
+				{
+					"text": "I nod, my eyes still scanning the information feed on the monitor."
+				},
+				{
+					"name": "Yonagi",
+					"text": "What are you gonna do? Is there anything I can do to help?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Of course. You can help a lot."
+				},
+				{
+					"name": "Kaito",
+					"text": "Since we're dealing with this degree of complexity..."
+				},
+				{
+					"name": "Kaito",
+					"text": "We have no choice but to gather statistical data and emulate it."
+				},
+				{
+					"name": "Kaito",
+					"text": "We'll accumulate the sensory data of our brains by experiencing a variety of places, experiences, and situations in the dreamscape."
+				},
+				{
+					"name": "Kaito",
+					"text": "Once we have enough data, we can generate brain reaction signals based on statistical predictions."
+				},
+				{
+					"name": "Kaito",
+					"text": "To put it simply, we'll need to collect enough data between the two of us to produce a Yonagi emulator, if you will."
+				},
+				{
+					"name": "Yonagi",
+					"text": "An emulator?"
+				},
+				{
+					"name": "Kaito",
+					"text": "I'm just making a machine imitate the processes your brain performs when building this space."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Mm?"
+				},
+				{
+					"name": "Kaito",
+					"text": "So the goal will be to experience as many kinds of spaces, sounds, and emotions as possible in the dreamscape."
+				},
+				{
+					"name": "Kaito",
+					"text": "We'll talk about different things, go to different places—the more variation we can produce, the better. Same goes for the emotions."
+				},
+				{
+					"name": "Yonagi",
+					"text": "So that means I should put you in as many situations as possible and show you as many characters as I can to get different emotions out of you?"
+				},
+				{
+					"name": "Kaito",
+					"text": "That's one way to put it, yeah."
+				},
+				{
+					"text": "Her eyes widen and start to glitter as an impish smile plays about her lips."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Good for you, because stories is what I'm best at! I got tons of them! Let's get started!"
+				},
+				{
+					"name": "Sumomo (Yonagi)",
+					"text": "Peaching peaches Sumomo Momonouchi!"
+				},
+				{
+					"name": "Kaito",
+					"text": "Whoa, long time no see, Sumomo."
+				},
+				{
+					"name": "Sumomo (Yonagi)",
+					"text": "Been a while, eh, Kanna?"
+				},
+				{
+					"text": "I can't help but smile at the nostalgic sight."
+				},
+				{
+					"text": "We're in Momonouchi Sumomo and Amei Kanna's summer love story."
+				},
+				{
+					"text": "It's from the time when Yonagi and I started living together."
+				},
+				{
+					"text": "It's the first story she ever completed, back when we were kids."
+				},
+				{
+					"name": "Kaito",
+					"text": "Ah, right. This was the story where they went out to look for the place in his mom's photo, right?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Yep! I wanted to make a story like The Blue Bird back then, remember?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Heh."
+				},
+				{
+					"text": "I notice something new about Sumomo and chuckle to myself."
+				},
+				{
+					"name": "Yonagi",
+					"text": "What is it?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Isn't it a bit much?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "What do you mean?"
+				},
+				{
+					"text": "I recognize the smell from the batch of printed samples I showed her the other day."
+				},
+				{
+					"name": "Kaito",
+					"text": "That sweet scent is peaches, right?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Huh? I smell like peaches? Really?"
+				},
+				{
+					"name": "Kaito",
+					"text": "It's a little on the nose."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Hah! How rude! You're gonna have to look for another gal to help you if you keep that up!"
+				},
+				{
+					"name": "Kaito",
+					"text": "Sorry, my bad."
+				},
+				{
+					"name": "Yonagi",
+					"text": "So what now? We take a walk or something?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Yeah, we can walk around."
+				},
+				{
+					"name": "Yonagi",
+					"text": "So we just hang around? That's it?"
+				},
+				{
+					"name": "Kaito",
+					"text": "It's enough. You're creating worlds indistinguishable from reality with nothing but your own mind."
+				},
+				{
+					"name": "Kaito",
+					"text": "This is more than remarkable enough, I'm sure."
+				},
+				{
+					"name": "Kaito",
+					"text": "If we can reproduce this with a machine, I'm not exaggerating when I say that it will save humankind."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Wew! You'll become super famous when you build that doohickey, right?"
+				},
+				{
+					"name": "Kaito",
+					"text": "You too."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Wait, what? Don't bring me into it!"
+				},
+				{
+					"name": "Yonagi",
+					"text": "It's fine. Just say you came up with everything."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "You know? I'm so happy we can finally talk to each other."
+				},
+				{
+					"name": "Kaito",
+					"text": "Huh? Don't we talk all the time?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Yeah, but Sumomo's partner is Kanna, and Olivia's is Will... But they're all modeled after you."
+				},
+				{
+					"name": "Kaito",
+					"text": "Oh, really?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "They're not literally you, but I guess it's kind of hard for the characters you make to not come out looking like the people close to you."
+				},
+				{
+					"text": "We keep walking along to the airport fence."
+				},
+				{
+					"text": "Each step is punctuated by the sound of crunching gravel beneath our feet."
+				},
+				{
+					"text": "I look up at the blue sky, feeling the occasional soft, warm caress of the wind against my face."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Hey, can we go to England next? I came up with something super cool!"
+				},
+				{
+					"name": "Yonagi",
+					"text": "You know Romeo and Juliet, right?"
+				},
+				{
+					"name": "Kaito",
+					"text": "You've been telling me that story ever since we were kids, so it'd be hard not to."
+				},
+				{
+					"text": "The tragic story of two youths from families embroiled in a generational feud who fall in love, but ultimately die for it."
+				},
+				{
+					"text": "Ever since she first told me about it, I always wondered if there could have been a better ending for them."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Since it's the most famous story in the whole world, I'm making a story about Shakespeare and how he got to the point where he wrote it!"
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Sounds really good, right?"
+				},
+				{
+					"name": "Kaito",
+					"text": "It does sound interesting, but it also sounds like something that's been made a thousand times before."
+				},
+				{
+					"name": "Yonagi",
+					"text": "That's because it's such a good trope! Now hear this! Did you know that the name Olivia is something that Shakespeare came up with?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Oh, really?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Really!"
+				},
+				{
+					"name": "Olivia (Yonagi)",
+					"text": "A beauty that mesmerizes through the ages. The greatest poet of all time is the one who spun the name."
+				},
+				{
+					"name": "Olivia (Yonagi)",
+					"text": "It's perfect, is it not? You could even say that there is no other name more befitting for the world's first actress."
+				},
+				{
+					"name": "Kaito",
+					"text": "Right. Women couldn't act back then, yeah?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Bingo!"
+				},
+				{
+					"name": "Yonagi",
+					"text": "You mind if I switch characters on the fly like this?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Not at all. It doesn't even have to be Chiba in 2060 or England in the sixteenth century. Show me anything you want."
+				},
+				{
+					"name": "Kaito",
+					"text": "Keep going. Show me something that'll jolt my brain good."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Now, that's the fire I wanted to see."
+				},
+				{
+					"name": "Kaito",
+					"text": "You have more characters than Sumomo and Olivia, right?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "I got boatloads! You remember the female detective Rebecca? I also have a really fun story about a super female hacker named Haruka Motomiya! And that's not all—"
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "Those don't sound very interesting."
+				},
+				{
+					"text": "But she's really pumped up about them, so I guess I'll go along with it."
+				},
+				{
+					"name": "Kaito",
+					"text": "*Sigh*"
+				},
+				{
+					"text": "I was writing code for a basic emulator all night yesterday."
+				},
+				{
+					"text": "Using the data produced by me and Yonagi as a sample, I'm correcting any issues in the simulation with statistical processing."
+				},
+				{
+					"text": "Thankfully, my memory comes in handy once more."
+				},
+				{
+					"text": "I find and assess each difference between the virtual space and Yonagi's composite dreamscape, and attempt to close the gap with programming."
+				},
+				{
+					"text": "It's only because of my perfect memory that I'm able to contrast what the feed shows me with the discrepancies in visual and auditory feedback that I experienced in the dreamscape."
+				},
+				{
+					"text": "But no matter how good my memory is, I still only have as many hours in a day as anyone else. Needless to say, my sleep schedule is in shambles."
+				},
+				{
+					"name": "????",
+					"text": "Hey there!"
+				},
+				{
+					"text": "I turn around at the sound of a familiar voice."
+				},
+				{
+					"text": "Iruma is walking up to me, his expression as jovial as I remember it."
+				},
+				{
+					"name": "Kaito",
+					"text": "Been a while."
+				},
+				{
+					"name": "Iruma",
+					"text": "You been well?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Well enough. Just a little sleep deprived."
+				},
+				{
+					"name": "Iruma",
+					"text": "You say that as if it isn't business as usual for you."
+				},
+				{
+					"text": "He has a laugh at my expense as he comes to stand next to me and leans on the railing to overlook the city."
+				},
+				{
+					"name": "Iruma",
+					"text": "So, yeah..."
+				},
+				{
+					"name": "Kaito",
+					"text": "Mm?"
+				},
+				{
+					"name": "Iruma",
+					"text": "I'm a researcher now. Starting today."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "For a moment, the news cast a dark shadow over me."
+				},
+				{
+					"text": "I couldn't return the words."
+				},
+				{
+					"text": "So Iruma's already a researcher while I haven't achieved anything in Professor Asuma's lab."
+				},
+				{
+					"name": "Kaito",
+					"text": "That's amazing. Congrats."
+				},
+				{
+					"name": "Iruma",
+					"text": "Nah, man. I haven't done a thing, really."
+				},
+				{
+					"name": "Iruma",
+					"text": "I mean, I'm pretty much a glorified assistant, I guess? I don't know jack about the research, I just measure and divide medicine all day as I'm instructed."
+				},
+				{
+					"name": "Iruma",
+					"text": "Hard to feel good about getting called a researcher like that, to be honest."
+				},
+				{
+					"name": "Kaito",
+					"text": "They're doing important work over at Kanou's lab, and you're part of that."
+				},
+				{
+					"name": "Iruma",
+					"text": "I still don't feel good about it. If I knew this is how things were gonna go down, I would've chosen a smaller lab where I'd actually get to do something."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "The grass is always greener on the other side, huh?"
+				},
+				{
+					"name": "Iruma",
+					"text": "How is it going for you? You feeling more fulfilled over at Asuma's lab?"
+				},
+				{
+					"name": "Kaito",
+					"text": "I think so. Right now we're researching something that would overhaul the whole approach his lab has taken towards its research so far."
+				},
+				{
+					"name": "Iruma",
+					"text": "Whoa."
+				},
+				{
+					"name": "Kaito",
+					"text": "I suppose it is, but to be honest..."
+				},
+				{
+					"text": "I idly look out over the middle side cityscape."
+				},
+				{
+					"name": "Kaito",
+					"text": "I'm still a lowsider. I'm happy to hear that you finally became a researcher."
+				},
+				{
+					"name": "Kaito",
+					"text": "I mean, you were a midsider anyway, but you know what I mean."
+				},
+				{
+					"name": "Iruma",
+					"text": "Aw, don't give me that. We both know you're the better man here. Heck, our whole class knows that."
+				},
+				{
+					"name": "Kaito",
+					"text": "I don't think so. You get along with everyone, and I can't brighten up the mood like you can. Not in a thousand years."
+				},
+				{
+					"name": "Kaito",
+					"text": "I think big laboratories need people like you."
+				},
+				{
+					"name": "Kaito",
+					"text": "Kanou's lab is like a big family, right? I'm sure they appreciate someone who can talk to people."
+				},
+				{
+					"name": "Iruma",
+					"text": "Well, if you think so highly of me, why not poach me away?"
+				},
+				{
+					"text": "I turn to face Iruma, and I'm met with his placid smile."
+				},
+				{
+					"text": "I realize immediately that he's not trying to mess with me."
+				},
+				{
+					"name": "Iruma",
+					"text": "No need to hurry, my man. I just know you'll be carrying that lab on your shoulders in no time flat."
+				},
+				{
+					"name": "Kaito",
+					"text": "You really think so?"
+				},
+				{
+					"name": "Iruma",
+					"text": "You might have had a hard time noticing with your nose stuck in all those books, but you really stood out back in the engineering course."
+				},
+				{
+					"name": "Iruma",
+					"text": "Everyone always had you pegged for the kind of guy that finds his own research topic and gets a laboratory named after them."
+				},
+				{
+					"name": "Iruma",
+					"text": "You know, the day I met you I resolved to turn my life around and go through with all this."
+				},
+				{
+					"name": "Kaito",
+					"text": "I never knew. Is that what you were thinking?"
+				},
+				{
+					"name": "Iruma",
+					"text": "There's no man more fit for the post than you. Work hard, my boy. I'll be looking forward to hearing the good news."
+				},
+				{
+					"name": "Iruma",
+					"text": "Make sure I'm at the top of the list when the Kaito lab opens up. I'll scout out all the best assistants from the other labs, just for you."
+				},
+				{
+					"name": "Iruma",
+					"text": "Like you said, I'm getting a good head start on that already, heh."
+				},
+				{
+					"name": "Kaito",
+					"text": "It's good to know someone has my back."
+				},
+				{
+					"name": "Kaito",
+					"text": "All right. If I ever get my own lab, I'll ask you to become my second in command."
+				},
+				{
+					"name": "Iruma",
+					"text": "Wahoo! Don't go forgetting about me when you make it big, okay?"
+				},
+				{
+					"name": "Kaito",
+					"text": "My memory's the only thing I have going for me. I promise I won't forget."
+				},
+				{
+					"text": "We look up at the lens above us. The sun is still high in the sky."
+				},
+				{
+					"name": "Iruma",
+					"text": "Well, I guess it's time for me to go measure out medicine for the day."
+				},
+				{
+					"name": "Kaito",
+					"text": "And time for me to bang my head against the wall a few times."
+				},
+				{
+					"name": "Kaito",
+					"text": "I'll use this jealousy over seeing my peers climb up the ladder to see if I can get some work done."
+				},
+				{
+					"name": "Iruma",
+					"text": "Hahah! If I could make you even slightly green with envy, I suppose becoming a researcher was worth something."
+				},
+				{
+					"name": "Asuma",
+					"text": "You look a little tired, Kaito."
+				},
+				{
+					"text": "Towards evening, Professor Asuma suddenly appears in the lab as I'm resting my elbow on the table and my head in my hand."
+				},
+				{
+					"text": "Whoops. I was on the verge of falling asleep."
+				},
+				{
+					"name": "Kaito",
+					"text": "Sorry, I was up late last night."
+				},
+				{
+					"text": "He nods, his smile showing a tacit understanding."
+				},
+				{
+					"name": "Kaito",
+					"text": "Were you giving a lecture today?"
+				},
+				{
+					"text": "He shakes his head."
+				},
+				{
+					"name": "Asuma",
+					"text": "Just a regular meeting of laboratory directors. The quarterly one to keep track of all the labs of the institute and their progress."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "There's nothing for our lab to report yet."
+				},
+				{
+					"text": "I've no idea how big of a meeting it was, but just imagining how he must have felt makes my chest twinge painfully."
+				},
+				{
+					"text": "We can't continue like this."
+				},
+				{
+					"text": "If we don't get results soon, the lab will slowly die off."
+				},
+				{
+					"text": "Just a little more..."
+				},
+				{
+					"text": "If I can improve the emulator, I'll be able to show it to him."
+				},
+				{
+					"name": "Asuma",
+					"text": "You've been busy as of late, haven't you? I can always tell when a researcher is working on something."
+				},
+				{
+					"name": "Kaito",
+					"text": "Yes, I'm making a prototype to test a hypothesis I have."
+				},
+				{
+					"name": "Asuma",
+					"text": "Ohoh."
+				},
+				{
+					"name": "Kaito",
+					"text": "I'm exploring a method that doesn't involve manipulating the thalamus."
+				},
+				{
+					"name": "Kaito",
+					"text": "Basically, I'm trying to verify if we could create a virtual space in a different way to what we're doing now."
+				},
+				{
+					"name": "Asuma",
+					"text": "Ooh!"
+				},
+				{
+					"name": "Kaito",
+					"text": "But it's still just a hypothesis, so I'll wait until I have something concrete to show."
+				},
+				{
+					"name": "Asuma",
+					"text": "I'll be waiting with bated breath."
+				},
+				{
+					"text": "The professor says, before pacing over to the brewing machine to serve us two cups of coffee."
+				},
+				{
+					"text": "He doesn't seem exhausted or impatient."
+				},
+				{
+					"text": "Guess it goes to show how different I still am from a seasoned career researcher."
+				},
+				{
+					"text": "I..."
+				},
+				{
+					"text": "I'll show that I can produce greater results than any of the others who started working in other labs."
+				},
+				{
+					"text": "Research is a long-term affair. There's no need to rush."
+				},
+				{
+					"text": "Or so I tell myself, but I can't deny the growing frustration churning in my chest with every passing day."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "What's up?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Ah, it's just..."
+				},
+				{
+					"text": "I raise my face from the terminal and give a limpless reply."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Are you having trouble with that, uh, emulator thing?"
+				},
+				{
+					"name": "Kaito",
+					"text": "No, it's going well enough... But I guess I am having trouble. Or rather, I've encountered a problem."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Mm?"
+				},
+				{
+					"name": "Kaito",
+					"text": "In physics, there's something called the n-body problem."
+				},
+				{
+					"name": "Yonagi",
+					"text": "The what problem?"
+				},
+				{
+					"text": "I look up to see Yonagi cocking her head to the side in confusion."
+				},
+				{
+					"name": "Kaito",
+					"text": "Basically, it's impossible to predict the motion of three or more bodies that influence each other."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Um, okay?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Let me give you an example. If you and I were the only people in the world, it would be relatively easy to simulate our state of mind."
+				},
+				{
+					"name": "Kaito",
+					"text": "As members of the opposite gender, we would grow to love one another if that were our inclination, which it is in this case. For example, we would feel calm holding hands or being together."
+				},
+				{
+					"name": "Kaito",
+					"text": "To put it simply, it would be easy to predict how two entities interacting with each other would behave."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Y-Yeah, way to say that with a straight face..."
+				},
+				{
+					"name": "Kaito",
+					"text": "Huh?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Err, worry not. Do continue, good sir."
+				},
+				{
+					"name": "Kaito",
+					"text": "But if we were to add an acquaintance of us both, like Professor Asuma, to the mix, our behavior would change again."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Mm, I suppose?"
+				},
+				{
+					"name": "Kaito",
+					"text": "The simulator I'm making processes the virtual space using data that comes from measuring the reactions of our brains under various stimuli."
+				},
+				{
+					"name": "Yonagi",
+					"text": "But the way people interact becomes more complex when it comes to three or more people, so there's a limit to what we can accomplish with just the two of us?"
+				},
+				{
+					"name": "Kaito",
+					"text": "That's the gist of it, pretty much."
+				},
+				{
+					"name": "Kaito",
+					"text": "I don't think 'complex' really covers just how complicated the process becomes with three people. Not that I can verify that with the data we can produce at the moment."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Then why don't we have Izumo join us?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Izumo?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "She can't?"
+				},
+				{
+					"name": "Kaito",
+					"text": "No, uh... I don't know. Can she?"
+				},
+				{
+					"text": "I didn't even consider a non-human participant."
+				},
+				{
+					"text": "But if I'm taking data from Yonagi, and she recognizes Izumo as an individual, it shouldn't pose a problem... Right?"
+				},
+				{
+					"text": "In the future we'll need to prepare other human participants to collect data, though."
+				},
+				{
+					"name": "Yonagi",
+					"text": "She can't enter my dreamscape or whatever?"
+				},
+				{
+					"name": "Kaito",
+					"text": "I can't say I ever thought of the possibility before."
+				},
+				{
+					"name": "Izumo",
+					"text": "Currently, the master data of the dreamscape that Yonagi creates is uploaded to Wooleep."
+				},
+				{
+					"name": "Izumo",
+					"text": "Your cognition is then turned into data and placed into the dreamscape as an avatar, which reacts with the dreamscape and sends sensory feedback in recognizable signals to your brains."
+				},
+				{
+					"name": "Izumo",
+					"text": "As Wooleep is my assigned auxiliary terminal, I possess root administrator rights. It is possible to create new avatars in my image and send those signals to you in a way that you can perceive inside the dreamscape."
+				},
+				{
+					"name": "Kaito",
+					"text": "Ooh!"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Er, so?! Would anyone mind translating into English for me?!"
+				},
+				{
+					"name": "Kaito",
+					"text": "It means that Izumo can enter the dreamscape, in short."
+				},
+				{
+					"name": "Kaito",
+					"text": "She also says that we can create as many participants into the dreamscape as her processing power allows."
+				},
+				{
+					"name": "Yonagi",
+					"text": "She can be more than one person in there?!"
+				},
+				{
+					"text": "I nod, still mulling over the implications of this discovery."
+				},
+				{
+					"name": "Kaito",
+					"text": "Well, we should try and see how it works out. Can you enter the dreamscape now?"
+				},
+				{
+					"text": "She gives one short nod for an answer."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Let's hang in Sumomo's world today!"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Whoa, it's Izumo! She's here!"
+				},
+				{
+					"name": "Kaito",
+					"text": "It's amazing. It feels just like the real thing."
+				},
+				{
+					"name": "Yonagi",
+					"text": "She does look a little out of place in the garage with all those glowing lights and stuff though."
+				},
+				{
+					"name": "Izumo",
+					"text": "I can change my form."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Oh! Then I've got a great idea!"
+				},
+				{
+					"name": "Yonagi",
+					"text": "So, about this tall, and then make the boobies huge... Yes, that's good... And she's all touchy about her name and stuff. She goes... *whisper*"
+				},
+				{
+					"name": "Kaito",
+					"text": "What are you two doing over there?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "I'm directing her on how to play her character."
+				},
+				{
+					"name": "Kaito",
+					"text": "Hah."
+				},
+				{
+					"name": "Izumo",
+					"text": "Understood. I will perform it now."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Break a leg!"
+				},
+				{
+					"name": "Azuki (Izumo)",
+					"text": "The name's Azuki, you squirt!"
+				},
+				{
+					"name": "Kaito",
+					"text": "Azuki?"
+				},
+				{
+					"name": "Sumomo (Yonagi)",
+					"text": "Geez, did you forget Azuki, the greatest scrap hunter that ever lived?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Ah, right!"
+				},
+				{
+					"text": "She's from Sumomo's story."
+				},
+				{
+					"text": "There was a female scrap hunter character in it."
+				},
+				{
+					"text": "I still don't quite understand what a scrap hunter is supposed to be, though."
+				},
+				{
+					"name": "Sumomo (Yonagi)",
+					"text": "I'm loving it! You got her just right! Well done!"
+				},
+				{
+					"name": "Azuki (Izumo)",
+					"text": "Of course I did! Your girl can do anything she sets her mind to!"
+				},
+				{
+					"name": "Kaito",
+					"text": "Is that really Izumo speaking?"
+				},
+				{
+					"name": "Azuki (Izumo)",
+					"text": "Who else could it be, eh?!"
+				},
+				{
+					"name": "Kaito",
+					"text": "S-Sorry..."
+				},
+				{
+					"text": "That's what the woman named Azuki called herself."
+				},
+				{
+					"text": "There is no doubt that this is basically Izumo."
+				},
+				{
+					"name": "Sumomo (Yonagi)",
+					"text": "Ahahah! Yes, just like that! So I'm Sumomo, and Kaito is Kanna."
+				},
+				{
+					"name": "Kaito",
+					"text": "Huh? Whoa!"
+				},
+				{
+					"text": "I jump as I see myself shrink a few centimeters."
+				},
+				{
+					"name": "Azuki (Izumo)",
+					"text": "Don't get spooked now, boy! That's what we're here for—gathering data on as many scenarios as possible!"
+				},
+				{
+					"name": "Azuki (Izumo)",
+					"text": "This is what statistics are all about, I say!"
+				},
+				{
+					"name": "Kaito",
+					"text": "Point taken."
+				},
+				{
+					"name": "Azuki (Izumo)",
+					"text": "So, what do we do now? What kind of data do you want anyway, Candy?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Excuse me?"
+				},
+				{
+					"name": "Azuki (Izumo)",
+					"text": "I mean, look at that little sweet face of yours. You're an eye candy if I've ever seen one."
+				},
+				{
+					"name": "Kaito",
+					"text": "Really?!"
+				},
+				{
+					"name": "Sumomo (Yonagi)",
+					"text": "For real?!"
+				},
+				{
+					"name": "Kaito",
+					"text": "Isn't this one of your ideas, Yonagi?!"
+				},
+				{
+					"name": "Azuki (Izumo)",
+					"text": "I'm improvising!"
+				},
+				{
+					"name": "Sumomo (Yonagi)",
+					"text": "You're hitting it out of the park! Me next! Give me a nickname!"
+				},
+				{
+					"name": "Azuki (Izumo)",
+					"text": "Uhhh... You are... bitchy peaches!"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Who're you calling a bitch?!"
+				},
+				{
+					"name": "Kaito",
+					"text": "H-Huh? We're out?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Izumo! Is that what you've been thinking of me all these years?!"
+				},
+				{
+					"name": "Yonagi",
+					"text": "I'm a virgin, I'll have you know! For now!"
+				},
+				{
+					"name": "Izumo",
+					"text": "There is no ulterior motive behind my words."
+				},
+				{
+					"name": "Kaito",
+					"text": "Then how did you come up with that nickname?"
+				},
+				{
+					"name": "Izumo",
+					"text": "I simply predicted the most likely nickname by analyzing frequent vocabulary patterns from Azuki's personal data."
+				},
+				{
+					"name": "Izumo",
+					"text": "Then I chose a nickname that would suit Sumomo's personal data."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Sumomo's a free soul who follows her own heart, but that doesn't make her a bitch!"
+				},
+				{
+					"name": "Yonagi",
+					"text": "I know she has experience with men and stuff, but that doesn't mean she's a bitch or a slut or whatever!"
+				},
+				{
+					"text": "Izumo nods back."
+				},
+				{
+					"name": "Sumomo (Yonagi)",
+					"text": "Do you get it now?!"
+				},
+				{
+					"name": "Azuki (Izumo)",
+					"text": "You bitches always have the same story."
+				},
+				{
+					"name": "Sumomo (Yonagi)",
+					"text": "Izumo?!"
+				},
+				{
+					"name": "Azuki (Izumo)",
+					"text": "The name's Azuki!"
+				},
+				{
+					"name": "Sumomo (Yonagi)",
+					"text": "At least just call me 'peach'!"
+				},
+				{
+					"name": "Azuki (Izumo)",
+					"text": "Sure thing, lady peach."
+				},
+				{
+					"name": "Kaito",
+					"text": "This is impressive, Izumo."
+				},
+				{
+					"name": "Sumomo (Yonagi)",
+					"text": "I don't know what the heck happened to her!"
+				},
+				{
+					"name": "Kaito",
+					"text": "This is exactly the data I needed."
+				},
+				{
+					"name": "Kaito",
+					"text": "Now we have data of you two interacting while I observe."
+				},
+				{
+					"name": "Azuki (Izumo)",
+					"text": "Yeah, all thanks to me."
+				},
+				{
+					"name": "Kaito",
+					"text": "I see..."
+				},
+				{
+					"text": "If we combine Wooleep's physics creation and Izumo's avatar creation function, we can greatly expand the scope of the dreamscape."
+				},
+				{
+					"name": "Kaito",
+					"text": "Let's try building the Yonagi emulator into Wooleep's OS. That way Izumo can participate as an avatar anytime she wants."
+				},
+				{
+					"name": "Kaito",
+					"text": "If we can emulate you controlling three avatars, it should be easy to expand from there."
+				},
+				{
+					"name": "Azuki (Izumo)",
+					"text": "Bet you're happy to have a genius like me on board, eh?"
+				},
+				{
+					"name": "Kaito",
+					"text": "You don't even know."
+				},
+				{
+					"name": "Azuki (Izumo)",
+					"text": "For a woman who can't make anything but porridge, I sure have my uses, eh?"
+				},
+				{
+					"name": "Sumomo (Yonagi)",
+					"text": "So you're conscious of that, huh?"
+				},
+				{
+					"name": "Kaito",
+					"text": "It's okay, Azuki. Your porridge is the best ever. We love eating it every day, for real."
+				},
+				{
+					"name": "Azuki (Izumo)",
+					"text": "I'm not Izumo! My damn name's Azuki!"
+				},
+				{
+					"name": "Sumomo (Yonagi)",
+					"text": "She's a consummate actress, huh? She really gets in the role."
+				},
+				{
+					"name": "Yonagi",
+					"text": "..."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "We both glance at Izumo, who has her back to us as she industriously does the usual chores."
+				},
+				{
+					"text": "She's sweeping the floor, her expression as neutral as it's ever been."
+				},
+				{
+					"text": "Never before has her lack of expression seemed more enigmatic than now."
+				},
+				{
+					"text": "But none of us can deny that she's just her usual self."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I'm floored."
+				},
+				{
+					"name": "Kaito",
+					"text": "Same here."
+				},
+				{
+					"name": "Izumo",
+					"text": "Mm?"
+				},
+				{
+					"name": "Kaito",
+					"text": "It's nothing."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Yeah."
+				},
+				{
+					"name": "Izumo",
+					"text": "I see."
+				},
+				{
+					"name": "Yonagi",
+					"text": "..."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "Izumo goes back to her tasks."
+				},
+				{
+					"text": "Wooleep hovers behind her, chirping occasionally."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I still can't believe Izumo could be that assertive."
+				},
+				{
+					"name": "Kaito",
+					"text": "Did it look like she was having fun, or was it just me?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "I felt the same, mhm."
+				},
+				{
+					"name": "Kaito",
+					"text": "Did she always have a function like that? Maybe the wipe out all those years ago created a bug in her programming?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Whatever it is..."
+				},
+				{
+					"text": "Yonagi looks at Izumo then turns back to me."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I think I love Izumo more than ever before."
+				},
+				{
+					"name": "Kaito",
+					"text": "Yeah."
+				},
+				{
+					"text": "I smile and nod back."
+				},
+				{
+					"name": "Kaito",
+					"text": "Me too."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Right?"
+				},
+				{
+					"name": "Kaito",
+					"text": "We got one more."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Mm?"
+				},
+				{
+					"name": "Kaito",
+					"text": "A reader of your novels."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Ahahah, yeah."
+				},
+				{
+					"name": "Kaito",
+					"text": "Don't you want lots of people to read what you write?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "My novels, you mean?"
+				},
+				{
+					"text": "I nod at her."
+				},
+				{
+					"text": "Her mouth turns into a hard line as she considers it for a moment."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Mmm, well, I'm happy you and Izumo read them."
+				},
+				{
+					"name": "Yonagi",
+					"text": "But I guess I don't really care about having other people read them, really."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I'm not writing for other people to read my stuff."
+				},
+				{
+					"name": "Kaito",
+					"text": "Mm?"
+				},
+				{
+					"text": "I urge her to go on with my silence."
+				},
+				{
+					"name": "Yonagi",
+					"text": "You remember back when we were kids? Don't actually answer that. You know how that one time a topsider kid broke the toy you made?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Yeah."
+				},
+				{
+					"text": "She's talking about Shachi."
+				},
+				{
+					"text": "The boy who climbed up the ivy in that small clearing we found and died on top of the ozone lens."
+				},
+				{
+					"text": "That was the last time we saw him."
+				},
+				{
+					"name": "Yonagi",
+					"text": "For a while after that, you cried every time you thought about what happened, remember?"
+				},
+				{
+					"name": "Kaito",
+					"text": "That wouldn't surprise me."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I know you remember."
+				},
+				{
+					"text": "She's right, not that I would readily admit it."
+				},
+				{
+					"name": "Kaito",
+					"text": "Being able to forget is something that helps people. That experience taught me that."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I know it's hard for you. But I think being able to remember the things you experienced and how you felt at the time so clearly is something impressive in its own way."
+				},
+				{
+					"name": "Yonagi",
+					"text": "It's just something I've been thinking about."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "That's why I write my novels to represent my feelings about things I've experienced myself."
+				},
+				{
+					"name": "Kaito",
+					"text": "You feel that way about Sumomo's story too?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Of course! Back when we met, you seemed so much younger than me."
+				},
+				{
+					"name": "Yonagi",
+					"text": "And I was surprised to find out you liked dumpster diving."
+				},
+				{
+					"name": "Yonagi",
+					"text": "That's where I got our foul-mouthed scrap hunter!"
+				},
+				{
+					"name": "Kaito",
+					"text": "It was a joke at my expense?!"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Ahahah! That's right."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Almost all of the stories I write come from things I experienced with you."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I also wanted to speak more with Mom too, I guess. Just like Kanna."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "I recall Sumomo's story again."
+				},
+				{
+					"text": "A boy who has lost his mother meets a woman, and they spend a summer together searching for a special place that holds a deep connection to him and his mother."
+				},
+				{
+					"name": "Kaito",
+					"text": "And the same goes for the story about Shakespeare?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Yep, that's right."
+				},
+				{
+					"name": "Yonagi",
+					"text": "But I'm sure I'm the only one who gets the meaning behind it right now."
+				},
+				{
+					"name": "Yonagi",
+					"text": "The excitement I feel, and the frustration. I keep writing to put all those feelings to paper."
+				},
+				{
+					"name": "Yonagi",
+					"text": "For my future self."
+				},
+				{
+					"name": "Kaito",
+					"text": "What do you mean?"
+				},
+				{
+					"text": "She looks up at me and smiles."
+				},
+				{
+					"name": "Yonagi",
+					"text": "What I said! I'm writing so I can remember how I felt when I was young even when I become a wrinkly old lady."
+				},
+				{
+					"name": "Kaito",
+					"text": "Ah, I see."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Memories usually fade over time, but if I can make stories that let me reconnect with the feelings I had back then, they won't ever really fade."
+				},
+				{
+					"name": "Kaito",
+					"text": "Mhm, makes sense."
+				},
+				{
+					"name": "Yonagi",
+					"text": "That's why it's enough for me if only you and Izumo read them."
+				},
+				{
+					"name": "Yonagi",
+					"text": "You're the only people who I want to know me better."
+				},
+				{
+					"name": "Kaito",
+					"text": "I promise to keep reading them together with you even when I become a wrinkly old man."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Yeah."
+				},
+				{
+					"name": "Kaito",
+					"text": "I'm sure we'll be living in the middle side by then."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Middle side?"
+				},
+				{
+					"text": "I nod."
+				},
+				{
+					"name": "Kaito",
+					"text": "If this emulator works as I intend, it'll become a huge success for Asuma's lab."
+				},
+				{
+					"name": "Kaito",
+					"text": "Then he'll be able to put in a request for me to be a full-time researcher. I'll be a real researcher."
+				},
+				{
+					"name": "Kaito",
+					"text": "Which means we'd move to the middle side."
+				},
+				{
+					"text": "She listens attentively, her eyes wide open."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I see..."
+				},
+				{
+					"text": "Her voice lowers to a murmur as she slowly lets her gaze wander about the room."
+				},
+				{
+					"name": "Yonagi",
+					"text": "But you know..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I like our house a lot."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I'll keep helping so your research goes well, of course!"
+				},
+				{
+					"name": "Kaito",
+					"text": "Thanks."
+				},
+				{
+					"text": "I know where she's coming from."
+				},
+				{
+					"text": "This house is full of memories with Mom."
+				},
+				{
+					"text": "But..."
+				},
+				{
+					"text": "We can't live off memories forever."
+				},
+				{
+					"text": "Cherishing our memories together isn't the same as clinging on to the past."
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "I shake my head to chase the thoughts away."
+				},
+				{
+					"text": "There's no point in worrying about it before I've even produced any results."
+				},
+				{
+					"text": "Iruma's a researcher already."
+				},
+				{
+					"text": "I turn my terminal on and start going through the data we got with Izumo today."
+				},
+				{
+					"text": "The next day, Professor Asuma and I pour ourselves plenty of coffee and discuss theories all day. It's become kind of a routine for us."
+				},
+				{
+					"text": "I use the time to give him a brief progress report on my work."
+				},
+				{
+					"text": "I tell him about some of my findings."
+				},
+				{
+					"text": "Like how the different parts of the brain are stimulated depending on the nature of the virtual space."
+				},
+				{
+					"text": "He listens to me intently, sometimes interjecting with questions of his own."
+				},
+				{
+					"text": "Before long, we've finished the first cup of coffee."
+				},
+				{
+					"name": "Asuma",
+					"text": "May I ask something?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Please."
+				},
+				{
+					"name": "Asuma",
+					"text": "You were studying the human brain before coming here, is that right?"
+				},
+				{
+					"name": "Asuma",
+					"text": "Any reason in particular for it? It struck me as a little too specific to be a general subject of research."
+				},
+				{
+					"text": "That question takes me back to the first time Yonagi ever took me to the library, and I ended up reading medical books."
+				},
+				{
+					"name": "Kaito",
+					"text": "I suppose it had something to do with my mother's illness."
+				},
+				{
+					"name": "Asuma",
+					"text": "Illness? Don't you live with your parents?"
+				},
+				{
+					"name": "Kaito",
+					"text": "No. Both of them passed away."
+				},
+				{
+					"text": "He raises his eyebrows slightly."
+				},
+				{
+					"name": "Kaito",
+					"text": "If we had been midsiders, maybe they could have gotten cellular improvements to help their conditions."
+				},
+				{
+					"name": "Kaito",
+					"text": "But we didn't have that option, so I started studying the human body to find a solution."
+				},
+				{
+					"name": "Asuma",
+					"text": "How old was your mother?"
+				},
+				{
+					"name": "Kaito",
+					"text": "She passed away when she was thirty."
+				},
+				{
+					"name": "Asuma",
+					"text": "So young..."
+				},
+				{
+					"text": "I look up at him."
+				},
+				{
+					"name": "Kaito",
+					"text": "Um, I don't know if it's okay to ask, but..."
+				},
+				{
+					"name": "Asuma",
+					"text": "How old am I? I'll be seventy-two this year."
+				},
+				{
+					"name": "Kaito",
+					"text": "Midsiders really do stay young, huh?"
+				},
+				{
+					"name": "Asuma",
+					"text": "I take artificial genes, amino acids, and nanomachine pills daily."
+				},
+				{
+					"name": "Asuma",
+					"text": "We can use the genetic information gathered by our chips to send artificial genes to specific cells and switch them. Nowadays, people believe aging to be a sign of laziness for the most part."
+				},
+				{
+					"name": "Kaito",
+					"text": "All midsiders do that?"
+				},
+				{
+					"text": "He nods in response."
+				},
+				{
+					"name": "Asuma",
+					"text": "Before the normalization of artificial genes, the average life expectancy of humans was about eighty years. Half of what it is now."
+				},
+				{
+					"name": "Kaito",
+					"text": "Eighty? So it was shorter than the life expectancy of lowsiders today?"
+				},
+				{
+					"name": "Asuma",
+					"text": "We had more resources to draw from when we were on the surface. The scale of research and manufacturing should have been leagues above whatever we can muster up."
+				},
+				{
+					"name": "Asuma",
+					"text": "In fact, the invention of artificial genes created a market. At first, only the wealthy had the money to spare on prolonging their lives, but it eventually became available in less developed countries."
+				},
+				{
+					"name": "Kaito",
+					"text": "So even people like today's lowsiders had access to it?"
+				},
+				{
+					"name": "Asuma",
+					"text": "Most of those cheaper solutions did not contain nanomachines.Without them, there was no feedback from the body, and the gene rewriting came out incomplete more often than not."
+				},
+				{
+					"name": "Asuma",
+					"text": "But it still led to prolonging life to some extent, so the artificial genes ended up spreading like wildfire all over the globe. Like a bad drug, you could say."
+				},
+				{
+					"name": "Asuma",
+					"text": "Even if the people in the low side aren't taking artificial genes now, there is evidence that their genes have been rewritten."
+				},
+				{
+					"name": "Kaito",
+					"text": "So our lifespan is longer in general as a result?"
+				},
+				{
+					"text": "He nods again."
+				},
+				{
+					"name": "Asuma",
+					"text": "The inherited genes from past generations have been mutated, and people pass them down. It's evolution, really. We humans are the first species on the planet to evolve ourselves through our own inventions."
+				},
+				{
+					"name": "Kaito",
+					"text": "It sounds like we're paying for our folly sometimes."
+				},
+				{
+					"name": "Asuma",
+					"text": "And you wouldn't be far from the truth."
+				},
+				{
+					"text": "After that, he gets up from his chair with his mug in hand."
+				},
+				{
+					"name": "Asuma",
+					"text": "Let's take a break. I'll prepare the next batch of coffee, if that's okay."
+				},
+				{
+					"text": "The professor moseys over to the sink, two mugs in hand."
+				},
+				{
+					"name": "Kaito",
+					"text": "Thanks."
+				},
+				{
+					"name": "Kaito",
+					"text": "Hello!"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Welcome home, handsome!"
+				},
+				{
+					"text": "Yonagi rushes over to me as I open the door, her smile more radiant than usual."
+				},
+				{
+					"name": "Kaito",
+					"text": "Did something good happen?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "You gotta hear this! I got Izumo to memorize a bunch of characters!"
+				},
+				{
+					"name": "Kaito",
+					"text": "Oh?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "It's the best! Izumo's the best actress ever! You wanna see it? Of course you do! Right?!"
+				},
+				{
+					"name": "Kaito",
+					"text": "S-Sure."
+				},
+				{
+					"name": "Izumo",
+					"text": "Should I put dinner preparations on hold?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Yeah, forget about food! We're going to Tenbridge today!"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Ta-dah!"
+				},
+				{
+					"name": "Kaito",
+					"text": "And this place is?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "William Shakespeare's family business!"
+				},
+				{
+					"name": "Kaito",
+					"text": "Oh..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "And this is—drumroll, please—the owner of this fine establishment! John Shakespeare!"
+				},
+				{
+					"name": "Father (Izumo)",
+					"text": "Ah, that'd be me. Good day to you, lad."
+				},
+				{
+					"name": "Kaito",
+					"text": "Huh? Is that Izumo?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Exacto!"
+				},
+				{
+					"name": "Father (Izumo)",
+					"text": "I could go for some porridge, yes."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Ahahah!"
+				},
+				{
+					"name": "Father (Izumo)",
+					"text": "Where's the ale?!"
+				},
+				{
+					"name": "Kaito",
+					"text": "Is he supposed to be this... mercurial?"
+				},
+				{
+					"name": "Father (Izumo)",
+					"text": "A drop of ale for my kingdom."
+				},
+				{
+					"name": "Kaito",
+					"text": "Not a very upstanding man, I suppose."
+				},
+				{
+					"name": "Yonagi",
+					"text": "And there's even more!"
+				},
+				{
+					"text": "Yonagi excitedly turns to the old man."
+				},
+				{
+					"text": "Well, it's still Izumo... allegedly."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Do Spencer now, would you kindly?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Wh-Who?!"
+				},
+				{
+					"name": "Spencer (Izumo)",
+					"text": "The nombre is Spencer, and don't you forget it."
+				},
+				{
+					"name": "Yonagi",
+					"text": "You're getting him confused with Azuki!"
+				},
+				{
+					"name": "Spencer (Izumo)",
+					"text": "Hola, my chico."
+				},
+				{
+					"name": "Kaito",
+					"text": "Again, who?!"
+				},
+				{
+					"name": "Yonagi",
+					"text": "The bad guy who made Olivia his servant!"
+				},
+				{
+					"name": "Spencer (Izumo)",
+					"text": "I could go for some porridge, yes sir."
+				},
+				{
+					"name": "Kaito",
+					"text": "They share lines?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Aw, you joker! Nobles don't eat porridge."
+				},
+				{
+					"name": "Spencer (Izumo)",
+					"text": "I live by my own reglas. I am not bound by such petty notions of sentido comun."
+				},
+				{
+					"name": "Spencer (Izumo)",
+					"text": "The only momento to bind and to be bound is on top of a bed, I reckon."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Izumo?!"
+				},
+				{
+					"name": "Kaito",
+					"text": "You came up with this?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Uh, no?!"
+				},
+				{
+					"name": "Spencer (Izumo)",
+					"text": "Many miembros of the aristocracy reveled in debauchery and excess. Especially so when it came to matters of sensualidad."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Really?!"
+				},
+				{
+					"name": "Kaito",
+					"text": "I suppose that's true in every era."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Why is he speaking in Spanish, though?"
+				},
+				{
+					"name": "Spencer (Izumo)",
+					"text": "Why, it is such a robusto and challenging language, and I do love myself stiff and towering challenges. Ah, how I love to grind myself against such endeavors, much how I love grinding up on a good chico's little amigo, yes."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Izumo?!"
+				},
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"text": "Is that Izumo speaking right now? Does she like... grinding things up?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Who's that?!"
+				},
+				{
+					"name": "Kiki (Izumo)",
+					"text": "I'm Kiki, remember? I'm a member of Olivia's troupe."
+				},
+				{
+					"name": "Yonagi",
+					"text": "What? You made her, Izumo?!"
+				},
+				{
+					"name": "Kaito",
+					"text": "She's pretty cute."
+				},
+				{
+					"name": "Kiki (Izumo)",
+					"text": "Eheheh!"
+				},
+				{
+					"name": "Yonagi",
+					"text": "No, wait! That won't work! There can't be any actress other than Olivia in this world!"
+				},
+				{
+					"name": "Kiki (Izumo)",
+					"text": "Oh, but I'm a boy? I have a dingle dangle and all."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Are you jesting?!"
+				},
+				{
+					"name": "Kiki (Izumo)",
+					"text": "Nah! Wanna cop a feel?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "N-No, thank you!"
+				},
+				{
+					"name": "Father (Izumo)",
+					"text": "Why, I think I'll take you up on that offer, then."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Izumo! S-Stop improvising!"
+				},
+				{
+					"name": "Father (Izumo)",
+					"text": "Ah, you're right."
+				},
+				{
+					"name": "Yonagi",
+					"text": "IZUMOOOOOO!"
+				},
+				{
+					"name": "Kaito",
+					"text": "And all hell broke loose."
+				},
+				{
+					"name": "Spencer (Izumo)",
+					"text": "Ah, how I would simplemente love to peck at it. Like a small, delicate bird."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Where is this going?!"
+				},
+				{
+					"name": "Yonagi",
+					"text": "I-Izumo! Don't you think we might be going a little overboard with the dingle jokes?"
+				},
+				{
+					"name": "Izumo",
+					"text": "Data of the time period suggests that a moderate amount of off-color humor was indispensable in works designed for the entertainment of the masses."
+				},
+				{
+					"name": "Yonagi",
+					"text": "That was moderate to you?! Are you sure?!"
+				},
+				{
+					"name": "Kaito",
+					"text": "Huh? But these are characters you made, right?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Izumo came up with all that on her own, okay?! I didn't write any of it!"
+				},
+				{
+					"name": "Kaito",
+					"text": "Hell's truly loose today."
+				},
+				{
+					"name": "Yonagi",
+					"text": "What is that supposed to mean?! You're gonna tick me off!"
+				},
+				{
+					"name": "Izumo",
+					"text": "I will now prepare the porridge."
+				},
+				{
+					"name": "Yonagi",
+					"text": "You want us to eat porridge after THAT?!"
+				},
+				{
+					"name": "Kaito",
+					"text": "Izumo, before you do that, please send the data from just now."
+				},
+				{
+					"name": "Izumo",
+					"text": "Displaying now."
+				},
+				{
+					"name": "Kaito",
+					"text": "Oh, Yonagi's heart rate skyrocketed back there. This is good data to have."
+				},
+				{
+					"name": "Kaito",
+					"text": "Well done, Izumo. Feel free to deviate from the script if you must."
+				},
+				{
+					"name": "Izumo",
+					"text": "As was my intention."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Does anyone listen to anything I say in this stupid house?! I must scream!"
+				}
+			]
+		},
+		{}
+	]
+}

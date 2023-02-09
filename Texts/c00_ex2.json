@@ -1,0 +1,996 @@
+{
+	"scenes": [
+		{
+			"texts": [
+				{
+					"name": "Kaito",
+					"text": "..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Oh? You're up early. What are you looking at?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Just some data about the virtual space from Asuma lab."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Oh, you can do that here?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Izumo's real body is over there, so we can receive and send data through her."
+				},
+				{
+					"name": "Kaito",
+					"text": "In principle I could just close my eyes and access it, but this feels more natural."
+				},
+				{
+					"text": "I tap some buttons on the calculator on the desk and show it to her."
+				},
+				{
+					"text": "It's just a crude terminal consisting of a display hooked to a keyboard."
+				},
+				{
+					"text": "Pretty much the same as my old terminal in the low side."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Yeah, it is easier when you have something tangible to work with."
+				},
+				{
+					"name": "Kaito",
+					"text": "Most participants of the virtual world seem to have their own favorite input methods."
+				},
+				{
+					"name": "Yonagi",
+					"text": "You know all that?!"
+				},
+				{
+					"name": "Kaito",
+					"text": "Well, I know pretty much everything about this space. Though there are privacy concerns, so there are some limitations to what I can access."
+				},
+				{
+					"name": "Kaito",
+					"text": "I can gauge a lot about this world from studying the brain waves and biometric data of everyone in the space, but... there's something odd."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Odd in a bad way?"
+				},
+				{
+					"text": "She asks, her eyes inquisitive."
+				},
+				{
+					"name": "Kaito",
+					"text": "People's chronic stress levels are gradually building up. Put simply, it could be that the participants are growing tired of this world."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Tired?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Perhaps bored would be a better term. There are no obligations here, and no need to worry about food or shelter."
+				},
+				{
+					"name": "Kaito",
+					"text": "Everything was fine right after the move, but maybe they want some kind of change."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Change, huh? I guess I do remember stuff from the outside world. I feel like I wanna work again sometimes."
+				},
+				{
+					"text": "I nod at her."
+				},
+				{
+					"name": "Kaito",
+					"text": "Asuma Lab has started developing a social system to create moderate labor and rewards for it."
+				},
+				{
+					"name": "Kaito",
+					"text": "For example, we'd need a program that artificially dirties the cities in order to have people clean them."
+				},
+				{
+					"name": "Kaito",
+					"text": "And they'll need to develop object data for buildings if they want to make up a construction industry. It won't be easy, and it'll take time."
+				},
+				{
+					"name": "Kaito",
+					"text": "And people will need a way to kill time in the meantime for sure."
+				},
+				{
+					"text": "Yonagi smiles fondly at me."
+				},
+				{
+					"name": "Yonagi",
+					"text": "So it's your job to look for a way to keep the people in this world happy, then."
+				},
+				{
+					"name": "Kaito",
+					"text": "Maybe. I do admit I enjoy myself."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I'm super impressed. I enjoy myself enough just hearing what you're up to every day."
+				},
+				{
+					"name": "Kaito",
+					"text": "I see."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Mm?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Oh, it's just what you said. Being around someone who can share their news with you, or being made aware of new developments in the world could be a good way to kill time. If we could make it work easily, I mean."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Oh?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Thanks, that gives me a good lead. I'll try making something out of it."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Glad to be of help, sweetie!"
+				},
+				{
+					"name": "Kaito",
+					"text": "Yonagi."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Yes?"
+				},
+				{
+					"name": "Kaito",
+					"text": "I used the idea you gave me and put together an application."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Wha?! So fast?!"
+				},
+				{
+					"name": "Kaito",
+					"text": "I'll send it to your terminal, so give it a look."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Um..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "You mean this?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Yeah, I call it Insta. You can share photos and comments to people that follow you there."
+				},
+				{
+					"name": "Yonagi",
+					"text": "You could have asked me to for help to draw the icon for it."
+				},
+				{
+					"name": "Kaito",
+					"text": "It's just a prototype anyway. Besides, it doesn't look that bad, does it?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "No comment..."
+				},
+				{
+					"name": "Kaito",
+					"text": "Try it out."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Sure."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Hmm... Well, it is kind of what I expected."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Oh, this is actually well put together."
+				},
+				{
+					"name": "Kaito",
+					"text": "Once you boot it up, it automatically creates an account for you. If there are other users nearby, they'll be displayed there so you can follow each other."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Ah, I have a follower already."
+				},
+				{
+					"name": "Kaito",
+					"text": "That's my profile picture."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Oh! This does seem like fun!"
+				},
+				{
+					"name": "Kaito",
+					"text": "Let's try uploading a photo to test it."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Yeah! Take it!"
+				},
+				{
+					"text": "I open up the camera on her small terminal and take a picture of her."
+				},
+				{
+					"name": "Kaito",
+					"text": "It'll be better if you write a comment to go with it."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Yeah! I'm Yonagi, nice to meet y'all... and send!"
+				},
+				{
+					"name": "Kaito",
+					"text": "Mm, it's working normally. I made sure all the base features work properly, so I suppose it's good for release."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I'll take a picture of you too! Lend me your terminal!"
+				},
+				{
+					"name": "Kaito",
+					"text": "Huh? Err, I'm fine."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Aw, come on! We're doing this together! Look over here!"
+				},
+				{
+					"text": "Yonagi takes my terminal and snaps a quick picture."
+				},
+				{
+					"name": "Yonagi",
+					"text": "You write something too. Introduce yourself!"
+				},
+				{
+					"name": "Kaito",
+					"text": "Uhh..."
+				},
+				{
+					"text": "\"I'm the developer of this application. If you have any feedback or requests, feel free to contact me.\""
+				},
+				{
+					"name": "Kaito",
+					"text": "This should do?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Yeah, great! Oh, I can see your picture from my terminal now! What's this heart mark thingie?"
+				},
+				{
+					"name": "Kaito",
+					"text": "That's the like button. You can use it to communicate to the poster that you liked their post."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Gotcha! What about the one next to it?"
+				},
+				{
+					"name": "Kaito",
+					"text": "That's a share button. It reposts someone else's post to your own followers."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I see! So I like your post and share it!"
+				},
+				{
+					"name": "Kaito",
+					"text": "Hahah, we're the only users, so you're not sharing it with anyone."
+				},
+				{
+					"name": "Yonagi",
+					"text": "But this seems like so much fun! I bet it's gonna be super popular!"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Kaito! Kaito! Look at this! It's super cool!"
+				},
+				{
+					"text": "I'm woken up by Yonagi's insistent calling."
+				},
+				{
+					"name": "Kaito",
+					"text": "Ngh... What's up?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Remember your insta application thingie? It's all the rage now! Look!"
+				},
+				{
+					"name": "Kaito",
+					"text": "Uh..."
+				},
+				{
+					"name": "Kaito",
+					"text": "200... million followers?!"
+				},
+				{
+					"name": "Yonagi",
+					"text": "It's amazing, isn't it?! Everyone's using the app!"
+				},
+				{
+					"text": "I feel a smile forming on my face."
+				},
+				{
+					"text": "This is more than I expected."
+				},
+				{
+					"name": "Kaito",
+					"text": "Huh? You're following three people now? One is me, and who are the other two?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Ah, right. That's Izumo and Iruma. Izumo made an account for herself! Right?!"
+				},
+				{
+					"name": "Izumo",
+					"text": "Yes, though I only have 120 million followers."
+				},
+				{
+					"name": "Kaito",
+					"text": "Hahah, all of this overnight?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "I bet you got a lot more followers, Kaito! I mean, you're the developer! Let's take a look!"
+				},
+				{
+					"name": "Kaito",
+					"text": "Yeah, sure."
+				},
+				{
+					"text": "I reach for the terminal by my bedside and click on the app to check my profile."
+				},
+				{
+					"name": "Kaito",
+					"text": "Oh?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "What?"
+				},
+				{
+					"text": "The number of followers displays the three."
+				},
+				{
+					"text": "I also have three notifications."
+				},
+				{
+					"text": "I rub at my eyes in disbelief."
+				},
+				{
+					"text": "Then I take another look."
+				},
+				{
+					"text": "Three followers, no more and no less."
+				},
+				{
+					"name": "Kaito",
+					"text": "Err, the servers might be overloaded. Must be lag or something."
+				},
+				{
+					"text": "I swipe my hand down, forcing the page to update."
+				},
+				{
+					"text": "But the number stays the same."
+				},
+				{
+					"name": "Yonagi",
+					"text": "H-Huh? That's weird..."
+				},
+				{
+					"name": "Kaito",
+					"text": "I can't believe the number is that low. It's gotta be a bug or something."
+				},
+				{
+					"name": "Yonagi",
+					"text": "R-Right?!"
+				},
+				{
+					"text": "Just in case, I check my notification inbox."
+				},
+				{
+					"text": "There are only two new follower notifications."
+				},
+				{
+					"text": "And one share notification."
+				},
+				{
+					"name": "Kaito",
+					"text": "Iruma and Izumo are my only other followers. And Iruma shared my first post."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Oh, Iruma, thank you so much."
+				},
+				{
+					"name": "Kaito",
+					"text": "Izumo, why didn't you share my post?"
+				},
+				{
+					"name": "Izumo",
+					"text": "Uh..."
+				},
+				{
+					"name": "Kaito",
+					"text": "Share it. You have have a lot of followers, so it'll help. Don't you think so, Yonagi?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Y-Yeah..."
+				},
+				{
+					"text": "I then scroll through my timeline."
+				},
+				{
+					"text": "There's 180 million likes for Yonagi's good morning post."
+				},
+				{
+					"name": "Kaito",
+					"text": "I'll try posting again."
+				},
+				{
+					"text": "Perhaps my first post is just bugged."
+				},
+				{
+					"text": "I'm the creator of the app, for pete's sake. And creator of this whole space we live in!"
+				},
+				{
+					"text": "No way everyone would just ignore me."
+				},
+				{
+					"name": "Kaito",
+					"text": "Good morning, world... Post..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "..."
+				},
+				{
+					"name": "Kaito",
+					"text": "No likes yet... No, no need to panic... Refresh..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "I-Izumo, why don't you like his post? I'll do it too..."
+				},
+				{
+					"name": "Izumo",
+					"text": "Understood."
+				},
+				{
+					"name": "Kaito",
+					"text": "Refresh... Refresh... Refresh... Refresh... Ah! Three notifications!"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Oooh!"
+				},
+				{
+					"name": "Kaito",
+					"text": "Izumo, Yonagi, Iruma.... It's just you three!"
+				},
+				{
+					"text": "I raise my face from the terminal and turn my teary eyes towards them."
+				},
+				{
+					"name": "Kaito",
+					"text": "I don't need my family's pity likes!"
+				},
+				{
+					"name": "Yonagi",
+					"text": "K-Kaito!"
+				},
+				{
+					"name": "Yonagi",
+					"text": "He's gone..."
+				},
+				{
+					"name": "Izumo",
+					"text": "Leave him. He'll get hungry by nightfall and come back."
+				},
+				{
+					"name": "Yonagi",
+					"text": "What is he, a cat?"
+				},
+				{
+					"text": "I break into a run out of the cabin."
+				},
+				{
+					"name": "Kaito",
+					"text": "*Huff* *Huff* *Huff*"
+				},
+				{
+					"text": "I run all the way to the white beach, wallowing in endless misery."
+				},
+				{
+					"text": "Until I trip on the sand and fall flat on my face."
+				},
+				{
+					"name": "Kaito",
+					"text": "Damn it... Damn it all..."
+				},
+				{
+					"text": "Why? How could this happen?"
+				},
+				{
+					"text": "I made the application to help keep everyone happy."
+				},
+				{
+					"text": "I'm still happy that people like it, of course."
+				},
+				{
+					"text": "But..."
+				},
+				{
+					"text": "I felt a little bit of expectation in my heart."
+				},
+				{
+					"text": "This whole migration project is called the Kaito Project."
+				},
+				{
+					"text": "Regardless of how that name came to be, I am that very same Kaito."
+				},
+				{
+					"text": "I hoped people would recognize me for the world-changing invention."
+				},
+				{
+					"text": "For always caring about everyone."
+				},
+				{
+					"text": "I thought that people would praise me..."
+				},
+				{
+					"text": "In a little corner of my heart, I expected those things."
+				},
+				{
+					"text": "Hahah, never thought I'd have more followers than Yonagi."
+				},
+				{
+					"text": "\"Don't worry about numbers, it doesn't mean a thing.\""
+				},
+				{
+					"text": "I hoped I would be the one consoling Yonagi with those words today."
+				},
+				{
+					"text": "But where she has millions, I only have three."
+				},
+				{
+					"text": "Three followers!"
+				},
+				{
+					"text": "Isn't that just zero when rounded down?"
+				},
+				{
+					"text": "Isn't it the same as being followed by no one?"
+				},
+				{
+					"text": "Even Izumo has over 100 million followers."
+				},
+				{
+					"text": "Did everyone forget about the name of this project?"
+				},
+				{
+					"text": "It's the Kaito project, dammit!"
+				},
+				{
+					"text": "I'm Kaito, people!"
+				},
+				{
+					"name": "Kaito",
+					"text": "I'll make them remember... Today I'll remind them!"
+				},
+				{
+					"text": "I shove one impotent fist into the sand."
+				},
+				{
+					"text": "Again and again, until my knuckles sting."
+				},
+				{
+					"text": "I grab a handful of sand and squeeze as it escapes between my fingers."
+				},
+				{
+					"name": "Kaito",
+					"text": "I'll be popular too..."
+				},
+				{
+					"text": "\"Pic of me. My wife says I'm a bit of a slob, but what do you think? One like to show my wife wrong. FYI, my wife's the goddess of the world! \""
+				},
+				{
+					"name": "Kaito",
+					"text": "D-Damn it... Only three likes... Yonagi, Izumo, and Iruma... My family again?! Dammit!"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Kaito..."
+				},
+				{
+					"text": "\"Hello, it's me! Creator of this app an inventor of the virtual space here. You might think I'm a just a software wiz, but I know my hardware too."
+				},
+				{
+					"text": "This is a floating terminal I designed, planned, and manufactured all on my own."
+				},
+				{
+					"text": "I'll post more in detail about it if I get a few likes on this post.\""
+				},
+				{
+					"name": "Yonagi",
+					"text": "It looks a little too desperate, sweetie... Your posts are getting too long."
+				},
+				{
+					"name": "Kaito",
+					"text": "Ah, crap! The character limit! I need to update the app so I can post longer stuff. I gotta let people know more about me."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Kaito, you've been worrying me as of late. Are you sleeping well?"
+				},
+				{
+					"name": "Kaito",
+					"text": "\\fl How can I sleep with only three followers?!"
+				},
+				{
+					"name": "Yonagi",
+					"text": "Kaito..."
+				},
+				{
+					"text": "\"This is one of the spaces I designed. I've dreamed of seeing this in reality ever since I was a kid.\""
+				},
+				{
+					"text": "\"I believe one of the best things about the virtual space is the sense of wonder it inspires.\""
+				},
+				{
+					"text": "\"\\#KaitoThoughts\""
+				},
+				{
+					"text": "\"\\#LookingForPals\""
+				},
+				{
+					"text": "\"\\#KaitoTopTenSpots\""
+				},
+				{
+					"name": "Yonagi",
+					"text": "That's a lot of thingies at the end."
+				},
+				{
+					"name": "Kaito",
+					"text": "Yeah, they're called hashtags. They make it easier to find people who post about the same topics as you. I think that finding common interests is important to help connect people."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Then maybe you shouldn't put your name in the hashtag..."
+				},
+				{
+					"name": "Izumo",
+					"text": "Your posts always start with you talking about yourself, I've noticed."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Izumo! Let him be! Just let him do his thing, please..."
+				},
+				{
+					"name": "Kaito",
+					"text": "If this doesn't work, I'll have to use my last resort."
+				},
+				{
+					"text": "\"When I was young, there was a moment in time where I tried to recover Yonagi's memories."
+				},
+				{
+					"text": "Back then I was truly desperate and lost."
+				},
+				{
+					"text": "But my sense of duty saw me through, and there's not a day goes by without me being thankful for having her back.\""
+				},
+				{
+					"name": "Kaito",
+					"text": "Okay I have... t-two likes?! I'm not even getting the three likes from you guys?!"
+				},
+				{
+					"name": "Yonagi",
+					"text": "I-I'm sorry? It was too embarrassing to press like."
+				},
+				{
+					"name": "Kaito",
+					"text": "What?!"
+				},
+				{
+					"name": "Yonagi",
+					"text": "F-Forgive me..."
+				},
+				{
+					"name": "Kaito",
+					"text": "H-Hahah, it's okay. You don't have to like every single thing I post..."
+				},
+				{
+					"text": "I see Yonagi and Izumo's posts scroll by on my timeline."
+				},
+				{
+					"text": "\"Morning, everyone!\""
+				},
+				{
+					"text": "There's 100 million likes on Yonagi's post."
+				},
+				{
+					"text": "What is the nature of a like?"
+				},
+				{
+					"text": "What does it mean to follow? To be a follower?"
+				},
+				{
+					"text": "The answer still eludes me."
+				},
+				{
+					"name": "Kaito",
+					"text": "No, I'm not done yet... I still have fight in me... I need to add more features!"
+				},
+				{
+					"name": "Kaito",
+					"text": "Someone in the world must have posted about me. I just haven't seen it yet..."
+				},
+				{
+					"name": "Kaito",
+					"text": "Just one post, even a passing mention... Someone must have shown some interest in me..."
+				},
+				{
+					"name": "Kaito",
+					"text": "I never thought I'd need to add this feature, but I clearly have no choice."
+				},
+				{
+					"name": "Kaito",
+					"text": "A search function! It's complete!"
+				},
+				{
+					"name": "Kaito",
+					"text": "Okay, now I only need to look for the keywords."
+				},
+				{
+					"name": "Kaito",
+					"text": "And those are..."
+				},
+				{
+					"text": "\"Kaito hot\""
+				},
+				{
+					"name": "Kaito",
+					"text": "Okay, this should work. If I see a hate post, I'll cry, but here goes..."
+				},
+				{
+					"name": "Kaito",
+					"text": "No, take a deep breath. You're not this stupid, man. No one has ever posted anything with those two words in it. There aren't gonna be any results, you know that."
+				},
+				{
+					"name": "Kaito",
+					"text": "I know that. But I do need to check that the new feature works."
+				},
+				{
+					"name": "Kaito",
+					"text": "If there's zero, then that's that. No harm in checking."
+				},
+				{
+					"name": "Kaito",
+					"text": "Okay... Search!"
+				},
+				{
+					"name": "Kaito",
+					"text": "I-Iruma..."
+				},
+				{
+					"text": "The first and only result is a post by Iruma."
+				},
+				{
+					"text": "A post from today, in fact."
+				},
+				{
+					"text": "From what I can gather, he posted on one of my old photos immediately after I posted it."
+				},
+				{
+					"name": "Kaito",
+					"text": "W-Why?"
+				},
+				{
+					"text": "Why aren't Iruma's posts showing in my timeline?"
+				},
+				{
+					"text": "This is a huge bug, it must be."
+				},
+				{
+					"text": "I click on his profile and check."
+				},
+				{
+					"name": "Kaito",
+					"text": "Two followers? Lower than me?"
+				},
+				{
+					"name": "Kaito",
+					"text": "He's following me..."
+				},
+				{
+					"text": "And then, it finally dawns on me."
+				},
+				{
+					"name": "Kaito",
+					"text": "It can't be..."
+				},
+				{
+					"text": "..."
+				},
+				{
+					"name": "Kaito",
+					"text": "I never followed Iruma? He followed me on the first day, and I..."
+				},
+				{
+					"text": "The screen goes blurry."
+				},
+				{
+					"text": "Sudden tears fall onto my desk."
+				},
+				{
+					"text": "Clutching the terminal, I let out pitiful sobs."
+				},
+				{
+					"name": "Kaito",
+					"text": "Iruma... Iruma... This is why I love you!"
+				},
+				{
+					"text": "What if I was in his position?"
+				},
+				{
+					"text": "If I had followed Iruma but he never followed me back?"
+				},
+				{
+					"text": "Would I have been able to comment on one of his pictures?"
+				},
+				{
+					"text": "Would I have been able to praise him in such a friendly way despite my attention not being reciprocated?"
+				},
+				{
+					"name": "Kaito",
+					"text": "I... couldn't..."
+				},
+				{
+					"text": "Not a chance in hell."
+				},
+				{
+					"text": "Looking back on my behavior these past few weeks, I realize."
+				},
+				{
+					"text": "I was too preoccupied with gaining followers."
+				},
+				{
+					"text": "Too greedy for likes on my posts."
+				},
+				{
+					"text": "I was too absorbed with posting about myself to realize that I didn't even follow Iruma back."
+				},
+				{
+					"text": "Who am I to speak about people connecting with each other?"
+				},
+				{
+					"text": "I look up at the ceiling, calm washing over me."
+				},
+				{
+					"text": "The tears welling in my eyes run down the sides of my face."
+				},
+				{
+					"name": "Kaito",
+					"text": "...This beautiful world never had any need for this."
+				},
+				{
+					"name": "Kaito",
+					"text": "You can't develop real connections just staring at a screen and scrolling through all day."
+				},
+				{
+					"text": "I make a decision..."
+				},
+				{
+					"text": "I delete the Insta application from the server."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Kaito? I haven't been able to connect to Insta since yesterday."
+				},
+				{
+					"name": "Kaito",
+					"text": "Yeah... I deleted the app."
+				},
+				{
+					"name": "Yonagi",
+					"text": "You what?! Why?! It was fun!"
+				},
+				{
+					"text": "I smile at Yonagi and shake my head."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Eep! Wh-What's with the creepy smile?"
+				},
+				{
+					"name": "Kaito",
+					"text": "I realized that, while I was looking at the app, I wasn't growing as a person. Even though we're here in this beautiful world we made, all I was doing was staring at a screen."
+				},
+				{
+					"name": "Yonagi",
+					"text": "O-Okay? I think it's okay to just relax and not think about that kind of stuff all the time, though."
+				},
+				{
+					"name": "Kaito",
+					"text": "I finally understood. It's okay if it's a little inconvenient to meet up. It doesn't matter if you don't get to see people much, or if you have some time alone."
+				},
+				{
+					"name": "Kaito",
+					"text": "Those are the moments that makes us appreciate others. It's what makes us compassionate."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Uh, are you sure about this?"
+				},
+				{
+					"text": "I pace over to the door and open it."
+				},
+				{
+					"text": "The salty breeze caresses my cheeks."
+				},
+				{
+					"name": "Kaito",
+					"text": "I'm heading out."
+				},
+				{
+					"name": "Kaito",
+					"text": "I'm going to see Iruma."
+				},
+				{
+					"name": "Yonagi",
+					"text": "H-Have a nice day out there."
+				},
+				{
+					"name": "Izumo",
+					"text": "Take care."
+				},
+				{
+					"name": "Kaito",
+					"text": "You two have a good day now."
+				},
+				{
+					"name": "Yonagi",
+					"text": "Yeah..."
+				},
+				{
+					"name": "Yonagi",
+					"text": "There he goes."
+				},
+				{
+					"name": "Izumo",
+					"text": "Out to touch grass."
+				},
+				{
+					"name": "Yonagi",
+					"text": "...Insta wasn't that bad. I think he could have enjoyed it if he didn't take it so seriously."
+				},
+				{
+					"name": "Izumo",
+					"text": "Shall we bring it back? I have all the code to make it work."
+				},
+				{
+					"name": "Yonagi",
+					"text": "No, I think he's had enough of social media. It's okay."
+				}
+			]
+		}
+	]
+}

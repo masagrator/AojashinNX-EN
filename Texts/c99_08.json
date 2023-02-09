@@ -1,0 +1,123 @@
+{
+	"scenes": [
+		{},
+		{
+			"texts": [
+				{
+					"name": "Kaito",
+					"text": "Uh..."
+				},
+				{
+					"text": "As I open my eyes, I'm met with the already familiar white ceiling."
+				},
+				{
+					"name": "Kaito",
+					"text": "Yonagi?"
+				},
+				{
+					"text": "I slowly raise myself up."
+				},
+				{
+					"text": "Yonagi does the same over in her bed."
+				},
+				{
+					"name": "Yonagi",
+					"text": "...Morning."
+				},
+				{
+					"name": "Kaito",
+					"text": "Mhm."
+				},
+				{
+					"name": "Shleep",
+					"text": "*Chirp*"
+				},
+				{
+					"name": "Izumo",
+					"text": "Shall we go eat?"
+				},
+				{
+					"name": "Yonagi",
+					"text": "First..."
+				}
+			]
+		},
+		{
+			"texts": [
+				{
+					"text": "We go to the dining room, and Izumo prepares the usual meal."
+				},
+				{
+					"text": "Yonagi and I sit at our usual spots and pick up our spoons."
+				},
+				{
+					"name": "Yonagi",
+					"text": "..."
+				},
+				{
+					"text": "I silently glance at Yonagi as she eats."
+				},
+				{
+					"text": "I'm not imagining things."
+				},
+				{
+					"text": "Her intelligence, cognitive abilities, and judgment faculties are improving."
+				},
+				{
+					"text": "And it seems that her preferences are somehow linked to the personality of the person that appears in our dreams."
+				},
+				{
+					"text": "Are we seeing Yonagi's memories or something?"
+				},
+				{
+					"text": "After the meal, Yonagi takes a shower and goes back to bed."
+				},
+				{
+					"text": "It doesn't seem like she needs Izumo's constant help anymore."
+				},
+				{
+					"text": "As time goes by, she can do more things by herself."
+				},
+				{
+					"name": "Izumo",
+					"text": "Are you gonna take a shower too?"
+				},
+				{
+					"name": "Kaito",
+					"text": "Yeah, guess I will."
+				},
+				{
+					"name": "Izumo",
+					"text": "I will prepare a change of clothes."
+				},
+				{
+					"name": "Kaito",
+					"text": "Will the next dream be a continuation of the last one?"
+				},
+				{
+					"text": "Izumo nods."
+				},
+				{
+					"name": "Izumo",
+					"text": "Once you reach the conclusion of this dream, you will have to choose another dream."
+				},
+				{
+					"name": "Izumo",
+					"text": "So you will be choosing from the remaining two."
+				},
+				{
+					"name": "Kaito",
+					"text": "All right."
+				},
+				{
+					"name": "Kaito",
+					"text": "I'll take a shower and go back to sleep."
+				},
+				{
+					"text": "Izumo nods solemnly and leaves the room with Wooleep."
+				}
+			]
+		},
+		{}
+	]
+}
