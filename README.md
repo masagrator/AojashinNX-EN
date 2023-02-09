@@ -3,7 +3,7 @@ English Translation Mod for Nintendo Switch version of game<br>`Hakuchuumu no Ao
 
 # Installation
 1. Download package from Releases
-2. Copy folder to `atmosphere/contents/`
+2. Copy folder `01003B0018BC8000` to `atmosphere/contents/`
 3. Play game
 
 It should work with all game versions, mod is based on version 1.0.2<br>
