@@ -31,7 +31,7 @@ Requirements:
 - Apply.py injects break lines based on font file `SourceHanSansJP-Regular.otf` from `font` folder, thus why it takes much more time to finish. If you plan to replace font in game, you need to compile scripts with new font to fix break lines. Apply.py includes limitations aborting process if rendered text will take too much lines, which would otherwise result in text being unreadable.
 - Some name labels were changed to make them shorter
 - One CG was removed from Switch version, it was bringed back in this mod, though you cannot see it in CG mode. 
-- There were some small changes to scenario. The biggest one are in Prologue. Any new line was machine translated. Changes that were not typo fixes can be found [here](https://docs.google.com/spreadsheets/d/1e-P8xpzcSfnCgOXtp0_RX9rhB42Zchpd07Ou0jmHfq4/edit?usp=sharing)
+- There were some small changes to scenario. Most of them are in Prologue. Any new line was machine translated. Changes that were not typo fixes can be found [here](https://docs.google.com/spreadsheets/d/1e-P8xpzcSfnCgOXtp0_RX9rhB42Zchpd07Ou0jmHfq4/edit?usp=sharing)
 - Fixed many typos and wrongly translated lines introduced in original scenario files
 - Game has some bugs that were not introduced with mod, this includes:
 > - CASE-2 chapter 5 has some lines using wrong `meswintype` (fixed)
