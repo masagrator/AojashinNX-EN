@@ -26,6 +26,7 @@ Requirements:
 6. New scn files can be found in `Compiled` folder
 
 # Notes
+- Translation Mod is based on Steam version of game
 - English textures are included with game originally, so mod reuses as much English textures as possible in story, but in CG Mode they are not changed. Some of those textures include typos (and in case of boot screen wrong translation of one sentence). You can find typos related to scenario in `Notes.txt`
 - Apply.py injects break lines based on font file `SourceHanSansJP-Regular.otf` from `font` folder, thus why it takes much more time to finish. If you plan to replace font in game, you need to compile scripts with new font to fix break lines. Apply.py includes limitations aborting process if rendered text will take too much lines, which would otherwise result in text being unreadable.
 - Some name labels were changed to make them shorter
