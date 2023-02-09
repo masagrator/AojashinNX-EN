@@ -2,7 +2,7 @@
 English Translation Mod for Nintendo Switch version of game<br>`Hakuchuumu no Aojashin: The girl who's called the world` (Japanese title)<br>`Cyanotype Daydream -The Girl Who Dreamed the World-` (English title)
 
 # Installation
-1. Download package from Releases
+1. Download `Cyanotype.zip` from Releases, unpack it
 2. Copy folder `01003B0018BC8000` to `atmosphere/contents/`
 3. Play game
 
