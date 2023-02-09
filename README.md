@@ -35,3 +35,7 @@ Requirements:
 - Game has some bugs that were not introduced with mod, this includes:
 > - CASE-2 chapter 5 has some lines using wrong `meswintype` (fixed)
 > - In "Interlude" scene switches related to branching paths have weird cuts (no plans to fix them)
+
+# Thanks to (not directly involved with project)
+- Contributors of [tlg2png](https://github.com/vn-tools/tlg2png)
+- Contributors of [FreeMote](https://github.com/UlyssesWu/FreeMote)
